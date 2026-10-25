@@ -10,6 +10,9 @@ Paket ini berisi **repositori siap-upload**: situs `b2-trainer` (Astro 5 + Preac
 | Batas GitHub per berkas | 100 MB — aman tanpa Git LFS |
 | Isi terberat | 26 MP3 di `public/audio/` (audio latihan Hören) |
 
+**Status lahir:** repositori sudah ter-upload ke GitHub dan situsnya sudah tayang di
+<https://b2-trainer.pages.dev> (Cloudflare Pages · project `b2-trainer` · production branch `main`).
+
 ---
 
 ## 1. Isi paket
@@ -84,6 +87,8 @@ Cara ini berfungsi tetapi lambat untuk 142 berkas. Opsi A atau B lebih disaranka
 - Deploy ke Cloudflare Pages bersifat opsional dan **mati secara bawaan**. Untuk menyalakannya → **Settings → Secrets and variables → Actions** lalu:
   1. tab **Variables** → tambah `CLOUDFLARE_DEPLOY` = `true`
   2. tab **Secrets** → tambah `CLOUDFLARE_API_TOKEN` dan `CLOUDFLARE_ACCOUNT_ID`
+
+  Token dibuat di Cloudflare → **My Profile → API Tokens → Create Token** dengan izin *Cloudflare Pages: Edit*. Account ID terlihat di dashboard Cloudflare atau dari `wrangler whoami`.
 
   Selama variabel itu belum ada job deploy hanya **dilewati** (skip) sehingga CI tetap hijau. Nilai rahasia tidak pernah ditulis di dalam berkas workflow.
 - Alamat situs dipakai di `astro.config.mjs` (`site`). Bila domain berubah → set variabel `SITE_URL` atau ubah nilai bawaannya.
