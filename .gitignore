@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.astro/
+.playwright/
+test-results/
+playwright-report/
+coverage/
+.env
+.DS_Store
+public/audio/raw/
+.shots/
+.backup-ui/
+*.log
+tsprobe.ts
+
+

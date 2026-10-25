@@ -1,0 +1,1447 @@
+{
+  "schemaVersion": 1,
+  "id": "lesen-unit-04",
+  "skill": "lesen",
+  "unit": 4,
+  "level": "B2",
+  "themenfeld": "Gesellschaft & Soziales",
+  "titel": "Ehrenamt und Gesellschaft",
+  "titel_id": "Kerja sukarela dan masyarakat",
+  "beschreibung_id": "Latihan membaca B2 tentang kerja sukarela (Ehrenamt) dan perannya bagi masyarakat.",
+  "teile": [
+    {
+      "id": "lesen-unit-04-teil1",
+      "skill": "lesen",
+      "teil": 1,
+      "themenfeld": "Gesellschaft & Soziales",
+      "titel": "Ehrenamt in vier Bereichen",
+      "instruktion_de": "Lesen Sie die vier Texte a–d und die Aussagen 1–9. Welche Aussage passt zu welcher Person? Ordnen Sie zu.",
+      "instruktion_id": "Bacalah empat teks a–d dan pernyataan 1–9. Pernyataan mana yang cocok dengan orang yang mana? Pasangkan.",
+      "zeit_minuten": 18,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Ehrenamt",
+        "Feuerwehr",
+        "Tafel",
+        "Sportverein",
+        "Nachbarschaft"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "a",
+          "titel": "Lena, 27 – Freiwillige Feuerwehr",
+          "inhalt": "Seit meinem sechzehnten Lebensjahr bin ich Mitglied der Freiwilligen Feuerwehr in meinem Heimatort. Anfangs war ich in der Jugendfeuerwehr, heute fahre ich selbst zu Einsätzen. Neben Bränden rücken wir vor allem zu technischen Hilfeleistungen aus, etwa nach Verkehrsunfällen oder bei Unwetterschäden. Was mich bis heute hält, ist die Kameradschaft: Man kennt sich und verlässt sich aufeinander. Die Ausbildung kostet viel Zeit, und für größere Übungen nehme ich regelmäßig Urlaub, weil die Termine meist an Wochenenden liegen. Die Grundausbildung dauert mehrere Monate und findet abends nach der Arbeit statt. Meine Familie hat Verständnis, allerdings musste auch sie sich an die unregelmäßigen Alarme gewöhnen. Auch wenn nicht jeder Einsatz spektakulär ist, weiß ich, dass sich die Menschen im Ort auf uns verlassen. Ich würde diesen Dienst jederzeit wieder wählen, denn hier spüre ich, dass mein Einsatz unmittelbar gebraucht wird."
+        },
+        {
+          "key": "b",
+          "titel": "Marek, 52 – Tafel",
+          "inhalt": "Vor acht Jahren habe ich begonnen, bei einer Tafel mitzuhelfen. Dreimal pro Woche sortieren wir Lebensmittel, die Supermärkte nicht mehr verkaufen dürfen, und geben sie an Menschen mit wenig Geld weiter. Anfangs dachte ich, es gehe nur darum, schnell zu helfen. Inzwischen sehe ich, dass diese Arbeit die Armut selbst nicht beseitigt. Wir lindern Not, aber wir lösen kein Problem. Deshalb engagiere ich mich zusätzlich in einem Verein, der sich für faire Löhne und bezahlbares Wohnen einsetzt. Mir ist wichtig, dass nicht täglich tonnenweise Essen im Müll landet, während andere hungern. Viele Kundinnen und Kunden schämen sich, herzukommen, und brauchen neben dem Essen auch ein offenes Ohr. Mein Wunsch wäre, dass die Politik und die Wirtschaft die Ursachen angehen, statt sich allein auf freiwillige Helfer zu verlassen."
+        },
+        {
+          "key": "c",
+          "titel": "Sofia, 34 – Trainerin im Sportverein",
+          "inhalt": "Seit fünf Jahren trainiere ich eine Kindergruppe in unserem Sportverein, zweimal pro Woche nach der Schule. Die Kinder kommen aus ganz unterschiedlichen Familien, und genau das gefällt mir: Auf dem Platz spielt die Herkunft keine Rolle. Natürlich wäre ein Titel schön, doch viel wichtiger ist mir, dass die Kinder lernen, geduldig zu bleiben und einander zu unterstützen. Manche Eltern erwarten, dass ihr Kind möglichst schnell in eine höhere Liga aufsteigt; darüber spreche ich dann offen mit ihnen. Für die Kinder ist der Verein oft der einzige Ort, an dem sie sich außerhalb der Schule bewegen und neue Freunde treffen. Viel Zeit geht für die Organisation drauf, vom Trikotkauf bis zu den Fahrten zu Auswärtsspielen. Trotzdem ist es für mich kein Opfer, sondern ein Gewinn: Ich sehe, wie Kinder über sich hinauswachsen."
+        },
+        {
+          "key": "d",
+          "titel": "Ahmet, 61 – Nachbarschaftshilfe",
+          "inhalt": "In unserer Straße wohnen viele ältere Menschen, die im Alltag Unterstützung brauchen. Seit ich im Ruhestand bin, helfe ich regelmäßig beim Einkaufen, begleite zum Arzt oder repariere kleine Dinge in der Wohnung. Das ist nichts Großes, aber es erleichtert den Tag. Aus der Nachbarschaftshilfe sind echte Freundschaften geworden: Ich trinke jeden Donnerstag Kaffee mit Frau Berger, die fast vierzig Jahre älter ist als ich. Dabei haben wir beide viel voneinander gelernt. Manchmal genügt schon ein kurzes Gespräch, damit sich jemand weniger einsam fühlt. Über die Jahre ist daraus ein fester Termin geworden, auf den wir uns beide freuen. Freiwilliges Engagement heißt für mich nicht, sich aufzuopfern, sondern füreinander da zu sein. Ich wünsche mir, dass mehr Menschen diese unkomplizierte Form der Hilfe entdecken, denn sie verbindet Generationen."
+        }
+      ],
+      "luecken_text": null,
+      "optionen_saetze": null,
+      "ueberschriften": null,
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "zuordnung",
+          "stamm_de": "Wer engagiert sich bereits seit der Jugend in seiner Organisation?",
+          "stamm_id": "Siapa yang sudah terlibat di organisasinya sejak muda?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena (Freiwillige Feuerwehr)"
+            },
+            {
+              "key": "b",
+              "text": "Marek (Tafel)"
+            },
+            {
+              "key": "c",
+              "text": "Sofia (Sportverein)"
+            },
+            {
+              "key": "d",
+              "text": "Ahmet (Nachbarschaftshilfe)"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Lena ist seit ihrem sechzehnten Lebensjahr in der Feuerwehr; Marek kam erst später zur Tafel.",
+          "explain_id": "Lena sudah menjadi anggota pemadam kebakaran sejak usia enam belas tahun; Marek baru kemudian bergabung ke Tafel.",
+          "evidence": "Seit meinem sechzehnten Lebensjahr bin ich Mitglied der Freiwilligen Feuerwehr"
+        },
+        {
+          "nr": 2,
+          "typ": "zuordnung",
+          "stamm_de": "Wer bezweifelt, dass freiwilliges Engagement die Armut grundsätzlich beseitigen kann?",
+          "stamm_id": "Siapa yang meragukan bahwa kerja sukarela mampu memberantas kemiskinan secara mendasar?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena (Freiwillige Feuerwehr)"
+            },
+            {
+              "key": "b",
+              "text": "Marek (Tafel)"
+            },
+            {
+              "key": "c",
+              "text": "Sofia (Sportverein)"
+            },
+            {
+              "key": "d",
+              "text": "Ahmet (Nachbarschaftshilfe)"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Marek betont, dass die Tafel Not lindert, aber die Armut nicht beseitigt.",
+          "explain_id": "Marek menegaskan bahwa Tafel meringankan kesulitan, tetapi tidak menghapus kemiskinan.",
+          "evidence": "dass diese Arbeit die Armut selbst nicht beseitigt"
+        },
+        {
+          "nr": 3,
+          "typ": "zuordnung",
+          "stamm_de": "Wer freut sich, dass Kinder aus ganz unterschiedlichen Familien gemeinsam trainieren?",
+          "stamm_id": "Siapa yang senang bahwa anak-anak dari keluarga yang sangat berbeda berlatih bersama?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena (Freiwillige Feuerwehr)"
+            },
+            {
+              "key": "b",
+              "text": "Marek (Tafel)"
+            },
+            {
+              "key": "c",
+              "text": "Sofia (Sportverein)"
+            },
+            {
+              "key": "d",
+              "text": "Ahmet (Nachbarschaftshilfe)"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Für Sofia ist wichtig, dass die Herkunft auf dem Platz keine Rolle spielt.",
+          "explain_id": "Bagi Sofia penting bahwa asal-usul tidak berperan di lapangan.",
+          "evidence": "Die Kinder kommen aus ganz unterschiedlichen Familien"
+        },
+        {
+          "nr": 4,
+          "typ": "zuordnung",
+          "stamm_de": "Wer unterstützt ältere Menschen bei alltäglichen Aufgaben?",
+          "stamm_id": "Siapa yang membantu orang lanjut usia dalam tugas sehari-hari?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena (Freiwillige Feuerwehr)"
+            },
+            {
+              "key": "b",
+              "text": "Marek (Tafel)"
+            },
+            {
+              "key": "c",
+              "text": "Sofia (Sportverein)"
+            },
+            {
+              "key": "d",
+              "text": "Ahmet (Nachbarschaftshilfe)"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Ahmet hilft älteren Nachbarn beim Einkaufen und begleitet sie zum Arzt.",
+          "explain_id": "Ahmet membantu tetangga lanjut usia berbelanja dan mengantar mereka ke dokter.",
+          "evidence": "helfe ich regelmäßig beim Einkaufen, begleite zum Arzt"
+        },
+        {
+          "nr": 5,
+          "typ": "zuordnung",
+          "stamm_de": "Wer nimmt für Übungen und Einsätze regelmäßig Urlaub in Kauf?",
+          "stamm_id": "Siapa yang rutin mengambil cuti untuk latihan dan operasi?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena (Freiwillige Feuerwehr)"
+            },
+            {
+              "key": "b",
+              "text": "Marek (Tafel)"
+            },
+            {
+              "key": "c",
+              "text": "Sofia (Sportverein)"
+            },
+            {
+              "key": "d",
+              "text": "Ahmet (Nachbarschaftshilfe)"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Lena nimmt wegen der Übungen an Wochenenden regelmäßig Urlaub.",
+          "explain_id": "Lena rutin mengambil cuti karena latihan di akhir pekan.",
+          "evidence": "nehme ich regelmäßig Urlaub"
+        },
+        {
+          "nr": 6,
+          "typ": "zuordnung",
+          "stamm_de": "Wer setzt sich dafür ein, dass weniger Lebensmittel im Müll landen?",
+          "stamm_id": "Siapa yang berupaya agar lebih sedikit bahan pangan berakhir di tempat sampah?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena (Freiwillige Feuerwehr)"
+            },
+            {
+              "key": "b",
+              "text": "Marek (Tafel)"
+            },
+            {
+              "key": "c",
+              "text": "Sofia (Sportverein)"
+            },
+            {
+              "key": "d",
+              "text": "Ahmet (Nachbarschaftshilfe)"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Marek ärgert, dass tonnenweise Essen weggeworfen wird, während andere hungern.",
+          "explain_id": "Marek kesal karena berton-ton makanan dibuang sementara orang lain kelaparan.",
+          "evidence": "dass nicht täglich tonnenweise Essen im Müll landet"
+        },
+        {
+          "nr": 7,
+          "typ": "zuordnung",
+          "stamm_de": "Wer hält Geduld im Umgang mit Kindern für wichtiger als schnelle Erfolge?",
+          "stamm_id": "Siapa yang menganggap kesabaran pada anak lebih penting daripada keberhasilan cepat?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena (Freiwillige Feuerwehr)"
+            },
+            {
+              "key": "b",
+              "text": "Marek (Tafel)"
+            },
+            {
+              "key": "c",
+              "text": "Sofia (Sportverein)"
+            },
+            {
+              "key": "d",
+              "text": "Ahmet (Nachbarschaftshilfe)"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Sofia stellt Geduld und Zusammenhalt über einen schnellen Titel.",
+          "explain_id": "Sofia mengutamakan kesabaran dan kebersamaan di atas gelar yang cepat.",
+          "evidence": "viel wichtiger ist mir, dass die Kinder lernen, geduldig zu bleiben"
+        },
+        {
+          "nr": 8,
+          "typ": "zuordnung",
+          "stamm_de": "Wer hat durch das Engagement Freundschaften über Generationen hinweg geschlossen?",
+          "stamm_id": "Siapa yang lewat kegiatan sukarelanya menjalin persahabatan lintas generasi?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena (Freiwillige Feuerwehr)"
+            },
+            {
+              "key": "b",
+              "text": "Marek (Tafel)"
+            },
+            {
+              "key": "c",
+              "text": "Sofia (Sportverein)"
+            },
+            {
+              "key": "d",
+              "text": "Ahmet (Nachbarschaftshilfe)"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Durch die Nachbarschaftshilfe ist Ahmet mit Frau Berger befreundet, die viel älter ist.",
+          "explain_id": "Berkat bantuan tetangga, Ahmet berteman dengan Frau Berger yang jauh lebih tua.",
+          "evidence": "Aus der Nachbarschaftshilfe sind echte Freundschaften geworden"
+        },
+        {
+          "nr": 9,
+          "typ": "zuordnung",
+          "stamm_de": "Wer hält Veränderungen in Politik und Wirtschaft für notwendig?",
+          "stamm_id": "Siapa yang menganggap perubahan di bidang politik dan ekonomi itu perlu?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena (Freiwillige Feuerwehr)"
+            },
+            {
+              "key": "b",
+              "text": "Marek (Tafel)"
+            },
+            {
+              "key": "c",
+              "text": "Sofia (Sportverein)"
+            },
+            {
+              "key": "d",
+              "text": "Ahmet (Nachbarschaftshilfe)"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Marek wünscht sich, dass Politik und Wirtschaft die Ursachen der Armut angehen.",
+          "explain_id": "Marek berharap politik dan ekonomi menangani akar penyebab kemiskinan.",
+          "evidence": "dass die Politik und die Wirtschaft die Ursachen angehen"
+        }
+      ],
+      "punkte_max": 9,
+      "glossar": [
+        {
+          "wort": "Feuerwehr",
+          "artikel": "die",
+          "plural": "die Feuerwehren",
+          "wortart": "Nomen",
+          "bedeutung_id": "pemadam kebakaran",
+          "bedeutung_de": "Feuerwehr",
+          "beispiel": "Bei der Feuerwehr lernt man, in Notlagen zu helfen."
+        },
+        {
+          "wort": "Kameradschaft",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "rasa setia kawan, kebersamaan",
+          "bedeutung_de": "Kameradschaft",
+          "beispiel": "Die Kameradschaft hält die Gruppe auch in schweren Stunden zusammen."
+        },
+        {
+          "wort": "Einsatz",
+          "artikel": "der",
+          "plural": "die Einsätze",
+          "wortart": "Nomen",
+          "bedeutung_id": "operasi, tugas",
+          "bedeutung_de": "Einsatz",
+          "beispiel": "Der Einsatz der Feuerwehr dauert manchmal die ganze Nacht."
+        },
+        {
+          "wort": "ehrenamtlich",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "bersifat sukarela",
+          "bedeutung_de": "ehrenamtlich",
+          "beispiel": "Sie übernimmt ehrenamtlich die Leitung des Vereins."
+        },
+        {
+          "wort": "Verein",
+          "artikel": "der",
+          "plural": "die Vereine",
+          "wortart": "Nomen",
+          "bedeutung_id": "klub, organisasi",
+          "bedeutung_de": "Verein",
+          "beispiel": "Der Verein organisiert jedes Jahr ein Sportfest."
+        },
+        {
+          "wort": "Nachbarschaft",
+          "artikel": "die",
+          "plural": "die Nachbarschaften",
+          "wortart": "Nomen",
+          "bedeutung_id": "lingkungan tetangga",
+          "bedeutung_de": "Nachbarschaft",
+          "beispiel": "In unserer Nachbarschaft hilft man sich gegenseitig."
+        },
+        {
+          "wort": "Generation",
+          "artikel": "die",
+          "plural": "die Generationen",
+          "wortart": "Nomen",
+          "bedeutung_id": "generasi",
+          "bedeutung_de": "Generation",
+          "beispiel": "Die jüngere Generation nutzt andere Angebote."
+        },
+        {
+          "wort": "Verantwortung",
+          "artikel": "die",
+          "plural": "die Verantwortungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "tanggung jawab",
+          "bedeutung_de": "Verantwortung",
+          "beispiel": "Wer ein Amt übernimmt, trägt Verantwortung."
+        },
+        {
+          "wort": "Ruhestand",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "masa pensiun",
+          "bedeutung_de": "Ruhestand",
+          "beispiel": "Im Ruhestand hat er mehr Zeit für die Nachbarn."
+        },
+        {
+          "wort": "Engagement",
+          "artikel": "das",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "keterlibatan, dedikasi",
+          "bedeutung_de": "Engagement",
+          "beispiel": "Freiwilliges Engagement bereichert die Gesellschaft."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-04-teil2",
+      "skill": "lesen",
+      "teil": 2,
+      "themenfeld": "Gesellschaft & Soziales",
+      "titel": "Wie Freiwilligenarbeit organisiert ist",
+      "instruktion_de": "Lesen Sie den Artikel. Wählen Sie für jede Lücke 1-6 die passende Satzoption a-h. Zwei Optionen bleiben übrig.",
+      "instruktion_id": "Bacalah artikel. Pilih opsi kalimat a-h yang cocok untuk setiap celah 1-6. Dua opsi tidak terpakai.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Ehrenamt",
+        "Freiwilligenarbeit",
+        "ländlich",
+        "Digitalisierung",
+        "Rahmenbedingungen"
+      ],
+      "audio": null,
+      "texte": null,
+      "luecken_text": "Freiwilliges Engagement gehört zum Alltag vieler Menschen in Deutschland. Ob im Sportverein, bei der Feuerwehr oder in der Nachbarschaft setzen sich Millionen Bürgerinnen und Bürger regelmäßig für andere ein, ohne dafür Geld zu bekommen. Ihre Motive sind so unterschiedlich wie die Menschen selbst.\n\nFür viele Freiwillige steht der Wunsch im Vordergrund, der Gemeinschaft etwas zurückzugeben. [[1]] Dieser Anspruch gilt besonders dort, wo staatliche Angebote an ihre Grenzen stoßen.\n\nAllerdings ist das Engagement nicht überall gleich stark verbreitet. In ländlichen Regionen ist die Bereitschaft häufig größer, [[2]].\n\nDie Forschung zeigt zudem, dass sich die Formen des Engagements verändern. Statt sich jahrelang an eine einzige Organisation zu binden, wählen viele Menschen heute kurzfristige Projekte. [[3]]\n\nHinsichtlich der Rahmenbedingungen gibt es jedoch Verbesserungsbedarf. Vereine klagen über Bürokratie und fehlende Räume, [[4]]. Folglich bleibt manche gute Idee unverwirklicht.\n\nZwar bringt das Ehrenamt persönliche Anerkennung, aber es ersetzt keine professionelle Arbeit. Wer regelmäßig hilft, braucht verlässliche Strukturen und eine gute Versicherung, [[5]].\n\nDennoch bleibt die Bereitschaft groß, sich einzubringen. Insofern ist es eine gesellschaftliche Aufgabe, die Bedingungen für Freiwillige zu verbessern, [[6]]. Auf diese Weise kann das Ehrenamt auch künftig einen wichtigen Beitrag leisten.",
+      "optionen_saetze": [
+        {
+          "key": "a",
+          "text": "damit aus gutem Willen kein Risiko entsteht"
+        },
+        {
+          "key": "b",
+          "text": "zumal dort Vereine und Nachbarschaften traditionell eine wichtige Rolle spielen"
+        },
+        {
+          "key": "c",
+          "text": "ohne ihnen die Freude an der Sache zu nehmen"
+        },
+        {
+          "key": "d",
+          "text": "Diese Entwicklung wird von manchen als Verlust bedauert."
+        },
+        {
+          "key": "e",
+          "text": "was engagierte Arbeit zusätzlich erschwert"
+        },
+        {
+          "key": "f",
+          "text": "Der Staat sollte sich stärker aus dem Ehrenamt zurückziehen."
+        },
+        {
+          "key": "g",
+          "text": "Deshalb melden sich immer mehr Menschen für ein Amt an."
+        },
+        {
+          "key": "h",
+          "text": "Dabei geht es ihnen nicht allein um den Nutzen für andere."
+        }
+      ],
+      "ueberschriften": null,
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "satz-luecke",
+          "stamm_de": "Lücke 1 - Welche Satzoption passt in Auszug 2?",
+          "stamm_id": "Celah 1 - Opsi kalimat mana yang cocok untuk paragraf 2?",
+          "optionen": null,
+          "loesung": [
+            "h"
+          ],
+          "punkte": 1,
+          "explain_de": "Option h nennt das Motiv und passt zwischen den Wunsch und den Satz über staatliche Grenzen.",
+          "explain_id": "Opsi h menyebut motivasinya dan cocok di antara keinginan tersebut dan kalimat tentang keterbatasan negara.",
+          "evidence": "der Gemeinschaft etwas zurückzugeben"
+        },
+        {
+          "nr": 2,
+          "typ": "satz-luecke",
+          "stamm_de": "Lücke 2 - Welche Satzoption passt in Auszug 3?",
+          "stamm_id": "Celah 2 - Opsi kalimat mana yang cocok untuk paragraf 3?",
+          "optionen": null,
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Das Wort zumal leitet eine Begründung ein und erklärt, warum die Bereitschaft dort höher ist.",
+          "explain_id": "Kata zumal mengawali alasan dan menjelaskan mengapa kesediaan di sana lebih tinggi.",
+          "evidence": "In ländlichen Regionen ist die Bereitschaft häufig größer"
+        },
+        {
+          "nr": 3,
+          "typ": "satz-luecke",
+          "stamm_de": "Lücke 3 - Welche Satzoption passt in Auszug 4?",
+          "stamm_id": "Celah 3 - Opsi kalimat mana yang cocok untuk paragraf 4?",
+          "optionen": null,
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Die Option greift den Gedanken der kurzfristigen Projekte auf und bewertet ihn.",
+          "explain_id": "Opsi ini melanjutkan gagasan proyek jangka pendek dan menilainya.",
+          "evidence": "wählen viele Menschen heute kurzfristige Projekte"
+        },
+        {
+          "nr": 4,
+          "typ": "satz-luecke",
+          "stamm_de": "Lücke 4 - Welche Satzoption passt in Auszug 5?",
+          "stamm_id": "Celah 4 - Opsi kalimat mana yang cocok untuk paragraf 5?",
+          "optionen": null,
+          "loesung": [
+            "e"
+          ],
+          "punkte": 1,
+          "explain_de": "Das Wort was bezieht sich auf die Probleme und bereitet die Folge mit Folglich vor.",
+          "explain_id": "Kata was merujuk pada masalah tersebut dan menyiapkan akibat dengan Folglich.",
+          "evidence": "Vereine klagen über Bürokratie und fehlende Räume"
+        },
+        {
+          "nr": 5,
+          "typ": "satz-luecke",
+          "stamm_de": "Lücke 5 - Welche Satzoption passt in Auszug 6?",
+          "stamm_id": "Celah 5 - Opsi kalimat mana yang cocok untuk paragraf 6?",
+          "optionen": null,
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Die Option nennt den Zweck von Strukturen und Versicherung, nämlich Schutz statt Risiko.",
+          "explain_id": "Opsi ini menyebut tujuan struktur dan asuransi, yaitu perlindungan, bukan risiko.",
+          "evidence": "Wer regelmäßig hilft, braucht verlässliche Strukturen und eine gute Versicherung"
+        },
+        {
+          "nr": 6,
+          "typ": "satz-luecke",
+          "stamm_de": "Lücke 6 - Welche Satzoption passt in Auszug 7?",
+          "stamm_id": "Celah 6 - Opsi kalimat mana yang cocok untuk paragraf 7?",
+          "optionen": null,
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Die Option ergänzt die Aufgabe, ohne den Freiwilligen die Freude an der Sache zu nehmen.",
+          "explain_id": "Opsi ini melengkapi tugasnya, tanpa menghilangkan kesenangan para relawan.",
+          "evidence": "die Bedingungen für Freiwillige zu verbessern"
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "Bereitschaft",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "kesediaan",
+          "bedeutung_de": "Bereitschaft",
+          "beispiel": "Die Bereitschaft zu helfen ist in kleinen Orten oft größer."
+        },
+        {
+          "wort": "Bürokratie",
+          "artikel": "die",
+          "plural": "die Bürokratien",
+          "wortart": "Nomen",
+          "bedeutung_id": "birokrasi",
+          "bedeutung_de": "Bürokratie",
+          "beispiel": "Zu viel Bürokratie schreckt Freiwillige ab."
+        },
+        {
+          "wort": "Versicherung",
+          "artikel": "die",
+          "plural": "die Versicherungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "asuransi",
+          "bedeutung_de": "Versicherung",
+          "beispiel": "Der Verein zahlt eine Versicherung für alle Helfer."
+        },
+        {
+          "wort": "Rahmenbedingungen",
+          "artikel": "die",
+          "plural": "die Rahmenbedingungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "kondisi kerangka, lingkungan pendukung",
+          "bedeutung_de": "Rahmenbedingungen",
+          "beispiel": "Bessere Rahmenbedingungen machen Engagement leichter."
+        },
+        {
+          "wort": "zurückgeben",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "mengembalikan, memberi balik",
+          "bedeutung_de": "zurückgeben",
+          "beispiel": "Sie möchte der Gemeinschaft etwas zurückgeben."
+        },
+        {
+          "wort": "verlässlich",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "dapat diandalkan",
+          "bedeutung_de": "verlässlich",
+          "beispiel": "Verlässliche Absprachen sind im Ehrenamt entscheidend."
+        },
+        {
+          "wort": "Gemeinschaft",
+          "artikel": "die",
+          "plural": "die Gemeinschaften",
+          "wortart": "Nomen",
+          "bedeutung_id": "komunitas, kebersamaan",
+          "bedeutung_de": "Gemeinschaft",
+          "beispiel": "Die Gemeinschaft profitiert von jedem Helfer."
+        },
+        {
+          "wort": "Nutzen",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "manfaat",
+          "bedeutung_de": "Nutzen",
+          "beispiel": "Der Nutzen des Engagements ist nicht nur materiell."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-04-teil3",
+      "skill": "lesen",
+      "teil": 3,
+      "themenfeld": "Gesellschaft & Soziales",
+      "titel": "Ehrenamt im Wandel",
+      "instruktion_de": "Lesen Sie den Artikel und wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+      "instruktion_id": "Bacalah artikel dan pilih jawaban yang benar a, b, atau c pada setiap soal.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Ehrenamt",
+        "Wandel",
+        "Digitalisierung",
+        "Anerkennung",
+        "Arbeitswelt"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "1",
+          "titel": "Ehrenamt im Wandel",
+          "inhalt": "Lange Zeit galt das Ehrenamt als feste Größe im gesellschaftlichen Leben. Wer sich engagierte, blieb oft ein Leben lang bei derselben Organisation. Dieses Bild hat sich in den vergangenen Jahrzehnten deutlich verändert, denn die Erwartungen der Freiwilligen sind vielfältiger geworden.\n\nEin wichtiger Grund für den Wandel liegt in der Arbeitswelt. Berufstätige haben weniger feste Freizeit, dafür aber flexiblere Möglichkeiten, sich zeitweise zu beteiligen. An die Stelle langjähriger Mitgliedschaften treten zunehmend Projekte, die nur wenige Wochen dauern. Allerdings bedeutet diese Entwicklung nicht, dass das Interesse an ehrenamtlicher Arbeit gesunken ist; hinsichtlich der Zahl der Engagierten zeigen Erhebungen sogar ein stabiles Niveau.\n\nZugleich hat die Digitalisierung neue Formen geschaffen. Über Online-Plattformen finden Freiwillige Aufgaben, die sie von zu Hause erledigen können, etwa Übersetzungen oder die Betreuung von Internetseiten. Solche Angebote erreichen Menschen, die aus gesundheitlichen Gründen oder wegen langer Arbeitswege nicht regelmäßig vor Ort sein können. Insofern erweitert die Technik den Kreis der möglichen Helfer.\n\nDennoch bringt das Engagement auch Belastungen mit sich. Hinzu kommt, dass sich viele Aufgaben auf wenige Schultern verteilen. Wer Verantwortung übernimmt, steht nicht selten unter Druck, weil die Aufgaben wachsen und die Zahl der Unterstützer nicht. Fachleute warnen vor einer Überforderung, zumal viele Freiwillige ihre Tätigkeit ohnehin neben Beruf und Familie ausüben. Fehlt eine verlässliche Begleitung, kann aus anfänglicher Begeisterung schnell Enttäuschung werden.\n\nVor diesem Hintergrund fordern Verbände eine bessere Anerkennung. Wer sich regelmäßig einbringt, soll nicht nur ein Dankeschön erhalten, sondern auch spürbare Entlastung, etwa durch den Ausgleich von Fahrtkosten oder durch verbindliche Fortbildungen. Solche Leistungen können viele Vereine jedoch nicht aus eigener Kraft finanzieren. Zwar lässt sich ehrenamtliche Arbeit nicht allein mit Geld belohnen, doch Rahmenbedingungen können darüber entscheiden, ob jemand dabeibleibt.\n\nFolglich geht es nicht darum, das Ehrenamt zu romantisieren. Es geht darum, die Bedingungen so zu gestalten, dass Menschen unterschiedlichen Alters und unterschiedlicher Herkunft einen Platz finden. Ein solches Engagement nützt nicht nur den Empfängern der Hilfe, sondern auch den Freiwilligen selbst, denn es stiftet Sinn und schafft Kontakte - ein Gewinn für die ganze Gesellschaft."
+        }
+      ],
+      "luecken_text": null,
+      "optionen_saetze": null,
+      "ueberschriften": null,
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "mc3",
+          "stamm_de": "Was wird im ersten Absatz über das Ehrenamt gesagt?",
+          "stamm_id": "Apa yang dikatakan paragraf pertama tentang kerja sukarela?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Es ist heute vollständig verschwunden."
+            },
+            {
+              "key": "b",
+              "text": "Die Erwartungen der Freiwilligen sind vielfältiger geworden."
+            },
+            {
+              "key": "c",
+              "text": "Die Zahl der Engagierten sinkt seit Jahrzehnten stark."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der erste Absatz nennt die vielfältigeren Erwartungen als Grund für den Wandel. Option a ist zu extrem, Option c widerspricht dem stabilen Niveau.",
+          "explain_id": "Paragraf pertama menyebut ekspektasi yang makin beragam sebagai penyebab perubahan. Opsi a terlalu ekstrem, opsi c bertentangan dengan tingkat yang stabil.",
+          "evidence": "die Erwartungen der Freiwilligen sind vielfältiger geworden"
+        },
+        {
+          "nr": 2,
+          "typ": "mc3",
+          "stamm_de": "Welche Folge hat die flexiblere Arbeitswelt?",
+          "stamm_id": "Apa akibat dari dunia kerja yang lebih fleksibel?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Es gibt immer weniger Projekte. "
+            },
+            {
+              "key": "b",
+              "text": "Langjährige Mitgliedschaften werden seltener."
+            },
+            {
+              "key": "c",
+              "text": "Berufstätige haben wieder mehr feste Freizeit."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text sagt, dass an die Stelle langjähriger Mitgliedschaften zunehmend Projekte treten. Option a verdreht die Entwicklung, Option c widerspricht 'weniger feste Freizeit'.",
+          "explain_id": "Teks menyatakan bahwa keanggotaan jangka panjang makin digantikan proyek. Opsi a memutarbalikkan perkembangan, opsi c bertentangan dengan 'waktu luang tetap yang lebih sedikit'.",
+          "evidence": "An die Stelle langjähriger Mitgliedschaften treten zunehmend Projekte"
+        },
+        {
+          "nr": 3,
+          "typ": "mc3",
+          "stamm_de": "Was bewirkt die Digitalisierung laut Text?",
+          "stamm_id": "Apa dampak digitalisasi menurut teks?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Online-Angebote erreichen auch Menschen, die nicht vor Ort sein können."
+            },
+            {
+              "key": "b",
+              "text": "Digitale Aufgaben ersetzen alle persönlichen Treffen."
+            },
+            {
+              "key": "c",
+              "text": "Übersetzungen sind für Freiwillige nicht erlaubt."
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text betont, dass Online-Aufgaben Menschen einbinden, die nicht vor Ort sein können. Option b ist absolut formuliert, Option c ist sachlich falsch.",
+          "explain_id": "Teks menekankan tugas daring melibatkan orang yang tidak bisa hadir di lokasi. Opsi b terlalu mutlak, opsi c salah secara fakta.",
+          "evidence": "Über Online-Plattformen finden Freiwillige Aufgaben, die sie von zu Hause erledigen können"
+        },
+        {
+          "nr": 4,
+          "typ": "mc3",
+          "stamm_de": "Wovor warnen Fachleute?",
+          "stamm_id": "Apa yang diperingatkan para ahli?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Die Aufgaben werden immer weniger."
+            },
+            {
+              "key": "b",
+              "text": "Es fehlt an warnenden Fachleuten."
+            },
+            {
+              "key": "c",
+              "text": "Die Aufgaben wachsen, während Unterstützer fehlen."
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text nennt wachsende Aufgaben bei gleichbleibend niedriger Zahl der Unterstützer als Ursache von Druck. Nur Option c gibt das richtig wieder.",
+          "explain_id": "Teks menyebut tugas yang bertambah sementara jumlah pendukung tidak bertambah sebagai penyebab tekanan. Hanya opsi c yang menyampaikannya dengan benar.",
+          "evidence": "weil die Aufgaben wachsen und die Zahl der Unterstützer nicht"
+        },
+        {
+          "nr": 5,
+          "typ": "mc3",
+          "stamm_de": "Was fordern Verbände hinsichtlich der Anerkennung?",
+          "stamm_id": "Apa yang dituntut asosiasi terkait penghargaan?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Nur ein freundliches Dankeschön."
+            },
+            {
+              "key": "b",
+              "text": "Neben Dank auch spürbare Entlastung."
+            },
+            {
+              "key": "c",
+              "text": "Ausschließlich eine Bezahlung in Geld."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text verlangt Dank und spürbare Entlastung. Option a ist zu wenig, Option c widerspricht 'nicht allein mit Geld'.",
+          "explain_id": "Teks menuntut ucapan terima kasih dan keringanan yang nyata. Opsi a kurang, opsi c bertentangan dengan 'bukan hanya dengan uang'.",
+          "evidence": "soll nicht nur ein Dankeschön erhalten, sondern auch spürbare Entlastung"
+        },
+        {
+          "nr": 6,
+          "typ": "mc3",
+          "stamm_de": "Was sagt der letzte Absatz aus?",
+          "stamm_id": "Apa yang dinyatakan paragraf terakhir?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Das Ehrenamt soll romantisiert werden."
+            },
+            {
+              "key": "b",
+              "text": "Nur junge Menschen finden einen Platz."
+            },
+            {
+              "key": "c",
+              "text": "Gutes Engagement nützt Helfern und Empfängern."
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Schluss betont den doppelten Nutzen für Empfänger und Freiwillige. Option a widerspricht dem Text, Option b ist unbegründet.",
+          "explain_id": "Penutup menekankan manfaat ganda bagi penerima dan relawan. Opsi a bertentangan dengan teks, opsi b tanpa dasar.",
+          "evidence": "denn es stiftet Sinn und schafft Kontakte"
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "Wandel",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "perubahan",
+          "bedeutung_de": "Wandel",
+          "beispiel": "Der Wandel des Ehrenamts zeigt sich in kurzfristigen Projekten."
+        },
+        {
+          "wort": "Mitgliedschaft",
+          "artikel": "die",
+          "plural": "die Mitgliedschaften",
+          "wortart": "Nomen",
+          "bedeutung_id": "keanggotaan",
+          "bedeutung_de": "Mitgliedschaft",
+          "beispiel": "Langjährige Mitgliedschaften nehmen ab."
+        },
+        {
+          "wort": "Digitalisierung",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "digitalisasi",
+          "bedeutung_de": "Digitalisierung",
+          "beispiel": "Die Digitalisierung schafft neue Formen der Hilfe."
+        },
+        {
+          "wort": "Belastung",
+          "artikel": "die",
+          "plural": "die Belastungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "beban",
+          "bedeutung_de": "Belastung",
+          "beispiel": "Zu viele Aufgaben bedeuten eine große Belastung."
+        },
+        {
+          "wort": "Überforderung",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "kewalahan, kelebihan beban",
+          "bedeutung_de": "Überforderung",
+          "beispiel": "Fachleute warnen vor einer Überforderung der Helfer."
+        },
+        {
+          "wort": "Anerkennung",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "penghargaan, pengakuan",
+          "bedeutung_de": "Anerkennung",
+          "beispiel": "Anerkennung hält Freiwillige länger im Amt."
+        },
+        {
+          "wort": "Entlastung",
+          "artikel": "die",
+          "plural": "die Entlastungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "keringanan beban",
+          "bedeutung_de": "Entlastung",
+          "beispiel": "Fahrtkostenerstattung bringt echte Entlastung."
+        },
+        {
+          "wort": "Fortbildung",
+          "artikel": "die",
+          "plural": "die Fortbildungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "pelatihan lanjutan",
+          "bedeutung_de": "Fortbildung",
+          "beispiel": "Verbindliche Fortbildungen geben Sicherheit."
+        },
+        {
+          "wort": "romantisieren",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "meromantisasi",
+          "bedeutung_de": "romantisieren",
+          "beispiel": "Man sollte das Ehrenamt nicht romantisieren."
+        },
+        {
+          "wort": "Rahmen",
+          "artikel": "der",
+          "plural": "die Rahmen",
+          "wortart": "Nomen",
+          "bedeutung_id": "kerangka, rangka",
+          "bedeutung_de": "Rahmen",
+          "beispiel": "Die Politik setzt den Rahmen für das Engagement."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-04-teil4",
+      "skill": "lesen",
+      "teil": 4,
+      "themenfeld": "Gesellschaft & Soziales",
+      "titel": "Meinungen zum Ehrenamt",
+      "instruktion_de": "Lesen Sie die vier Aussagen a-d und die Aufgaben 1-6. Welche Person äußert sich so?",
+      "instruktion_id": "Bacalah empat pernyataan a-d dan soal 1-6. Orang mana yang menyampaikan hal itu?",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Ehrenamt",
+        "Meinungen",
+        "Anerkennung",
+        "Bürokratie",
+        "Persönlichkeit"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "a",
+          "titel": "Julia, 45 – Stadtteilinitiative",
+          "inhalt": "Für mich ist freiwilliges Engagement ein Fundament unserer Demokratie. Wer sich im Stadtteil für andere einsetzt, lernt unterschiedliche Meinungen kennen und lernt, Kompromisse zu finden. Ich halte es für gefährlich zu glauben, dass ehrenamtliche Helfer überall professionelle Arbeit ersetzen können: Eine ausgebildete Sozialarbeiterin kann ein Freiwilliger nicht sein. Deshalb wünsche ich mir, dass der Staat seine Aufgaben ernst nimmt und das Ehrenamt als Ergänzung versteht, nicht als Ersatz. Solange diese Grenze klar ist, kann sich jeder nach seinen Möglichkeiten einbringen. Wer sich einbringt, merkt, dass viele Probleme nur gemeinsam zu lösen sind, und wächst so im Verständnis für andere Lebensweisen."
+        },
+        {
+          "key": "b",
+          "titel": "Robert, 29 – Jobpatenschaft",
+          "inhalt": "Als Berufstätiger habe ich wenig Zeit, doch meine Patenschaft für einen Jugendlichen möchte ich nicht missen. Dabei geht es nicht nur um den Nutzen für ihn; auch ich habe durch die Aufgabe gelernt, geduldiger zu werden und Verantwortung zu tragen. Diese Erfahrung hat meine Persönlichkeit stärker geprägt als manches Seminar. Allerdings sehe ich auch eine Gefahr: Viele Freiwillige werden überlastet, weil immer mehr Aufgaben auf sie zukommen. Ohne gute Begleitung brennen engagierte Menschen aus. Deshalb sollte man das Ehrenamt nicht als billige Lösung betrachten. Gleichzeitig darf man nicht erwarten, dass Freiwillige unbegrenzt Zeit und Kraft haben."
+        },
+        {
+          "key": "c",
+          "titel": "Nina, 38 – Hospizverein",
+          "inhalt": "Ich begleite seit Jahren schwer kranke Menschen und weiß, wie anstrengend diese Aufgabe ist. Meiner Meinung nach wird zu oft erwartet, dass man all das unbezahlt tut. Ich halte es für falsch, Engagement mit reiner Selbstlosigkeit gleichzusetzen: Wer viel Zeit und Kraft einsetzt, verdient spürbare Anerkennung, etwa eine Aufwandsentschädigung oder bezahlte Fortbildungen. Anerkennung bedeutet ja nicht, dass die Arbeit ihren ideellen Wert verliert. Wer Freiwillige ernst nimmt, sollte auch über ihre Arbeitsbedingungen sprechen. Natürlich tun das viele aus innerer Überzeugung, doch Überzeugung allein reicht auf die Dauer nicht. Wer jahrelang hilft, sollte spüren, dass seine Arbeit gesehen wird."
+        },
+        {
+          "key": "d",
+          "titel": "Thomas, 67 – Dorfverein",
+          "inhalt": "In unserem Dorf hält der Verein das Zusammenleben zusammen: Junge und Alte treffen sich, helfen einander und fühlen sich weniger allein. Für mich hat gutes Engagement vor allem eine soziale Aufgabe, denn es verbindet Generationen, die sonst wenig miteinander zu tun hätten. Leider schrecken bürokratische Hürden viele ab. Wer sich erst durch unzählige Formulare kämpfen muss, lässt es am Ende bleiben. Deshalb sollten die Regelungen einfacher und die Anerkennung selbstverständlicher werden, damit die freiwillige Arbeit nicht an Papierkram scheitert. Bei uns treffen sich an einem Nachmittag Kinder und Senioren, um gemeinsam zu werken, und solche Begegnungen sind durch nichts zu ersetzen."
+        }
+      ],
+      "luecken_text": null,
+      "optionen_saetze": null,
+      "ueberschriften": null,
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer meint, dass freiwilliges Engagement die Gemeinschaft stärkt?",
+          "stamm_id": "Siapa yang berpendapat bahwa kerja sukarela memperkuat kebersamaan?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Julia (Stadtteilinitiative)"
+            },
+            {
+              "key": "b",
+              "text": "Robert (Jobpatenschaft)"
+            },
+            {
+              "key": "c",
+              "text": "Nina (Hospizverein)"
+            },
+            {
+              "key": "d",
+              "text": "Thomas (Dorfverein)"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Julia sieht im Engagement ein Fundament der Demokratie und der Gemeinschaft.",
+          "explain_id": "Julia melihat kerja sukarela sebagai fondasi demokrasi dan kebersamaan.",
+          "evidence": "Wer sich im Stadtteil für andere einsetzt, lernt unterschiedliche Meinungen kennen"
+        },
+        {
+          "nr": 2,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer warnt davor, dass Ehrenamtliche überlastet werden?",
+          "stamm_id": "Siapa yang memperingatkan bahwa relawan bisa kelebihan beban?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Julia (Stadtteilinitiative)"
+            },
+            {
+              "key": "b",
+              "text": "Robert (Jobpatenschaft)"
+            },
+            {
+              "key": "c",
+              "text": "Nina (Hospizverein)"
+            },
+            {
+              "key": "d",
+              "text": "Thomas (Dorfverein)"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Robert beobachtet, dass wachsende Aufgaben Freiwillige überlasten und ausbrennen lassen.",
+          "explain_id": "Robert mengamati tugas yang bertambah membuat relawan kelebihan beban dan kelelahan.",
+          "evidence": "Viele Freiwillige werden überlastet, weil immer mehr Aufgaben auf sie zukommen"
+        },
+        {
+          "nr": 3,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer fordert eine spürbare Anerkennung für Freiwillige?",
+          "stamm_id": "Siapa yang menuntut penghargaan nyata bagi relawan?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Julia (Stadtteilinitiative)"
+            },
+            {
+              "key": "b",
+              "text": "Robert (Jobpatenschaft)"
+            },
+            {
+              "key": "c",
+              "text": "Nina (Hospizverein)"
+            },
+            {
+              "key": "d",
+              "text": "Thomas (Dorfverein)"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Nina verlangt Anerkennung, etwa eine Aufwandsentschädigung oder bezahlte Fortbildungen.",
+          "explain_id": "Nina menuntut penghargaan, misalnya kompensasi biaya atau pelatihan berbayar.",
+          "evidence": "Wer viel Zeit und Kraft einsetzt, verdient spürbare Anerkennung"
+        },
+        {
+          "nr": 4,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer findet, dass bürokratische Hürden Freiwillige abschrecken?",
+          "stamm_id": "Siapa yang menilai hambatan birokrasi membuat relawan mundur?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Julia (Stadtteilinitiative)"
+            },
+            {
+              "key": "b",
+              "text": "Robert (Jobpatenschaft)"
+            },
+            {
+              "key": "c",
+              "text": "Nina (Hospizverein)"
+            },
+            {
+              "key": "d",
+              "text": "Thomas (Dorfverein)"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Thomas beklagt, dass unzählige Formulare viele vom Engagement abhalten.",
+          "explain_id": "Thomas mengeluh bahwa banyak formulir membuat orang enggan terlibat.",
+          "evidence": "Leider schrecken bürokratische Hürden viele ab"
+        },
+        {
+          "nr": 5,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer betont, dass das Engagement die eigene Persönlichkeit weiterentwickelt?",
+          "stamm_id": "Siapa yang menekankan bahwa kegiatan itu mengembangkan kepribadian sendiri?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Julia (Stadtteilinitiative)"
+            },
+            {
+              "key": "b",
+              "text": "Robert (Jobpatenschaft)"
+            },
+            {
+              "key": "c",
+              "text": "Nina (Hospizverein)"
+            },
+            {
+              "key": "d",
+              "text": "Thomas (Dorfverein)"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Robert sagt, die Aufgabe habe ihn geduldiger gemacht und seine Persönlichkeit geprägt.",
+          "explain_id": "Robert mengatakan tugas itu membuatnya lebih sabar dan membentuk kepribadiannya.",
+          "evidence": "auch ich habe durch die Aufgabe gelernt, geduldiger zu werden und Verantwortung zu tragen"
+        },
+        {
+          "nr": 6,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer ist der Meinung, dass das Ehrenamt professionelle Arbeit nicht ersetzen sollte?",
+          "stamm_id": "Siapa yang berpendapat bahwa kerja sukarela tidak boleh menggantikan pekerjaan profesional?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Julia (Stadtteilinitiative)"
+            },
+            {
+              "key": "b",
+              "text": "Robert (Jobpatenschaft)"
+            },
+            {
+              "key": "c",
+              "text": "Nina (Hospizverein)"
+            },
+            {
+              "key": "d",
+              "text": "Thomas (Dorfverein)"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Julia hält es für gefährlich, Freiwillige als Ersatz für ausgebildete Fachkräfte zu sehen.",
+          "explain_id": "Julia menilai berbahaya menganggap relawan sebagai pengganti tenaga ahli terdidik.",
+          "evidence": "dass ehrenamtliche Helfer überall professionelle Arbeit ersetzen können"
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "Demokratie",
+          "artikel": "die",
+          "plural": "die Demokratien",
+          "wortart": "Nomen",
+          "bedeutung_id": "demokrasi",
+          "bedeutung_de": "Demokratie",
+          "beispiel": "Engagement stärkt die Demokratie vor Ort."
+        },
+        {
+          "wort": "Kompromiss",
+          "artikel": "der",
+          "plural": "die Kompromisse",
+          "wortart": "Nomen",
+          "bedeutung_id": "kompromi",
+          "bedeutung_de": "Kompromiss",
+          "beispiel": "In der Gruppe muss man Kompromisse finden."
+        },
+        {
+          "wort": "ausbrennen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "mengalami kelelahan ekstrem, burnout",
+          "bedeutung_de": "ausbrennen",
+          "beispiel": "Ohne Begleitung können Helfer ausbrennen."
+        },
+        {
+          "wort": "Aufwandsentschädigung",
+          "artikel": "die",
+          "plural": "die Aufwandsentschädigungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "kompensasi biaya",
+          "bedeutung_de": "Aufwandsentschädigung",
+          "beispiel": "Eine Aufwandsentschädigung deckt die Fahrtkosten."
+        },
+        {
+          "wort": "überlasten",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "membebani berlebih",
+          "bedeutung_de": "überlasten",
+          "beispiel": "Man darf die Freiwilligen nicht überlasten."
+        },
+        {
+          "wort": "Hürde",
+          "artikel": "die",
+          "plural": "die Hürden",
+          "wortart": "Nomen",
+          "bedeutung_id": "hambatan, rintangan",
+          "bedeutung_de": "Hürde",
+          "beispiel": "Bürokratische Hürden halten viele fern."
+        },
+        {
+          "wort": "Generation",
+          "artikel": "die",
+          "plural": "die Generationen",
+          "wortart": "Nomen",
+          "bedeutung_id": "generasi",
+          "bedeutung_de": "Generation",
+          "beispiel": "Der Verein verbindet mehrere Generationen."
+        },
+        {
+          "wort": "bürokratisch",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "bersifat birokratis",
+          "bedeutung_de": "bürokratisch",
+          "beispiel": "Bürokratische Regeln kosten viel Zeit."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-04-teil5",
+      "skill": "lesen",
+      "teil": 5,
+      "themenfeld": "Gesellschaft & Soziales",
+      "titel": "Regeln für ein Ehrenamt im Verein",
+      "instruktion_de": "Lesen Sie die vier Absätze 1-4 und die Überschriften a-h. Welche Überschrift passt zu welchem Absatz?",
+      "instruktion_id": "Bacalah empat paragraf 1-4 dan judul a-h. Judul mana yang cocok untuk paragraf yang mana?",
+      "zeit_minuten": 6,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Ehrenamt",
+        "Regeln",
+        "Konflikte",
+        "Zuverlässigkeit",
+        "Anerkennung"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "1",
+          "titel": "Vor dem ersten Einsatz",
+          "inhalt": "Bevor Sie ein Ehrenamt übernehmen, sollten Sie sich gut informieren. Fragen Sie nach den genauen Aufgaben, nach dem zeitlichen Umfang und nach der Ausbildung, die angeboten wird. Legen Sie ehrlich fest, wie viel Zeit Sie regelmäßig aufbringen können, damit keine falschen Erwartungen entstehen. Sprechen Sie auch mit erfahrenen Mitgliedern, denn sie kennen den Alltag am besten. Wer vorher offen über Ziele und Grenzen spricht, vermeidet Enttäuschungen im Nachhinein. Notieren Sie sich am besten schriftlich, welche Aufgaben Sie übernehmen möchten."
+        },
+        {
+          "key": "2",
+          "titel": "Zuverlässigkeit",
+          "inhalt": "Wer sich verpflichtet, soll zu den vereinbarten Terminen erscheinen. Sagen Sie früh genug Bescheid, wenn Sie einmal verhindert sind, damit die anderen planen können. Übernehmen Sie lieber weniger Aufgaben und erfüllen sie zuverlässig, als sich zu viel zuzumuten. Auf Dauer zählt Verlässlichkeit mehr als Begeisterung am Anfang. So wird aus gutem Willen eine tragfähige Zusammenarbeit, auf die sich alle verlassen können. Ein kurzes Gespräch mit der Leitung klärt meist, was konkret zu tun ist, und so bleibt das Team handlungsfähig."
+        },
+        {
+          "key": "3",
+          "titel": "Umgang mit Konflikten",
+          "inhalt": "Reibungen bleiben bei gemeinsamer Arbeit nicht aus. Sprechen Sie Meinungsverschiedenheiten direkt und ruhig an, statt sie stillschweigend hinzunehmen. Hören Sie zuerst zu, bevor Sie widersprechen, denn oft steckt hinter dem Ärger eine berechtigte Sorge. Achten Sie darauf, Kritik auf die Sache zu richten und nicht auf die Person. Wer fair streitet, stärkt das Vertrauen im Team und findet leichter gemeinsame Lösungen. Kritik sollte konkret sein und sich auf ein Beispiel stützen, damit die andere Seite leichter darauf reagieren kann."
+        },
+        {
+          "key": "4",
+          "titel": "Grenzen und Anerkennung",
+          "inhalt": "Achten Sie darauf, dass Ihr Engagement Ihr eigenes Leben nicht überfordert. Es ist völlig in Ordnung, Nein zu sagen, wenn die Aufgaben zu viel werden. Nehmen Sie Fortbildungen wahr, die Ihnen Sicherheit geben. Bedanken Sie sich auch bei anderen und feiern Sie gemeinsame Erfolge, denn Anerkennung gehört zu jeder guten Zusammenarbeit. Wer seine Grenzen kennt, kann länger für die Sache da sein, die ihm wichtig ist. Wer dauerhaft über seine Kräfte geht, schadet am Ende auch der Sache selbst, die ihm doch am Herzen liegt."
+        }
+      ],
+      "luecken_text": null,
+      "optionen_saetze": null,
+      "ueberschriften": [
+        {
+          "key": "a",
+          "text": "Vor dem ersten Einsatz: Aufgaben und Zeit offen klären"
+        },
+        {
+          "key": "b",
+          "text": "Bürokratische Anträge richtig ausfüllen"
+        },
+        {
+          "key": "c",
+          "text": "Zuverlässigkeit: Zusagen einhalten und rechtzeitig absagen"
+        },
+        {
+          "key": "d",
+          "text": "Spenden sammeln für die Vereinskasse"
+        },
+        {
+          "key": "e",
+          "text": "Konflikte fair ansprechen und gemeinsam lösen"
+        },
+        {
+          "key": "f",
+          "text": "Die richtige Sportart für Anfänger wählen"
+        },
+        {
+          "key": "g",
+          "text": "Finanzielle Zuschüsse des Vereins beantragen"
+        },
+        {
+          "key": "h",
+          "text": "Eigene Grenzen kennen und Anerkennung ernst nehmen"
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 1?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 1?",
+          "optionen": null,
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 1 rät, Aufgaben und Zeitumfang vorher zu klären.",
+          "explain_id": "Paragraf 1 menyarankan untuk menjernihkan tugas dan lamanya waktu sebelumnya.",
+          "evidence": "Fragen Sie nach den genauen Aufgaben, nach dem zeitlichen Umfang"
+        },
+        {
+          "nr": 2,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 2?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 2?",
+          "optionen": null,
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 2 betont Zusagen und rechtzeitiges Absagen, also Zuverlässigkeit.",
+          "explain_id": "Paragraf 2 menekankan janji dan pemberitahuan lebih awal, yakni keandalan.",
+          "evidence": "Sagen Sie früh genug Bescheid, wenn Sie einmal verhindert sind"
+        },
+        {
+          "nr": 3,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 3?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 3?",
+          "optionen": null,
+          "loesung": [
+            "e"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 3 erklärt, wie man Konflikte fair anspricht und löst.",
+          "explain_id": "Paragraf 3 menjelaskan cara menyampaikan dan menyelesaikan konflik secara adil.",
+          "evidence": "Sprechen Sie Meinungsverschiedenheiten direkt und ruhig an"
+        }
+      ],
+      "punkte_max": 3,
+      "glossar": [
+        {
+          "wort": "verpflichten",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "mengikatkan diri, berkomitmen",
+          "bedeutung_de": "verpflichten",
+          "beispiel": "Wer sich verpflichtet, hält seine Zusagen ein."
+        },
+        {
+          "wort": "zuverlässig",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "dapat diandalkan",
+          "bedeutung_de": "zuverlässig",
+          "beispiel": "Zuverlässige Helfer sind im Verein besonders wertvoll."
+        },
+        {
+          "wort": "Verlässlichkeit",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "keandalan",
+          "bedeutung_de": "Verlässlichkeit",
+          "beispiel": "Auf Dauer zählt Verlässlichkeit mehr als Begeisterung."
+        },
+        {
+          "wort": "Reibung",
+          "artikel": "die",
+          "plural": "die Reibungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "gesekan, ketegangan",
+          "bedeutung_de": "Reibung",
+          "beispiel": "Reibungen bleiben bei gemeinsamer Arbeit nicht aus."
+        },
+        {
+          "wort": "Meinungsverschiedenheit",
+          "artikel": "die",
+          "plural": "die Meinungsverschiedenheiten",
+          "wortart": "Nomen",
+          "bedeutung_id": "perbedaan pendapat",
+          "bedeutung_de": "Meinungsverschiedenheit",
+          "beispiel": "Meinungsverschiedenheiten sollte man direkt ansprechen."
+        },
+        {
+          "wort": "widersprechen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "menyanggah, membantah",
+          "bedeutung_de": "widersprechen",
+          "beispiel": "Erst zuhören, dann widersprechen."
+        },
+        {
+          "wort": "überfordern",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "membebani berlebihan",
+          "bedeutung_de": "überfordern",
+          "beispiel": "Zu viele Aufgaben können einen überfordern."
+        },
+        {
+          "wort": "Anerkennung",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "penghargaan",
+          "bedeutung_de": "Anerkennung",
+          "beispiel": "Anerkennung gehört zu jeder guten Zusammenarbeit."
+        }
+      ]
+    }
+  ]
+}

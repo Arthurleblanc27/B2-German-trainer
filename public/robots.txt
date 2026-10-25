@@ -1,0 +1,7 @@
+# B2-Trainer — robots.txt
+# Alle Crawler dürfen die Übungsseiten indexieren.
+User-agent: *
+Allow: /
+
+# Sitemap (generiert von @astrojs/sitemap beim Build).
+Sitemap: https://b2-trainer.pages.dev/sitemap-index.xml

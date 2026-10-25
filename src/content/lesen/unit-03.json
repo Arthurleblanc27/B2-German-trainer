@@ -1,0 +1,1447 @@
+{
+  "schemaVersion": 1,
+  "id": "lesen-unit-03",
+  "skill": "lesen",
+  "unit": 3,
+  "level": "B2",
+  "themenfeld": "Medien & Digitalisierung",
+  "titel": "Digitale Medien im Familienalltag",
+  "titel_id": "Media digital dalam kehidupan keluarga sehari-hari",
+  "beschreibung_id": "Latihan membaca B2 tentang penggunaan media digital dalam kehidupan keluarga sehari-hari, dengan lima tipe soal sesuai format Goethe B2.",
+  "teile": [
+    {
+      "id": "lesen-unit-03-teil1",
+      "skill": "lesen",
+      "teil": 1,
+      "themenfeld": "Medien & Digitalisierung",
+      "titel": "Vier Familien, vier Wege im Umgang mit Medien",
+      "instruktion_de": "Lesen Sie die vier Texte. Auf welche Person treffen die Aussagen zu? Ordnen Sie zu.",
+      "instruktion_id": "Bacalah empat teks berikut. Pernyataan mana yang cocok untuk orang yang mana? Pasangkan.",
+      "zeit_minuten": 18,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Medien",
+        "Familie",
+        "Bildschirmzeit",
+        "Zuordnung",
+        "B2"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "a",
+          "titel": "Marlene (41), Mutter zweier Kinder",
+          "inhalt": "In unserem Haushalt gibt es klare Regeln für die Nutzung digitaler Medien. Bevor die Kinder ein Tablet oder ein Smartphone benutzen dürfen, müssen sie ihre Hausaufgaben erledigt und eine Stunde draußen gespielt haben. Während des Essens liegen alle Geräte in einer Kiste in der Küche, denn wir wollen, dass die Familie miteinander spricht und nicht auf Bildschirme starrt. Am Abend schalten wir das WLAN für eine Stunde ab. Ich weiß, dass manche Eltern das übertrieben finden, allerdings habe ich beobachtet, wie schnell Kinder die Zeit am Bildschirm verlieren. Außerdem schlafen meine Kinder schlechter, wenn sie vor dem Einschlafen noch Videos schauen. Deshalb halte ich feste Grenzen für sinnvoll. Zwar diskutieren wir oft darüber, doch am Ende profitiert die ganze Familie davon. Meine wichtigste Überzeugung sind klare Regeln, die für alle gelten."
+        },
+        {
+          "key": "b",
+          "titel": "Tobias (38), Vater einer Tochter",
+          "inhalt": "Ich halte wenig davon, digitale Medien einfach zu verbieten. Stattdessen versuche ich, sie gemeinsam mit meiner Tochter zu nutzen. Wenn sie ein neues Spiel ausprobiert, setze ich mich daneben und schaue zu, denn nur so verstehe ich, was sie eigentlich beschäftigt. Abends schauen wir manchmal zusammen eine Serie und sprechen anschließend darüber. Dabei geht es mir nicht um Kontrolle, sondern um Austausch. Allerdings gibt es auch bei uns Grenzen: Nach einundzwanzig Uhr bleibt das Handy in der Küche. Dennoch bin ich überzeugt, dass Verbote allein wenig bringen, zumal Kinder Verbotenes oft besonders spannend finden. Wichtiger ist, dass sie lernen, ihre Nutzung selbst zu steuern. Mein Ansatz ist also, Interesse zu zeigen und gemeinsam zu entscheiden, statt Geräte zu verstecken. Deshalb spreche ich mit meiner Tochter genauso über Spiele wie über Probleme."
+        },
+        {
+          "key": "c",
+          "titel": "Deniz (54), Großvater",
+          "inhalt": "Als meine Enkel mir zum ersten Mal zeigten, wie sie auf dem Handy zeichnen, war ich ehrlich gesagt skeptisch. Ich bin mit Büchern und einem einzigen Fernseher aufgewachsen, und die vielen Geräte erschienen mir damals unnötig. Inzwischen habe ich meine Meinung geändert, zumal ich selbst täglich mit meinem Tablet Zeitung lese und mit der Familie in anderen Städten telefoniere. Was mich jedoch nachdenklich macht, ist die ständige Ablenkung. Beim gemeinsamen Essen schauen alle auf ihre Bildschirme, und das Gespräch bleibt auf der Strecke. Folglich versuche ich, wenigstens ein Gespräch pro Tag zu führen, bei dem kein Gerät dabei ist. Ich will nicht wie ein Moralprediger klingen, allerdings finde ich, dass Familien bewusste Zeiten ohne Bildschirm brauchen. Technik ja, aber nicht immer und überall."
+        },
+        {
+          "key": "d",
+          "titel": "Klara (29), junge Mutter",
+          "inhalt": "Ich gehöre zu der Generation, die mit dem Internet groß geworden ist, daher finde ich digitale Medien im Familienalltag ganz selbstverständlich. Meine kleine Tochter darf schon Fotos anschauen und kurze Lernvideos nutzen, weil ich darin vor allem eine Chance sehe. Ich zeige ihr keine starren Regeln, sondern erkläre, was wir gerade machen und warum. Allerdings achte ich darauf, dass wir genug Zeit ohne Bildschirm verbringen, etwa beim Spazierengehen oder Kochen. Insofern sehe ich Medien nicht als Feind der Familie, sondern als Werkzeug, das man klug einsetzen kann. Natürlich gibt es Tage, an denen ich selbst zu lange am Handy bin; dann sprechen wir offen darüber. Ich möchte, dass meine Tochter einen entspannten Umgang lernt, nicht Angst vor Geräten. Deshalb setze ich auf Vorbild und Gespräch."
+        }
+      ],
+      "luecken_text": null,
+      "optionen_saetze": null,
+      "ueberschriften": null,
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person hat klare Regeln aufgestellt, die für alle in der Familie gelten.",
+          "stamm_id": "Orang ini menetapkan aturan jelas yang berlaku untuk semua anggota keluarga.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Deniz"
+            },
+            {
+              "key": "d",
+              "text": "Klara"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Marlene sagt am Ende, ihre wichtigste Überzeugung seien klare Regeln, die für alle gelten. Nur bei ihr stehen Regeln für die ganze Familie im Mittelpunkt.",
+          "explain_id": "Marlene menegaskan bahwa keyakinannya yang utama adalah aturan jelas yang berlaku untuk semua. Hanya dia yang menekankan aturan menyeluruh bagi seluruh keluarga.",
+          "evidence": "klare Regeln, die für alle gelten"
+        },
+        {
+          "nr": 2,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person will Medien nicht verbieten, sondern gemeinsam mit dem Kind nutzen.",
+          "stamm_id": "Orang ini tidak ingin melarang media, melainkan menggunakannya bersama anak.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Deniz"
+            },
+            {
+              "key": "d",
+              "text": "Klara"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Tobias sagt ausdrücklich, er versuche die Medien gemeinsam mit seiner Tochter zu nutzen. Das gemeinsame Nutzen ist sein Kennzeichen.",
+          "explain_id": "Tobias secara tegas mengatakan bahwa ia mencoba menggunakan media bersama putrinya. Penggunaan bersama adalah ciri khasnya.",
+          "evidence": "sie gemeinsam mit meiner Tochter zu nutzen"
+        },
+        {
+          "nr": 3,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person war Medien früher gegenüber skeptisch, liest heute aber selbst am Tablet Zeitung.",
+          "stamm_id": "Orang ini dulu skeptis terhadap media, tetapi kini membaca koran di tablet.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Deniz"
+            },
+            {
+              "key": "d",
+              "text": "Klara"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Deniz war anfangs skeptisch und nennt seine Meinungsänderung. Er sagt, er lese heute täglich mit dem Tablet Zeitung.",
+          "explain_id": "Deniz awalnya skeptis dan menyebutkan perubahan pendapatnya. Ia mengatakan kini setiap hari membaca koran lewat tablet.",
+          "evidence": "selbst täglich mit meinem Tablet Zeitung lese"
+        },
+        {
+          "nr": 4,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person sieht in digitalen Medien vor allem eine Chance für das Kind.",
+          "stamm_id": "Orang ini melihat media digital terutama sebagai peluang bagi anak.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Deniz"
+            },
+            {
+              "key": "d",
+              "text": "Klara"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Klara erklärt, ihre Tochter dürfe Lernvideos nutzen, weil sie darin vor allem eine Chance sehe. Damit betont sie den Gewinn der Medien.",
+          "explain_id": "Klara menjelaskan bahwa putrinya boleh menonton video belajar karena ia melihatnya terutama sebagai peluang. Ia menekankan manfaat media.",
+          "evidence": "weil ich darin vor allem eine Chance sehe"
+        },
+        {
+          "nr": 5,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person schaltet am Abend das WLAN für eine Stunde ab.",
+          "stamm_id": "Orang ini mematikan WLAN selama satu jam pada malam hari.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Deniz"
+            },
+            {
+              "key": "d",
+              "text": "Klara"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Diese konkrete Maßnahme nennt nur Marlene. Sie beschreibt, dass die Familie abends das WLAN für eine Stunde abschaltet.",
+          "explain_id": "Langkah konkret ini hanya disebutkan Marlene. Ia menuturkan bahwa keluarganya mematikan WLAN selama satu jam pada malam hari.",
+          "evidence": "Am Abend schalten wir das WLAN für eine Stunde ab"
+        },
+        {
+          "nr": 6,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person möchte mindestens ein Gespräch pro Tag führen, bei dem kein Gerät dabei ist.",
+          "stamm_id": "Orang ini ingin melakukan setidaknya satu percakapan per hari tanpa perangkat.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Deniz"
+            },
+            {
+              "key": "d",
+              "text": "Klara"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Deniz beklagt die ständige Ablenkung beim Essen und will deshalb wenigstens ein Gespräch pro Tag ohne Gerät führen.",
+          "explain_id": "Deniz mengeluhkan gangguan terus-menerus saat makan dan karena itu ingin setidaknya satu percakapan per hari tanpa perangkat.",
+          "evidence": "wenigstens ein Gespräch pro Tag zu führen"
+        },
+        {
+          "nr": 7,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person setzt auf Vorbild und Gespräch statt auf Angst vor Geräten.",
+          "stamm_id": "Orang ini mengandalkan teladan dan percakapan, bukan rasa takut terhadap perangkat.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Deniz"
+            },
+            {
+              "key": "d",
+              "text": "Klara"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Klara will, dass ihre Tochter einen entspannten Umgang lernt, und setzt deshalb auf Vorbild und Gespräch statt auf Angst.",
+          "explain_id": "Klara ingin putrinya belajar bersikap santai terhadap media dan karena itu mengandalkan teladan serta percakapan, bukan rasa takut.",
+          "evidence": "setze ich auf Vorbild und Gespräch"
+        },
+        {
+          "nr": 8,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person hält Verbote allein für wenig wirksam, weil Kinder Verbotenes spannend finden.",
+          "stamm_id": "Orang ini menilai larangan saja kurang efektif karena anak justru tertarik pada hal yang dilarang.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Deniz"
+            },
+            {
+              "key": "d",
+              "text": "Klara"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Tobias sagt, Verbote allein brächten wenig, zumal Kinder Verbotenes oft besonders spannend fänden. Damit begründet er seinen anderen Ansatz.",
+          "explain_id": "Tobias mengatakan larangan saja tidak banyak berguna, terlebih anak sering justru menganggap hal terlarang menarik. Itulah dasar pendekatannya yang berbeda.",
+          "evidence": "dass Verbote allein wenig bringen, zumal Kinder Verbotenes oft besonders spannend finden"
+        },
+        {
+          "nr": 9,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person beobachtet, dass ihre Kinder schlechter schlafen, wenn sie vor dem Einschlafen Videos sehen.",
+          "stamm_id": "Orang ini mengamati bahwa anak-anaknya lebih sulit tidur jika menonton video sebelum tidur.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Deniz"
+            },
+            {
+              "key": "d",
+              "text": "Klara"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Marlene beobachtet, dass ihre Kinder schlechter schlafen, wenn sie vor dem Einschlafen noch Videos schauen. Das ist ihr sachliches Argument für Grenzen.",
+          "explain_id": "Marlene mengamati anak-anaknya lebih sulit tidur jika menonton video sebelum tidur. Itulah argumen faktualnya untuk menetapkan batasan.",
+          "evidence": "schlafen meine Kinder schlechter, wenn sie vor dem Einschlafen noch Videos schauen"
+        }
+      ],
+      "punkte_max": 9,
+      "glossar": [
+        {
+          "wort": "die Bildschirmzeit",
+          "artikel": "die",
+          "plural": "die Bildschirmzeiten",
+          "wortart": "Nomen",
+          "bedeutung_id": "waktu di depan layar",
+          "bedeutung_de": "Zeit, die man vor einem Bildschirm verbringt",
+          "beispiel": "Die Bildschirmzeit der Kinder wird klar begrenzt."
+        },
+        {
+          "wort": "das Gerät",
+          "artikel": "das",
+          "plural": "die Geräte",
+          "wortart": "Nomen",
+          "bedeutung_id": "perangkat",
+          "bedeutung_de": "technisches Werkzeug wie Handy oder Tablet",
+          "beispiel": "Alle Geräte liegen während des Essens in einer Kiste."
+        },
+        {
+          "wort": "die Grenze",
+          "artikel": "die",
+          "plural": "die Grenzen",
+          "wortart": "Nomen",
+          "bedeutung_id": "batas",
+          "bedeutung_de": null,
+          "beispiel": "Feste Grenzen helfen im Familienalltag."
+        },
+        {
+          "wort": "der Umgang",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "cara bergaul atau menangani sesuatu",
+          "bedeutung_de": "Art und Weise, wie man mit etwas umgeht",
+          "beispiel": "Der Umgang mit Medien will gelernt sein."
+        },
+        {
+          "wort": "die Ablenkung",
+          "artikel": "die",
+          "plural": "die Ablenkungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "gangguan, distraksi",
+          "bedeutung_de": null,
+          "beispiel": "Die ständige Ablenkung stört jedes Gespräch."
+        },
+        {
+          "wort": "der Verstoß",
+          "artikel": "der",
+          "plural": "die Verstöße",
+          "wortart": "Nomen",
+          "bedeutung_id": "pelanggaran",
+          "bedeutung_de": null,
+          "beispiel": "Ein Verstoß gegen die Regel hat Folgen."
+        },
+        {
+          "wort": "das Vorbild",
+          "artikel": "das",
+          "plural": "die Vorbilder",
+          "wortart": "Nomen",
+          "bedeutung_id": "teladan",
+          "bedeutung_de": "Person, an der sich andere orientieren",
+          "beispiel": "Eltern sind ein Vorbild für ihre Kinder."
+        },
+        {
+          "wort": "verbieten",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "melarang",
+          "bedeutung_de": null,
+          "beispiel": "Manche Eltern verbieten das Handy am Esstisch."
+        },
+        {
+          "wort": "gestalten",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "menata, membentuk",
+          "bedeutung_de": null,
+          "beispiel": "Wir gestalten den Alltag gemeinsam."
+        },
+        {
+          "wort": "das WLAN",
+          "artikel": "das",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "jaringan internet nirkabel (WiFi)",
+          "bedeutung_de": null,
+          "beispiel": "Abends schalten wir das WLAN ab."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-03-teil2",
+      "skill": "lesen",
+      "teil": 2,
+      "themenfeld": "Medien & Digitalisierung",
+      "titel": "Wenn das Handy mit am Esstisch sitzt",
+      "instruktion_de": "Lesen Sie den Text. An welcher Stelle passt welcher Satz aus der Liste? Zwei Sätze passen nicht.",
+      "instruktion_id": "Bacalah teks berikut. Kalimat mana dari daftar yang cocok mengisi keenam celah? Dua kalimat tidak cocok.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Medien",
+        "Familie",
+        "Erziehung",
+        "Satzlücke",
+        "B2"
+      ],
+      "audio": null,
+      "texte": null,
+      "luecken_text": "In vielen Familien bestimmen Smartphones und Tablets inzwischen den Tagesablauf. Was früher ein gemeinsames Abendessen mit Gesprächen war, ist heute oft eine Runde schweigender Menschen, die auf ihre Bildschirme schauen. Eltern fragen sich, wie viel Zeit vor dem Display noch vertretbar ist.\n\nDie Antwort hängt stark vom Alter der Kinder ab. Bei Kleinkindern raten Fachleute zu klaren Zeitfenstern, die nicht länger als eine halbe Stunde dauern. [[1]]\n\nBei älteren Kindern geht es weniger um Minuten als um Inhalte. Wer mit Zwölfjährigen über Spiele oder soziale Netzwerke spricht, merkt schnell, dass Verbote allein nichts bewirken. [[2]]\n\nEin weiterer Punkt ist das Vorbild der Eltern. Kinder beobachten sehr genau, wie die Erwachsenen selbst mit dem Handy umgehen. [[3]]\n\nGleichzeitig darf man digitale Medien nicht nur als Risiko betrachten. Lern-Apps, Erklärvideos und gemeinsame Filme können den Familienalltag bereichern. [[4]]\n\nViele Eltern berichten allerdings, dass die ständige Erreichbarkeit sie selbst unter Druck setzt. [[5]]\n\nAm Ende hilft weniger ein perfekter Plan als ein offenes Gespräch. Familien, die regelmäßig über ihre Mediennutzung sprechen, finden meist einen Weg, der zu ihnen passt. [[6]]",
+      "optionen_saetze": [
+        {
+          "key": "a",
+          "text": "Wenn Eltern ständig auf ihr Handy schauen, wirken Ermahnungen wenig überzeugend."
+        },
+        {
+          "key": "b",
+          "text": "Entscheidend ist also, wie Medien eingesetzt werden, nicht ob sie überhaupt genutzt werden."
+        },
+        {
+          "key": "c",
+          "text": "Denn Regeln, die nur von oben verordnet werden, halten selten lange."
+        },
+        {
+          "key": "d",
+          "text": "Wichtig ist dabei, dass die Eltern die Zeit gemeinsam mit dem Kind verbringen und nicht bloß das Gerät als Ersatz nutzen."
+        },
+        {
+          "key": "e",
+          "text": "Auch die Ausstattung der Wohnung wird in diesem Zusammenhang oft diskutiert."
+        },
+        {
+          "key": "f",
+          "text": "Sinnvoller ist es, Interesse zu zeigen und miteinander über das Gesehene zu reden."
+        },
+        {
+          "key": "g",
+          "text": "Aus diesem Grund kaufen viele Familien jedes Jahr neue Geräte."
+        },
+        {
+          "key": "h",
+          "text": "Daher tut es vielen gut, feste Zeiten festzulegen, in denen niemand erreichbar sein muss."
+        }
+      ],
+      "ueberschriften": null,
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 1?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 1?",
+          "optionen": null,
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Vor der Lücke ist von klaren Zeitfenstern für Kleinkinder die Rede. Satz d greift genau dieses Thema auf, weil er das gemeinsame Verbringen der Zeit betont.",
+          "explain_id": "Sebelum celah dibahas jendela waktu yang jelas bagi anak balita. Kalimat d mengangkat tema itu karena menekankan pentingnya menghabiskan waktu bersama.",
+          "evidence": "Bei Kleinkindern raten Fachleute zu klaren Zeitfenstern, die nicht länger als eine halbe Stunde dauern"
+        },
+        {
+          "nr": 2,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 2?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 2?",
+          "optionen": null,
+          "loesung": [
+            "f"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text stellt fest, dass Verbote allein nichts bewirken. Satz f nennt mit Interesse und Gespräch eine sinnvollere Alternative.",
+          "explain_id": "Teks menyatakan bahwa larangan saja tidak membuahkan hasil. Kalimat f menyebut minat dan percakapan sebagai alternatif yang lebih baik.",
+          "evidence": "Wer mit Zwölfjährigen über Spiele oder soziale Netzwerke spricht, merkt schnell, dass Verbote allein nichts bewirken"
+        },
+        {
+          "nr": 3,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 3?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 3?",
+          "optionen": null,
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Zuvor geht es um das Vorbild der Eltern. Satz a knüpft direkt an das Handyverhalten der Erwachsenen an.",
+          "explain_id": "Sebelumnya dibahas teladan orang tua. Kalimat a langsung bersambung dengan perilaku orang dewasa terhadap ponsel.",
+          "evidence": "Kinder beobachten sehr genau, wie die Erwachsenen selbst mit dem Handy umgehen"
+        },
+        {
+          "nr": 4,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 4?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 4?",
+          "optionen": null,
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Absatz betont, dass Medien auch bereichern können. Satz b fasst zusammen, dass es auf den Einsatz ankommt, nicht auf die Medien selbst.",
+          "explain_id": "Paragraf menekankan bahwa media juga dapat memperkaya. Kalimat b merangkum bahwa yang menentukan adalah cara penggunaannya, bukan medianya.",
+          "evidence": "Lern-Apps, Erklärvideos und gemeinsame Filme können den Familienalltag bereichern"
+        },
+        {
+          "nr": 5,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 5?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 5?",
+          "optionen": null,
+          "loesung": [
+            "h"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text nennt den Druck durch ständige Erreichbarkeit. Satz h schlägt mit festen Zeiten ohne Erreichbarkeit eine passende Lösung vor.",
+          "explain_id": "Teks menyebut tekanan akibat selalu bisa dihubungi. Kalimat h menawarkan solusi berupa waktu tetap saat tak seorang pun harus bisa dihubungi.",
+          "evidence": "Viele Eltern berichten allerdings, dass die ständige Erreichbarkeit sie selbst unter Druck setzt"
+        },
+        {
+          "nr": 6,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 6?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 6?",
+          "optionen": null,
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Schluss betont das offene Gespräch in der Familie. Satz c begründet, warum rein verordnete Regeln nicht lange halten.",
+          "explain_id": "Penutup menekankan percakapan terbuka dalam keluarga. Kalimat c menjelaskan mengapa aturan yang hanya diperintahkan tidak bertahan lama.",
+          "evidence": "Familien, die regelmäßig über ihre Mediennutzung sprechen, finden meist einen Weg, der zu ihnen passt"
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "der Tagesablauf",
+          "artikel": "der",
+          "plural": "die Tagesabläufe",
+          "wortart": "Nomen",
+          "bedeutung_id": "rutinitas harian",
+          "bedeutung_de": null,
+          "beispiel": "Digitale Medien bestimmen den Tagesablauf vieler Familien."
+        },
+        {
+          "wort": "vertretbar",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "dapat dipertanggungjawabkan, wajar",
+          "bedeutung_de": null,
+          "beispiel": "Wie viel Bildschirmzeit ist noch vertretbar?"
+        },
+        {
+          "wort": "das Zeitfenster",
+          "artikel": "das",
+          "plural": "die Zeitfenster",
+          "wortart": "Nomen",
+          "bedeutung_id": "jendela waktu",
+          "bedeutung_de": "festgelegter Zeitraum für eine Tätigkeit",
+          "beispiel": "Fachleute empfehlen klare Zeitfenster."
+        },
+        {
+          "wort": "bewirken",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "menghasilkan, menimbulkan",
+          "bedeutung_de": null,
+          "beispiel": "Verbote allein bewirken wenig."
+        },
+        {
+          "wort": "die Erreichbarkeit",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "keadaan selalu bisa dihubungi",
+          "bedeutung_de": null,
+          "beispiel": "Die ständige Erreichbarkeit setzt Eltern unter Druck."
+        },
+        {
+          "wort": "bereichern",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "memperkaya",
+          "bedeutung_de": null,
+          "beispiel": "Gute Filme bereichern den Familienalltag."
+        },
+        {
+          "wort": "verordnen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "memerintahkan, menetapkan secara sepihak",
+          "bedeutung_de": null,
+          "beispiel": "Regeln, die von oben verordnet werden, halten selten."
+        },
+        {
+          "wort": "der Ersatz",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "pengganti",
+          "bedeutung_de": null,
+          "beispiel": "Das Gerät sollte kein Ersatz für gemeinsame Zeit sein."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-03-teil3",
+      "skill": "lesen",
+      "teil": 3,
+      "themenfeld": "Medien & Digitalisierung",
+      "titel": "Wenn das Handy den Ton angibt",
+      "instruktion_de": "Lesen Sie den Text und die Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+      "instruktion_id": "Bacalah teks dan soal berikut. Pilih jawaban yang benar a, b, atau c pada setiap soal.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Medien",
+        "Jugend",
+        "Konflikt",
+        "Leseverstehen",
+        "B2"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "text",
+          "titel": "Wenn das Handy den Ton angibt",
+          "inhalt": "In kaum einem Bereich gibt es in Familien so viel Streit wie bei der Nutzung von Smartphone und Tablet. Eltern fürchten, dass ihre Kinder die Kontrolle verlieren; Jugendliche fühlen sich dagegen bevormundet. Kaum ein Abend vergeht, an dem nicht über eine verlorene Stunde am Bildschirm diskutiert wird. Dabei geht es bei diesem Konflikt selten nur um Technik, sondern vor allem um Vertrauen und Regeln.\n\nBefürworter fester Grenzen argumentieren, dass ein klares Zeitlimit Kinder schützt. Wer etwa eine Stunde Bildschirmzeit pro Tag festlegt, verhindert, dass Hausaufgaben und Schlaf zu kurz kommen. Hinsichtlich der Gesundheit verweisen Ärzte auf Bewegung und ausreichenden Schlaf, die unter stundenlangem Videoschauen leiden können. Folglich sei eine Begrenzung nicht Erziehungsstrenge, sondern Fürsorge. Viele Pädagogen unterstützen deshalb feste Absprachen in der Familie.\n\nAllerdings greift diese Sicht zu kurz, denn sie unterschätzt die Selbstständigkeit Jugendlicher. Zumal Heranwachsende in der Schule und im Freundeskreis längst mit digitalen Medien umgehen, wirkt ein Verbot oft wie ein Fremdkörper in ihrer Welt. Ein Verbot verhindert nicht die Nutzung, sondern verlagert sie nur an Orte, die Eltern nicht sehen. Darüber hinaus lernen Jugendliche gerade im Netz, sich selbst zu organisieren.\n\nEin Beispiel aus dem Alltag zeigt, wie schwierig Verbote sind. Eine Familie beschließt, am Abend alle Geräte einzusammeln. Die Tochter nutzt daraufhin heimlich das alte Tablet im Keller, und das Vertrauen zwischen Eltern und Kind leidet stärker als der Schlaf. Nicht nur die Regel selbst, sondern auch der heimliche Verstoß beschäftigt die Familie danach wochenlang.\n\nEin anderer Weg ist der gemeinsame Umgang mit Medien. Eltern, die sich für die Spiele und Videos ihrer Kinder interessieren, erfahren mehr und können besser einschätzen, welche Inhalte problematisch sind. Zwar kostet dieses Interesse Zeit, doch es ersetzt nicht die Kontrolle, sondern macht sie klüger. So entsteht ein Gespräch, das Kontrolle und Vertrauen miteinander verbindet.\n\nInsofern bleibt die Frage nach der richtigen Balance. Weder ein strenges Verbot noch völlige Freiheit helfen Familien weiter. Entscheidend ist vielmehr, dass Eltern und Kinder immer wieder miteinander sprechen und Regeln gemeinsam anpassen. Einerseits braucht es klare Grenzen, andererseits Raum für Selbstständigkeit. Wer diesen Mittelweg findet, muss weniger kontrollieren, und die Technik bleibt, was sie sein sollte: ein Werkzeug."
+        }
+      ],
+      "luecken_text": null,
+      "optionen_saetze": null,
+      "ueberschriften": null,
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "mc3",
+          "stamm_de": "Was fürchten viele Eltern laut dem Text?",
+          "stamm_id": "Menurut teks, apa yang ditakuti banyak orang tua?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "dass sie selbst zu viel Zeit am Handy verbringen"
+            },
+            {
+              "key": "b",
+              "text": "dass ihre Kinder die Kontrolle über die Nutzung verlieren"
+            },
+            {
+              "key": "c",
+              "text": "dass die Schule zu wenig über Medien spricht"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text nennt die Sorge der Eltern, dass ihre Kinder die Kontrolle verlieren. Option a verwechselt die Personen, Option c führt ein Thema ein, das nicht im Text steht.",
+          "explain_id": "Teks menyebut kekhawatiran orang tua bahwa anak-anak kehilangan kendali. Opsi a salah orang, opsi c memasukkan hal yang tidak ada di teks.",
+          "evidence": "Eltern fürchten, dass ihre Kinder die Kontrolle verlieren"
+        },
+        {
+          "nr": 2,
+          "typ": "mc3",
+          "stamm_de": "Was sagen Befürworter fester Zeitlimits?",
+          "stamm_id": "Apa yang dikatakan para pendukung batas waktu yang tegas?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "dass ein klares Limit reine Erziehungsstrenge ist"
+            },
+            {
+              "key": "b",
+              "text": "dass ein klares Zeitlimit Kinder schützt"
+            },
+            {
+              "key": "c",
+              "text": "dass Verbote grundsätzlich wirkungslos sind"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text gibt die Position der Befürworter wieder: Ein klares Zeitlimit schützt Kinder. Option a verdreht die Aussage zum Gegenteil, Option c ist die Gegenposition.",
+          "explain_id": "Teks mengutip posisi para pendukung: batas waktu yang jelas melindungi anak. Opsi a memutarbalikkan pernyataan, opsi c justru posisi lawan.",
+          "evidence": "dass ein klares Zeitlimit Kinder schützt"
+        },
+        {
+          "nr": 3,
+          "typ": "mc3",
+          "stamm_de": "Warum greift die Sicht der Befürworter laut Text zu kurz?",
+          "stamm_id": "Menurut teks, mengapa pandangan para pendukung itu kurang tepat?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sie unterschätzt die Selbstständigkeit Jugendlicher."
+            },
+            {
+              "key": "b",
+              "text": "Sie berücksichtigt die Gesundheit der Kinder zu wenig."
+            },
+            {
+              "key": "c",
+              "text": "Sie erklärt den Streit in der Schule nicht vollständig."
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text sagt, die Sicht unterschätze die Selbstständigkeit Jugendlicher. Option b widerspricht dem Text, der die Gesundheit ausdrücklich behandelt; Option c führt die Schule als falschen Ort ein.",
+          "explain_id": "Teks menyatakan pandangan itu meremehkan kemandirian remaja. Opsi b bertentangan karena teks justru membahas kesehatan; opsi c menyebut sekolah sebagai hal yang salah.",
+          "evidence": "sie unterschätzt die Selbstständigkeit Jugendlicher"
+        },
+        {
+          "nr": 4,
+          "typ": "mc3",
+          "stamm_de": "Was zeigt das Beispiel der Familie aus dem Text?",
+          "stamm_id": "Apa yang ditunjukkan contoh keluarga dalam teks?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Ein Verbot verlagert die Nutzung nur und schädigt das Vertrauen."
+            },
+            {
+              "key": "b",
+              "text": "Der Schlaf der Tochter wurde durch die Regel deutlich besser."
+            },
+            {
+              "key": "c",
+              "text": "Die Eltern gaben ihre Regeln vollständig auf."
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Im Beispiel nutzt die Tochter heimlich weiter, und das Vertrauen leidet. Option b widerspricht dem Text, Option c übertreibt, weil von einer Aufgabe der Regeln nicht die Rede ist.",
+          "explain_id": "Dalam contoh, putri tetap menggunakannya diam-diam dan kepercayaan pun rusak. Opsi b bertentangan dengan teks, opsi c berlebihan karena aturan tidak ditinggalkan.",
+          "evidence": "Ein Verbot verhindert nicht die Nutzung, sondern verlagert sie nur"
+        },
+        {
+          "nr": 5,
+          "typ": "mc3",
+          "stamm_de": "Welchen Vorteil hat der gemeinsame Umgang mit Medien laut Text?",
+          "stamm_id": "Menurut teks, apa keuntungan penggunaan media secara bersama?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Er ersetzt jede Kontrolle durch die Eltern."
+            },
+            {
+              "key": "b",
+              "text": "Er macht die Kontrolle klüger, weil Eltern Inhalte besser einschätzen können."
+            },
+            {
+              "key": "c",
+              "text": "Er kostet die Eltern keine Zeit."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text betont, das Interesse ersetze die Kontrolle nicht, sondern mache sie klüger. Option a verdreht dieses Verhältnis, Option c widerspricht der Aussage, dass Interesse Zeit kostet.",
+          "explain_id": "Teks menegaskan minat tidak menggantikan kontrol, melainkan membuatnya lebih cerdas. Opsi a memutarbalikkan hubungan itu, opsi c bertentangan karena minat memakan waktu.",
+          "evidence": "es ersetzt nicht die Kontrolle, sondern macht sie klüger"
+        },
+        {
+          "nr": 6,
+          "typ": "mc3",
+          "stamm_de": "Was empfiehlt der Text am Ende?",
+          "stamm_id": "Apa yang disarankan teks pada akhirnya?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "strenge Verbote konsequent durchzusetzen"
+            },
+            {
+              "key": "b",
+              "text": "Kindern völlige Freiheit ohne Grenzen zu geben"
+            },
+            {
+              "key": "c",
+              "text": "einen Mittelweg mit Gesprächen und gemeinsam angepassten Regeln"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Schluss lehnt beide Extreme ab und empfiehlt Gespräche sowie gemeinsam angepasste Regeln. Die Optionen a und b sind genau die beiden Extreme, die der Text verneint.",
+          "explain_id": "Penutup menolak kedua ekstrem dan menyarankan percakapan serta aturan yang disesuaikan bersama. Opsi a dan b justru kedua ekstrem yang ditolak teks.",
+          "evidence": "dass Eltern und Kinder immer wieder miteinander sprechen und Regeln gemeinsam anpassen"
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "der Streit",
+          "artikel": "der",
+          "plural": "die Streitigkeiten",
+          "wortart": "Nomen",
+          "bedeutung_id": "pertengkaran, perselisihan",
+          "bedeutung_de": null,
+          "beispiel": "Über Bildschirmzeit gibt es oft Streit."
+        },
+        {
+          "wort": "bevormunden",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "menggurui, mengatur secara berlebihan",
+          "bedeutung_de": null,
+          "beispiel": "Jugendliche fühlen sich schnell bevormundet."
+        },
+        {
+          "wort": "das Zeitlimit",
+          "artikel": "das",
+          "plural": "die Zeitlimits",
+          "wortart": "Nomen",
+          "bedeutung_id": "batas waktu",
+          "bedeutung_de": null,
+          "beispiel": "Ein Zeitlimit schützt Kinder vor zu wenig Schlaf."
+        },
+        {
+          "wort": "die Fürsorge",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "perhatian, kepedulian",
+          "bedeutung_de": null,
+          "beispiel": "Die Begrenzung sei Fürsorge, nicht Strenge."
+        },
+        {
+          "wort": "die Selbstständigkeit",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "kemandirian",
+          "bedeutung_de": null,
+          "beispiel": "Verbote unterschätzen die Selbstständigkeit Jugendlicher."
+        },
+        {
+          "wort": "verlagern",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "memindahkan",
+          "bedeutung_de": null,
+          "beispiel": "Ein Verbot verlagert die Nutzung nur."
+        },
+        {
+          "wort": "heimlich",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "diam-diam, sembunyi-sembunyi",
+          "bedeutung_de": null,
+          "beispiel": "Die Tochter nutzt heimlich das alte Tablet."
+        },
+        {
+          "wort": "die Balance",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "keseimbangan",
+          "bedeutung_de": null,
+          "beispiel": "Familien suchen die richtige Balance."
+        },
+        {
+          "wort": "anpassen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "menyesuaikan",
+          "bedeutung_de": null,
+          "beispiel": "Regeln sollte man gemeinsam anpassen."
+        },
+        {
+          "wort": "das Werkzeug",
+          "artikel": "das",
+          "plural": "die Werkzeuge",
+          "wortart": "Nomen",
+          "bedeutung_id": "alat",
+          "bedeutung_de": null,
+          "beispiel": "Die Technik bleibt am Ende ein Werkzeug."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-03-teil4",
+      "skill": "lesen",
+      "teil": 4,
+      "themenfeld": "Medien & Digitalisierung",
+      "titel": "Vier Meinungen zum digitalen Familienalltag",
+      "instruktion_de": "Lesen Sie die vier Texte. Welche Person äußert welche Meinung? Ordnen Sie zu.",
+      "instruktion_id": "Bacalah empat teks berikut. Pendapat mana yang diungkapkan orang yang mana? Pasangkan.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Medien",
+        "Meinungen",
+        "Familie",
+        "Zuordnung",
+        "B2"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "a",
+          "titel": "Frau Bergmann (47), Lehrerin",
+          "inhalt": "Ich sehe in der Schule jeden Tag, wie unterschiedlich Kinder mit Medien umgehen. Einerseits nutzen viele das Handy ganz selbstverständlich für Recherchen, was ich durchaus begrüße. Andererseits fehlt es ihnen oft an Konzentration, sobald eine längere Aufgabe ansteht. Meine Erfahrung ist, dass Regeln nur dann funktionieren, wenn sie erklärt werden. Ich halte nichts davon, Geräte einfach zu beschlagnahmen, denn das führt nur zu heimlicher Nutzung. Wichtiger finde ich, Medienkompetenz als eigenes Fach zu unterrichten. Eltern sollten dieselben Regeln anwenden wie wir in der Schule, sonst bleibt jede Erziehung wirkungslos. Am besten ist ein klarer Rahmen mit verständlichen Gründen."
+        },
+        {
+          "key": "b",
+          "titel": "Herr Wagner (35), Vater zweier Kinder",
+          "inhalt": "Als Vater zweier kleiner Kinder versuche ich, ruhig zu bleiben, wenn es um Bildschirmzeit geht. Meine Frau und ich haben beschlossen, dass wir nicht mit Verboten arbeiten, sondern mit Alternativen. Wenn unser Sohn Langweile hat, bieten wir etwas anderes an, statt einfach das Tablet wegzunehmen. Das klappt nicht immer, aber meistens. Ich bin überzeugt, dass Kinder den Umgang mit Medien nur lernen, wenn sie ihn ausprobieren dürfen. Trotzdem gibt es klare Zeiten, etwa während des Essens und vor dem Schlafengehen. Was ich ablehne, ist ein ständiges Verhandeln über jede einzelne Minute. Familien brauchen wenige, aber feste Regeln."
+        },
+        {
+          "key": "c",
+          "titel": "Sara (22), Studentin",
+          "inhalt": "Ich bin mit dem Handy aufgewachsen und merke, wie sehr das meine Familie geprägt hat. Meine Eltern waren nie streng, was die Nutzung angeht, und ich glaube, das hat mir geholfen, selbst maßvoll zu bleiben. Allerdings sehe ich auch die Schattenseiten: Bei Familientreffen schaut heute kaum noch jemand auf, statt zu reden starrt jeder auf den Bildschirm. Ich würde mir wünschen, dass wir öfter bewusste Pausen einlegen. Gleichzeitig finde ich die ständige Kritik an jungen Menschen übertrieben. Verbote von oben bringen wenig; wichtig ist, dass man lernt, Grenzen selbst zu setzen."
+        },
+        {
+          "key": "d",
+          "titel": "Peter (44), Berufstätiger",
+          "inhalt": "Bei mir zu Hause dreht sich der Streit fast jeden Abend um dieselbe Frage: Wer darf wann welches Gerät benutzen? Ehrlich gesagt finde ich die Regeln meiner Frau sinnvoll, auch wenn ich sie früher für zu streng hielt. Inzwischen sehe ich, dass klare Absprachen den Streit eher verringern. Was mich stört, ist die ständige Erreichbarkeit im Beruf; selbst beim Abendessen melden sich Kollegen. Deshalb habe ich für mich beschlossen, das Handy ab acht Uhr auszuschalten. Diese kleine Regel hat unseren Abend spürbar entspannt. Von meinen Kindern erwarte ich nichts, was ich nicht selbst tue."
+        }
+      ],
+      "luecken_text": null,
+      "optionen_saetze": null,
+      "ueberschriften": null,
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person findet, dass Kinder den Umgang mit Medien nur durch eigenes Ausprobieren lernen.",
+          "stamm_id": "Orang ini menilai anak hanya belajar menggunakan media dengan mencobanya sendiri.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Frau Bergmann"
+            },
+            {
+              "key": "b",
+              "text": "Herr Wagner"
+            },
+            {
+              "key": "c",
+              "text": "Sara"
+            },
+            {
+              "key": "d",
+              "text": "Peter"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Herr Wagner ist überzeugt, dass Kinder den Umgang mit Medien nur lernen, wenn sie ihn ausprobieren dürfen. Deshalb setzt er auf Alternativen statt Verbote.",
+          "explain_id": "Herr Wagner yakin anak hanya belajar menggunakan media jika diperbolehkan mencobanya. Karena itu ia memilih alternatif, bukan larangan.",
+          "evidence": "dass Kinder den Umgang mit Medien nur lernen, wenn sie ihn ausprobieren dürfen"
+        },
+        {
+          "nr": 2,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person kritisiert, dass bei Familientreffen kaum noch gesprochen wird.",
+          "stamm_id": "Orang ini mengkritik bahwa saat acara keluarga hampir tidak ada lagi yang berbicara.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Frau Bergmann"
+            },
+            {
+              "key": "b",
+              "text": "Herr Wagner"
+            },
+            {
+              "key": "c",
+              "text": "Sara"
+            },
+            {
+              "key": "d",
+              "text": "Peter"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Sara beschreibt, dass bei Familientreffen alle auf den Bildschirm starren statt zu reden. Sie wünscht sich bewusste Pausen.",
+          "explain_id": "Sara menuturkan bahwa saat acara keluarga semua menatap layar daripada berbicara. Ia menginginkan jeda yang sadar.",
+          "evidence": "Bei Familientreffen schaut heute kaum noch jemand auf, statt zu reden starrt jeder auf den Bildschirm"
+        },
+        {
+          "nr": 3,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person möchte, dass Medienkompetenz in der Schule als eigenes Fach unterrichtet wird.",
+          "stamm_id": "Orang ini ingin kompetensi media diajarkan sebagai mata pelajaran tersendiri di sekolah.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Frau Bergmann"
+            },
+            {
+              "key": "b",
+              "text": "Herr Wagner"
+            },
+            {
+              "key": "c",
+              "text": "Sara"
+            },
+            {
+              "key": "d",
+              "text": "Peter"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Frau Bergmann sagt, sie fände es wichtiger, Medienkompetenz als eigenes Fach zu unterrichten. Das ist ihre bildungspolitische Forderung.",
+          "explain_id": "Frau Bergmann mengatakan lebih penting mengajarkan kompetensi media sebagai mata pelajaran tersendiri. Itulah tuntutannya di bidang pendidikan.",
+          "evidence": "Medienkompetenz als eigenes Fach zu unterrichten"
+        },
+        {
+          "nr": 4,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person schaltet das eigene Handy abends bewusst aus.",
+          "stamm_id": "Orang ini sengaja mematikan ponselnya sendiri pada malam hari.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Frau Bergmann"
+            },
+            {
+              "key": "b",
+              "text": "Herr Wagner"
+            },
+            {
+              "key": "c",
+              "text": "Sara"
+            },
+            {
+              "key": "d",
+              "text": "Peter"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Peter hat beschlossen, sein Handy ab acht Uhr auszuschalten, weil ihn die ständige Erreichbarkeit stört. Diese persönliche Maßnahme nennt nur er.",
+          "explain_id": "Peter memutuskan mematikan ponselnya sejak pukul delapan karena terganggu oleh keadaan selalu bisa dihubungi. Langkah pribadi ini hanya disebutnya.",
+          "evidence": "das Handy ab acht Uhr auszuschalten"
+        },
+        {
+          "nr": 5,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person hält die Kritik an jungen Menschen für übertrieben.",
+          "stamm_id": "Orang ini menilai kritik terhadap anak muda berlebihan.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Frau Bergmann"
+            },
+            {
+              "key": "b",
+              "text": "Herr Wagner"
+            },
+            {
+              "key": "c",
+              "text": "Sara"
+            },
+            {
+              "key": "d",
+              "text": "Peter"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Sara findet die ständige Kritik an jungen Menschen übertrieben und plädiert dafür, selbst Grenzen zu setzen. Das hebt sie als eigene Generation hervor.",
+          "explain_id": "Sara menilai kritik terus-menerus terhadap anak muda berlebihan dan menyerukan agar mereka menetapkan batas sendiri. Hal itu ia angkat sebagai generasinya.",
+          "evidence": "finde ich die ständige Kritik an jungen Menschen übertrieben"
+        },
+        {
+          "nr": 6,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person hat ihre Meinung über die Regeln in der Familie im Laufe der Zeit geändert.",
+          "stamm_id": "Orang ini mengubah pendapatnya tentang aturan dalam keluarga seiring waktu.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Frau Bergmann"
+            },
+            {
+              "key": "b",
+              "text": "Herr Wagner"
+            },
+            {
+              "key": "c",
+              "text": "Sara"
+            },
+            {
+              "key": "d",
+              "text": "Peter"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Peter sagt, er halte die Regeln seiner Frau heute für sinnvoll, früher aber für zu streng. Damit beschreibt er einen Wandel seiner Meinung.",
+          "explain_id": "Peter mengatakan kini ia menilai aturan istrinya masuk akal, tetapi dulu dianggap terlalu ketat. Ia menggambarkan perubahan pendapatnya.",
+          "evidence": "auch wenn ich sie früher für zu streng hielt"
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "die Konzentration",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "konsentrasi",
+          "bedeutung_de": null,
+          "beispiel": "Bei langen Aufgaben fehlt die Konzentration."
+        },
+        {
+          "wort": "beschlagnahmen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "menyita",
+          "bedeutung_de": null,
+          "beispiel": "Man sollte Geräte nicht einfach beschlagnahmen."
+        },
+        {
+          "wort": "die Medienkompetenz",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "kompetensi media",
+          "bedeutung_de": null,
+          "beispiel": "Medienkompetenz sollte ein eigenes Fach sein."
+        },
+        {
+          "wort": "der Rahmen",
+          "artikel": "der",
+          "plural": "die Rahmen",
+          "wortart": "Nomen",
+          "bedeutung_id": "kerangka, batasan",
+          "bedeutung_de": null,
+          "beispiel": "Kinder brauchen einen klaren Rahmen."
+        },
+        {
+          "wort": "die Alternative",
+          "artikel": "die",
+          "plural": "die Alternativen",
+          "wortart": "Nomen",
+          "bedeutung_id": "alternatif, pilihan lain",
+          "bedeutung_de": null,
+          "beispiel": "Statt Verbote nutzen wir Alternativen."
+        },
+        {
+          "wort": "verhandeln",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "bernegosiasi",
+          "bedeutung_de": null,
+          "beispiel": "Ständiges Verhandeln über Minuten nervt."
+        },
+        {
+          "wort": "prägen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "membentuk, memberi pengaruh kuat",
+          "bedeutung_de": null,
+          "beispiel": "Das Handy hat meine Familie stark geprägt."
+        },
+        {
+          "wort": "maßvoll",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "secukupnya, tidak berlebihan",
+          "bedeutung_de": null,
+          "beispiel": "Ich versuche, maßvoll zu bleiben."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-03-teil5",
+      "skill": "lesen",
+      "teil": 5,
+      "themenfeld": "Medien & Digitalisierung",
+      "titel": "Nutzungsregeln für Bildschirmzeit",
+      "instruktion_de": "Lesen Sie die vier Absätze. Welche Überschrift passt? Wählen Sie für jede Aufgabe die richtige Lösung.",
+      "instruktion_id": "Bacalah keempat paragraf berikut. Judul mana yang cocok? Pilih jawaban yang benar untuk setiap soal.",
+      "zeit_minuten": 6,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Medien",
+        "Regeln",
+        "Bildschirmzeit",
+        "Überschrift",
+        "B2"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "1",
+          "titel": "Regel 1",
+          "inhalt": "1. Bildschirmzeit wird täglich auf höchstens neunzig Minuten begrenzt. Für Kinder unter zehn Jahren gilt eine Grenze von sechzig Minuten. Die Zeit wird von den Eltern zu Beginn der Woche gemeinsam geplant und schriftlich festgehalten. Zwischen acht Uhr morgens und acht Uhr abends ist die Nutzung erlaubt; danach werden alle Geräte ausgeschaltet und an einen festen Platz in der Küche gelegt. Ausnahmen gelten nur für Hausaufgaben oder für ein gemeinsames Familienprogramm."
+        },
+        {
+          "key": "2",
+          "titel": "Regel 2",
+          "inhalt": "2. Vor dem Essen werden alle Geräte weggelegt. Während der Mahlzeiten darf niemand telefonieren, Nachrichten lesen oder Videos schauen. Diese Regel gilt ausdrücklich für Erwachsene und Kinder gleichermaßen. Wer gegen sie verstößt, räumt anschließend den Tisch ab. Ziel ist es, dass die Familie mindestens einmal am Tag ohne Ablenkung miteinander spricht und sich austauscht. Besucher werden zu Beginn des Essens höflich gebeten, ihre Geräte ebenfalls zu verstauen. So bleibt Zeit für ein echtes Gespräch."
+        },
+        {
+          "key": "3",
+          "titel": "Regel 3",
+          "inhalt": "3. Inhalte müssen dem Alter der Kinder entsprechen. Filme und Spiele, die für Erwachsene freigegeben sind, dürfen von Kindern und Jugendlichen nicht genutzt werden. Neue Apps werden vor der ersten Nutzung von einem Elternteil geprüft. Bei Unsicherheit entscheidet die Familie gemeinsam. Eltern behalten sich das Recht vor, problematische Anwendungen zu sperren. Über die Gründe für ein Verbot wird immer offen gesprochen, damit die Kinder die Regel verstehen und nicht heimlich handeln."
+        },
+        {
+          "key": "4",
+          "titel": "Regel 4",
+          "inhalt": "4. Jede Woche gibt es einen bildschirmfreien Tag. An diesem Tag bleiben Handys, Tablets und Computer aus, solange sie nicht für die Schule benötigt werden. Stattdessen plant die Familie gemeinsame Aktivitäten: Ausflüge, Brettspiele oder Sport. Der Tag wird zu Beginn des Monats festgelegt, damit alle ihn einplanen können. Wer ihn vergisst, darf ihn in Absprache nachholen. Ziel ist nicht Bestrafung, sondern die Erfahrung, dass Freizeit auch ohne Bildschirm schön sein kann."
+        }
+      ],
+      "luecken_text": null,
+      "optionen_saetze": null,
+      "ueberschriften": [
+        {
+          "key": "a",
+          "text": "Feste Zeiten und klare Obergrenzen für die Nutzung"
+        },
+        {
+          "key": "b",
+          "text": "Gerätefreie Mahlzeiten für die ganze Familie"
+        },
+        {
+          "key": "c",
+          "text": "Altersgerechte Inhalte und geprüfte Apps"
+        },
+        {
+          "key": "d",
+          "text": "Ein bildschirmfreier Tag pro Woche"
+        },
+        {
+          "key": "e",
+          "text": "Wie Kinder Programmieren lernen"
+        },
+        {
+          "key": "f",
+          "text": "Streit über Hausaufgaben vermeiden"
+        },
+        {
+          "key": "g",
+          "text": "Kosten für neue Geräte senken"
+        },
+        {
+          "key": "h",
+          "text": "Ferien ohne Internet"
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 1?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 1?",
+          "optionen": null,
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 1 begrenzt die tägliche Bildschirmzeit und legt feste Nutzungszeiten fest. Das entspricht einer Überschrift über feste Zeiten und Obergrenzen.",
+          "explain_id": "Paragraf 1 membatasi waktu layar harian dan menetapkan waktu penggunaan yang tetap. Itu sesuai dengan judul tentang waktu tetap dan batas atas.",
+          "evidence": "Bildschirmzeit wird täglich auf höchstens neunzig Minuten begrenzt"
+        },
+        {
+          "nr": 2,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 2?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 2?",
+          "optionen": null,
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 2 verbietet Geräte während der Mahlzeiten und gilt für alle. Dazu passt die Überschrift der gerätefreien Mahlzeiten.",
+          "explain_id": "Paragraf 2 melarang perangkat selama makan dan berlaku untuk semua. Cocok dengan judul tentang makan tanpa perangkat.",
+          "evidence": "Vor dem Essen werden alle Geräte weggelegt"
+        },
+        {
+          "nr": 3,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 4?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 4?",
+          "optionen": null,
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 4 führt einen wöchentlichen Tag ohne Bildschirm ein. Die Überschrift vom bildschirmfreien Tag pro Woche trifft genau diesen Inhalt.",
+          "explain_id": "Paragraf 4 memperkenalkan satu hari per minggu tanpa layar. Judul tentang hari bebas layar setiap minggu tepat menggambarkan isi itu.",
+          "evidence": "Jede Woche gibt es einen bildschirmfreien Tag"
+        }
+      ],
+      "punkte_max": 3,
+      "glossar": [
+        {
+          "wort": "die Obergrenze",
+          "artikel": "die",
+          "plural": "die Obergrenzen",
+          "wortart": "Nomen",
+          "bedeutung_id": "batas atas maksimum",
+          "bedeutung_de": null,
+          "beispiel": "Für die Nutzung gibt es klare Obergrenzen."
+        },
+        {
+          "wort": "schriftlich",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "secara tertulis",
+          "bedeutung_de": null,
+          "beispiel": "Die Zeiten werden schriftlich festgehalten."
+        },
+        {
+          "wort": "die Ausnahme",
+          "artikel": "die",
+          "plural": "die Ausnahmen",
+          "wortart": "Nomen",
+          "bedeutung_id": "pengecualian",
+          "bedeutung_de": null,
+          "beispiel": "Ausnahmen gelten nur für Hausaufgaben."
+        },
+        {
+          "wort": "gleichermaßen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adverb",
+          "bedeutung_id": "sama-sama, sama rata",
+          "bedeutung_de": null,
+          "beispiel": "Die Regel gilt für Kinder und Erwachsene gleichermaßen."
+        },
+        {
+          "wort": "verstauen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "menyimpan, merapikan",
+          "bedeutung_de": null,
+          "beispiel": "Besucher werden gebeten, ihre Geräte zu verstauen."
+        },
+        {
+          "wort": "problematisch",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "bermasalah, problematis",
+          "bedeutung_de": null,
+          "beispiel": "Problematische Anwendungen können gesperrt werden."
+        },
+        {
+          "wort": "sperren",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "memblokir, mengunci",
+          "bedeutung_de": null,
+          "beispiel": "Eltern dürfen Apps sperren."
+        },
+        {
+          "wort": "der Ausflug",
+          "artikel": "der",
+          "plural": "die Ausflüge",
+          "wortart": "Nomen",
+          "bedeutung_id": "jalan-jalan, tamasya",
+          "bedeutung_de": null,
+          "beispiel": "Am freien Tag planen wir einen Ausflug."
+        }
+      ]
+    }
+  ]
+}

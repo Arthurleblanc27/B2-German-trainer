@@ -1,0 +1,199 @@
+---
+import Base from '../layouts/Base.astro';
+import DashboardStats from '../components/DashboardStats';
+import { unitsVon, allePruefungen } from '../lib/content';
+import { TEIL_SPEC } from '../data/schema';
+
+const lesen = unitsVon('lesen');
+const hoeren = unitsVon('hoeren');
+const aufgabenLesen = lesen.reduce((a, u) => a + u.teile.reduce((b, t) => b + t.fragen.length, 0), 0);
+const aufgabenHoeren = hoeren.reduce((a, u) => a + u.teile.reduce((b, t) => b + t.fragen.length, 0), 0);
+const minutenLesen = TEIL_SPEC.lesen.reduce((a, s) => a + s.minuten, 0);
+const minutenHoeren = TEIL_SPEC.hoeren.reduce((a, s) => a + s.minuten, 0);
+
+const kennzahlen = [
+  { label: 'Lesen', wert: String(lesen.length), einheit: 'Unit' },
+  { label: 'Hören', wert: String(hoeren.length), einheit: 'Unit' },
+  { label: 'Aufgaben', wert: String(aufgabenLesen + aufgabenHoeren), einheit: 'im Bank' },
+  { label: 'Modelltest', wert: String(allePruefungen.length), einheit: 'verfügbar' }
+];
+
+const bewertung = [
+  {
+    titel: 'Punkte je Teil',
+    text: 'Punkte pro Teil = Summe der richtigen Aufgaben; Modul-Score = round(richtig / maximal × 100).'
+  },
+  {
+    titel: 'Bestehensgrenze',
+    text: '60 von 100 Punkten (Goethe). Label: nicht bestanden / bestanden / gut (≥80) / sehr gut (≥90).'
+  },
+  {
+    titel: 'Offen ist nicht falsch',
+    text: 'Unbeantwortet ≠ falsch: im Übungsmodus nicht gewertet, im Prüfungsmodus als Fehler gezählt, aber separat ausgewiesen.'
+  },
+  {
+    titel: 'Beleg zu jeder Aufgabe',
+    text: 'Jede Aufgabe hat Lösung, Erklärung (DE + ID) und ein wörtliches Textbeleg-Zitat.'
+  }
+];
+---
+
+<Base titel="Dashboard">
+  <div class="flex flex-col gap-5">
+    <section class="seitenkopf">
+      <p class="augenbraue">Dashboard · Niveau B2</p>
+      <h1>Leseverstehen &amp; Hörenverstehen üben</h1>
+      <p class="prosa m-0 mt-2.5">
+        Latihan mandiri dua keterampilan reseptif ujian <strong>B2</strong> dengan format soal setia pada
+        Goethe-Zertifikat B2 dan telc Deutsch B2: Lesen 5 Teil / 30 Aufgabe / {minutenLesen} menit dan Hören 4 Teil / 30
+        Aufgabe / ± {minutenHoeren} menit. Penilaian instan, umpan balik dengan kutipan bukti, mode Übung dan Prüfung,
+        serta Modelltest berwaktu.
+      </p>
+      <div class="mt-4 flex flex-wrap gap-2">
+        <a class="btn btn-primaer" href="/lesen/">Lesen mulai</a>
+        <a class="btn" href="/hoeren/">Hören mulai</a>
+        <a class="btn" href="/pruefung/">Simulasi Modelltest</a>
+        <a class="btn btn-geist" href="/quellen/">Sumber &amp; atribusi</a>
+      </div>
+      <div class="mt-5 grid grid-cols-2 gap-2.5 sm:grid-cols-4">
+        {
+          kennzahlen.map((k) => (
+            <div class="kennzahl" style="backdrop-filter: blur(2px)">
+              <div class="kennzahl-label">{k.label}</div>
+              <div class="kennzahl-wert">
+                {k.wert} <span class="text-xs font-semibold text-[var(--muted)]">{k.einheit}</span>
+              </div>
+            </div>
+          ))
+        }
+      </div>
+    </section>
+
+    <DashboardStats client:load />
+
+    <section class="grid gap-4 md:grid-cols-2">
+      <div class="karte" style="border-top: 4px solid var(--farbe-lesen)">
+        <div class="flex flex-wrap items-center justify-between gap-2">
+          <h2 class="m-0 text-lg font-bold">Leseverstehen</h2>
+          <span class="chip chip-akzent">{lesen.length} Unit · {aufgabenLesen} Aufgabe</span>
+        </div>
+        <p class="ruhig m-0 mt-1.5 text-sm">
+          Teil 1 Zuordnung · Teil 2 Sätze in Lücken · Teil 3 Multiple Choice · Teil 4 Aussagen zu Personen · Teil 5
+          Überschriften
+        </p>
+        <ul class="m-0 mt-3 list-none space-y-0.5 p-0">
+          {
+            lesen.map((u) => (
+              <li>
+                <a class="zeile" href={`/lesen/${u.unit}/`}>
+                  <span class="zeile-nr">{u.unit}</span>
+                  <span class="min-w-0 flex-1">
+                    <span class="zeile-titel block">{u.titel}</span>
+                    <span class="block text-xs text-[var(--muted)]">{u.themenfeld}</span>
+                  </span>
+                  <span class="zeile-pfeil" aria-hidden="true">
+                    →
+                  </span>
+                </a>
+              </li>
+            ))
+          }
+          {lesen.length === 0 ? <li class="ruhig">Noch keine Unit im Bank (src/content/lesen/).</li> : null}
+        </ul>
+      </div>
+
+      <div class="karte" style="border-top: 4px solid var(--farbe-hoeren)">
+        <div class="flex flex-wrap items-center justify-between gap-2">
+          <h2 class="m-0 text-lg font-bold">Hörenverstehen</h2>
+          <span class="chip chip-akzent">{hoeren.length} Unit · {aufgabenHoeren} Aufgabe</span>
+        </div>
+        <p class="ruhig m-0 mt-1.5 text-sm">
+          Teil 1 kurze Gespräche (1× hören) · Teil 2 Radiobeitrag · Teil 3 Aussagen zu Sprechern · Teil 4 Vortrag (2×
+          hören)
+        </p>
+        <ul class="m-0 mt-3 list-none space-y-0.5 p-0">
+          {
+            hoeren.map((u) => (
+              <li>
+                <a class="zeile" href={`/hoeren/${u.unit}/`}>
+                  <span class="zeile-nr">{u.unit}</span>
+                  <span class="min-w-0 flex-1">
+                    <span class="zeile-titel block">{u.titel}</span>
+                    <span class="block text-xs text-[var(--muted)]">{u.themenfeld}</span>
+                  </span>
+                  <span class="zeile-pfeil" aria-hidden="true">
+                    →
+                  </span>
+                </a>
+              </li>
+            ))
+          }
+          {hoeren.length === 0 ? <li class="ruhig">Noch keine Unit im Bank (src/content/hoeren/).</li> : null}
+        </ul>
+      </div>
+    </section>
+
+    <section class="karte">
+      <div class="flex flex-wrap items-center justify-between gap-3">
+        <div>
+          <h2 class="m-0 text-lg font-bold">Modelltest-Simulator</h2>
+          {
+            allePruefungen.length ? (
+              <p class="ruhig m-0 mt-1 text-sm">
+                {allePruefungen.length} Modelltest verfügbar — Lesen und Hören in einer Sitzung mit Original-Timerregeln.
+              </p>
+            ) : (
+              <p class="ruhig m-0 mt-1 text-sm">
+                Der Simulator erklärt die Regeln und startet sobald ein Test vorliegt.
+              </p>
+            )
+          }
+        </div>
+        <a class="btn" href="/pruefung/">Regeln ansehen</a>
+      </div>
+      {
+        allePruefungen.length ? (
+          <ul class="m-0 mt-3 list-none space-y-0.5 p-0">
+            {allePruefungen.map((p) => (
+              <li>
+                <a class="zeile" href={`/pruefung/${p.id}/`}>
+                  <span class="zeile-nr" aria-hidden="true">
+                    ✓
+                  </span>
+                  <span class="min-w-0 flex-1">
+                    <span class="zeile-titel block">{p.titel}</span>
+                    <span class="block text-xs text-[var(--muted)]">{p.beschreibung_id}</span>
+                  </span>
+                  <span class="zeile-pfeil" aria-hidden="true">
+                    →
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p class="meldung meldung-warn m-0 mt-3 text-sm">
+            Noch kein Modelltest im Bank (src/content/modelltest/).
+          </p>
+        )
+      }
+    </section>
+
+    <section>
+      <h2 class="m-0 mb-3 text-lg font-bold">So funktioniert die Bewertung</h2>
+      <div class="grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
+        {
+          bewertung.map((b, i) => (
+            <div class="karte">
+              <span class="zeile-nr mb-2" aria-hidden="true">
+                {i + 1}
+              </span>
+              <h3 class="m-0 text-[0.98rem] font-bold">{b.titel}</h3>
+              <p class="ruhig m-0 mt-1 text-sm">{b.text}</p>
+            </div>
+          ))
+        }
+      </div>
+    </section>
+  </div>
+</Base>

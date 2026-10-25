@@ -1,0 +1,18 @@
+---
+import Base from '../../layouts/Base.astro';
+import WortschatzApp from '../../components/WortschatzApp';
+---
+
+<Base titel="Wortschatz" beschreibung="Glossar aller Units durchsuchen, Wörter speichern und als Anki-CSV (Semicolon) exportieren oder importieren. Themensuche, Filter nach Themenfeld.">
+  <div class="flex flex-col gap-4">
+    <section class="seitenkopf">
+      <p class="augenbraue">Glossar &amp; Vokabelheft</p>
+      <h1>Wortschatz</h1>
+      <p class="ruhig m-0 mt-2 text-sm">
+        Das Glossar aller Units — durchsuchbar, filterbar nach Themenfeld. Speichere Wörter für dein eigenes Vokabelheft
+        und exportiere sie als Anki-CSV (Semicolon-Trennung) oder importiere bestehende Listen.
+      </p>
+    </section>
+    <WortschatzApp client:load />
+  </div>
+</Base>

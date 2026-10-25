@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 2,
+  "format": "testdaf",
+  "id": "testdaf-mt02-lesen-a1",
+  "bereich": "lesen",
+  "aufgabe": 1,
+  "modelltest": 2,
+  "tdn": 3,
+  "level": "B2",
+  "themenfeld": "Weiterbildung & Kurse für Berufstätige",
+  "titel": "Weiterbildungsangebote für Berufstätige an einem Bildungszentrum",
+  "titel_id": "Penawaran pelatihan untuk pekerja di sebuah pusat pendidikan",
+  "beschreibung_id": "Zuordnung dalam format TestDaF: delapan uraian singkat tentang penawaran kursus bagi pekerja, Teks I berarti „tidak ada penawaran yang cocok“; sepuluh item pada tingkat TDN 3.",
+  "instruktion_de": "Sie informieren sich über Weiterbildungsangebote für Berufstätige an einem Bildungszentrum. Lesen Sie die Kurzbeschreibungen A–H. Zu jeder Situation 1–10 passt höchstens ein Angebot. Schreiben Sie den Buchstaben des passenden Angebots neben die Situation. Wenn kein Angebot passt, wählen Sie Text I („kein Angebot passt“). Jedes Angebot wird höchstens einmal gewählt.",
+  "instruktion_id": "Anda mencari informasi tentang tawaran pelatihan bagi pekerja di sebuah pusat pendidikan. Bacalah delapan uraian singkat A–H. Setiap situasi 1–10 hanya cocok untuk paling banyak satu penawaran. Tuliskan huruf penawaran yang sesuai di samping situasi tersebut. Jika tidak ada penawaran yang cocok, pilih Teks I („tidak ada penawaran yang cocok“). Setiap penawaran dipilih paling banyak satu kali.",
+  "zeit_minuten": 15,
+  "source_type": "ai",
+  "lizenz": "CC-BY-NC-SA-4.0",
+  "attribution": "Eigener Text (KI-generiert, manuell geprüft) — TestDaF-Modul, Modelltest 2, Leseverstehen Aufgabe 1. Nur das Format orientiert sich am TestDaF; alle Texte und Items sind neu verfasst.",
+  "tags": ["Weiterbildung", "Berufstätige", "Zuordnung", "Bildungszentrum"],
+  "material_typ": "kurztexte",
+  "texte": [
+    {
+      "key": "a",
+      "titel": "Abendkurse im Semester",
+      "inhalt": "Am Bildungszentrum beginnen jedes Semester neue Abendkurse, die einmal pro Woche von 18 bis 20 Uhr stattfinden. Wer sich allgemein weiterbilden möchte, kann Kurse zu Geschichte, Landeskunde, Naturwissenschaften oder Sprachen wählen. Der Unterricht läuft in kleinen Gruppen, ein Semester dauert zwölf Wochen. Das Anmeldeportal schließt jeweils zwei Wochen vor Kursbeginn."
+    },
+    {
+      "key": "b",
+      "titel": "Flexible Onlinekurse",
+      "inhalt": "Wer zeitlich flexibel lernen möchte, findet im Onlineportal des Bildungszentrums über hundert Kurse. Sie sind jederzeit abrufbar, das Tempo bestimmt man selbst. Zu jedem Kurs gibt es kurze Videos, Übungen und ein Forum, in dem man Fragen stellt. Einige Kurse werden zusätzlich als Live-Webinar angeboten. Die Teilnahme ist nach der Anmeldung ein Jahr lang möglich."
+    },
+    {
+      "key": "c",
+      "titel": "Intensivkurse am Wochenende",
+      "inhalt": "An zwei Wochenenden hintereinander bietet das Bildungszentrum Intensivkurse an. Freitagnachmittag, Samstag und Sonntag wird jeweils mehrere Stunden gearbeitet; so lässt sich ein Thema in kurzer Zeit abschließen. Die Kurse richten sich an Berufstätige, die unter der Woche kaum Zeit haben. Übernachtung und Verpflegung sind im Preis enthalten."
+    },
+    {
+      "key": "d",
+      "titel": "Sprachzertifikate und Prüfungen",
+      "inhalt": "Für Englisch, Französisch, Spanisch und Italienisch bereitet das Bildungszentrum auf die anerkannten Sprachprüfungen vor. In Vorbereitungskursen üben die Teilnehmenden alle Prüfungsteile; wer möchte, legt die Prüfung anschließend direkt im Haus ab. Die Zertifikate werden von Arbeitgebern und Hochschulen anerkannt. Vor dem Kurs wird das Sprachniveau mit einem kurzen Test festgestellt."
+    },
+    {
+      "key": "e",
+      "titel": "Berufliche IT-Schulungen",
+      "inhalt": "Für Unternehmen und ihre Beschäftigten bietet das Bildungszentrum berufsbezogene Schulungen in Bürosoftware und Datenverarbeitung an. Behandelt werden zum Beispiel Tabellenkalkulation, Präsentationstechnik, Datenbanken und der sichere Umgang mit Firmendaten. Die Kurse finden in kleinen Gruppen statt, auf Wunsch auch als Inhouse-Training im Betrieb. Am Ende erhält jede Teilnehmerin und jeder Teilnehmer eine Bescheinigung."
+    },
+    {
+      "key": "f",
+      "titel": "Kurse zur Personalführung",
+      "inhalt": "Wer ein Team leitet, kann im Bildungszentrum Kurse zur Personalführung belegen. Themen sind das Führen von Mitarbeitergesprächen, Motivation, Konfliktlösung und Delegieren. Die Trainings laufen über mehrere Wochen und verbinden kurze Theorieblöcke mit praktischen Übungen in Kleingruppen. Erfahrene Trainerinnen begleiten die Teilnehmenden zusätzlich in einer individuellen Einzelberatung. Vorkenntnisse sind nicht nötig."
+    },
+    {
+      "key": "g",
+      "titel": "Vorbereitung auf Abschlussprüfungen",
+      "inhalt": "Für Abschlussprüfungen in anerkannten Ausbildungsberufen bietet das Bildungszentrum gezielte Vorbereitungskurse an. In kleinen Gruppen werden Prüfungsaufgaben bearbeitet, alte Prüfungen besprochen und Prüfungssituationen geübt. Die Kurse richten sich an Auszubildende und an Beschäftigte, die eine Kammerprüfung nachholen möchten. Empfohlen wird ein Einstieg etwa drei Monate vor dem Prüfungstermin."
+    },
+    {
+      "key": "h",
+      "titel": "Beratung zur Weiterbildungsfinanzierung",
+      "inhalt": "Die Beratungsstelle für Weiterbildungsfinanzierung informiert darüber, welche Zuschüsse und Förderprogramme für eine berufliche Weiterbildung genutzt werden können. Mitarbeitende prüfen mit Interessierten, ob ein Bildungsgutschein infrage kommt, und berechnen die Eigenanteile. Auf Wunsch wird eine Ratenzahlung vereinbart. Die Beratung ist kostenlos und unabhängig; Termine gibt es persönlich, telefonisch oder online."
+    }
+  ],
+  "antwort_optionen": [
+    { "key": "a", "text": "Abendkurse im Semester" },
+    { "key": "b", "text": "Flexible Onlinekurse" },
+    { "key": "c", "text": "Intensivkurse am Wochenende" },
+    { "key": "d", "text": "Sprachzertifikate und Prüfungen" },
+    { "key": "e", "text": "Berufliche IT-Schulungen" },
+    { "key": "f", "text": "Kurse zur Personalführung" },
+    { "key": "g", "text": "Vorbereitung auf Abschlussprüfungen" },
+    { "key": "h", "text": "Beratung zur Weiterbildungsfinanzierung" },
+    { "key": "i", "text": "Kein Angebot passt (Text I)" }
+  ],
+  "audio": null,
+  "fragen": [
+    {
+      "nr": 1,
+      "typ": "zuordnung",
+      "stamm_de": "Eine Verwaltungsangestellte möchte sich einmal pro Woche am Abend in einem Semesterkurs allgemein weiterbilden und dabei Landeskunde kennenlernen.",
+      "stamm_id": "Seorang pegawai administrasi ingin mengikuti kursus semester satu kali seminggu pada malam hari untuk memperluas wawasan umum dan mengenal ilmu budaya negara.",
+      "optionen": null,
+      "loesung": ["a"],
+      "punkte": 1,
+      "explain_de": "Die Semesterkurse finden abends einmal pro Woche statt und behandeln unter anderem Landeskunde und Allgemeinbildung.",
+      "explain_id": "Kursus semester berlangsung sekali seminggu pada malam hari dan membahas antara lain ilmu budaya serta pengetahuan umum.",
+      "evidence": "einmal pro Woche von 18 bis 20 Uhr stattfinden"
+    },
+    {
+      "nr": 2,
+      "typ": "zuordnung",
+      "stamm_de": "Ein Ingenieur braucht für eine Bewerbung im Ausland ein anerkanntes Englischzertifikat und will sich darauf gezielt vorbereiten.",
+      "stamm_id": "Seorang insinyur membutuhkan sertifikat bahasa Inggris yang diakui untuk melamar kerja di luar negeri dan ingin mempersiapkannya secara khusus.",
+      "optionen": null,
+      "loesung": ["d"],
+      "punkte": 1,
+      "explain_de": "Das Bildungszentrum bereitet auf anerkannte Sprachprüfungen vor; die Zertifikate werden von Arbeitgebern und Hochschulen anerkannt.",
+      "explain_id": "Pusat pendidikan mempersiapkan ujian bahasa yang diakui; sertifikatnya diakui oleh perusahaan dan perguruan tinggi.",
+      "evidence": "bereitet das Bildungszentrum auf die anerkannten Sprachprüfungen vor"
+    },
+    {
+      "nr": 3,
+      "typ": "zuordnung",
+      "stamm_de": "Eine Buchhalterin soll künftig im Betrieb mit einer Tabellenkalkulation arbeiten und sucht dafür eine berufsbezogene Schulung.",
+      "stamm_id": "Seorang staf akuntansi nantinya harus bekerja dengan lembar kerja di perusahaan dan mencari pelatihan yang berkaitan dengan pekerjaan.",
+      "optionen": null,
+      "loesung": ["e"],
+      "punkte": 1,
+      "explain_de": "Die beruflichen IT-Schulungen behandeln genau solche Büroanwendungen wie Tabellenkalkulation und richten sich an Beschäftigte.",
+      "explain_id": "Pelatihan TI untuk pekerja membahas aplikasi kantor seperti lembar kerja dan ditujukan bagi para pekerja.",
+      "evidence": "berufsbezogene Schulungen in Bürosoftware und Datenverarbeitung"
+    },
+    {
+      "nr": 4,
+      "typ": "zuordnung",
+      "stamm_de": "Eine Berufstätige möchte ihr berufsbezogenes Deutsch in einem Präsenzkurs mit Lehrkraft verbessern, kann dafür aber nur vormittags Zeit aufbringen, wenn ihr Betrieb geschlossen ist.",
+      "stamm_id": "Seorang pekerja ingin meningkatkan bahasa Jerman untuk keperluan kerja dalam kursus tatap muka bersama pengajar, tetapi hanya punya waktu pada pagi hari saat tempat kerjanya tutup.",
+      "optionen": null,
+      "loesung": ["i"],
+      "punkte": 1,
+      "explain_de": "Text A bietet Sprachkurse nur abends von 18 bis 20 Uhr an; ein Vormittags-Präsenzkurs mit Lehrkraft ist bei keinem Angebot zu finden.",
+      "explain_id": "Teks A menawarkan kursus bahasa hanya pada malam hari pukul 18–20; kursus tatap muka pagi hari bersama pengajar tidak ada pada penawaran mana pun.",
+      "evidence": "jedes Semester neue Abendkurse, die einmal pro Woche von 18 bis 20 Uhr stattfinden"
+    },
+    {
+      "nr": 5,
+      "typ": "zuordnung",
+      "stamm_de": "Ein Berufstätiger hat unter der Woche keine Zeit und sucht einen kompakten Kurs, den er an einem Wochenende komplett absolvieren kann.",
+      "stamm_id": "Seorang pekerja tidak punya waktu pada hari kerja dan mencari kursus singkat yang bisa ia selesaikan sepenuhnya dalam satu akhir pekan.",
+      "optionen": null,
+      "loesung": ["c"],
+      "punkte": 1,
+      "explain_de": "Die Intensivkurse laufen an Wochenenden und richten sich ausdrücklich an Berufstätige, die unter der Woche kaum Zeit haben.",
+      "explain_id": "Kursus intensif berlangsung pada akhir pekan dan secara khusus ditujukan bagi pekerja yang hampir tidak punya waktu pada hari kerja.",
+      "evidence": "An zwei Wochenenden hintereinander bietet das Bildungszentrum Intensivkurse an"
+    },
+    {
+      "nr": 6,
+      "typ": "zuordnung",
+      "stamm_de": "Eine Teamleiterin möchte lernen, Mitarbeitergespräche zu führen und Konflikte im Team besser zu lösen.",
+      "stamm_id": "Seorang ketua tim ingin belajar memimpin percakapan dengan bawahan dan menyelesaikan konflik dalam tim dengan lebih baik.",
+      "optionen": null,
+      "loesung": ["f"],
+      "punkte": 1,
+      "explain_de": "Die Kurse zur Personalführung behandeln genau das Führen von Mitarbeitergesprächen, Motivation und Konfliktlösung.",
+      "explain_id": "Kursus kepemimpinan personal justru membahas cara memimpin percakapan dengan bawahan, motivasi, dan penyelesaian konflik.",
+      "evidence": "kann im Bildungszentrum Kurse zur Personalführung belegen"
+    },
+    {
+      "nr": 7,
+      "typ": "zuordnung",
+      "stamm_de": "Ein Auszubildender bereitet sich auf seine Abschlussprüfung vor der Handwerkskammer vor und sucht dafür einen Kurs.",
+      "stamm_id": "Seorang peserta pelatihan kerja mempersiapkan ujian akhir di kamar industri dan mencari kursus untuk itu.",
+      "optionen": null,
+      "loesung": ["g"],
+      "punkte": 1,
+      "explain_de": "Das Bildungszentrum bietet Vorbereitungskurse für Abschlussprüfungen in anerkannten Ausbildungsberufen an.",
+      "explain_id": "Pusat pendidikan menawarkan kursus persiapan ujian akhir untuk profesi terlatih yang diakui.",
+      "evidence": "Für Abschlussprüfungen in anerkannten Ausbildungsberufen bietet das Bildungszentrum gezielte Vorbereitungskurse an"
+    },
+    {
+      "nr": 8,
+      "typ": "zuordnung",
+      "stamm_de": "Eine Berufstätige mit unregelmäßigen Arbeitszeiten möchte in ihrem eigenen Tempo lernen und den Kurs jederzeit abrufen können.",
+      "stamm_id": "Seorang pekerja dengan jam kerja tidak teratur ingin belajar sesuai kecepatannya sendiri dan dapat mengakses kursus kapan saja.",
+      "optionen": null,
+      "loesung": ["b"],
+      "punkte": 1,
+      "explain_de": "Die Onlinekurse sind jederzeit abrufbar, das Tempo bestimmt man selbst — genau passend für unregelmäßige Arbeitszeiten.",
+      "explain_id": "Kursus daring dapat diakses kapan saja dan kecepatan ditentukan sendiri — sangat cocok untuk jam kerja yang tidak teratur.",
+      "evidence": "Sie sind jederzeit abrufbar, das Tempo bestimmt man selbst"
+    },
+    {
+      "nr": 9,
+      "typ": "zuordnung",
+      "stamm_de": "Ein Berufstätiger möchte sich in einem Kurs auf die theoretische Führerscheinprüfung vorbereiten.",
+      "stamm_id": "Seorang pekerja ingin mempersiapkan diri dalam sebuah kursus untuk ujian teori surat izin mengemudi.",
+      "optionen": null,
+      "loesung": ["i"],
+      "punkte": 1,
+      "explain_de": "Text G bereitet nur auf Abschlussprüfungen in Ausbildungsberufen und Kammerprüfungen vor; eine Vorbereitung auf die Führerscheinprüfung gibt es nicht.",
+      "explain_id": "Teks G hanya mempersiapkan ujian akhir profesi terlatih dan ujian kamar; persiapan ujian surat izin mengemudi tidak tersedia.",
+      "evidence": "Die Kurse richten sich an Auszubildende und an Beschäftigte, die eine Kammerprüfung nachholen möchten"
+    },
+    {
+      "nr": 10,
+      "typ": "zuordnung",
+      "stamm_de": "Ein Berufstätiger möchte wissen, ob seine geplante Weiterbildung gefördert wird und ob er die Kosten in Raten bezahlen kann.",
+      "stamm_id": "Seorang pekerja ingin mengetahui apakah pelatihan yang ia rencanakan mendapat dukungan dana dan apakah ia dapat membayar biayanya secara mengangsur.",
+      "optionen": null,
+      "loesung": ["h"],
+      "punkte": 1,
+      "explain_de": "Die Beratungsstelle für Weiterbildungsfinanzierung informiert über Zuschüsse und Förderprogramme und vereinbart auf Wunsch eine Ratenzahlung.",
+      "explain_id": "Layanan konsultasi pembiayaan pelatihan memberi informasi tentang subsidi dan program dukungan serta menyepakati pembayaran mengangsur bila diminta.",
+      "evidence": "informiert darüber, welche Zuschüsse und Förderprogramme für eine berufliche Weiterbildung genutzt werden können"
+    }
+  ],
+  "punkte_max": 10,
+  "glossar": [
+    { "wort": "das Bildungszentrum", "artikel": "das", "bedeutung_id": "pusat pendidikan", "bedeutung_de": null, "beispiel": "Kurse am Bildungszentrum buchen" },
+    { "wort": "die Weiterbildung", "artikel": "die", "bedeutung_id": "pelatihan lanjutan; pendidikan lanjut", "bedeutung_de": null, "beispiel": null },
+    { "wort": "berufsbegleitend", "artikel": "", "bedeutung_id": "sambil bekerja (belajar sambil tetap bekerja)", "bedeutung_de": "neben dem Beruf", "beispiel": "berufsbegleitend lernen" },
+    { "wort": "der Bildungsgutschein", "artikel": "der", "bedeutung_id": "voucher/bantuan dana pendidikan", "bedeutung_de": null, "beispiel": null },
+    { "wort": "die Ratenzahlung", "artikel": "die", "bedeutung_id": "pembayaran mengangsur", "bedeutung_de": null, "beispiel": "Ratenzahlung vereinbaren" },
+    { "wort": "die Kleingruppe", "artikel": "die", "bedeutung_id": "kelompok kecil", "bedeutung_de": null, "beispiel": "Übungen in Kleingruppen" },
+    { "wort": "das Zertifikat", "artikel": "das", "bedeutung_id": "sertifikat", "bedeutung_de": null, "beispiel": "anerkanntes Zertifikat" },
+    { "wort": "die Tabellenkalkulation", "artikel": "die", "bedeutung_id": "lembar kerja (program pengolah angka)", "bedeutung_de": null, "beispiel": null },
+    { "wort": "die Personalführung", "artikel": "die", "bedeutung_id": "kepemimpinan personal (manajemen karyawan)", "bedeutung_de": null, "beispiel": "Kurse zur Personalführung" },
+    { "wort": "das Mitarbeitergespräch", "artikel": "das", "bedeutung_id": "percakapan dengan bawahan/karyawan", "bedeutung_de": null, "beispiel": "Mitarbeitergespräche führen" },
+    { "wort": "der Auszubildende", "artikel": "der", "bedeutung_id": "peserta pelatihan kerja (magang)", "bedeutung_de": null, "beispiel": null },
+    { "wort": "die Kammerprüfung", "artikel": "die", "bedeutung_id": "ujian kamar (lembaga profesi)", "bedeutung_de": null, "beispiel": "eine Kammerprüfung nachholen" },
+    { "wort": "die Bescheinigung", "artikel": "die", "bedeutung_id": "surat keterangan", "bedeutung_de": null, "beispiel": "am Ende eine Bescheinigung erhalten" },
+    { "wort": "der Eigenanteil", "artikel": "der", "bedeutung_id": "bagian biaya sendiri", "bedeutung_de": null, "beispiel": "die Eigenanteile berechnen" }
+  ]
+}

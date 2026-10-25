@@ -1,0 +1,34 @@
+---
+import Base from '../../../layouts/Base.astro';
+import TestdafPruefung from '../../../components/TestdafPruefung';
+import { alleTestdafPruefungen, aufgabenDerPruefung, findeTestdafPruefungNachNummer } from '../../../lib/testdaf-content';
+import { TESTDAF_PRUEFUNG } from '../../../data/testdaf';
+
+export function getStaticPaths() {
+  return alleTestdafPruefungen.map((p) => ({
+    params: { modelltest: String(p.modelltest) },
+    props: { pruefung: p, aufgaben: aufgabenDerPruefung(p) }
+  }));
+}
+
+const { modelltest } = Astro.params;
+const fallback = Number(modelltest);
+const { pruefung, aufgaben } = Astro.props;
+const p = findeTestdafPruefungNachNummer(fallback) ?? pruefung;
+const liste = aufgaben.length ? aufgaben : aufgabenDerPruefung(p);
+
+const gesamtMinuten = TESTDAF_PRUEFUNG.lesen.minuten + TESTDAF_PRUEFUNG.hoeren.minuten;
+const beschreibung = `TestDaF-Modelltest ${p.modelltest}: ${p.titel} — Leseverstehen 3 Aufgaben/30 Items in ${TESTDAF_PRUEFUNG.lesen.minuten} Minuten, Hörverstehen 3 Aufgaben/25 Items in ${TESTDAF_PRUEFUNG.hoeren.minuten} Minuten, Ergebnis mit TDN je Prüfungsteil.`;
+---
+
+<Base titel={`TestDaF Modelltest ${p.modelltest}: Prüfungssimulation`} beschreibung={beschreibung}>
+  <div class="flex flex-col gap-3">
+    <nav class="flex flex-wrap items-center gap-2 text-sm" aria-label="Brotkrumen">
+      <a class="btn px-2 py-1 text-xs" href="/testdaf/">TestDaF-Modul</a>
+      <span class="chip">Modelltest {p.modelltest}</span>
+      <span class="chip">Prüfungssimulation · {gesamtMinuten} Minuten</span>
+    </nav>
+
+    <TestdafPruefung client:load pruefung={p} aufgaben={liste} />
+  </div>
+</Base>

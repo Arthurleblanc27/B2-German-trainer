@@ -1,0 +1,39 @@
+{
+  "name": "b2-trainer",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "B2-Trainer — situs latihan mandiri Bahasa Jerman B2 (Leseverstehen + Hörenverstehen)",
+  "scripts": {
+    "dev": "astro dev",
+    "prebuild": "node scripts/validate-items.mjs",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "validate": "node scripts/validate-items.mjs",
+    "validate:strict": "node scripts/validate-items.mjs --strict",
+    "validate:testdaf": "node scripts/validate-testdaf.mjs",
+    "typecheck": "astro check",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "lint": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/preact": "^4.0.5",
+    "@astrojs/sitemap": "^3.7.4",
+    "@vite-pwa/astro": "^1.2.0",
+    "astro": "^5.0.0",
+    "dexie": "^4.4.6",
+    "preact": "^10.27.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "@playwright/test": "^1.64.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.0"
+  }
+}

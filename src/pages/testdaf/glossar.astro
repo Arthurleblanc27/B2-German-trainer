@@ -1,0 +1,77 @@
+---
+import Base from '../../layouts/Base.astro';
+import { alleTestdafAufgaben, alleTestdafGlossare } from '../../lib/testdaf-content';
+
+const eintraege = alleTestdafGlossare();
+const alphabetisch = [...eintraege].sort((a, b) =>
+  `${a.artikel} ${a.wort}`.localeCompare(`${b.artikel} ${b.wort}`, 'de')
+);
+
+const buchstabe = (w: string) => {
+  const s = w.replace(/^(der|die|das)\s+/i, '').trim();
+  return s.slice(0, 1).toUpperCase();
+};
+const gruppen = new Map<string, typeof alphabetisch>();
+for (const e of alphabetisch) {
+  const k = buchstabe(e.wort);
+  if (!gruppen.has(k)) gruppen.set(k, [] as typeof alphabetisch);
+  gruppen.get(k)!.push(e);
+}
+const proAufgabe = new Map<string, number>();
+for (const a of alleTestdafAufgaben) {
+  proAufgabe.set(`${a.bereich}-${a.modelltest}-${a.aufgabe}`, a.glossar.length);
+}
+---
+
+<Base
+  titel="TestDaF-Glossar"
+  beschreibung="Wortschatz des TestDaF-Moduls — gesammelt aus allen Aufgaben, Deutsch mit Bedeutung in Bahasa Indonesia."
+>
+  <div class="flex flex-col gap-4">
+    <section class="karte">
+      <h1 class="m-0 text-2xl font-bold">TestDaF-Glossar</h1>
+      <p class="prosa m-0 mt-2">
+        {eintraege.length} Einträge aus {proAufgabe.size} TestDaF-Aufgaben — der Wortschatz, den die Texte und Transkripte
+        voraussetzen. Alle Einträge stammen aus eigenen Texten des TestDaF-Moduls.
+      </p>
+      <p class="ruhig m-0 text-sm">
+        Nachschlagen auf der Seite der jeweiligen Aufgabe: dort steht jeweils das Glossar der Aufgabe direkt unter dem
+        Runner.
+      </p>
+    </section>
+
+    <nav class="karte flex flex-wrap gap-1" aria-label="Alphabet">
+      {[...gruppen.keys()].map((k) => (
+        <a class="btn px-2 py-1 text-xs" href={`#buchstabe-${k}`}>
+          {k}
+        </a>
+      ))}
+    </nav>
+
+    {[...gruppen.entries()].map(([k, liste]) => (
+      <section class="karte" id={`buchstabe-${k}`}>
+        <h2 class="m-0 text-lg font-bold">{k}</h2>
+        <ul class="m-0 mt-2 list-none p-0 text-sm">
+          {liste.map((e) => (
+            <li class="border-b border-[var(--border)] py-1">
+              <strong>
+                {e.artikel ? `${e.artikel} ` : ''}
+                {e.wort}
+              </strong>
+              {' — '}
+              {e.bedeutung_id}
+              {e.beispiel ? <em class="ruhig"> · z. B. „{e.beispiel}“</em> : null}
+              <span class="ruhig ml-1 text-xs">
+                [{e.bereich === 'lesen' ? 'Lesen' : 'Hören'} {e.aufgabe}]
+              </span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+
+    {eintraege.length === 0 ? (
+      <p class="meldung meldung-warn">Noch kein Glossar vorhanden (Glossare kommen aus den Aufgaben-JSONs).</p>
+    ) : null}
+  </div>
+</Base>

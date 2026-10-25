@@ -1,0 +1,63 @@
+---
+import Base from '../layouts/Base.astro';
+import { unitsVon } from '../lib/content';
+
+const lesen = unitsVon('lesen');
+const hoeren = unitsVon('hoeren');
+---
+
+<Base titel="Seite nicht gefunden">
+  <div class="flex flex-col gap-4">
+    <section class="seitenkopf">
+      <p class="augenbraue">Fehler 404</p>
+      <h1>Seite nicht gefunden</h1>
+      <p class="prosa m-0 mt-2">
+        Diese Adresse existiert nicht (mehr). Nutze die Navigation oben oder starte direkt mit einer Übung:
+      </p>
+      <div class="mt-4 flex flex-wrap gap-2">
+        <a class="btn btn-primaer" href="/">Zum Dashboard</a>
+        <a class="btn" href="/lesen/">Lesen</a>
+        <a class="btn" href="/hoeren/">Hören</a>
+      </div>
+    </section>
+
+    <section class="grid gap-3 md:grid-cols-2">
+      <div class="karte" style="border-top: 4px solid var(--farbe-lesen)">
+        <h2 class="m-0 text-base font-bold">Leseverstehen</h2>
+        <ul class="m-0 mt-2.5 list-none space-y-0.5 p-0">
+          {
+            lesen.map((u) => (
+              <li>
+                <a class="zeile" href={`/lesen/${u.unit}/`}>
+                  <span class="zeile-nr">{u.unit}</span>
+                  <span class="zeile-titel flex-1">{u.titel}</span>
+                  <span class="zeile-pfeil" aria-hidden="true">
+                    →
+                  </span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+      <div class="karte" style="border-top: 4px solid var(--farbe-hoeren)">
+        <h2 class="m-0 text-base font-bold">Hörenverstehen</h2>
+        <ul class="m-0 mt-2.5 list-none space-y-0.5 p-0">
+          {
+            hoeren.map((u) => (
+              <li>
+                <a class="zeile" href={`/hoeren/${u.unit}/`}>
+                  <span class="zeile-nr">{u.unit}</span>
+                  <span class="zeile-titel flex-1">{u.titel}</span>
+                  <span class="zeile-pfeil" aria-hidden="true">
+                    →
+                  </span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </section>
+  </div>
+</Base>

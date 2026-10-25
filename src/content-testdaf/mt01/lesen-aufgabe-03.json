@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 2,
+  "format": "testdaf",
+  "id": "testdaf-mt01-lesen-a3",
+  "bereich": "lesen",
+  "aufgabe": 3,
+  "modelltest": 1,
+  "tdn": 5,
+  "level": "B2",
+  "themenfeld": "Wissenschaft & Lernforschung",
+  "titel": "Warum das Gehirn Pausen braucht — Lern- und Gedächtnisforschung",
+  "titel_id": "Mengapa otak membutuhkan jeda — penelitian belajar dan memori",
+  "beschreibung_id": "Tugas TestDaF tiga pilihan (Ja / Nein / Text sagt dazu nichts) atas sebuah teks ilmiah tentang peran jeda dan tidur bagi daya ingat, sepuluh butir pada tingkat TDN 5.",
+  "instruktion_de": "Lesen Sie den wissenschaftlichen Text. Entscheiden Sie bei jeder Aussage 1–10, ob sie mit dem Text übereinstimmt (Ja), ob sie ihm widerspricht (Nein) oder ob der Text dazu nichts sagt (Text sagt dazu nichts). Achten Sie auf die Zeit.",
+  "instruktion_id": "Bacalah teks ilmiah berikut. Untuk setiap pernyataan 1–10, tentukan apakah pernyataan itu sesuai dengan teks (Ja), bertentangan dengan teks (Nein), atau tidak dibahas dalam teks (Text sagt dazu nichts). Perhatikan waktu pengerjaan.",
+  "zeit_minuten": 15,
+  "source_type": "ai",
+  "lizenz": "CC-BY-NC-SA-4.0",
+  "attribution": "Eigener Text (KI-generiert, manuell geprüft) — TestDaF-Modul, Modelltest 1, Leseverstehen Aufgabe 3. Nur das Format orientiert sich am TestDaF; alle Texte und Items sind neu verfasst.",
+  "tags": [
+    "Lernforschung",
+    "Gedächtnis",
+    "Konsolidierung",
+    "Schlaf"
+  ],
+  "material_typ": "langtext",
+  "texte": [
+    {
+      "key": "l",
+      "titel": "Warum das Gehirn Pausen braucht — Stand der Lern- und Gedächtnisforschung",
+      "inhalt": "Neue Informationen werden nicht in dem Moment dauerhaft gespeichert, in dem sie aufgenommen werden. Nach heutigem Forschungsstand entstehen beim Lernen zunächst labile Spuren im Hippocampus; erst in einem zweiten Schritt werden sie in stabilere Netzwerke des Großhirns überführt. Diesen Vorgang bezeichnet die Gedächtnisforschung als Konsolidierung. Entscheidend ist, dass er zum großen Teil in Ruhephasen abläuft, also gerade dann, wenn der Lernende nicht mehr aktiv mit dem Stoff beschäftigt ist. Der Begriff verweist darauf, dass eine Spur zunächst instabil ist und durch passende Bedingungen gefestigt werden muss; ohne solche Bedingungen zerfällt sie rasch.\n\nBereits kurze Unterbrechungen können die spätere Erinnerungsleistung erhöhen. In mehreren Experimenten erinnerten sich Versuchspersonen, die sich nach dem Lernen zehn Minuten ruhig verhielten, an mehr Einzelheiten als Probanden, die unmittelbar eine weitere Aufgabe begannen. Die Forschenden erklären diesen Effekt damit, dass während der Pause keine konkurrierenden Inhalte die frischen Spuren überschreiben. Ob die Pause mit geschlossenen Augen oder mit einem Spaziergang verbracht wird, scheint dabei eine untergeordnete Rolle zu spielen. Auch die Art der Tätigkeit nach dem Lernen spielt eine Rolle: Wird sofort etwas Ähnliches gelernt, fallen die Ergebnisse schlechter aus als bei einer neutralen Beschäftigung.\n\nEine besonders wirksame Form der Pause ist der Schlaf. Im Tiefschlaf werden die am Tag aufgenommenen Inhalte erneut abgespielt und mit bereits vorhandenem Wissen verknüpft. Wird der Schlaf in der Nacht nach dem Lernen verkürzt, sinkt die Behaltensleistung deutlich. Aus diesem Grund empfehlen viele Lernratgeber, vor einer Prüfung ausreichend zu schlafen, statt bis in die Nacht hinein weiterzupauken. Der Zusammenhang zwischen Schlafdauer und Behalten gilt in der Forschung als gut belegt, wenn auch die genauen Mechanismen weiterhin umstritten sind. Neuere Untersuchungen deuten darauf hin, dass nicht nur die Dauer, sondern auch die zeitliche Lage der Schlafphasen bedeutsam ist; vollständig geklärt ist dieser Zusammenhang jedoch nicht.\n\nNeben Ruhephasen spielt die zeitliche Verteilung des Lernens eine zentrale Rolle. Wer denselben Stoff über mehrere Tage verteilt wiederholt, behält ihn länger als jemand, der den Stoff in einer einzigen Sitzung durcharbeitet. Dieser als Intervalllernen bezeichnete Effekt gehört zu den am zuverlässigsten bestätigten Befunden der Lernpsychologie. Für die Praxis bedeutet das, dass lange Sitzungen am Stück weniger bringen als kürzere Einheiten mit Abstand. Interessanterweise empfinden viele Lernende das verteilte Lernen subjektiv als schwieriger, obwohl es objektiv bessere Ergebnisse erzielt.\n\nDaueraufmerksamkeit hat dagegen klare Grenzen. Nach etwa zwanzig bis dreißig Minuten ununterbrochener Konzentration lässt die Aufnahmefähigkeit messbar nach. Das Gehirn ermüdet nicht, weil ihm Energie fehlt, sondern weil sich bestimmte Botenstoffe in den relevanten Regionen erschöpfen. Deshalb gilt es als sinnvoll, anstrengende Lernphasen durch kurze Erholungszeiten zu unterbrechen. Vollständige Untätigkeit ist dafür nicht nötig; ein Wechsel der Tätigkeit kann denselben Zweck erfüllen. Kurze Schlafphasen am Tag, sogenannte Nickerchen, werden in diesem Zusammenhang ebenfalls untersucht, ohne dass ihre Wirkung bereits abschließend beurteilt wäre.\n\nTrotz dieser Befunde ist die Forschung nicht abgeschlossen. Viele Studien arbeiten mit kleinen Stichproben und mit Aufgaben, die nur begrenzt dem Lernen im Alltag entsprechen. Wie stark Pausen wirken, hängt zudem vom Alter, vom Vorwissen und von der Art des Materials ab. Eine allgemeine Regel, wie lange eine Pause sein muss, lässt sich aus den bisherigen Daten nicht ableiten. Offen ist auch, ob sich die beschriebenen Effekte mithilfe digitaler Lernprogramme gezielt verstärken lassen; belastbare Vergleiche zwischen gedruckten und digitalen Materialien fehlen bislang. Zudem wird diskutiert, ob die beobachteten Effekte teilweise auf die Erwartungen der Versuchspersonen zurückgehen. Kritisiert wird außdem, dass viele Ergebnisse aus Laboruntersuchungen stammen und sich nicht ohne Weiteres auf das Lernen im Alltag übertragen lassen."
+    }
+  ],
+  "antwort_optionen": [],
+  "audio": null,
+  "fragen": [
+    {
+      "nr": 1,
+      "typ": "jn3",
+      "stamm_de": "Für das erstmalige Speichern neuer Inhalte ist der Hippocampus von Bedeutung.",
+      "stamm_id": "Hippocampus berperan pada penyimpanan awal informasi baru.",
+      "optionen": null,
+      "loesung": [
+        "ja"
+      ],
+      "punkte": 1,
+      "explain_de": "Der Text nennt labile Spuren im Hippocampus als erste Stufe und die spätere Überführung in stabilere Netzwerke des Großhirns.",
+      "explain_id": "Teks menyebut jejak labil di hippocampus sebagai tahap pertama dan pemindahannya ke jaringan otak besar yang lebih stabil.",
+      "evidence": "entstehen beim Lernen zunächst labile Spuren im Hippocampus"
+    },
+    {
+      "nr": 2,
+      "typ": "jn3",
+      "stamm_de": "Für das Behalten ist es dem Text zufolge günstiger, den Stoff in einer einzigen Sitzung durchzuarbeiten, als ihn über mehrere Tage zu verteilen.",
+      "stamm_id": "Menurut teks, lebih menguntungkan mengerjakan materi dalam satu kali sesi daripada membaginya ke beberapa hari.",
+      "optionen": null,
+      "loesung": [
+        "nein"
+      ],
+      "punkte": 1,
+      "explain_de": "Der Text stellt das Gegenteil fest: Wer den Stoff über mehrere Tage verteilt wiederholt, behält ihn länger — die Verteilung wirkt also günstiger als eine einzelne Sitzung.",
+      "explain_id": "Teks justru menyatakan sebaliknya: siapa yang mengulang materi secara terbagi selama beberapa hari mengingatnya lebih lama — jadi pembagian waktu lebih menguntungkan daripada satu sesi.",
+      "evidence": "Wer denselben Stoff über mehrere Tage verteilt wiederholt, behält ihn länger als jemand, der den Stoff in einer einzigen Sitzung durcharbeitet"
+    },
+    {
+      "nr": 3,
+      "typ": "jn3",
+      "stamm_de": "Der Text beschreibt, welche konkreten Übungen Lernende in den Pausen durchführen sollten.",
+      "stamm_id": "Teks menjelaskan latihan konkret apa yang sebaiknya dilakukan pembelajar pada saat jeda.",
+      "optionen": null,
+      "loesung": [
+        "nichts"
+      ],
+      "punkte": 1,
+      "explain_de": "Der Text behandelt zwar die Gestaltung der Pause, erklärt ihre Form aber ausdrücklich für nebensächlich und nennt keine Übungen, die Lernende ausführen sollten.",
+      "explain_id": "Teks memang membahas bagaimana jeda diisi, tetapi secara tegas menyatakan bentuknya tidak penting dan tidak menyebut latihan apa pun yang harus dilakukan.",
+      "evidence": "Ob die Pause mit geschlossenen Augen oder mit einem Spaziergang verbracht wird, scheint dabei eine untergeordnete Rolle zu spielen"
+    },
+    {
+      "nr": 4,
+      "typ": "jn3",
+      "stamm_de": "Eine kurze Ruhephase direkt nach dem Lernen kann das spätere Erinnern verbessern.",
+      "stamm_id": "Fase istirahat singkat tepat setelah belajar dapat memperbaiki daya ingat di kemudian hari.",
+      "optionen": null,
+      "loesung": [
+        "ja"
+      ],
+      "punkte": 1,
+      "explain_de": "In den Experimenten erinnerten sich Personen, die nach dem Lernen zehn Minuten ruhig blieben, an mehr Einzelheiten als jene, die sofort weitermachten.",
+      "explain_id": "Dalam eksperimen, orang yang tetap tenang sepuluh menit setelah belajar mengingat lebih banyak detail daripada yang langsung melanjutkan tugas baru.",
+      "evidence": "die sich nach dem Lernen zehn Minuten ruhig verhielten, an mehr Einzelheiten als Probanden"
+    },
+    {
+      "nr": 5,
+      "typ": "jn3",
+      "stamm_de": "Nach Darstellung des Textes ermüdet das Gehirn bei langer Konzentration, weil ihm die Energie ausgeht.",
+      "stamm_id": "Menurut teks, otak menjadi lelah saat berkonsentrasi lama karena kehabisan energi.",
+      "optionen": null,
+      "loesung": [
+        "nein"
+      ],
+      "punkte": 1,
+      "explain_de": "Der Text widerspricht dem ausdrücklich: Das Gehirn ermüdet nicht wegen fehlender Energie, sondern weil sich bestimmte Botenstoffe erschöpfen.",
+      "explain_id": "Teks secara tegas menyangkalnya: otak tidak lelah karena kekurangan energi, melainkan karena zat penghantar tertentu terkuras.",
+      "evidence": "Das Gehirn ermüdet nicht, weil ihm Energie fehlt, sondern weil sich bestimmte Botenstoffe in den relevanten Regionen erschöpfen"
+    },
+    {
+      "nr": 6,
+      "typ": "jn3",
+      "stamm_de": "Schlaf unterstützt die Verknüpfung neu gelernter Inhalte mit früherem Wissen.",
+      "stamm_id": "Tidur mendukung pengaitan materi yang baru dipelajari dengan pengetahuan sebelumnya.",
+      "optionen": null,
+      "loesung": [
+        "ja"
+      ],
+      "punkte": 1,
+      "explain_de": "Im Tiefschlaf werden die am Tag aufgenommenen Inhalte erneut abgespielt und mit bereits vorhandenem Wissen verknüpft.",
+      "explain_id": "Pada tidur dalam, materi yang diterima pada siang hari diputar ulang dan dikaitkan dengan pengetahuan yang sudah ada.",
+      "evidence": "Im Tiefschlaf werden die am Tag aufgenommenen Inhalte erneut abgespielt und mit bereits vorhandenem Wissen verknüpft"
+    },
+    {
+      "nr": 7,
+      "typ": "jn3",
+      "stamm_de": "Der Text gibt eine konkrete Stundenzahl an, die vor einer Prüfung als optimale Schlafdauer gilt.",
+      "stamm_id": "Teks menyebutkan jumlah jam tidur konkret yang dianggap optimal sebelum ujian.",
+      "optionen": null,
+      "loesung": [
+        "nichts"
+      ],
+      "punkte": 1,
+      "explain_de": "Zwar ist von der Schlafdauer und von ausreichendem Schlaf die Rede, doch nennt der Text an keiner Stelle eine bestimmte Stundenzahl.",
+      "explain_id": "Memang dibahas durasi tidur dan perlunya tidur cukup, tetapi teks tidak pernah menyebutkan jumlah jam tertentu.",
+      "evidence": "Der Zusammenhang zwischen Schlafdauer und Behalten gilt in der Forschung als gut belegt"
+    },
+    {
+      "nr": 8,
+      "typ": "jn3",
+      "stamm_de": "Dem Text zufolge wirken Pausen unabhängig vom Alter und vom Vorwissen der Lernenden.",
+      "stamm_id": "Menurut teks, jeda bekerja terlepas dari usia dan pengetahuan awal pembelajar.",
+      "optionen": null,
+      "loesung": [
+        "nein"
+      ],
+      "punkte": 1,
+      "explain_de": "Der Text hält fest, dass die Stärke der Wirkung unter anderem vom Alter und vom Vorwissen abhängt; eine Unabhängigkeit behauptet er gerade nicht.",
+      "explain_id": "Teks menyatakan bahwa kuatnya efek bergantung antara lain pada usia dan pengetahuan awal; teks justru tidak mengklaim adanya ketidaktergantungan.",
+      "evidence": "hängt zudem vom Alter, vom Vorwissen und von der Art des Materials ab"
+    },
+    {
+      "nr": 9,
+      "typ": "jn3",
+      "stamm_de": "Nach Beobachtung des Textes erleben viele Lernende das verteilte Lernen als schwerer, obwohl es bessere Ergebnisse liefert.",
+      "stamm_id": "Menurut pengamatan dalam teks, banyak pembelajar merasa belajar terbagi lebih sulit meskipun hasilnya lebih baik.",
+      "optionen": null,
+      "loesung": [
+        "ja"
+      ],
+      "punkte": 1,
+      "explain_de": "Der Text weist darauf hin, dass viele Lernende das verteilte Lernen subjektiv als schwieriger empfinden, obwohl es objektiv bessere Ergebnisse erzielt.",
+      "explain_id": "Teks menunjukkan bahwa banyak pembelajar merasa belajar terbagi lebih sulit secara subjektif, meskipun secara objektif hasilnya lebih baik.",
+      "evidence": "empfinden viele Lernende das verteilte Lernen subjektiv als schwieriger, obwohl es objektiv bessere Ergebnisse erzielt"
+    },
+    {
+      "nr": 10,
+      "typ": "jn3",
+      "stamm_de": "Der Text belegt, dass gedruckte Materialien die Konsolidierung stärker fördern als digitale Lernprogramme.",
+      "stamm_id": "Teks membuktikan bahwa materi cetak lebih mendukung konsolidasi daripada program belajar digital.",
+      "optionen": null,
+      "loesung": [
+        "nichts"
+      ],
+      "punkte": 1,
+      "explain_de": "Gedruckte und digitale Materialien werden zwar erwähnt, doch fehlen belastbare Vergleichsdaten; ein Vorteil gedruckter Materialien wird nicht belegt.",
+      "explain_id": "Materi cetak dan digital memang disebut, tetapi data pembanding yang sahih tidak ada; keunggulan materi cetak tidak dibuktikan.",
+      "evidence": "belastbare Vergleiche zwischen gedruckten und digitalen Materialien fehlen bislang"
+    }
+  ],
+  "punkte_max": 10,
+  "glossar": [
+    {
+      "wort": "die Konsolidierung",
+      "artikel": "die",
+      "bedeutung_id": "konsolidasi; pemantapan ingatan",
+      "bedeutung_de": "Festigung von Gedächtnisinhalten",
+      "beispiel": null
+    },
+    {
+      "wort": "die Ruhephase",
+      "artikel": "die",
+      "bedeutung_id": "fase istirahat",
+      "bedeutung_de": null,
+      "beispiel": "Konsolidierung läuft in Ruhephasen ab."
+    },
+    {
+      "wort": "labil",
+      "artikel": "",
+      "bedeutung_id": "labil; belum stabil",
+      "bedeutung_de": null,
+      "beispiel": null
+    },
+    {
+      "wort": "der Hippocampus",
+      "artikel": "der",
+      "bedeutung_id": "hipokampus (bagian otak)",
+      "bedeutung_de": null,
+      "beispiel": null
+    },
+    {
+      "wort": "überschreiben",
+      "artikel": "",
+      "bedeutung_id": "menimpa; menumpuk (data lama)",
+      "bedeutung_de": "etwas durch neue Daten ersetzen",
+      "beispiel": "neue Inhalte überschreiben die frischen Spuren"
+    },
+    {
+      "wort": "der Tiefschlaf",
+      "artikel": "der",
+      "bedeutung_id": "tidur dalam (fase tidur nyenyak)",
+      "bedeutung_de": null,
+      "beispiel": null
+    },
+    {
+      "wort": "die Behaltensleistung",
+      "artikel": "die",
+      "bedeutung_id": "daya simpan; daya ingat",
+      "bedeutung_de": null,
+      "beispiel": "verkürzter Schlaf senkt die Behaltensleistung"
+    },
+    {
+      "wort": "weiterpauken",
+      "artikel": "",
+      "bedeutung_id": "belajar keras terus-menerus",
+      "bedeutung_de": null,
+      "beispiel": null
+    },
+    {
+      "wort": "das Intervalllernen",
+      "artikel": "das",
+      "bedeutung_id": "belajar berjeda; belajar terbagi waktu",
+      "bedeutung_de": "verteiltes Lernen über mehrere Zeitpunkte",
+      "beispiel": null
+    },
+    {
+      "wort": "die Daueraufmerksamkeit",
+      "artikel": "die",
+      "bedeutung_id": "perhatian berkelanjutan",
+      "bedeutung_de": null,
+      "beispiel": null
+    },
+    {
+      "wort": "der Botenstoff",
+      "artikel": "der",
+      "bedeutung_id": "zat penghantar (neurotransmitter)",
+      "bedeutung_de": null,
+      "beispiel": null
+    },
+    {
+      "wort": "die Stichprobe",
+      "artikel": "die",
+      "bedeutung_id": "sampel; kelompok uji",
+      "bedeutung_de": null,
+      "beispiel": "Studien mit kleinen Stichproben"
+    }
+  ]
+}

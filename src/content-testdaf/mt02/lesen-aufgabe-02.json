@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "format": "testdaf",
+  "id": "testdaf-mt02-lesen-a2",
+  "bereich": "lesen",
+  "aufgabe": 2,
+  "modelltest": 2,
+  "tdn": 4,
+  "level": "B2",
+  "themenfeld": "Gesundheit & Arbeitswelt",
+  "titel": "Müde Gesellschaft: Wenn Schlaf zur Mangelware wird",
+  "titel_id": "Masyarakat lelah: ketika tidur menjadi barang langka",
+  "beschreibung_id": "Multiple Choice im TestDaF-Format: ein journalistischer Sachtext über Schlafmangel in der Arbeits- und Studienwelt mit zehn Items auf Niveau TDN 4.",
+  "instruktion_de": "Sie lesen einen journalistischen Text über Schlafmangel in der Arbeits- und Studienwelt. Zu jeder Aufgabe 1–10 gibt es drei Antwortmöglichkeiten A, B und C. Nur eine davon ist richtig. Kreuzen Sie die richtige Antwort an.",
+  "instruktion_id": "Anda membaca sebuah teks jurnalistik tentang kurang tidur di dunia kerja dan studi. Untuk setiap soal 1–10 tersedia tiga pilihan jawaban A, B, dan C. Hanya satu di antaranya yang benar. Tandailah jawaban yang benar.",
+  "zeit_minuten": 20,
+  "source_type": "ai",
+  "lizenz": "CC-BY-NC-SA-4.0",
+  "attribution": "Eigener Text (KI-generiert, manuell geprüft) — TestDaF-Modul, Modelltest 2, Leseverstehen Aufgabe 2. Nur das Format orientiert sich am TestDaF; alle Texte und Items sind neu verfasst.",
+  "tags": ["Schlafmangel", "Arbeitswelt", "Gesundheit", "Multiple Choice"],
+  "material_typ": "langtext",
+  "texte": [
+    {
+      "key": "l",
+      "titel": "Müde Gesellschaft: Wenn Schlaf zur Mangelware wird",
+      "inhalt": "In Deutschland ist Schlaf für viele Menschen zur Mangelware geworden. Wer nachts kaum schläft, merkt das am nächsten Tag sofort: Die Konzentration sinkt, Fehler häufen sich, die Stimmung kippt. Was viele für ein persönliches Problem halten, ist längst ein gesellschaftliches Phänomen. Fast jeder dritte Erwachsene schläft hierzulande regelmäßig zu wenig.\n\nEine Umfrage der Krankenkasse DAK aus dem Jahr 2023 zeigt, wie verbreitet das Problem ist: Rund 34 Prozent der Beschäftigten leiden unter Schlafstörungen. Besonders betroffen sind Menschen in Schichtarbeit — von ihnen berichtet fast jeder Zweite über Einschlafprobleme. Auch Studierende sind keine Ausnahme. Eine Befragung an mehreren Hochschulen ergab, dass nur eine Minderheit vor Mitternacht ins Bett geht; viele lernen noch spät am Abend, weil Prüfungen und Nebenjobs sich sonst kaum vereinbaren lassen.\n\nDie Folgen sind messbar. Wer dauerhaft weniger als sechs Stunden schläft, macht nach Angaben der Bundesanstalt für Arbeitsschutz deutlich mehr Fehler als ausgeruhte Kolleginnen und Kollegen. Aufmerksamkeit, Gedächtnis und Urteilsvermögen leiden; chronischer Schlafmangel schwächt zudem das Immunsystem und erhöht langfristig das Risiko für Herz-Kreislauf-Erkrankungen. Der Mediziner Bernd Fischer bringt es auf den Punkt: „Schlaf ist keine verlorene Zeit, sondern die Grundlage für jede Leistung.“\n\nEin wichtiger Faktor ist die Bildschirmnutzung. Das blaue Licht von Smartphone und Laptop hemmt die Produktion des Schlafhormons Melatonin. Wer abends noch stundenlang Nachrichten und Videos konsumiert, findet danach oft schwer in den Schlaf. Studien deuten darauf hin, dass schon zwei Stunden Bildschirmzeit vor dem Zubettgehen den Schlaf spürbar verkürzen. Fachleute raten deshalb, eine Stunde vor dem Schlafengehen das Gerät beiseitezulegen und stattdessen ein Buch zu lesen oder noch einen kurzen Spaziergang zu machen.\n\nDoch nicht nur das Verhalten der Einzelnen ist entscheidend. Auch Betriebe reagieren auf das Problem. Ein Softwareunternehmen aus Leipzig hat feste Bereitschaftszeiten abgeschafft, in denen Mitarbeitende nachts erreichbar sein mussten. Seitdem, so berichtet die Personalchefin, sinken die Krankheitstage. Andere Firmen bieten Schlafräume an oder schicken Führungskräfte in Kurse zum Umgang mit Erschöpfung. An Hochschulen wächst ebenfalls das Angebot: Mehrere Universitäten haben Sprechstunden eingerichtet, in denen Studierende lernen, ihren Tag und ihre Lernzeiten realistisch zu planen.\n\nFür die Betriebe ist das nicht nur eine Frage der Fürsorge. Ausfälle durch Übermüdung verursachen hohe Kosten, und erholte Beschäftigte arbeiten nachweislich konzentrierter. Manche Fachleute warnen dennoch davor, die Verantwortung allein an die Firmen abzugeben: Ohne verlässliche Arbeitszeiten bleibe jede einzelne Maßnahme nur ein Tropfen auf den heißen Stein.\n\nGanz lösen lässt sich das Problem damit nicht. Die Forschung ist sich uneins, wie stark einzelne Maßnahmen wirken. Zwar ist unbestritten, dass ausreichender Schlaf die Leistung verbessert; wie viele Stunden jedoch optimal sind, hängt vom Alter und vom Menschen selbst ab. Auch die Datenlage hat Grenzen: Viele Studien beruhen auf Selbstauskünften, und wer schlecht schläft, erinnert sich vielleicht anders an sein eigenes Verhalten.\n\nKlar ist trotzdem eines: Schlafmangel ist kein Zeichen von Schwäche, sondern eine Folge davon, wie Arbeit und Studium heute organisiert sind. Wer ihn nur als persönliches Versäumnis betrachtet, übersieht die strukturelle Seite des Problems."
+    }
+  ],
+  "antwort_optionen": [],
+  "audio": null,
+  "punkte_max": 10,
+  "fragen": [
+    {
+      "nr": 1,
+      "typ": "mc3",
+      "stamm_de": "Wie viele Erwachsene schlafen in Deutschland nach Angaben des Textes regelmäßig zu wenig?",
+      "stamm_id": "Berapa banyak orang dewasa di Jerman yang menurut teks kurang tidur secara rutin?",
+      "optionen": [
+        { "key": "a", "text": "Fast jeder dritte Erwachsene." },
+        { "key": "b", "text": "Fast jeder zweite Erwachsene." },
+        { "key": "c", "text": "Etwa jeder zehnte Erwachsene." }
+      ],
+      "loesung": ["a"],
+      "punkte": 1,
+      "explain_de": "Der Text nennt zu Beginn, dass fast jeder dritte Erwachsene in Deutschland regelmäßig zu wenig schläft. „Jeder Zweite“ bezieht sich dagegen nur auf Menschen in Schichtarbeit.",
+      "explain_id": "Teks menyebut di awal bahwa hampir setiap orang dewasa ketiga di Jerman kurang tidur secara rutin. „Setiap orang kedua“ hanya berlaku bagi pekerja shift.",
+      "evidence": "Fast jeder dritte Erwachsene schläft hierzulande regelmäßig zu wenig"
+    },
+    {
+      "nr": 2,
+      "typ": "mc3",
+      "stamm_de": "Warum lernen viele Studierende laut Text noch spät am Abend?",
+      "stamm_id": "Mengapa banyak mahasiswa menurut teks masih belajar hingga malam hari?",
+      "optionen": [
+        { "key": "a", "text": "Weil sie das blaue Licht des Bildschirms nicht abschalten können." },
+        { "key": "b", "text": "Weil sie am Abend besonders gerne Videos schauen." },
+        { "key": "c", "text": "Weil sich Prüfungen und Nebenjobs sonst kaum vereinbaren lassen." }
+      ],
+      "loesung": ["c"],
+      "punkte": 1,
+      "explain_de": "Als Grund für spätes Lernen nennt der Text, dass sich Prüfungen und Nebenjobs sonst kaum vereinbaren lassen.",
+      "explain_id": "Sebagai alasan belajar hingga malam, teks menyebut bahwa ujian dan kerja sambilan sulit diselaraskan.",
+      "evidence": "weil Prüfungen und Nebenjobs sich sonst kaum vereinbaren lassen"
+    },
+    {
+      "nr": 3,
+      "typ": "mc3",
+      "stamm_de": "Was zeigt sich nach Angaben der Bundesanstalt für Arbeitsschutz bei Menschen, die dauerhaft weniger als sechs Stunden schlafen?",
+      "stamm_id": "Apa yang menurut keterangan Bundesanstalt für Arbeitsschutz tampak pada orang yang secara terus-menerus tidur kurang dari enam jam?",
+      "optionen": [
+        { "key": "a", "text": "Sie werden schneller befördert." },
+        { "key": "b", "text": "Sie machen deutlich mehr Fehler als ausgeruhte Kolleginnen und Kollegen." },
+        { "key": "c", "text": "Sie können ihre Arbeit überhaupt nicht mehr erledigen." }
+      ],
+      "loesung": ["b"],
+      "punkte": 1,
+      "explain_de": "Der Text sagt, dass Menschen mit dauerhaft weniger als sechs Stunden Schlaf deutlich mehr Fehler machen. Die anderen Optionen stehen nicht im Text bzw. sind zu absolut formuliert.",
+      "explain_id": "Teks menyatakan bahwa orang dengan tidur kurang dari enam jam secara terus-menerus membuat jauh lebih banyak kesalahan. Pilihan lain tidak ada dalam teks atau dirumuskan terlalu mutlak.",
+      "evidence": "macht nach Angaben der Bundesanstalt für Arbeitsschutz deutlich mehr Fehler als ausgeruhte Kolleginnen und Kollegen"
+    },
+    {
+      "nr": 4,
+      "typ": "mc3",
+      "stamm_de": "Welche gesundheitliche Folge von chronischem Schlafmangel nennt der Text?",
+      "stamm_id": "Akibat kesehatan apa dari kurang tidur kronis yang disebutkan teks?",
+      "optionen": [
+        { "key": "a", "text": "Ein erhöhtes Risiko für Herz-Kreislauf-Erkrankungen." },
+        { "key": "b", "text": "Ein erhöhtes Risiko für Allergien." },
+        { "key": "c", "text": "Ein erhöhtes Risiko für Rückenschmerzen." }
+      ],
+      "loesung": ["a"],
+      "punkte": 1,
+      "explain_de": "Der Text nennt als langfristige Folge ein höheres Risiko für Herz-Kreislauf-Erkrankungen; Allergien und Rückenschmerzen kommen nicht vor.",
+      "explain_id": "Teks menyebut sebagai akibat jangka panjang risiko penyakit kardiovaskular yang lebih tinggi; alergi dan sakit punggung tidak disebutkan.",
+      "evidence": "erhöht langfristig das Risiko für Herz-Kreislauf-Erkrankungen"
+    },
+    {
+      "nr": 5,
+      "typ": "mc3",
+      "stamm_de": "Warum erschwert die abendliche Nutzung von Smartphone und Laptop das Einschlafen?",
+      "stamm_id": "Mengapa penggunaan ponsel dan laptop pada malam hari menyulitkan tidur?",
+      "optionen": [
+        { "key": "a", "text": "Sie steigert die Produktion des Schlafhormons Melatonin." },
+        { "key": "b", "text": "Sie erhöht stark die Körpertemperatur." },
+        { "key": "c", "text": "Sie hemmt die Produktion des Schlafhormons Melatonin." }
+      ],
+      "loesung": ["c"],
+      "punkte": 1,
+      "explain_de": "Das blaue Licht hemmt die Produktion des Schlafhormons Melatonin — es steigert sie nicht. Option A vertauscht die Wirkung.",
+      "explain_id": "Cahaya biru menghambat produksi hormon tidur melatonin — bukan meningkatkannya. Pilihan A membalik efeknya.",
+      "evidence": "hemmt die Produktion des Schlafhormons Melatonin"
+    },
+    {
+      "nr": 6,
+      "typ": "mc3",
+      "stamm_de": "Wie viel Bildschirmzeit vor dem Zubettgehen verkürzt den Schlaf laut Text bereits spürbar?",
+      "stamm_id": "Berapa lama waktu di depan layar sebelum tidur yang menurut teks sudah nyata memperpendek tidur?",
+      "optionen": [
+        { "key": "a", "text": "Erst vier Stunden." },
+        { "key": "b", "text": "Bereits zwei Stunden." },
+        { "key": "c", "text": "Erst sechs Stunden." }
+      ],
+      "loesung": ["b"],
+      "punkte": 1,
+      "explain_de": "Der Text nennt bereits zwei Stunden Bildschirmzeit vor dem Zubettgehen; die Zahlen vier und sechs kommen nicht vor.",
+      "explain_id": "Teks menyebut sudah dua jam waktu di depan layar sebelum tidur; angka empat dan enam tidak disebutkan.",
+      "evidence": "dass schon zwei Stunden Bildschirmzeit vor dem Zubettgehen den Schlaf spürbar verkürzen"
+    },
+    {
+      "nr": 7,
+      "typ": "mc3",
+      "stamm_de": "Was hat das Softwareunternehmen aus Leipzig geändert?",
+      "stamm_id": "Apa yang diubah oleh perusahaan perangkat lunak dari Leipzig?",
+      "optionen": [
+        { "key": "a", "text": "Es hat feste Bereitschaftszeiten abgeschafft, in denen Mitarbeitende nachts erreichbar sein mussten." },
+        { "key": "b", "text": "Es hat die Bezahlung von Überstunden gestrichen." },
+        { "key": "c", "text": "Es hat das Arbeiten im Homeoffice verboten." }
+      ],
+      "loesung": ["a"],
+      "punkte": 1,
+      "explain_de": "Das Unternehmen hat feste Bereitschaftszeiten abgeschafft, in denen Mitarbeitende nachts erreichbar sein mussten. Überstunden und Homeoffice spielen im Text keine Rolle.",
+      "explain_id": "Perusahaan menghapus waktu siaga tetap ketika karyawan harus dapat dihubungi pada malam hari. Soal lembur dan kerja dari rumah tidak dibahas dalam teks.",
+      "evidence": "feste Bereitschaftszeiten abgeschafft, in denen Mitarbeitende nachts erreichbar sein mussten"
+    },
+    {
+      "nr": 8,
+      "typ": "mc3",
+      "stamm_de": "Welches Angebot haben mehrere Universitäten laut Text eingerichtet?",
+      "stamm_id": "Layanan apa yang menurut teks disediakan oleh beberapa universitas?",
+      "optionen": [
+        { "key": "a", "text": "Kostenlose Schlafräume für Studierende." },
+        { "key": "b", "text": "Spätere Anfangszeiten für alle Vorlesungen." },
+        { "key": "c", "text": "Sprechstunden, in denen Studierende lernen, ihren Tag und ihre Lernzeiten realistisch zu planen." }
+      ],
+      "loesung": ["c"],
+      "punkte": 1,
+      "explain_de": "Mehrere Universitäten haben Sprechstunden eingerichtet, in denen Studierende lernen, ihren Tag und ihre Lernzeiten realistisch zu planen. Schlafräume und spätere Vorlesungen nennt der Text nicht.",
+      "explain_id": "Beberapa universitas mengadakan jam konsultasi tempat mahasiswa belajar merencanakan hari dan waktu belajarnya secara realistis. Ruang tidur dan kuliah yang lebih siang tidak disebutkan.",
+      "evidence": "Sprechstunden eingerichtet, in denen Studierende lernen, ihren Tag und ihre Lernzeiten realistisch zu planen"
+    },
+    {
+      "nr": 9,
+      "typ": "mc3",
+      "stamm_de": "Welche Grenze der Forschung nennt der Text?",
+      "stamm_id": "Keterbatasan penelitian apa yang disebutkan teks?",
+      "optionen": [
+        { "key": "a", "text": "Alle Studien wurden an Tieren durchgeführt." },
+        { "key": "b", "text": "Viele Studien beruhen auf Selbstauskünften." },
+        { "key": "c", "text": "Die Studien widerlegen sich vollständig." }
+      ],
+      "loesung": ["b"],
+      "punkte": 1,
+      "explain_de": "Der Text nennt als Grenze der Datenlage, dass viele Studien auf Selbstauskünften beruhen. Tierstudien und ein völliger Widerspruch stehen nicht im Text.",
+      "explain_id": "Teks menyebut sebagai keterbatasan data bahwa banyak penelitian berdasar keterangan diri sendiri. Penelitian pada hewan dan pertentangan total tidak disebutkan.",
+      "evidence": "Viele Studien beruhen auf Selbstauskünften"
+    },
+    {
+      "nr": 10,
+      "typ": "mc3",
+      "stamm_de": "Was sagt der Text zur optimalen Schlafdauer?",
+      "stamm_id": "Apa yang dikatakan teks tentang durasi tidur yang optimal?",
+      "optionen": [
+        { "key": "a", "text": "Sie hängt vom Alter und vom Menschen selbst ab." },
+        { "key": "b", "text": "Sie beträgt für alle Menschen genau acht Stunden." },
+        { "key": "c", "text": "Sie ist bisher völlig unerforscht." }
+      ],
+      "loesung": ["a"],
+      "punkte": 1,
+      "explain_de": "Der Text betont, dass die optimale Schlafdauer vom Alter und vom einzelnen Menschen abhängt; eine feste Zahl nennt er nicht.",
+      "explain_id": "Teks menegaskan bahwa durasi tidur optimal bergantung pada usia dan pada masing-masing orang; teks tidak menyebut angka pasti.",
+      "evidence": "wie viele Stunden jedoch optimal sind, hängt vom Alter und vom Menschen selbst ab"
+    }
+  ],
+  "glossar": [
+    { "wort": "der Schlafmangel", "artikel": "der", "bedeutung_id": "kekurangan tidur", "bedeutung_de": null, "beispiel": "chronischer Schlafmangel" },
+    { "wort": "die Schichtarbeit", "artikel": "die", "bedeutung_id": "kerja shift / kerja bergiliran", "bedeutung_de": null, "beispiel": "Menschen in Schichtarbeit" },
+    { "wort": "die Einschlafprobleme", "artikel": "die", "bedeutung_id": "kesulitan tidur / sulit tidur", "bedeutung_de": null, "beispiel": null },
+    { "wort": "das Immunsystem", "artikel": "das", "bedeutung_id": "sistem imun", "bedeutung_de": null, "beispiel": "das Immunsystem schwächen" },
+    { "wort": "das Schlafhormon", "artikel": "das", "bedeutung_id": "hormon tidur", "bedeutung_de": null, "beispiel": "die Produktion des Schlafhormons Melatonin" },
+    { "wort": "die Bildschirmzeit", "artikel": "die", "bedeutung_id": "waktu di depan layar", "bedeutung_de": null, "beispiel": "zwei Stunden Bildschirmzeit" },
+    { "wort": "die Bereitschaftszeit", "artikel": "die", "bedeutung_id": "waktu siaga (siap dipanggil)", "bedeutung_de": "Zeit, in der man auch außerhalb der Arbeit erreichbar sein muss", "beispiel": "feste Bereitschaftszeiten abschaffen" },
+    { "wort": "die Erschöpfung", "artikel": "die", "bedeutung_id": "kelelahan; kehabisan tenaga", "bedeutung_de": null, "beispiel": "der Umgang mit Erschöpfung" },
+    { "wort": "die Selbstauskunft", "artikel": "die", "bedeutung_id": "keterangan diri sendiri", "bedeutung_de": "Angabe, die eine Person selbst über sich macht", "beispiel": "Studien beruhen auf Selbstauskünften" },
+    { "wort": "die Maßnahme", "artikel": "die", "bedeutung_id": "tindakan; langkah", "bedeutung_de": null, "beispiel": "einzelne Maßnahmen wirken" },
+    { "wort": "die Leistung", "artikel": "die", "bedeutung_id": "kinerja; prestasi", "bedeutung_de": null, "beispiel": "die Grundlage für jede Leistung" },
+    { "wort": "das Urteilsvermögen", "artikel": "das", "bedeutung_id": "kemampuan menilai", "bedeutung_de": null, "beispiel": null }
+  ]
+}

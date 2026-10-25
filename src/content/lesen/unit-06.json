@@ -1,0 +1,1443 @@
+{
+  "schemaVersion": 1,
+  "id": "lesen-unit-06",
+  "skill": "lesen",
+  "unit": 6,
+  "level": "B2",
+  "themenfeld": "Arbeit & Beruf",
+  "titel": "Arbeiten im Alter",
+  "titel_id": "Bekerja di usia lanjut",
+  "beschreibung_id": "Latihan membaca B2 tentang bekerja di usia lanjut: pengalaman pribadi, model Altersteilzeit, nilai pengalaman, dan aturan di perusahaan.",
+  "teile": [
+    {
+      "id": "lesen-unit-06-teil1",
+      "skill": "lesen",
+      "teil": 1,
+      "themenfeld": "Arbeit & Beruf",
+      "titel": "Vier Menschen über die Arbeit im Alter",
+      "instruktion_de": "Lesen Sie die vier Texte. Welcher Text passt zu welcher Aussage? Ordnen Sie jeder Aussage genau eine Person zu.",
+      "instruktion_id": "Bacalah keempat teks. Teks mana yang cocok dengan pernyataan mana? Pasangkan setiap pernyataan dengan tepat satu orang.",
+      "zeit_minuten": 18,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Arbeit & Beruf",
+        "Lesen Teil 1",
+        "Zuordnung",
+        "Altersteilzeit",
+        "B2"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "a",
+          "titel": "Ingrid, 67, Rentnerin mit Minijob",
+          "inhalt": "Ingrid war vierzig Jahre lang Verkäuferin, bis sie mit 65 in Rente ging. „Zwei Monate habe ich das Nichtstun genossen, dann wurde mir die Wohnung zu klein“, erzählt sie. Heute arbeitet sie an drei Vormittagen als Kassiererin in einem Supermarkt, acht Stunden pro Woche auf Minijob-Basis. Das zusätzliche Geld ist willkommen, doch das eigentliche Motiv ist ein anderes: „Ich brauche die Gespräche mit den Menschen viel mehr als den Lohn.“ Sie kennt inzwischen die halbe Nachbarschaft und weiß, wer welche Zeitung liest. Eine Rückkehr in die Vollzeit kann sie sich nicht vorstellen, die körperliche Belastung wäre zu groß. Mit siebenundsechzig denkt sie noch nicht ans Aufhören. Allerdings betont sie, dass junge Kolleginnen und Kollegen nie das Gefühl bekommen sollen, sie nehme ihnen eine Stelle weg."
+        },
+        {
+          "key": "b",
+          "titel": "Bernd Baumann, 68, Schreiner und Werkstattinhaber",
+          "inhalt": "Bernd Baumann hat seine Schreinerei nie aufgegeben. Mit achtundsechzig leitet er den Betrieb noch immer selbst, wenn auch mit kürzeren Wochen: „Montags und dienstags stehe ich an der Maschine, den Rest erledigt mein Geselle.“ Ihm geht es nicht ums Geld, die Werkstatt trägt sich von selbst, sondern um das Wissen, das mit jedem Rückzug verloren ginge. Zwei Auszubildende lernen bei ihm das Handwerk, und er sagt: „Ein Betrieb wie unserer lebt von Erfahrung, die man nicht aus Lehrbüchern zieht.“ Einen Verkauf an ein großes Möbelhaus lehnt er entschieden ab. Zwar ist der Markt hart geworden, doch gerade deshalb will er bleiben, solange es seine Gesundheit erlaubt. Sein Geselle schätzt diese Ruhe, denn er lernt dabei mehr als in jeder Schulung. Sein größter Wunsch: das Handwerk in der Region zu halten."
+        },
+        {
+          "key": "c",
+          "titel": "Monika Kessler, 70, pensionierte Lehrerin",
+          "inhalt": "Monika Kessler hat dreißig Jahre lang Deutsch und Geschichte unterrichtet. Nach der Pensionierung wollte sie mit dem Beruf abschließen, doch schon nach einem Jahr bot sie Nachhilfe an. Heute betreut sie drei Kinder pro Woche, mehr will sie nicht: „Ich habe die Klasse gegen den Einzelnen getauscht.“ Sie arbeitet selbstständig, ohne feste Anstellung und ohne jede Verpflichtung; wenn sie krank ist, fällt der Unterricht eben aus. Das Geld spielt eine Nebenrolle, die meisten Familien zahlen wenig, manche gar nichts. Für sie ist es vor allem eine Frage der Verantwortung: „Wer lesen und schreiben kann, hat bessere Chancen.“ Ihr Stundenplan richtet sich nach den Familien, nicht nach den Öffnungszeiten eines Instituts. Allerdings hält sie Abstand zu großen Nachhilfeinstituten, deren starrer Stundenplan ihr widerspricht."
+        },
+        {
+          "key": "d",
+          "titel": "Klaus Lehmann, 64, Ingenieur in Beratung",
+          "inhalt": "Klaus Lehmann ist eigentlich im Ruhestand, und doch arbeitet er weiter. Als Ingenieur berät er zwei Tage pro Woche junge Start-ups, die seine Erfahrung mit Antriebstechnik nutzen. Noch vor zwei Jahren war er in Vollzeit angestellt, heute wählt er seine Projekte selbst aus. „Ich will nicht mehr überall dabei sein, aber ich will wirken“, sagt er. Das Unternehmen, für das er früher arbeitete, hat ihn als externen Berater zurückgeholt, und er genießt die Mischung aus Fachwissen und Freiheit. Für ihn ist das Modell kein Ersatz für die Rente, sondern eine Ergänzung. Zugleich räumt er ein, dass lange Präsenzzeiten nicht mehr zu ihm passen. Das gibt ihm das Gefühl, weiterhin gebraucht zu werden. Sein Rat an Jüngere: Erfahrung weiterzugeben sei wichtiger als eine Führungsposition."
+        }
+      ],
+      "luecken_text": null,
+      "optionen_saetze": null,
+      "ueberschriften": null,
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "zuordnung",
+          "stamm_de": "Wer arbeitet in erster Linie, um unter Menschen zu sein, und nicht für das Geld?",
+          "stamm_id": "Siapa yang bekerja terutama untuk berada di antara orang lain, bukan demi uang?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Ingrid (Rentnerin mit Minijob)"
+            },
+            {
+              "key": "b",
+              "text": "Bernd Baumann (Schreiner und Werkstattinhaber)"
+            },
+            {
+              "key": "c",
+              "text": "Monika Kessler (pensionierte Lehrerin)"
+            },
+            {
+              "key": "d",
+              "text": "Klaus Lehmann (Ingenieur in Beratung)"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Ingrid sagt ausdrücklich, sie brauche die Gespräche mehr als den Lohn. Das Geld ist nur willkommen, nicht das Motiv.",
+          "explain_id": "Ingrid menyatakan tegas bahwa obrolan lebih ia butuhkan daripada upah. Uang hanya bonus, bukan motifnya.",
+          "evidence": "Ich brauche die Gespräche mit den Menschen viel mehr als den Lohn."
+        },
+        {
+          "nr": 2,
+          "typ": "zuordnung",
+          "stamm_de": "Wer lehnt es klar ab, den eigenen Betrieb zu verkaufen?",
+          "stamm_id": "Siapa yang tegas menolak menjual usahanya sendiri?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Ingrid (Rentnerin mit Minijob)"
+            },
+            {
+              "key": "b",
+              "text": "Bernd Baumann (Schreiner und Werkstattinhaber)"
+            },
+            {
+              "key": "c",
+              "text": "Monika Kessler (pensionierte Lehrerin)"
+            },
+            {
+              "key": "d",
+              "text": "Klaus Lehmann (Ingenieur in Beratung)"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Baumann will die Schreinerei nicht an ein großes Möbelhaus abgeben. Er lehnt den Verkauf entschieden ab.",
+          "explain_id": "Baumann tidak mau melepas toko kayunya ke perusahaan mebel besar. Ia menolak penjualan itu.",
+          "evidence": "Einen Verkauf an ein großes Möbelhaus lehnt er entschieden ab."
+        },
+        {
+          "nr": 3,
+          "typ": "zuordnung",
+          "stamm_de": "Wer unterrichtet lieber einzelne Kinder als eine ganze Klasse?",
+          "stamm_id": "Siapa yang lebih suka mengajar satu anak daripada satu kelas?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Ingrid (Rentnerin mit Minijob)"
+            },
+            {
+              "key": "b",
+              "text": "Bernd Baumann (Schreiner und Werkstattinhaber)"
+            },
+            {
+              "key": "c",
+              "text": "Monika Kessler (pensionierte Lehrerin)"
+            },
+            {
+              "key": "d",
+              "text": "Klaus Lehmann (Ingenieur in Beratung)"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Kessler sagt, sie habe die Klasse gegen den Einzelnen getauscht. Sie betreut nur drei Kinder pro Woche.",
+          "explain_id": "Kessler berkata ia menukar kelas dengan pengajaran perorangan. Ia hanya menangani tiga anak per minggu.",
+          "evidence": "Ich habe die Klasse gegen den Einzelnen getauscht."
+        },
+        {
+          "nr": 4,
+          "typ": "zuordnung",
+          "stamm_de": "Wer arbeitet nur zwei Tage pro Woche als externer Berater?",
+          "stamm_id": "Siapa yang hanya bekerja dua hari per minggu sebagai konsultan eksternal?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Ingrid (Rentnerin mit Minijob)"
+            },
+            {
+              "key": "b",
+              "text": "Bernd Baumann (Schreiner und Werkstattinhaber)"
+            },
+            {
+              "key": "c",
+              "text": "Monika Kessler (pensionierte Lehrerin)"
+            },
+            {
+              "key": "d",
+              "text": "Klaus Lehmann (Ingenieur in Beratung)"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Lehmann berät als Ingenieur zwei Tage pro Woche junge Start-ups. Er arbeitet als externer Berater.",
+          "explain_id": "Lehmann sebagai insinyur membimbing start-up muda dua hari per minggu, sebagai konsultan eksternal.",
+          "evidence": "Als Ingenieur berät er zwei Tage pro Woche junge Start-ups"
+        },
+        {
+          "nr": 5,
+          "typ": "zuordnung",
+          "stamm_de": "Wer macht sich Gedanken darüber, jemandem den Arbeitsplatz wegzunehmen?",
+          "stamm_id": "Siapa yang mengkhawatirkan merebut pekerjaan orang lain?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Ingrid (Rentnerin mit Minijob)"
+            },
+            {
+              "key": "b",
+              "text": "Bernd Baumann (Schreiner und Werkstattinhaber)"
+            },
+            {
+              "key": "c",
+              "text": "Monika Kessler (pensionierte Lehrerin)"
+            },
+            {
+              "key": "d",
+              "text": "Klaus Lehmann (Ingenieur in Beratung)"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Ingrid betont, die junge Kolleginnen und Kollegen sollen nie das Gefühl haben, sie nehme ihnen eine Stelle weg.",
+          "explain_id": "Ingrid menegaskan kolega muda jangan sampai merasa ia merebut tempat kerja mereka.",
+          "evidence": "sie nehme ihnen eine Stelle weg"
+        },
+        {
+          "nr": 6,
+          "typ": "zuordnung",
+          "stamm_de": "Wer bildet im eigenen Betrieb noch Auszubildende aus?",
+          "stamm_id": "Siapa yang masih melatih pemagang di usahanya sendiri?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Ingrid (Rentnerin mit Minijob)"
+            },
+            {
+              "key": "b",
+              "text": "Bernd Baumann (Schreiner und Werkstattinhaber)"
+            },
+            {
+              "key": "c",
+              "text": "Monika Kessler (pensionierte Lehrerin)"
+            },
+            {
+              "key": "d",
+              "text": "Klaus Lehmann (Ingenieur in Beratung)"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Baumann hat zwei Auszubildende in seiner Schreinerei. Bei ihm lernen sie das Handwerk.",
+          "explain_id": "Baumann punya dua pemagang di toko kayunya. Pada dia mereka belajar keahlian itu.",
+          "evidence": "Zwei Auszubildende lernen bei ihm das Handwerk"
+        },
+        {
+          "nr": 7,
+          "typ": "zuordnung",
+          "stamm_de": "Wer arbeitet ohne feste Anstellung und kann Termine selbst ausfallen lassen?",
+          "stamm_id": "Siapa yang bekerja tanpa ikatan kerja tetap dan bisa membatalkan jadwal sendiri?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Ingrid (Rentnerin mit Minijob)"
+            },
+            {
+              "key": "b",
+              "text": "Bernd Baumann (Schreiner und Werkstattinhaber)"
+            },
+            {
+              "key": "c",
+              "text": "Monika Kessler (pensionierte Lehrerin)"
+            },
+            {
+              "key": "d",
+              "text": "Klaus Lehmann (Ingenieur in Beratung)"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Kessler arbeitet selbstständig und ohne feste Anstellung; wenn sie krank ist, fällt der Unterricht aus.",
+          "explain_id": "Kessler bekerja mandiri tanpa ikatan tetap; kalau ia sakit, pelajaran batal.",
+          "evidence": "Sie arbeitet selbstständig, ohne feste Anstellung und ohne jede Verpflichtung"
+        },
+        {
+          "nr": 8,
+          "typ": "zuordnung",
+          "stamm_de": "Wer schätzt besonders die Verbindung von Fachwissen und Freiheit?",
+          "stamm_id": "Siapa yang sangat menghargai gabungan keahlian dan kebebasan?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Ingrid (Rentnerin mit Minijob)"
+            },
+            {
+              "key": "b",
+              "text": "Bernd Baumann (Schreiner und Werkstattinhaber)"
+            },
+            {
+              "key": "c",
+              "text": "Monika Kessler (pensionierte Lehrerin)"
+            },
+            {
+              "key": "d",
+              "text": "Klaus Lehmann (Ingenieur in Beratung)"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Lehmann genießt ausdrücklich die Mischung aus Fachwissen und Freiheit. Er wählt seine Projekte selbst.",
+          "explain_id": "Lehmann secara eksplisit menikmati campuran keahlian dan kebebasan. Ia memilih proyeknya sendiri.",
+          "evidence": "er genießt die Mischung aus Fachwissen und Freiheit"
+        },
+        {
+          "nr": 9,
+          "typ": "zuordnung",
+          "stamm_de": "Wer möchte das Handwerk in seiner Region erhalten?",
+          "stamm_id": "Siapa yang ingin mempertahankan keahlian di daerahnya?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Ingrid (Rentnerin mit Minijob)"
+            },
+            {
+              "key": "b",
+              "text": "Bernd Baumann (Schreiner und Werkstattinhaber)"
+            },
+            {
+              "key": "c",
+              "text": "Monika Kessler (pensionierte Lehrerin)"
+            },
+            {
+              "key": "d",
+              "text": "Klaus Lehmann (Ingenieur in Beratung)"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Baumann nennt es seinen größten Wunsch, das Handwerk in der Region zu halten. Er lehnt einen Verkauf ab.",
+          "explain_id": "Baumann menyebut keinginan terbesarnya adalah menjaga keahlian di daerahnya. Ia menolak menjual.",
+          "evidence": "Sein größter Wunsch: das Handwerk in der Region zu halten."
+        }
+      ],
+      "punkte_max": 9,
+      "glossar": [
+        {
+          "wort": "die Rente",
+          "artikel": "die",
+          "plural": "Renten",
+          "wortart": "Nomen",
+          "bedeutung_id": "pensiun; uang pensiun",
+          "bedeutung_de": null,
+          "beispiel": "Sie geht mit fünfundsechzig in Rente."
+        },
+        {
+          "wort": "der Ruhestand",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "masa pensiun",
+          "bedeutung_de": null,
+          "beispiel": "Klaus Lehmann ist eigentlich im Ruhestand."
+        },
+        {
+          "wort": "der Minijob",
+          "artikel": "der",
+          "plural": "Minijobs",
+          "wortart": "Nomen",
+          "bedeutung_id": "pekerjaan ringan bergaji kecil",
+          "bedeutung_de": null,
+          "beispiel": "Sie arbeitet auf Minijob-Basis."
+        },
+        {
+          "wort": "die Nachbarschaft",
+          "artikel": "die",
+          "plural": "Nachbarschaften",
+          "wortart": "Nomen",
+          "bedeutung_id": "lingkungan tetangga",
+          "bedeutung_de": null,
+          "beispiel": "Sie kennt die halbe Nachbarschaft."
+        },
+        {
+          "wort": "das Handwerk",
+          "artikel": "das",
+          "plural": "Handwerke",
+          "wortart": "Nomen",
+          "bedeutung_id": "keahlian tangan / kerajinan",
+          "bedeutung_de": null,
+          "beispiel": "Er will das Handwerk in der Region halten."
+        },
+        {
+          "wort": "der Auszubildende",
+          "artikel": "der",
+          "plural": "Auszubildenden",
+          "wortart": "Nomen",
+          "bedeutung_id": "pemagang",
+          "bedeutung_de": null,
+          "beispiel": "Zwei Auszubildende lernen bei ihm."
+        },
+        {
+          "wort": "die Erfahrung",
+          "artikel": "die",
+          "plural": "Erfahrungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "pengalaman",
+          "bedeutung_de": null,
+          "beispiel": "Der Betrieb lebt von Erfahrung."
+        },
+        {
+          "wort": "die Verpflichtung",
+          "artikel": "die",
+          "plural": "Verpflichtungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "kewajiban",
+          "bedeutung_de": null,
+          "beispiel": "Sie arbeitet ohne jede Verpflichtung."
+        },
+        {
+          "wort": "ablehnen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "menolak",
+          "bedeutung_de": null,
+          "beispiel": "Er lehnt einen Verkauf ab."
+        },
+        {
+          "wort": "selbstständig",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "mandiri",
+          "bedeutung_de": null,
+          "beispiel": "Sie arbeitet selbstständig."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-06-teil2",
+      "skill": "lesen",
+      "teil": 2,
+      "themenfeld": "Arbeit & Beruf",
+      "titel": "Altersteilzeit: Welcher Satz passt?",
+      "instruktion_de": "Lesen Sie den Artikel. Welcher Satz passt in welche Lücke? Achtung: Zwei Sätze passen zu keiner Lücke.",
+      "instruktion_id": "Bacalah artikel ini. Kalimat mana yang cocok untuk setiap rumpang? Perhatikan: dua kalimat tidak cocok untuk rumpang mana pun.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Arbeit & Beruf",
+        "Lesen Teil 2",
+        "Sätze einsetzen",
+        "Altersteilzeit"
+      ],
+      "audio": null,
+      "texte": null,
+      "luecken_text": "In vielen Betrieben fehlen Fachkräfte, während gleichzeitig erfahrene Mitarbeiterinnen und Mitarbeiter in den Ruhestand gehen. Vor diesem Hintergrund gewinnt ein Modell an Bedeutung, das früher als Ausnahme galt: die Altersteilzeit. Die Idee ist einfach. Ältere Beschäftigte reduzieren ihre Arbeitszeit, behalten aber einen Teil ihres Einkommens und bleiben dem Betrieb erhalten.\n\n[[1]] Das klingt zunächst attraktiv. Wer weniger arbeitet, gewinnt Zeit für die Familie, für Hobbys oder für die eigene Gesundheit. Zugleich bleibt das Wissen der Älteren im Unternehmen, und Übergaben an jüngere Kollegen laufen reibungsloser ab.\n\nAllerdings ist die Altersteilzeit nicht für jeden erschwinglich. Bei einer Halbierung der Stunden sinkt auch die spätere Rente, [[2]] Hinzu kommt, dass längst nicht alle Arbeitgeber das Modell unterstützen. Manche Betriebe scheuen die zusätzlichen Kosten, andere haben schlicht keine Erfahrung damit.\n\nEin weiterer Gesichtspunkt betrifft die Gesundheit. In körperlich anstrengenden Berufen fällt es vielen schwer, überhaupt bis zur Regelaltersgrenze zu arbeiten. [[3]] Wer dagegen am Schreibtisch sitzt, könnte oft länger bleiben, will aber nicht immer.\n\nInsofern überrascht es nicht, dass die Meinungen auseinandergehen. Einerseits gilt die Altersteilzeit als kluger Kompromiss, andererseits als teures Privileg, das sich nur gut verdienende Angestellte leisten können. [[4]] Kritiker fordern daher, das Modell gerechter zu gestalten.\n\nTrotz dieser Einwände zeigen Erfahrungen aus einzelnen Firmen, dass sich der Aufwand lohnen kann. [[5]] Dort, wo die Übergabe früh geplant wird, profitieren beide Seiten: Die Jüngeren lernen, die Älteren behalten ihre Aufgabe.\n\nFolglich kommt es weniger auf das Modell selbst an als auf die Bedingungen. [[6]] Ohne klare Regeln bleibt die Altersteilzeit ein Angebot für wenige. Mit fairer Ausgestaltung kann sie dagegen dazu beitragen, Erfahrung und Nachwuchs im Betrieb zu verbinden.",
+      "optionen_saetze": [
+        {
+          "key": "a",
+          "text": "So lässt sich die Belastung senken, ohne ganz aus dem Arbeitsleben auszusteigen."
+        },
+        {
+          "key": "b",
+          "text": "Das Gehalt der jüngeren Kollegen steigt in diesem Fall deutlich an."
+        },
+        {
+          "key": "c",
+          "text": "was viele Beschäftigte erst spät bemerken."
+        },
+        {
+          "key": "d",
+          "text": "Diese Gruppe bräuchte eigentlich eine andere Lösung als einen Teilzeitvertrag."
+        },
+        {
+          "key": "e",
+          "text": "Die Betriebsrente fällt dann vollständig weg, was selten erwünscht ist."
+        },
+        {
+          "key": "f",
+          "text": "Der soziale Ausgleich gerät dadurch ins Hintertreffen."
+        },
+        {
+          "key": "g",
+          "text": "Entscheidend sind klare Vereinbarungen zur Übergabe."
+        },
+        {
+          "key": "h",
+          "text": "Nur wenn beide Seiten frühzeitig planen, entsteht ein fairer Übergang."
+        }
+      ],
+      "ueberschriften": null,
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 1?",
+          "stamm_id": "Kalimat mana yang cocok untuk rumpang 1?",
+          "optionen": null,
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Nach der Lücke steht „Das klingt zunächst attraktiv“. Der Satz a führt genau diesen Vorteil ein: sinkende Belastung bei bleibender Zugehörigkeit zum Betrieb.",
+          "explain_id": "Setelah rumpang tertulis „Das klingt zunächst attraktiv“. Kalimat a memperkenalkan justru keuntungan itu: beban turun namun tetap menjadi bagian perusahaan.",
+          "evidence": "Das klingt zunächst attraktiv."
+        },
+        {
+          "nr": 2,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 2?",
+          "stamm_id": "Kalimat mana yang cocok untuk rumpang 2?",
+          "optionen": null,
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz c knüpft grammatisch an „sinkt auch die spätere Rente“ an, denn das Relativpronomen „was“ bezieht sich darauf. Inhaltlich passt er zu einem Nachteil, den viele zu spät erkennen.",
+          "explain_id": "Kalimat c nyambung secara tata bahasa dengan „sinkt auch die spätere Rente“, karena kata sambung „was“ merujuk ke situ. Isinya cocok untuk kerugian yang sering disadari terlambat.",
+          "evidence": "Bei einer Halbierung der Stunden sinkt auch die spätere Rente,"
+        },
+        {
+          "nr": 3,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 3?",
+          "stamm_id": "Kalimat mana yang cocok untuk rumpang 3?",
+          "optionen": null,
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "„Diese Gruppe“ bezieht sich auf die Beschäftigten in körperlich anstrengenden Berufen. Der folgende Satz mit „Wer dagegen am Schreibtisch sitzt“ bildet den Gegenpol.",
+          "explain_id": "„Diese Gruppe“ merujuk pada pekerja di bidang yang berat secara fisik. Kalimat berikutnya „Wer dagegen am Schreibtisch sitzt“ menjadi lawannya.",
+          "evidence": "In körperlich anstrengenden Berufen fällt es vielen schwer, überhaupt bis zur Regelaltersgrenze zu arbeiten."
+        },
+        {
+          "nr": 4,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 4?",
+          "stamm_id": "Kalimat mana yang cocok untuk rumpang 4?",
+          "optionen": null,
+          "loesung": [
+            "f"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz f fasst die Folge zusammen: Wenn nur Gutverdiener profitieren, leidet der soziale Ausgleich. Danach folgt die Forderung, das Modell gerechter zu machen.",
+          "explain_id": "Kalimat f merangkum akibatnya: jika hanya si berpenghasilan tinggi yang diuntungkan, keadilan sosial terganggu. Setelah itu muncul tuntutan agar modelnya lebih adil.",
+          "evidence": "das sich nur gut verdienende Angestellte leisten können."
+        },
+        {
+          "nr": 5,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 5?",
+          "stamm_id": "Kalimat mana yang cocok untuk rumpang 5?",
+          "optionen": null,
+          "loesung": [
+            "g"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz g nennt das Stichwort „Übergabe“. Der nächste Satz „Dort, wo die Übergabe früh geplant wird“ nimmt es direkt wieder auf.",
+          "explain_id": "Kalimat g menyebut kata kunci „Übergabe“ (serah terima). Kalimat berikutnya „Dort, wo die Übergabe früh geplant wird“ langsung mengulanginya.",
+          "evidence": "Dort, wo die Übergabe früh geplant wird, profitieren beide Seiten"
+        },
+        {
+          "nr": 6,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 6?",
+          "stamm_id": "Kalimat mana yang cocok untuk rumpang 6?",
+          "optionen": null,
+          "loesung": [
+            "h"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz h formuliert die Bedingung, die der folgende Satz mit „Ohne klare Regeln“ aufgreift. So entsteht ein klarer Gegensatz.",
+          "explain_id": "Kalimat h merumuskan syarat yang disambut kalimat berikutnya „Ohne klare Regeln“. Terbentuklah pertentangan yang jelas.",
+          "evidence": "Ohne klare Regeln bleibt die Altersteilzeit ein Angebot für wenige."
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "die Fachkraft",
+          "artikel": "die",
+          "plural": "Fachkräfte",
+          "wortart": "Nomen",
+          "bedeutung_id": "tenaga ahli",
+          "bedeutung_de": null,
+          "beispiel": "In vielen Betrieben fehlen Fachkräfte."
+        },
+        {
+          "wort": "die Altersteilzeit",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "kerja paruh waktu menjelang pensiun",
+          "bedeutung_de": null,
+          "beispiel": "Die Altersteilzeit gewinnt an Bedeutung."
+        },
+        {
+          "wort": "reduzieren",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "mengurangi",
+          "bedeutung_de": null,
+          "beispiel": "Ältere Beschäftigte reduzieren ihre Arbeitszeit."
+        },
+        {
+          "wort": "das Einkommen",
+          "artikel": "das",
+          "plural": "Einkommen",
+          "wortart": "Nomen",
+          "bedeutung_id": "penghasilan",
+          "bedeutung_de": null,
+          "beispiel": "Sie behalten einen Teil ihres Einkommens."
+        },
+        {
+          "wort": "erschwinglich",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "terjangkau",
+          "bedeutung_de": null,
+          "beispiel": "Die Altersteilzeit ist nicht für jeden erschwinglich."
+        },
+        {
+          "wort": "der Kompromiss",
+          "artikel": "der",
+          "plural": "Kompromisse",
+          "wortart": "Nomen",
+          "bedeutung_id": "kompromi",
+          "bedeutung_de": null,
+          "beispiel": "Sie gilt als kluger Kompromiss."
+        },
+        {
+          "wort": "das Privileg",
+          "artikel": "das",
+          "plural": "Privilegien",
+          "wortart": "Nomen",
+          "bedeutung_id": "hak istimewa",
+          "bedeutung_de": null,
+          "beispiel": "Andererseits gilt sie als teures Privileg."
+        },
+        {
+          "wort": "gestalten",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "membentuk; menata",
+          "bedeutung_de": null,
+          "beispiel": "Kritiker fordern, das Modell gerechter zu gestalten."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-06-teil3",
+      "skill": "lesen",
+      "teil": 3,
+      "themenfeld": "Arbeit & Beruf",
+      "titel": "Erfahrung im Alter: Ein Wert, der zu spät erkannt wird",
+      "instruktion_de": "Lesen Sie den Artikel. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+      "instruktion_id": "Bacalah artikel ini. Pilih jawaban yang benar a, b, atau c untuk setiap soal.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Arbeit & Beruf",
+        "Lesen Teil 3",
+        "Multiple Choice",
+        "Fachkräftemangel"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "t",
+          "titel": "Erfahrung im Alter: Ein Wert, der zu spät erkannt wird",
+          "inhalt": "Lange galt das Ende des Berufslebens als klare Grenze: Mit dem Eintritt in die Rente war die Erwerbsarbeit abgeschlossen. Allerdings zeigt sich in vielen Branchen, dass diese Grenze brüchig geworden ist. Der Grund liegt nicht allein in der alternden Bevölkerung. Entscheidend ist vielmehr, dass Betriebe zunehmend erkennen, wie schwer sich Erfahrung ersetzen lässt. Genau hier liegt die Chance, die viele Firmen noch nicht nutzen.\n\nHinsichtlich des Fachkräftemangels hat sich die Lage in den letzten Jahren deutlich verschärft. In Handwerk, Pflege und Technik fehlen qualifizierte Mitarbeiter, während gleichzeitig erfahrene Kräfte ausscheiden. Insofern wäre es widersinnig, genau jene Menschen früh aus dem Betrieb zu drängen, deren Wissen über Jahre gewachsen ist. Dennoch geschieht genau das, solange Unternehmen Altersgrenzen ungeprüft übernehmen. Dabei ließe sich mit gezielten Verträgen viel Erfahrung länger im Betrieb halten.\n\nEin Beispiel: Ein Maschinenbauunternehmen stellte fest, dass junge Ingenieure zwar neue Software schnell beherrschten, aber Gespräche mit Kunden oft falsch einschätzten. Ältere Kollegen dagegen erkannten in wenigen Minuten, wo ein Projekt scheitern würde. Zwar kosteten die Älteren mehr, doch sparten sie durch ihre Urteilsfähigkeit teure Fehler ein. Folglich begann die Firma, erfahrene Beschäftigte gezielt als Mentoren einzusetzen.\n\nSolche Lösungen sind nicht nur wirtschaftlich sinnvoll, sondern auch sozial. Untersuchungen zeigen, dass sinnvolle Beschäftigung im Alter die Gesundheit und das Selbstwertgefühl stärkt. Wer das Gefühl hat, gebraucht zu werden, bleibt körperlich und geistig aktiver. Andererseits darf daraus kein Zwang entstehen: Nicht jede Person möchte nach Jahrzehnten der Arbeit weitermachen. Ein gesellschaftlicher Druck, möglichst lange zu arbeiten, wäre genauso problematisch wie der frühere Druck, rechtzeitig aufzuhören. Entscheidend ist, dass der Einzelne selbst wählen darf, wie lange er arbeiten möchte.\n\nKritisch bleibt allerdings, dass viele Angebote den Älteren selbst überlassen werden. Wer körperlich hart gearbeitet hat, kann oft nicht einfach in eine beratende Rolle wechseln. Gebraucht werden deshalb flexible Modelle, die den Einzelnen ernst nehmen, zumal die Unterschiede zwischen den Berufen groß sind. Pauschale Lösungen werden dieser Vielfalt kaum gerecht.\n\nFolglich geht es nicht um ein Entweder-oder zwischen Arbeit und Ruhe. Es geht um Wahlfreiheit, um faire Bedingungen und um den Respekt vor einer Erfahrung, die keine Datenbank ersetzen kann."
+        }
+      ],
+      "luecken_text": null,
+      "optionen_saetze": null,
+      "ueberschriften": null,
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "mc3",
+          "stamm_de": "Was ist laut Text der entscheidende Grund dafür, dass die Grenze zum Berufsende brüchig wird?",
+          "stamm_id": "Menurut teks, apa alasan menentukan yang membuat batas akhir karier menjadi kabur?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Die Bevölkerung wird immer älter."
+            },
+            {
+              "key": "b",
+              "text": "Betriebe erkennen, dass sich Erfahrung nur schwer ersetzen lässt."
+            },
+            {
+              "key": "c",
+              "text": "Junge Ingenieure beherrschen neue Software schneller."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text nennt die alternde Bevölkerung ausdrücklich nur als Teilgrund. Entscheidend ist, dass Betriebe erkennen, wie schwer Erfahrung zu ersetzen ist.",
+          "explain_id": "Teks justru hanya menyebut populasi menua sebagai salah satu sebab. Yang menentukan adalah perusahaan menyadari betapa sulit pengalaman digantikan.",
+          "evidence": "Betriebe zunehmend erkennen, wie schwer sich Erfahrung ersetzen lässt."
+        },
+        {
+          "nr": 2,
+          "typ": "mc3",
+          "stamm_de": "Warum nennt der Text es „widersinnig“, erfahrene Kräfte früh aus dem Betrieb zu drängen?",
+          "stamm_id": "Mengapa teks menyebut „tidak masuk akal“ mendesak tenaga berpengalaman keluar dini?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Weil ältere Mitarbeiter geringere Löhne verlangen."
+            },
+            {
+              "key": "b",
+              "text": "Weil gleichzeitig Fachkräfte fehlen und erfahrene Kräfte ausscheiden."
+            },
+            {
+              "key": "c",
+              "text": "Weil ältere Mitarbeiter schneller neue Software lernen."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text verbindet den Fachkräftemangel mit dem Ausscheiden erfahrener Kräfte. Genau deshalb wäre ein frühes Ausscheiden unlogisch.",
+          "explain_id": "Teks menghubungkan kekurangan tenaga ahli dengan keluarnya tenaga berpengalaman. Karena itu pemutusan dini tidak logis.",
+          "evidence": "In Handwerk, Pflege und Technik fehlen qualifizierte Mitarbeiter, während gleichzeitig erfahrene Kräfte ausscheiden"
+        },
+        {
+          "nr": 3,
+          "typ": "mc3",
+          "stamm_de": "Was beobachtete das Maschinenbauunternehmen?",
+          "stamm_id": "Apa yang diamati perusahaan teknik mesin itu?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Ältere Kollegen erkannten schnell, wo ein Projekt scheitern würde."
+            },
+            {
+              "key": "b",
+              "text": "Ältere Kollegen verursachten niedrigere Kosten als jüngere."
+            },
+            {
+              "key": "c",
+              "text": "Junge Ingenieure führten Kundengespräche besser."
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Laut Text erkannten ältere Kollegen in wenigen Minuten, wo ein Projekt scheitern würde. Die Kosten waren sogar höher, nicht niedriger.",
+          "explain_id": "Menurut teks, kolega senior dalam beberapa menit tahu di mana proyek akan gagal. Biayanya justru lebih tinggi, bukan lebih rendah.",
+          "evidence": "Ältere Kollegen dagegen erkannten in wenigen Minuten, wo ein Projekt scheitern würde."
+        },
+        {
+          "nr": 4,
+          "typ": "mc3",
+          "stamm_de": "Was sagen Untersuchungen über sinnvolle Beschäftigung im Alter?",
+          "stamm_id": "Apa kata penelitian tentang pekerjaan bermakna di usia lanjut?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sie ist für alle verpflichtend."
+            },
+            {
+              "key": "b",
+              "text": "Sie stärkt Gesundheit und Selbstwertgefühl."
+            },
+            {
+              "key": "c",
+              "text": "Sie hat keinen Einfluss auf die Gesundheit."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text berichtet, sinnvolle Beschäftigung stärke Gesundheit und Selbstwertgefühl. Von einer Pflicht ist keine Rede.",
+          "explain_id": "Teks menyatakan pekerjaan bermakna memperkuat kesehatan dan harga diri. Tidak ada soal kewajiban.",
+          "evidence": "dass sinnvolle Beschäftigung im Alter die Gesundheit und das Selbstwertgefühl stärkt"
+        },
+        {
+          "nr": 5,
+          "typ": "mc3",
+          "stamm_de": "Welche Haltung vertritt der Text gegenüber gesellschaftlichem Druck, lange zu arbeiten?",
+          "stamm_id": "Sikap apa yang teks ambil terhadap tekanan sosial untuk bekerja lama?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Der Text befürwortet diesen Druck klar."
+            },
+            {
+              "key": "b",
+              "text": "Der Text hält den Druck für genauso problematisch wie den früheren Druck aufzuhören."
+            },
+            {
+              "key": "c",
+              "text": "Der Text hält diesen Druck für unvermeidbar."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text stellt den neuen Druck dem früheren gegenüber und nennt beide problematisch. Eine klare Befürwortung fehlt.",
+          "explain_id": "Teks membandingkan tekanan baru dengan tekanan lama dan menyebut keduanya problematis. Tidak ada dukungan jelas.",
+          "evidence": "wäre genauso problematisch wie der frühere Druck, rechtzeitig aufzuhören."
+        },
+        {
+          "nr": 6,
+          "typ": "mc3",
+          "stamm_de": "Was fordert der Text am Schluss?",
+          "stamm_id": "Apa yang teks tuntut di akhir?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "einen völligen Verzicht auf Arbeit im Alter"
+            },
+            {
+              "key": "b",
+              "text": "flexible Modelle und Wahlfreiheit statt eines Entweder-oder"
+            },
+            {
+              "key": "c",
+              "text": "höhere Löhne für ältere Beschäftigte"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Schluss betont Wahlfreiheit und faire Bedingungen statt eines Entweder-oder. Von höheren Löhnen ist nicht die Rede.",
+          "explain_id": "Penutup menekankan kebebasan memilih dan syarat adil alih-alih pilihan hitam-putih. Soal upah lebih tinggi tidak dibahas.",
+          "evidence": "Es geht um Wahlfreiheit, um faire Bedingungen"
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "die Grenze",
+          "artikel": "die",
+          "plural": "Grenzen",
+          "wortart": "Nomen",
+          "bedeutung_id": "batas",
+          "bedeutung_de": null,
+          "beispiel": "Das Ende des Berufslebens galt als klare Grenze."
+        },
+        {
+          "wort": "brüchig",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "kabur; rapuh",
+          "bedeutung_de": null,
+          "beispiel": "Diese Grenze ist brüchig geworden."
+        },
+        {
+          "wort": "der Fachkräftemangel",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "kekurangan tenaga ahli",
+          "bedeutung_de": null,
+          "beispiel": "Hinsichtlich des Fachkräftemangels hat sich die Lage verschärft."
+        },
+        {
+          "wort": "ausscheiden",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "keluar (dari pekerjaan)",
+          "bedeutung_de": null,
+          "beispiel": "Erfahrene Kräfte scheiden aus."
+        },
+        {
+          "wort": "widersinnig",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "tidak masuk akal",
+          "bedeutung_de": null,
+          "beispiel": "Es wäre widersinnig, sie früh aus dem Betrieb zu drängen."
+        },
+        {
+          "wort": "die Urteilsfähigkeit",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "kemampuan menilai",
+          "bedeutung_de": null,
+          "beispiel": "Durch ihre Urteilsfähigkeit sparten sie teure Fehler."
+        },
+        {
+          "wort": "einsetzen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "mengerahkan; menugaskan",
+          "bedeutung_de": null,
+          "beispiel": "Die Firma setzte erfahrene Beschäftigte als Mentoren ein."
+        },
+        {
+          "wort": "das Selbstwertgefühl",
+          "artikel": "das",
+          "plural": "Selbstwertgefühle",
+          "wortart": "Nomen",
+          "bedeutung_id": "harga diri",
+          "bedeutung_de": null,
+          "beispiel": "Sinnvolle Beschäftigung stärkt das Selbstwertgefühl."
+        },
+        {
+          "wort": "der Zwang",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "paksaan",
+          "bedeutung_de": null,
+          "beispiel": "Aus den Angeboten darf kein Zwang entstehen."
+        },
+        {
+          "wort": "die Wahlfreiheit",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "kebebasan memilih",
+          "bedeutung_de": null,
+          "beispiel": "Es geht um Wahlfreiheit und faire Bedingungen."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-06-teil4",
+      "skill": "lesen",
+      "teil": 4,
+      "themenfeld": "Arbeit & Beruf",
+      "titel": "Meinungen zum Arbeiten im Alter",
+      "instruktion_de": "Lesen Sie die vier Texte. Wer sagt was? Ordnen Sie jede Aussage der passenden Person zu.",
+      "instruktion_id": "Bacalah keempat teks. Siapa mengatakan apa? Pasangkan setiap pernyataan dengan orang yang sesuai.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Arbeit & Beruf",
+        "Lesen Teil 4",
+        "Aussagen zuordnen",
+        "Meinungen"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "a",
+          "titel": "Sabine, 58, Krankenschwester",
+          "inhalt": "Ich halte es für unrealistisch, einfach die Altersgrenze anzuheben. Auf meiner Station arbeiten viele Kolleginnen, die mit fünfzig schon Rückenprobleme haben. Wer vierzig Jahre lang Patienten gehoben hat, schafft es nicht bis siebenundsechzig, und das ist eine Tatsache und keine Faulheit. Ich finde, die Politik tut so, als wären alle Berufe gleich, dabei sind sie es ganz und gar nicht. Länger arbeiten sollte möglich sein, ja, aber niemand darf dazu gezwungen werden. Für mich steht fest: Erfahrung ist wertvoll, Gesundheit aber ist wichtiger. Deshalb wünsche ich mir Modelle, die den einzelnen Beruf berücksichtigen."
+        },
+        {
+          "key": "b",
+          "titel": "Thomas, 60, Abteilungsleiter",
+          "inhalt": "Auf die Zeit nach der Rente freue ich mich nicht besonders. Arbeit gibt mir Struktur und den Kontakt zu Kollegen, und ich merke, dass ich gebraucht werde. Deshalb will ich freiwillig länger bleiben, vielleicht zwei oder drei Jahre. Meiner Meinung nach ist es falsch, alle mit demselben Datum aus dem Beruf zu drängen. Wer fit ist und weiterarbeiten möchte, sollte das dürfen. Natürlich verstehe ich, dass nicht jeder so denkt. Aber ich finde, man sollte das Weiterarbeiten attraktiver machen, statt es nur zu erlauben. Dann hätte ich den Übergang leichter gestalten können."
+        },
+        {
+          "key": "c",
+          "titel": "Aisha, 55, selbstständige Designerin",
+          "inhalt": "Als Selbstständige kenne ich den Ruhestand ohnehin nur vom Hörensagen. Ich arbeite mal mehr, mal weniger, und das gefällt mir. Meiner Ansicht nach ist die Idee, das Leben in Arbeit und Ruhe zu teilen, längst überholt. Ich möchte bis ins hohe Alter Projekte machen, solange sie mir Freude bereiten. Eine feste Altersgrenze finde ich künstlich. Allerdings weiß ich, dass ich mir diese Freiheit leisten kann, und viele können das nicht. Genau deshalb halte ich klare Regeln für die Angestellten für nötig. So kann jede Person selbst entscheiden, wann sie aufhört."
+        },
+        {
+          "key": "d",
+          "titel": "Georg, 62, ehemaliger Beamter",
+          "inhalt": "Seit meiner Pensionierung arbeite ich im Tierheim und in einer Lesegruppe, unbezahlt, und genau das ist der Punkt. Ich finde, wir bewerten viel zu schnell nur nach Geld. Was ich dort tue, tut niemandem weh und vielen gut. Manche Freunde sagen, ich solle lieber bezahlt arbeiten, aber ich will keine Verpflichtung mehr haben. Für mich ist Arbeit nicht nur Erwerbsarbeit. Wer im Alter etwas Sinnvolles tun will, sollte den Raum dafür bekommen, ganz gleich, ob dafür ein Lohn gezahlt wird. Sinn entsteht nicht nur dort, wo Geld fließt, sondern überall, wo jemand etwas Nützliches tut."
+        }
+      ],
+      "luecken_text": null,
+      "optionen_saetze": null,
+      "ueberschriften": null,
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer findet es falsch, alle Beschäftigten mit demselben Alter aus dem Beruf zu drängen?",
+          "stamm_id": "Siapa yang menganggap keliru mendesak semua pekerja keluar pada usia yang sama?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sabine (Krankenschwester)"
+            },
+            {
+              "key": "b",
+              "text": "Thomas (Abteilungsleiter)"
+            },
+            {
+              "key": "c",
+              "text": "Aisha (selbstständige Designerin)"
+            },
+            {
+              "key": "d",
+              "text": "Georg (ehemaliger Beamter)"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Thomas nennt es ausdrücklich falsch, alle mit demselben Datum aus dem Beruf zu drängen. Wer fit sei, solle weiterarbeiten dürfen.",
+          "explain_id": "Thomas berkata tegas keliru mendesak semua orang keluar pada tanggal yang sama. Yang masih bugar boleh lanjut bekerja.",
+          "evidence": "ist es falsch, alle mit demselben Datum aus dem Beruf zu drängen."
+        },
+        {
+          "nr": 2,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer betont, dass körperlich anstrengende Berufe ein längeres Arbeiten kaum zulassen?",
+          "stamm_id": "Siapa yang menegaskan pekerjaan berat secara fisik hampir tidak memungkinkan bekerja lebih lama?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sabine (Krankenschwester)"
+            },
+            {
+              "key": "b",
+              "text": "Thomas (Abteilungsleiter)"
+            },
+            {
+              "key": "c",
+              "text": "Aisha (selbstständige Designerin)"
+            },
+            {
+              "key": "d",
+              "text": "Georg (ehemaliger Beamter)"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Sabine sagt, wer vierzig Jahre Patienten gehoben habe, schaffe es nicht bis siebenundsechzig. Sie sieht die Altersgrenze als unrealistisch an.",
+          "explain_id": "Sabine berkata yang empat puluh tahun mengangkat pasien tak akan sanggup sampai usia enam puluh tujuh. Ia menilai batas usia itu tidak realistis.",
+          "evidence": "Wer vierzig Jahre lang Patienten gehoben hat, schafft es nicht bis siebenundsechzig"
+        },
+        {
+          "nr": 3,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer hält die Trennung von Arbeit und Ruhe für überholt?",
+          "stamm_id": "Siapa yang menganggap pemisahan kerja dan istirahat sudah usang?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sabine (Krankenschwester)"
+            },
+            {
+              "key": "b",
+              "text": "Thomas (Abteilungsleiter)"
+            },
+            {
+              "key": "c",
+              "text": "Aisha (selbstständige Designerin)"
+            },
+            {
+              "key": "d",
+              "text": "Georg (ehemaliger Beamter)"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Aisha erklärt, die Idee, das Leben in Arbeit und Ruhe zu teilen, sei längst überholt. Sie möchte weiter Projekte machen.",
+          "explain_id": "Aisha menyatakan gagasan membagi hidup menjadi kerja dan istirahat sudah lama usang. Ia ingin terus mengerjakan proyek.",
+          "evidence": "das Leben in Arbeit und Ruhe zu teilen, längst überholt"
+        },
+        {
+          "nr": 4,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer legt Wert darauf, keine Verpflichtung mehr zu haben?",
+          "stamm_id": "Siapa yang menekankan tidak ingin punya kewajiban lagi?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sabine (Krankenschwester)"
+            },
+            {
+              "key": "b",
+              "text": "Thomas (Abteilungsleiter)"
+            },
+            {
+              "key": "c",
+              "text": "Aisha (selbstständige Designerin)"
+            },
+            {
+              "key": "d",
+              "text": "Georg (ehemaliger Beamter)"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Georg lehnt bezahlte Arbeit ab, weil er keine Verpflichtung mehr haben will. Er arbeitet lieber unbezahlt im Tierheim.",
+          "explain_id": "Georg menolak kerja berupah karena tak ingin lagi punya kewajiban. Ia lebih memilih kerja tanpa upah di penampungan hewan.",
+          "evidence": "ich will keine Verpflichtung mehr haben."
+        },
+        {
+          "nr": 5,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer kritisiert, dass die Politik alle Berufe gleich behandelt?",
+          "stamm_id": "Siapa yang mengkritik bahwa politik memperlakukan semua pekerjaan sama?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sabine (Krankenschwester)"
+            },
+            {
+              "key": "b",
+              "text": "Thomas (Abteilungsleiter)"
+            },
+            {
+              "key": "c",
+              "text": "Aisha (selbstständige Designerin)"
+            },
+            {
+              "key": "d",
+              "text": "Georg (ehemaliger Beamter)"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Sabine sagt, die Politik tue so, als wären alle Berufe gleich. Ihrer Erfahrung nach sind sie das keineswegs.",
+          "explain_id": "Sabine berkata politik seolah menganggap semua pekerjaan sama. Menurut pengalamannya, sama sekali tidak.",
+          "evidence": "die Politik tut so, als wären alle Berufe gleich"
+        },
+        {
+          "nr": 6,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer möchte das Weiterarbeiten attraktiver machen, statt es nur zu erlauben?",
+          "stamm_id": "Siapa yang ingin membuat kerja lanjut lebih menarik, bukan hanya mengizinkan?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sabine (Krankenschwester)"
+            },
+            {
+              "key": "b",
+              "text": "Thomas (Abteilungsleiter)"
+            },
+            {
+              "key": "c",
+              "text": "Aisha (selbstständige Designerin)"
+            },
+            {
+              "key": "d",
+              "text": "Georg (ehemaliger Beamter)"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Thomas fordert, das Weiterarbeiten attraktiver zu machen, statt es nur zu erlauben. Er will selbst länger bleiben.",
+          "explain_id": "Thomas menuntut kerja lanjut dibuat lebih menarik, bukan sekadar diizinkan. Ia sendiri ingin tetap bekerja.",
+          "evidence": "man sollte das Weiterarbeiten attraktiver machen, statt es nur zu erlauben."
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "die Altersgrenze",
+          "artikel": "die",
+          "plural": "Altersgrenzen",
+          "wortart": "Nomen",
+          "bedeutung_id": "batas usia",
+          "bedeutung_de": null,
+          "beispiel": "Es ist unrealistisch, die Altersgrenze anzuheben."
+        },
+        {
+          "wort": "unrealistisch",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "tidak realistis",
+          "bedeutung_de": null,
+          "beispiel": "Ich halte das für unrealistisch."
+        },
+        {
+          "wort": "die Tatsache",
+          "artikel": "die",
+          "plural": "Tatsachen",
+          "wortart": "Nomen",
+          "bedeutung_id": "fakta",
+          "bedeutung_de": null,
+          "beispiel": "Das ist eine Tatsache und keine Faulheit."
+        },
+        {
+          "wort": "der Rentner",
+          "artikel": "der",
+          "plural": "Rentner",
+          "wortart": "Nomen",
+          "bedeutung_id": "pensiunan",
+          "bedeutung_de": null,
+          "beispiel": "Auf die Zeit nach der Rente freue ich mich nicht."
+        },
+        {
+          "wort": "überholt",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "usang",
+          "bedeutung_de": null,
+          "beispiel": "Diese Idee ist längst überholt."
+        },
+        {
+          "wort": "künstlich",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "buatan; artifisial",
+          "bedeutung_de": null,
+          "beispiel": "Eine feste Altersgrenze finde ich künstlich."
+        },
+        {
+          "wort": "ehrenamtlich",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "sebagai relawan",
+          "bedeutung_de": null,
+          "beispiel": "Viele arbeiten im Alter ehrenamtlich."
+        },
+        {
+          "wort": "die Freiheit",
+          "artikel": "die",
+          "plural": "Freiheiten",
+          "wortart": "Nomen",
+          "bedeutung_id": "kebebasan",
+          "bedeutung_de": null,
+          "beispiel": "Ich kann mir diese Freiheit leisten."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-06-teil5",
+      "skill": "lesen",
+      "teil": 5,
+      "themenfeld": "Arbeit & Beruf",
+      "titel": "Regeln für Altersteilzeit im Betrieb",
+      "instruktion_de": "Lesen Sie die vier Absätze. Welche Überschrift passt zu welchem Absatz?",
+      "instruktion_id": "Bacalah keempat paragraf. Judul mana yang cocok untuk paragraf mana?",
+      "zeit_minuten": 6,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Arbeit & Beruf",
+        "Lesen Teil 5",
+        "Überschriften",
+        "Altersteilzeit"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "1",
+          "titel": "Absatz 1",
+          "inhalt": "Altersteilzeit können Beschäftigte beantragen, die das 55. Lebensjahr vollendet haben. Voraussetzung ist, dass sie in den fünf Jahren davor mindestens drei Jahre sozialversicherungspflichtig beschäftigt waren. Der Antrag muss schriftlich beim Arbeitgeber eingereicht werden. Ob der Betrieb zustimmt, hängt von einer Vereinbarung ab, die beide Seiten unterschreiben. Wichtig: Ein gesetzlicher Anspruch besteht nur, wenn ein Tarifvertrag oder eine Betriebsvereinbarung die Altersteilzeit ausdrücklich vorsieht. Ohne eine solche Grundlage bleibt es eine freiwillige Entscheidung des Arbeitgebers."
+        },
+        {
+          "key": "2",
+          "titel": "Absatz 2",
+          "inhalt": "Die Arbeitszeit wird bei der Altersteilzeit auf die Hälfte reduziert. Für die Verteilung gibt es zwei gängige Modelle. Im Blockmodell arbeitet die Person zunächst weiter in Vollzeit und wird später vollständig freigestellt. Beide Phasen sind gleich lang. Im Teilzeitmodell dagegen wird die Arbeitszeit gleichmäßig über den gesamten Zeitraum verringert. Beide Varianten müssen vor Beginn genau festgelegt werden. Nachträgliche Änderungen sind nur mit Einverständnis des Arbeitgebers möglich. Die Dauer richtet sich nach der vereinbarten Gesamtlaufzeit."
+        },
+        {
+          "key": "3",
+          "titel": "Absatz 3",
+          "inhalt": "Wer weniger arbeitet, zahlt auch weniger in die Rentenversicherung ein. Folglich fällt die spätere Rente niedriger aus als bei einer durchgehenden Vollzeitbeschäftigung. Wie groß der Unterschied ist, hängt von der Dauer und vom Umfang der Teilzeit ab. In vielen Fällen gleicht der Arbeitgeber einen Teil der Beiträge auf. Beschäftigte sollten deshalb vorher berechnen lassen, mit welcher Rente sie rechnen können. Eine frühzeitige Beratung verhindert späteres Erstaunen. Die Höhe der Aufstockung mildert diesen Unterschied oft ab."
+        },
+        {
+          "key": "4",
+          "titel": "Absatz 4",
+          "inhalt": "Vor dem Start müssen mehrere Punkte geklärt werden. Zuerst wird die genaue Laufzeit schriftlich festgehalten. Danach folgt die Vereinbarung über die Verteilung der Arbeitszeit sowie über die Höhe der Aufstockung. Spätestens drei Monate vor dem gewünschten Beginn sollte der Antrag vorliegen. Während der Altersteilzeit darf die Person ohne Zustimmung keine zusätzliche Beschäftigung aufnehmen. Ein Verstoß kann die vereinbarten Leistungen gefährden. Alle Punkte gehören in einen schriftlichen Vertrag, den beide Seiten vorher genau prüfen."
+        }
+      ],
+      "luecken_text": null,
+      "optionen_saetze": null,
+      "ueberschriften": [
+        {
+          "key": "a",
+          "text": "Folgen für die spätere Rente"
+        },
+        {
+          "key": "b",
+          "text": "Krankheit während der Altersteilzeit"
+        },
+        {
+          "key": "c",
+          "text": "Wer einen Antrag stellen darf"
+        },
+        {
+          "key": "d",
+          "text": "Weiterbildung in der Teilzeit"
+        },
+        {
+          "key": "e",
+          "text": "Kündigung und Aufhebungsvertrag"
+        },
+        {
+          "key": "f",
+          "text": "Verteilung der Arbeitszeit"
+        },
+        {
+          "key": "g",
+          "text": "Fristen und Pflichten vor dem Beginn"
+        },
+        {
+          "key": "h",
+          "text": "Der Weg zurück in die Vollzeit"
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 1?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 1?",
+          "optionen": null,
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 1 erklärt, wer überhaupt einen Antrag stellen darf und welche Voraussetzungen gelten. Deshalb passt die Überschrift „Wer einen Antrag stellen darf“.",
+          "explain_id": "Paragraf 1 menjelaskan siapa yang boleh mengajukan permohonan dan syaratnya. Karena itu judul „Wer einen Antrag stellen darf“ cocok.",
+          "evidence": "Altersteilzeit können Beschäftigte beantragen, die das 55. Lebensjahr vollendet haben."
+        },
+        {
+          "nr": 2,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 2?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 2?",
+          "optionen": null,
+          "loesung": [
+            "f"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 2 beschreibt das Blockmodell und das Teilzeitmodell, also die Verteilung der Arbeitszeit. Die Überschrift „Verteilung der Arbeitszeit“ trifft das Thema.",
+          "explain_id": "Paragraf 2 menjelaskan model blok dan model paruh waktu, yaitu pembagian waktu kerja. Judul „Verteilung der Arbeitszeit“ tepat mengenai tema itu.",
+          "evidence": "Die Arbeitszeit wird bei der Altersteilzeit auf die Hälfte reduziert."
+        },
+        {
+          "nr": 3,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 3?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 3?",
+          "optionen": null,
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 3 handelt davon, wie sich die Teilzeit auf die spätere Rente auswirkt. Darauf verweist die Überschrift „Folgen für die spätere Rente“.",
+          "explain_id": "Paragraf 3 membahas dampak kerja paruh waktu terhadap pensiun nanti. Judul „Folgen für die spätere Rente“ menunjuk ke hal itu.",
+          "evidence": "Folglich fällt die spätere Rente niedriger aus als bei einer durchgehenden Vollzeitbeschäftigung."
+        }
+      ],
+      "punkte_max": 3,
+      "glossar": [
+        {
+          "wort": "beantragen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "mengajukan (permohonan)",
+          "bedeutung_de": null,
+          "beispiel": "Beschäftigte können Altersteilzeit beantragen."
+        },
+        {
+          "wort": "die Voraussetzung",
+          "artikel": "die",
+          "plural": "Voraussetzungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "syarat",
+          "bedeutung_de": null,
+          "beispiel": "Voraussetzung ist eine bestimmte Beschäftigungsdauer."
+        },
+        {
+          "wort": "einreichen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "menyerahkan",
+          "bedeutung_de": null,
+          "beispiel": "Der Antrag muss schriftlich eingereicht werden."
+        },
+        {
+          "wort": "die Betriebsvereinbarung",
+          "artikel": "die",
+          "plural": "Betriebsvereinbarungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "perjanjian kerja perusahaan",
+          "bedeutung_de": null,
+          "beispiel": "Eine Betriebsvereinbarung kann die Altersteilzeit vorsehen."
+        },
+        {
+          "wort": "die Arbeitszeit",
+          "artikel": "die",
+          "plural": "Arbeitszeiten",
+          "wortart": "Nomen",
+          "bedeutung_id": "waktu kerja",
+          "bedeutung_de": null,
+          "beispiel": "Die Arbeitszeit wird auf die Hälfte reduziert."
+        },
+        {
+          "wort": "das Blockmodell",
+          "artikel": "das",
+          "plural": "Blockmodelle",
+          "wortart": "Nomen",
+          "bedeutung_id": "model blok",
+          "bedeutung_de": null,
+          "beispiel": "Im Blockmodell wird man später vollständig freigestellt."
+        },
+        {
+          "wort": "die Laufzeit",
+          "artikel": "die",
+          "plural": "Laufzeiten",
+          "wortart": "Nomen",
+          "bedeutung_id": "jangka waktu",
+          "bedeutung_de": null,
+          "beispiel": "Die genaue Laufzeit wird schriftlich festgehalten."
+        },
+        {
+          "wort": "gefährden",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "membahayakan",
+          "bedeutung_de": null,
+          "beispiel": "Ein Verstoß kann die Leistungen gefährden."
+        }
+      ]
+    }
+  ]
+}

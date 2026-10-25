@@ -1,0 +1,540 @@
+---
+import Base from '../../layouts/Base.astro';
+
+const SITE = 'https://b2-trainer.pages.dev';
+const STAND = 'Oktober 2026';
+
+type Tipp = 'Lesen' | 'Hören' | 'Lesen + Hören' | 'Grammatik' | 'Wörterbuch' | 'TestDaF';
+
+interface Quelle {
+  institution: string;
+  titel: string;
+  url: string;
+  beschreibung: string;
+  tipp: Tipp;
+  level: string;
+  nutzung: string;
+  lizenz: string;
+}
+
+interface Gruppe {
+  id: string;
+  titel: string;
+  untertitel: string;
+  quellen: Quelle[];
+}
+
+const gruppen: Gruppe[] = [
+  {
+    id: 'modelltests',
+    titel: 'Offizielle Modelltests',
+    untertitel: 'Referenz für Format, Aufgabenzahl und Zeitvorgaben. Nur verlinkt — niemals kopiert.',
+    quellen: [
+      {
+        institution: 'Goethe-Institut',
+        titel: 'B2-Modellsatz — Lesen (Übungssatz)',
+        url: 'https://bfu.goethe.de/b2_mod_2MX6/lesen.php',
+        beschreibung:
+          'Offizieller B2-Übungssatz für Leseverstehen mit 5 Teilen, 30 Aufgaben und automatischer Auswertung im Browser.',
+        tipp: 'Lesen',
+        level: 'B2',
+        nutzung: 'Als geführte Übung direkt auf der Goethe-Seite öffnen; dient uns als Formatvorlage.',
+        lizenz:
+          'Link-out. Aufgaben, Texte und Lösungsschlüssel sind Eigentum des Goethe-Instituts — kein Rehosting, kein Scraping.'
+      },
+      {
+        institution: 'Goethe-Institut',
+        titel: 'B2-Modellsatz — Hören (Übungssatz)',
+        url: 'https://bfu.goethe.de/b2_mod_2MX6/hoeren.php',
+        beschreibung:
+          'Offizieller B2-Übungssatz für Hörverstehen mit 4 Teilen, 30 Aufgaben und eingebetteten Audiodateien.',
+        tipp: 'Hören',
+        level: 'B2',
+        nutzung: 'Zum Abgleich von Aufgabenzahl, Hörintervall und Zeitvorgabe; Audio nur dort abspielen.',
+        lizenz:
+          'Link-out. Die Audioclips liegen auf Servern des Goethe-Instituts — werden nicht heruntergeladen oder gespiegelt.'
+      },
+      {
+        institution: 'Goethe-Institut',
+        titel: 'Modellsatz Erwachsene (PDF)',
+        url: 'https://www.goethe.de/pro/relaunch/prf/materialien/B2/b2_modellsatz_erwachsene.pdf',
+        beschreibung:
+          'Der komplette B2-Modellsatz als PDF: Lesen, Hören, Schreiben und Sprechen inklusive Lösungsschlüssel und Transkripten.',
+        tipp: 'Lesen + Hören',
+        level: 'B2',
+        nutzung: 'Referenz für Rubrik und Aufgabenstellung; das PDF direkt beim Goethe-Institut herunterladen.',
+        lizenz:
+          'Link-out. Das PDF wird nicht in unserem Repository gespeichert oder weiterverbreitet — der Link zeigt auf die Originalquelle.'
+      },
+      {
+        institution: 'telc gGmbH',
+        titel: 'telc Deutsch B2 — Übungstest',
+        url: 'https://www.telc.net/sprachpruefungen/zertifikatspruefung/deutsch/telc-deutsch-b2/',
+        beschreibung:
+          'Offizielle telc-Übungstests und Prüfungsinformationen zu telc Deutsch B2 (GER), inklusive kostenlosem Übungstest-ZIP.',
+        tipp: 'Lesen + Hören',
+        level: 'B2',
+        nutzung: 'Gratis-Übungstest ausschließlich auf der telc-Seite beziehen.',
+        lizenz:
+          'Link-out. Prüfungsmaterial und ZIP vergangener Tests werden nur verlinkt, nicht re-gehostet.'
+      }
+    ]
+  },
+  {
+    id: 'testdaf',
+    titel: 'TestDaF — offizielles Vorbereitungsmaterial',
+    untertitel:
+      'Format-Referenz für unser TestDaF-Modul (Lesen 3 Aufgaben, Hören 3 Aufgaben im Originalformat). Unser Modul selbst ist zu 100 % eigenes Material — hier wird nur das Original verlinkt.',
+    quellen: [
+      {
+        institution: 'TestDaF-Institut / g.a.s.t.',
+        titel: 'Beispielaufgaben zum digitalen TestDaF',
+        url: 'https://www.testdaf.de/de/teilnehmende/der-digitale-testdaf/vorbereitung-auf-den-digitalen-testdaf/beispielaufgaben-zum-digitalen-testdaf/',
+        beschreibung:
+          'Kostenlose Beispielaufgaben aller Prüfungsteile mit Audio- und Video-Dateien, Transkripten und Lösungen — die offizielle Referenz für Aufgabentypen.',
+        tipp: 'TestDaF',
+        level: 'B2–C1',
+        nutzung:
+          'Zum Kennenlernen der Original-Aufgabentypen (Kurzantwort, Aussagen zuordnen, Fehler erkennen) direkt auf der g.a.s.t.-Seite.',
+        lizenz:
+          'Link-out. Aufgaben, Audios, Transkripte und Lösungen sind Eigentum des TestDaF-Instituts — kein Rehosting, kein Scraping, kein Einbinden.'
+      },
+      {
+        institution: 'TestDaF-Institut / g.a.s.t.',
+        titel: 'Aufbau des digitalen TestDaF',
+        url: 'https://www.testdaf.de/de/teilnehmende/der-digitale-testdaf/aufbau-des-digitalen-testdaf/',
+        beschreibung:
+          'Beschreibung des Prüfungsaufbaus: vier Prüfungsteile, Aufgabenzahl, Zeitvorgaben und Bewertung in TDN-Stufen.',
+        tipp: 'TestDaF',
+        level: 'B2–C1',
+        nutzung:
+          'Als Formatvorlage für unser TestDaF-Modul: Lesen 3 Aufgaben (30 Items), Hören 3 Aufgaben (25 Items), TDN-Rückmeldung.',
+        lizenz: 'Link-out. Texte und Strukturangaben werden zitiert, nicht kopiert oder gespiegelt.'
+      },
+      {
+        institution: 'TestDaF-Institut / g.a.s.t.',
+        titel: 'Tutorials zu allen Aufgabentypen',
+        url: 'https://www.testdaf.de/de/teilnehmende/der-digitale-testdaf/vorbereitung-auf-den-digitalen-testdaf/',
+        beschreibung:
+          'Kurze Tutorial-Videos zu jedem Aufgabentyp in Lesen, Hören, Schreiben und Sprechen — zeigen Bedienung und Erwartung des digitalen Tests.',
+        tipp: 'TestDaF',
+        level: 'B2–C1',
+        nutzung:
+          'Zum Abgleich, wie die Originalaufgaben ablaufen, bevor du eine Aufgabe in unserem Modul im Prüfungsmodus übst.',
+        lizenz: 'Link-out. Videos liegen auf g.a.s.t.-Servern und werden nicht heruntergeladen oder eingebettet.'
+      },
+      {
+        institution: 'TestDaF-Institut / g.a.s.t.',
+        titel: 'Papierbasierter TestDaF — Vorbereitung',
+        url: 'https://www.testdaf.de/de/teilnehmende/der-papierbasierte-testdaf/vorbereitung-auf-den-papierbasierten-testdaf/',
+        beschreibung:
+          'Vorbereitungsangebote für die papierbasierte TestDaF-Version — klassisches Format mit gedruckten Aufgabenheften.',
+        tipp: 'TestDaF',
+        level: 'B2–C1',
+        nutzung: 'Zur Einordnung, wie sich papierbasiertes und digitales Format unterscheiden.',
+        lizenz: 'Link-out. Materialien des TestDaF-Instituts werden ausschließlich verlinkt.'
+      }
+    ]
+  },
+  {
+    id: 'nachrichten',
+    titel: 'Nachrichten & Hörtexte',
+    untertitel:
+      'Echte Hörquellen mit menschlichen Stimmen — für Alltagstempo und Dialekte, die sich synthetisch schwer nachbilden lassen.',
+    quellen: [
+      {
+        institution: 'Deutsche Welle',
+        titel: 'Video-Thema',
+        url: 'https://learngerman.dw.com/de/video-thema/s-55861568',
+        beschreibung:
+          'Kurze Videobeiträge auf B2-Niveau mit Text, Vokabelhilfe und Übungen zu aktuellen Themen.',
+        tipp: 'Hören',
+        level: 'B2',
+        nutzung: 'Über den offiziellen DW-Player ansehen oder einbinden — mit sichtbarer DW-Attribution.',
+        lizenz:
+          'Embed/Referenz. Wir betten nur den offiziellen Player ein und zitieren mit Quelle; keine DW-Dateien im eigenen Speicher.'
+      },
+      {
+        institution: 'Deutsche Welle',
+        titel: 'Langsam gesprochene Nachrichten',
+        url: 'https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332',
+        beschreibung:
+          'Tägliche Nachrichten langsam und deutlich gesprochen, mit schriftlichem Text zum Mitlesen.',
+        tipp: 'Hören',
+        level: 'B2',
+        nutzung: 'Für den täglichen „Nachrichten-Drill“ — Anhören und Text parallel lesen.',
+        lizenz:
+          'Embed/Referenz mit DW-Attribution. Audio und Manuskript bleiben auf DW-Seite, werden nicht kopiert.'
+      },
+      {
+        institution: 'Deutsche Welle',
+        titel: 'Top-Thema mit Vokabeln',
+        url: 'https://learngerman.dw.com/de/top-thema/s-55861562',
+        beschreibung:
+          'Wöchentliches Artikel-/Audio-Format zu einem Schwerpunktthema mit Erklärungen und Wörterliste.',
+        tipp: 'Lesen + Hören',
+        level: 'B1–B2',
+        nutzung: 'Als lesendes Warm-up vor einer Höraufgabe.',
+        lizenz: 'Embed/Referenz mit Attribution Deutsche Welle. Keine Vervielfältigung der DW-Texte.'
+      },
+      {
+        institution: 'deutsch-to-go.de',
+        titel: 'Kurze Hörtexte mit Quiz',
+        url: 'https://www.deutsch-to-go.de',
+        beschreibung:
+          'Rund 800 kurze Hörtexte mit Multiple-Choice-Quiz für schnelles tägliches Training (A2 bis B2/C1).',
+        tipp: 'Hören',
+        level: 'A2–B2',
+        nutzung: 'Für den „schnellen Übungsblitz“ zwischendurch — direkt auf der Seite üben.',
+        lizenz:
+          'Link-out. Der Anbieter untersagt ausdrücklich das Herunterladen der Audios — bei uns werden sie nur verlinkt, nie gespeichert.'
+      },
+      {
+        institution: 'Österreichisches Sprachportal (sprachportal.at)',
+        titel: 'B2 Hören — Österreich',
+        url: 'https://sprachportal.at/deutsch-unterrichten/b2-hoeren/',
+        beschreibung:
+          'Hörtexte in österreichischem Deutsch mit Aufgaben — trainiert bewusst die Abweichung vom Standarddeutsch.',
+        tipp: 'Hören',
+        level: 'B2',
+        nutzung: 'Gezielt für das Ohr-Training mit österreichischem Akzent.',
+        lizenz: 'Link-out mit Attribution. Materialien werden nicht auf unserer Seite gespiegelt.'
+      },
+      {
+        institution: 'Österreichisches Sprachportal (sprachportal.at)',
+        titel: 'B2 online lernen',
+        url: 'https://sprachportal.at/deutsch-lernen/b2/online-lernen/',
+        beschreibung:
+          'Sammlung von Podcasts, Videos und Übungen für B2 — Fokus österreichisches Deutsch.',
+        tipp: 'Lesen + Hören',
+        level: 'B2',
+        nutzung: 'Als Ergänzungssammlung für Podcast- und Videomaterial.',
+        lizenz: 'Link-out mit Attribution. Keine Inhalte aus sprachportal.at werden kopiert.'
+      },
+      {
+        institution: 'Deutschlandfunk (nachrichtenleicht.de)',
+        titel: 'Nachrichten — leicht gemacht',
+        url: 'https://www.nachrichtenleicht.de',
+        beschreibung:
+          'Wöchentliche Nachrichten in sehr einfacher Sprache, als Text und Podcast — ideal zum Aufwärmen vor Höraufgaben.',
+        tipp: 'Lesen + Hören',
+        level: 'B1',
+        nutzung: 'Zum Einstieg in eine Nachrichten-Session, bevor schwierigere Quellen kommen.',
+        lizenz: 'Link-out. Inhalte werden nur verlinkt, nicht gespiegelt.'
+      },
+      {
+        institution: 'ARD / tagesschau.de',
+        titel: 'tagesschau — Nachrichten',
+        url: 'https://www.tagesschau.de',
+        beschreibung:
+          'Aktuelle Nachrichten auf muttersprachlichem Niveau — auch als Video- und Audiostream verfügbar.',
+        tipp: 'Lesen',
+        level: 'B2+/C1',
+        nutzung: 'Schlagzeilen lesen und mit DW-Formaten vergleichen; für das Nachrichten-Thema anspruchsvoll.',
+        lizenz: 'Link-out. Wir verweisen nur auf Schlagzeilen und Ausgaben, ohne Texte zu übernehmen.'
+      },
+      {
+        institution: 'Deutschlandfunk',
+        titel: 'deutschlandfunk.de',
+        url: 'https://www.deutschlandfunk.de',
+        beschreibung:
+          'Öffentlich-rechtliches Radio mit Nachrichten, Interviews und Podcasts auf hohem Sprachniveau.',
+        tipp: 'Lesen + Hören',
+        level: 'B2+/C1',
+        nutzung: 'Für echtes Hörverstehen mit schneller, journalistischer Sprache.',
+        lizenz: 'Link-out. Keine Übernahme von Artikeln oder Audios.'
+      },
+      {
+        institution: 'DER SPIEGEL',
+        titel: 'spiegel.de',
+        url: 'https://www.spiegel.de',
+        beschreibung:
+          'Überregionales Nachrichtenmagazin — anspruchsvolle Artikel und Podcasts für fortgeschrittene Leser.',
+        tipp: 'Lesen',
+        level: 'B2+/C1',
+        nutzung: 'Für freies Lesen über das B2-Niveau hinaus.',
+        lizenz: 'Link-out. Urheberrechtlich geschützte Artikel werden ausschließlich verlinkt.'
+      }
+    ]
+  },
+  {
+    id: 'lesetexte',
+    titel: 'Lesetexte & Übungen',
+    untertitel: 'Kostenlose Lesetexte und grammatik-nahe Übungen zum Vertiefen.',
+    quellen: [
+      {
+        institution: 'Schubert-Verlag',
+        titel: 'Übungen Leseverstehen B2',
+        url: 'https://www.schubert-verlag.de/aufgaben/uebungen_b2/lesen_b2.htm',
+        beschreibung:
+          'Kostenloses Online-Übungsmaterial des Verlags zum Leseverstehen auf B2-Niveau.',
+        tipp: 'Lesen',
+        level: 'B2',
+        nutzung: 'Zum zusätzlichen Training des Leseverstehens außerhalb unseres eigenen Bänke.',
+        lizenz:
+          'Link-out. Die Übungstexte und Lösungen des Schubert-Verlags werden nicht kopiert oder eingebunden.'
+      },
+      {
+        institution: 'deutschlernerblog.de',
+        titel: 'Deutsch B2 — Lernen, Lesen, Üben',
+        url: 'https://deutschlernerblog.de/deutsch-b2-deutsch-lernen-b2-deutschkurs-b2/',
+        beschreibung:
+          'Lesetexte, Übungen und Erklärungen speziell für Lernende auf dem Niveau B2.',
+        tipp: 'Lesen',
+        level: 'B2',
+        nutzung: 'Für freie Lektüre und ergänzende Übungen.',
+        lizenz: 'Link-out mit Attribution. Texte werden nicht übernommen.'
+      }
+    ]
+  },
+  {
+    id: 'woerterbuecher',
+    titel: 'Wörterbücher & Grammatik',
+    untertitel: 'Nachschlagewerke für Wortschatz, Bedeutung und Grammatik.',
+    quellen: [
+      {
+        institution: 'mein-deutschbuch.de',
+        titel: 'Grammatik A1–B2',
+        url: 'https://mein-deutschbuch.de/grammatik/',
+        beschreibung:
+          'Ausführliche Grammatik-Übersicht mit Online-Übungen und C-Tests von A1 bis B2.',
+        tipp: 'Grammatik',
+        level: 'A1–B2',
+        nutzung: 'Als Grammatik-Nachschlagewerk begleitend zu den Lesetexten.',
+        lizenz: 'Link-out. Inhalte werden nur verlinkt, nicht kopiert.'
+      },
+      {
+        institution: 'Berlin-Brandenburgische Akademie der Wissenschaften',
+        titel: 'DWDS — Digitales Wörterbuch der deutschen Sprache',
+        url: 'https://www.dwds.de',
+        beschreibung:
+          'Wissenschaftliches Wörterbuch mit Korpusbeispielen, Kollokationen und Wortprofilen.',
+        tipp: 'Wörterbuch',
+        level: 'ab B1',
+        nutzung: 'Für genaue Bedeutungs-, Kollokations- und Verwendungsfragen.',
+        lizenz: 'Link-out. Ein kostenloses Nachschlagewerk; wir verweisen nur darauf.'
+      },
+      {
+        institution: 'Duden',
+        titel: 'Duden online',
+        url: 'https://www.duden.de',
+        beschreibung:
+          'Das Standard-Nachschlagewerk der deutschen Gegenwartssprache: Rechtschreibung, Bedeutung, Grammatik.',
+        tipp: 'Wörterbuch',
+        level: 'ab A2',
+        nutzung: 'Für Rechtschreibung und Bedeutung einzelner Wörter.',
+        lizenz: 'Link-out. Kostenpflichtige/geschützte Inhalte werden nur verlinkt.'
+      },
+      {
+        institution: 'LEO GmbH',
+        titel: 'LEO Wörterbuch Deutsch–Englisch',
+        url: 'https://dict.leo.org/german-english/',
+        beschreibung:
+          'Zweisprachiges Wörterbuch (Deutsch–Englisch) mit Foren und Flexionstabellen.',
+        tipp: 'Wörterbuch',
+        level: 'ab A1',
+        nutzung: 'Für schnelle Übersetzungen Deutsch ↔ Englisch.',
+        lizenz: 'Link-out. Wir verlinken nur, ohne Inhalte zu übernehmen.'
+      },
+      {
+        institution: 'Wikimedia Foundation',
+        titel: 'Wiktionary (Deutsch)',
+        url: 'https://de.wiktionary.org',
+        beschreibung:
+          'Frei bearbeitbares Wörterbuch mit Etymologie, Flexion und Beispielsätzen.',
+        tipp: 'Wörterbuch',
+        level: 'ab A1',
+        nutzung: 'Als frei zugängliches Nachschlagewerk für Wortformen und Herkunft.',
+        lizenz: 'Dual CC BY-SA 4.0 / GFDL — wir verlinken nur und übernehmen keine Inhalte.'
+      }
+    ]
+  }
+];
+
+const gesamt = gruppen.reduce((sum, g) => sum + g.quellen.length, 0);
+
+// JSON-LD (schema.org) — WebPage + ItemList der Quellen.
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: 'Quellen & Lizenzen — B2-Trainer',
+  url: `${SITE}/quellen/`,
+  inLanguage: 'de',
+  description:
+    'Vollständige Liste externer Lernquellen für Deutsch B2 mit Attribution und Lizenzhinweisen. Fremdmaterial wird ausschließlich verlinkt, nie kopiert.',
+  isPartOf: {
+    '@type': 'WebSite',
+    name: 'B2-Trainer',
+    url: `${SITE}/`
+  },
+  license: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
+  mainEntity: {
+    '@type': 'ItemList',
+    name: 'Externe Lernquellen für Deutsch B2',
+    numberOfItems: gesamt,
+    itemListElement: gruppen.flatMap((g) =>
+      g.quellen.map((q, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: `${q.institution} — ${q.titel}`,
+        url: q.url,
+        description: q.beschreibung
+      }))
+    )
+  }
+};
+const jsonLdString = JSON.stringify(jsonLd).replace(/</g, '\\u003c');
+---
+
+<Base
+  titel="Quellen & Lizenzen"
+  beschreibung="Alle externen Lernquellen von B2-Trainer mit Attribution und Lizenzhinweisen — Fremdmaterial wird nur verlinkt, nie kopiert."
+>
+  <script type="application/ld+json" set:html={jsonLdString} />
+
+  <div class="flex flex-col gap-5">
+    <section class="karte" aria-labelledby="quellen-titel">
+      <h1 id="quellen-titel" class="m-0 text-2xl font-bold">Quellen, Attribution & Lizenzen</h1>
+      <p class="prosa m-0 mt-2">
+        Hier findest du <strong>alle fremden Materialien</strong>, auf die B2-Trainer verweist. Es sind
+        <strong>ausschließlich Links</strong>: nichts davon wird auf unseren Server kopiert, gespiegelt oder weiterverbreitet.
+        Der eigentliche Übungsbank dieser Seite besteht <strong>zu 100 % aus selbst geschriebenen Texten</strong>
+        (herkömmlich oder KI-generiert und geprüft) mit
+        <code>source_type</code> <code>own</code>, <code>ai</code> oder <code>public-domain</code> und der Lizenz
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener noreferrer" target="_blank">CC BY-NC-SA 4.0</a>.
+      </p>
+      <p class="ruhig m-0 mt-2">
+        Insgesamt {gesamt} externe Quellen in {gruppen.length} Gruppen. Stand: {STAND}.
+      </p>
+    </section>
+
+    <nav aria-label="Gruppen auf dieser Seite" class="karte">
+      <h2 class="m-0 text-sm font-semibold">Springe zu einer Gruppe</h2>
+      <ul class="m-0 mt-2 flex list-none flex-wrap gap-1 p-0 text-sm">
+        {gruppen.map((g) => (
+          <li>
+            <a class="btn px-3 py-1 text-xs" href={`#${g.id}`}>{g.titel}</a>
+          </li>
+        ))}
+        <li>
+          <a class="btn px-3 py-1 text-xs" href="#nicht-hier">Was hier bewusst fehlt</a>
+        </li>
+        <li>
+          <a class="btn px-3 py-1 text-xs" href="#attribution">Attribution</a>
+        </li>
+      </ul>
+    </nav>
+
+    {gruppen.map((gruppe) => (
+      <section class="karte" id={gruppe.id} aria-labelledby={`${gruppe.id}-titel`}>
+        <h2 id={`${gruppe.id}-titel`} class="m-0 text-xl font-bold">{gruppe.titel}</h2>
+        <p class="prosa m-0 mt-1 text-sm">{gruppe.untertitel}</p>
+
+        <ul class="m-0 mt-3 grid list-none grid-cols-1 gap-3 p-0 lg:grid-cols-2">
+          {gruppe.quellen.map((q) => (
+            <li class="flex flex-col gap-2 rounded-[var(--radius)] border border-[var(--border)] bg-[var(--surface-2)] p-3">
+              <div class="flex flex-wrap items-baseline justify-between gap-2">
+                <h3 class="m-0 text-base font-bold">
+                  <a href={q.url} rel="noopener noreferrer" target="_blank" class="text-[var(--accent)]">
+                    {q.titel}
+                  </a>
+                </h3>
+                <span class="chip">{q.tipp}</span>
+              </div>
+              <p class="ruhig m-0 text-xs">
+                <strong>{q.institution}</strong> · Niveau {q.level}
+              </p>
+              <p class="m-0 text-sm">{q.beschreibung}</p>
+              <p class="m-0 text-xs"><strong>Nutzung:</strong> {q.nutzung}</p>
+              <p class="m-0 text-xs"><strong>Lizenz:</strong> {q.lizenz}</p>
+              <a
+                class="btn mt-1 self-start text-xs"
+                href={q.url}
+                rel="noopener noreferrer"
+                target="_blank"
+                aria-label={`${q.titel} bei ${q.institution} in neuem Tab öffnen`}
+              >
+                Bei {q.institution} üben ↗
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+
+    <section class="karte" id="nicht-hier" aria-labelledby="nicht-hier-titel">
+      <h2 id="nicht-hier-titel" class="m-0 text-xl font-bold">Was hier bewusst NICHT steht</h2>
+      <div class="prosa mt-2 text-sm">
+        <p>
+          Auf dieser Seite wirst du <strong>keine Aufgaben, Lösungsschlüssel, Transkripte oder Audiodateien</strong> von
+          Goethe-Institut, telc, TestDaF-Institut (g.a.s.t.), Schubert-Verlag oder deutsch-to-go.de zum Herunterladen
+          finden — und das ist Absicht.
+        </p>
+        <p>
+          Diese Anbieter verbieten ausdrücklich das Herunterladen und Weiterverbreiten ihrer Prüfungsmaterialien und Audios.
+          Ein Nachbau durch automatisches Auslesen der Seiten oder ein Rehosting der PDFs bzw. Dateien wäre eine Urheberrechts­verletzung.
+          Deshalb gilt für uns: <strong>Fremdes wird nur verlinkt, nie kopiert.</strong>
+        </p>
+        <p class="m-0 mt-2">
+          Unser Übungsbank ist stattdessen zu 100 % <strong>eigenes Material</strong> (mit <code>source_type</code>
+          <code>own</code>/<code>ai</code>/<code>public-domain</code>). Für echte Prüfungserfahrung besuchst du die oben
+          verlinkten Originalseiten: dort findest du die offiziellen Modelltests, die Hördateien und die Musterlösungen.
+        </p>
+      </div>
+    </section>
+
+    <section class="karte" id="attribution" aria-labelledby="attribution-titel">
+      <h2 id="attribution-titel" class="m-0 text-xl font-bold">Attribution & Nutzungshinweise</h2>
+      <dl class="mt-2 grid grid-cols-1 gap-2 text-sm sm:grid-cols-2">
+        <div>
+          <dt class="font-semibold">Herausgeber / Autor</dt>
+          <dd class="m-0">B2-Trainer (privates Lernprojekt)</dd>
+        </div>
+        <div>
+          <dt class="font-semibold">Stand</dt>
+          <dd class="m-0">{STAND}</dd>
+        </div>
+        <div>
+          <dt class="font-semibold">Inhalte des Übungsbank</dt>
+          <dd class="m-0">
+            Eigene Texte und Aufgaben — Lizenz
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener noreferrer" target="_blank">CC BY-NC-SA 4.0</a>
+            (Namensnennung, nicht-kommerziell, Weitergabe unter gleichen Bedingungen), sofern eine Aufgabe nichts anderes nennt.
+          </dd>
+        </div>
+        <div>
+          <dt class="font-semibold">KI-generierte Texte</dt>
+          <dd class="m-0">Sind im Datensatz mit <code>source_type: "ai"</code> gekennzeichnet.</dd>
+        </div>
+        <div>
+          <dt class="font-semibold">Fremdmaterial</dt>
+          <dd class="m-0">Wird ausschließlich verlinkt; Rechte liegen jeweils beim genannten Anbieter.</dd>
+        </div>
+        <div>
+          <dt class="font-semibold">Anspruch der Punktzahlen</dt>
+          <dd class="m-0">Übungscharakter — ersetzt keine Zertifizierung.</dd>
+        </div>
+      </dl>
+
+      <div class="meldung meldung-warn mt-3 text-sm">
+        <p class="m-0">
+          <strong>Wichtig:</strong> B2-Trainer ist ein <strong>unabhängiges Übungsangebot</strong>. Punktzahlen und die
+          Note „bestanden“ sind reine Übungswerte und stellen <strong>kein Zertifikat</strong> dar. Diese Seite steht in
+          <strong>keiner Verbindung zum Goethe-Institut oder zu telc</strong> und ist keine offizielle Seite eines der
+          genannten Anbieter.
+        </p>
+      </div>
+    </section>
+
+    <section class="karte" aria-labelledby="weiter-titel">
+      <h2 id="weiter-titel" class="m-0 text-xl font-bold">Weiter auf B2-Trainer</h2>
+      <ul class="m-0 mt-2 flex list-none flex-wrap gap-2 p-0">
+        <li><a class="btn btn-primaer" href="/lesen/">Leseverstehen üben →</a></li>
+        <li><a class="btn btn-primaer" href="/hoeren/">Hörverstehen üben →</a></li>
+        <li><a class="btn btn-primaer" href="/testdaf/">TestDaF-Modul üben →</a></li>
+        <li><a class="btn btn-primaer" href="/testdaf/glossar/">TestDaF-Glossar →</a></li>
+        <li><a class="btn btn-primaer" href="/pruefung/">Modelltest-Simulator →</a></li>
+      </ul>
+    </section>
+  </div>
+</Base>

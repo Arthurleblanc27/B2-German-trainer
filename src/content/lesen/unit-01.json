@@ -1,0 +1,1429 @@
+{
+  "schemaVersion": 1,
+  "id": "lesen-unit-01",
+  "skill": "lesen",
+  "unit": 1,
+  "level": "B2",
+  "themenfeld": "Gesellschaft & Soziales",
+  "titel": "Minimalismus im Alltag",
+  "titel_id": "Minimalisme dalam kehidupan sehari-hari",
+  "beschreibung_id": "Latihan Leseverstehen B2 bertema minimalisme dalam kehidupan sehari-hari, lima bagian sesuai format ujian Goethe B2.",
+  "teile": [
+    {
+      "id": "lesen-unit-01-teil1",
+      "skill": "lesen",
+      "teil": 1,
+      "themenfeld": "Gesellschaft & Soziales",
+      "titel": "Vier Menschen über Minimalismus",
+      "instruktion_de": "Lesen Sie die vier Texte und die Aussagen 1–9. Welche Person passt zu welcher Aussage? Jeder Aussage passt genau eine Person; eine Person kann auch mehrfach gewählt werden.",
+      "instruktion_id": "Bacalah keempat teks dan pernyataan 1–9. Orang mana yang cocok dengan pernyataan mana? Setiap pernyataan cocok dengan tepat satu orang; satu orang dapat dipilih lebih dari sekali.",
+      "zeit_minuten": 18,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Minimalismus",
+        "Lebensstil",
+        "Konsum",
+        "Meinungen"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "a",
+          "titel": "Lena",
+          "inhalt": "Vor drei Jahren habe ich angefangen, meine Wohnung radikal auszusortieren. Ich hatte damals das Gefühl, dass mich meine Dinge erdrücken. Heute besitze ich nur noch das, was ich wirklich benutze: zwei Tassen, ein Regal voller Bücher und wenige Kleidungsstücke, die ich regelmäßig trage. Mein Kleiderschrank ist auf zwanzig Teile geschrumpft, und ich vermisse nichts davon. Zwar war der erste Schritt schwer, aber seitdem fühle ich mich leichter und freier. Ich kaufe fast nichts Neues und frage mich vor jedem Einkauf, ob ich den Gegenstand in einem Jahr noch brauchen werde. Allerdings ist Minimalismus für mich kein Wettbewerb und keine Regel. Es geht nicht darum, möglichst wenig zu besitzen, sondern darum, bewusst zu entscheiden, was in mein Leben darf. Diese Freiheit möchte ich nicht mehr hergeben."
+        },
+        {
+          "key": "b",
+          "titel": "Tobias",
+          "inhalt": "Wenn ich das Wort Minimalismus höre, muss ich ehrlich gesagt schmunzeln. In meiner Werkstatt stehen Regale voller Holzreste, alter Werkzeuge und Dinge, die andere längst weggeworfen hätten. Für mich erzählt jeder Gegenstand eine Geschichte, und eine völlig leere Wohnung wirkt auf mich eher kalt als frei. Ich habe den Eindruck, dass Minimalismus vor allem ein Trend für wohlhabende Städter ist, die sich jederzeit ohne Probleme alles neu kaufen können. Wer wenig Geld hat, wirft nichts weg, nur weil es gerade modern ist. Allerdings gebe ich zu, dass ich manchmal zu viel aufbewahre und den Überblick verliere. Dennoch finde ich es falsch, brauchbare Dinge einfach zu entsorgen. Ein guter Stuhl erzählt mir von den Händen, die ihn gebaut haben, und von den Jahren, die er gedient hat. Solche Gegenstände behalte ich, auch wenn ich sie selten benutze."
+        },
+        {
+          "key": "c",
+          "titel": "Mira",
+          "inhalt": "Mein Minimalismus findet nicht im Schrank statt, sondern auf dem Bildschirm. Ich besitze ganz normal viele Dinge, aber ich habe gemerkt, dass mich ständige Benachrichtigungen und unzählige Apps mehr belasten als zu viel Kleidung. Deshalb habe ich vor einem Jahr angefangen, meine Handynutzung zu messen und zu reduzieren. Ich habe alle Apps gelöscht, die mich nur ablenken, und nutze eine App, die mir jeden Abend zeigt, wie viel Zeit ich am Bildschirm verbracht habe. Zwar braucht man dafür etwas Disziplin, aber seitdem schlafe ich besser und habe mehr Zeit zum Lesen. Allerdings finde ich, dass man es auch übertreiben kann. Wenn ich wichtigen Menschen nicht mehr antworte, nur um weniger online zu sein, dann läuft etwas schief. Insofern ist digitaler Minimalismus für mich kein Verzicht auf Technik, sondern ein bewusster Umgang mit meiner Zeit."
+        },
+        {
+          "key": "d",
+          "titel": "Bernd",
+          "inhalt": "Nach meinem Umzug in eine kleinere Wohnung musste ich mich von vielen Möbeln trennen, und das hat mir zunächst wehgetan. Heute lebe ich bewusst sparsam, aber nicht aus Idealismus, sondern aus praktischen Gründen. Meine Rente ist überschaubar, und mir ist wichtig, weniger zu verbrauchen, damit die Umwelt entlastet wird. Bevor ich etwas Neues kaufe, versuche ich, das Alte zu reparieren; ein defektes Radio bringt mich selten in den Laden. Allerdings habe ich mir eine Ausnahme erlaubt: eine Kiste mit Fotos, Briefen und Andenken meiner Familie. Diese Dinge brauche ich nicht im Alltag, trotzdem würde ich sie niemals wegwerfen, weil sie meine Geschichte tragen. Folglich verbinde ich Sparsamkeit mit einem weichen Herzen für Erinnerungen. Minimalismus heißt für mich nicht, alles wegzugeben, sondern zu wissen, was wirklich zählt."
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person hat vor einigen Jahren fast ihren gesamten Besitz aussortiert.",
+          "stamm_id": "Orang ini telah menyeleksi hampir seluruh miliknya beberapa tahun lalu.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Mira"
+            },
+            {
+              "key": "d",
+              "text": "Bernd"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Lena berichtet, dass sie ihre Wohnung radikal ausgeräumt hat und heute nur noch wenige Dinge besitzt.",
+          "explain_id": "Lena menceritakan bahwa ia menyeleksi rumahnya secara radikal dan kini hanya memiliki sedikit barang.",
+          "evidence": "Vor drei Jahren habe ich angefangen, meine Wohnung radikal auszusortieren"
+        },
+        {
+          "nr": 2,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person hält Minimalismus für einen Trend, den sich vor allem wohlhabende Menschen leisten können.",
+          "stamm_id": "Orang ini menganggap minimalisme sebagai tren yang terutama mampu diikuti orang kaya.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Mira"
+            },
+            {
+              "key": "d",
+              "text": "Bernd"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Tobias meint, Minimalismus sei vor allem ein Trend für wohlhabende Städter, die sich alles jederzeit neu kaufen können.",
+          "explain_id": "Tobias berpendapat bahwa minimalisme terutama tren bagi orang kota kaya yang bisa membeli segalanya kapan saja.",
+          "evidence": "dass Minimalismus vor allem ein Trend für wohlhabende Städter ist"
+        },
+        {
+          "nr": 3,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person versucht, weniger Zeit am Bildschirm zu verbringen.",
+          "stamm_id": "Orang ini berusaha mengurangi waktu di depan layar.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Mira"
+            },
+            {
+              "key": "d",
+              "text": "Bernd"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Mira misst ihre Handynutzung und hat Apps gelöscht, die sie ablenken.",
+          "explain_id": "Mira mengukur penggunaan ponselnya dan menghapus aplikasi yang mengganggu.",
+          "evidence": "meine Handynutzung zu messen und zu reduzieren"
+        },
+        {
+          "nr": 4,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person bewahrt Erinnerungsstücke auf, obwohl sie sonst sparsam lebt.",
+          "stamm_id": "Orang ini menyimpan kenang-kenangan, meski sebaliknya hidup hemat.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Mira"
+            },
+            {
+              "key": "d",
+              "text": "Bernd"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Bernd lebt sparsam, behält aber eine Kiste mit Fotos, Briefen und Andenken.",
+          "explain_id": "Bernd hidup hemat, tetapi menyimpan sekotak foto, surat, dan kenang-kenangan.",
+          "evidence": "eine Kiste mit Fotos, Briefen und Andenken meiner Familie"
+        },
+        {
+          "nr": 5,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person repariert lieber, als Neues zu kaufen.",
+          "stamm_id": "Orang ini lebih suka memperbaiki daripada membeli yang baru.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Mira"
+            },
+            {
+              "key": "d",
+              "text": "Bernd"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Bernd versucht, das Alte zu reparieren, statt es einfach zu ersetzen.",
+          "explain_id": "Bernd berusaha memperbaiki barang lama daripada sekadar menggantinya.",
+          "evidence": "versuche ich, das Alte zu reparieren"
+        },
+        {
+          "nr": 6,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person fühlt sich durch weniger Besitz freier.",
+          "stamm_id": "Orang ini merasa lebih bebas karena memiliki lebih sedikit barang.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Mira"
+            },
+            {
+              "key": "d",
+              "text": "Bernd"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Lena sagt, dass sie sich seit dem Aussortieren leichter und freier fühlt.",
+          "explain_id": "Lena berkata bahwa sejak menyeleksi barang ia merasa lebih ringan dan bebas.",
+          "evidence": "seitdem fühle ich mich leichter und freier"
+        },
+        {
+          "nr": 7,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person findet, dass eine völlig leere Wohnung unfreundlich wirkt.",
+          "stamm_id": "Orang ini menganggap hunian yang sepenuhnya kosong terasa tidak ramah.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Mira"
+            },
+            {
+              "key": "d",
+              "text": "Bernd"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Tobias findet eine völlig leere Wohnung eher kalt als frei.",
+          "explain_id": "Tobias merasa rumah yang benar-benar kosong lebih terasa dingin daripada membebaskan.",
+          "evidence": "eine völlig leere Wohnung wirkt auf mich eher kalt als frei"
+        },
+        {
+          "nr": 8,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person hat ihren Kleiderschrank auf wenige Stücke reduziert.",
+          "stamm_id": "Orang ini mengurangi isi lemarinya menjadi beberapa potong saja.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Mira"
+            },
+            {
+              "key": "d",
+              "text": "Bernd"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Lena erzählt, dass ihr Kleiderschrank auf zwanzig Teile geschrumpft ist.",
+          "explain_id": "Lena bercerita bahwa lemari pakaiannya menyusut menjadi dua puluh potong.",
+          "evidence": "Mein Kleiderschrank ist auf zwanzig Teile geschrumpft"
+        },
+        {
+          "nr": 9,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person nutzt eine Anwendung, um ihr eigenes Verhalten zu kontrollieren.",
+          "stamm_id": "Orang ini memakai sebuah aplikasi untuk mengontrol perilakunya sendiri.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena"
+            },
+            {
+              "key": "b",
+              "text": "Tobias"
+            },
+            {
+              "key": "c",
+              "text": "Mira"
+            },
+            {
+              "key": "d",
+              "text": "Bernd"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Mira nutzt eine App, die ihr zeigt, wie viel Zeit sie am Bildschirm verbringt.",
+          "explain_id": "Mira memakai aplikasi yang menunjukkan berapa banyak waktu yang ia habiskan di depan layar.",
+          "evidence": "nutze eine App, die mir jeden Abend zeigt, wie viel Zeit ich am Bildschirm verbracht habe"
+        }
+      ],
+      "punkte_max": 9,
+      "glossar": [
+        {
+          "wort": "aussortieren",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "menyeleksi dan menyingkirkan barang",
+          "bedeutung_de": "Dinge weggeben, die man nicht mehr braucht",
+          "beispiel": "Vor drei Jahren habe ich angefangen, meine Wohnung radikal auszusortieren."
+        },
+        {
+          "wort": "besitzen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "memiliki",
+          "bedeutung_de": "etwas als Eigentum haben",
+          "beispiel": "Es geht nicht darum, möglichst wenig zu besitzen, sondern darum, bewusst zu entscheiden, was in mein Leben darf."
+        },
+        {
+          "wort": "Freiheit",
+          "artikel": "die",
+          "plural": "die Freiheiten",
+          "wortart": "Nomen",
+          "bedeutung_id": "kebebasan",
+          "bedeutung_de": "Zustand, in dem man ohne Zwang entscheiden kann",
+          "beispiel": "Diese Freiheit möchte ich nicht mehr hergeben."
+        },
+        {
+          "wort": "Trend",
+          "artikel": "der",
+          "plural": "die Trends",
+          "wortart": "Nomen",
+          "bedeutung_id": "tren atau kecenderungan",
+          "bedeutung_de": "eine Entwicklung, die viele Menschen gerade mitmachen",
+          "beispiel": "dass Minimalismus vor allem ein Trend für wohlhabende Städter ist"
+        },
+        {
+          "wort": "Werkzeug",
+          "artikel": "das",
+          "plural": "die Werkzeuge",
+          "wortart": "Nomen",
+          "bedeutung_id": "alat",
+          "bedeutung_de": "Gegenstand, mit dem man arbeitet",
+          "beispiel": "In meiner Werkstatt stehen Regale voller Holzreste, alter Werkzeuge und Dinge"
+        },
+        {
+          "wort": "Überblick",
+          "artikel": "der",
+          "plural": "die Überblicke",
+          "wortart": "Nomen",
+          "bedeutung_id": "gambaran umum",
+          "bedeutung_de": "die Fähigkeit, das Ganze zu erfassen",
+          "beispiel": "dass ich manchmal zu viel aufbewahre und den Überblick verliere"
+        },
+        {
+          "wort": "Benachrichtigung",
+          "artikel": "die",
+          "plural": "die Benachrichtigungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "notifikasi atau pemberitahuan",
+          "bedeutung_de": "Mitteilung, die eine App auf dem Handy zeigt",
+          "beispiel": "dass mich ständige Benachrichtigungen und unzählige Apps mehr belasten als zu viel Kleidung"
+        },
+        {
+          "wort": "Disziplin",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "disiplin",
+          "bedeutung_de": "die Fähigkeit, sich selbst zu beherrschen",
+          "beispiel": "Zwar braucht man dafür etwas Disziplin, aber seitdem schlafe ich besser"
+        },
+        {
+          "wort": "reparieren",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "memperbaiki",
+          "bedeutung_de": "etwas Kaputtes wieder in Ordnung bringen",
+          "beispiel": "versuche ich, das Alte zu reparieren"
+        },
+        {
+          "wort": "Andenken",
+          "artikel": "das",
+          "plural": "die Andenken",
+          "wortart": "Nomen",
+          "bedeutung_id": "kenang-kenangan",
+          "bedeutung_de": "Gegenstand, der an eine Person oder ein Ereignis erinnert",
+          "beispiel": "eine Kiste mit Fotos, Briefen und Andenken meiner Familie"
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-01-teil2",
+      "skill": "lesen",
+      "teil": 2,
+      "themenfeld": "Gesellschaft & Soziales",
+      "titel": "Weniger besitzen, mehr leben",
+      "instruktion_de": "Lesen Sie den Text. In dem Text fehlen sechs Sätze. Wählen Sie für jede Lücke den passenden Satz a–h. Achtung: Zwei Sätze passen nicht.",
+      "instruktion_id": "Bacalah teks berikut. Dalam teks ini hilang enam kalimat. Pilihlah untuk setiap celah kalimat yang cocok a–h. Perhatian: dua kalimat tidak cocok.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Minimalismus",
+        "Ordnung",
+        "Haushalt",
+        "Textkohärenz"
+      ],
+      "audio": null,
+      "luecken_text": "Weniger besitzen, mehr leben\n\nDurchschnittliche Wohnungen enthalten oft weit mehr Gegenstände, als ihre Bewohner tatsächlich benutzen. Kleidung, Elektrogeräte, Geschenke und Erinnerungsstücke füllen Schränke und Regale, obwohl vieles davon nur selten gebraucht wird. [[1]] Sie hoffen, dass Ordnung und Übersicht ihnen im Alltag mehr Ruhe schenken. Insofern ist es kein Zufall, dass Bücher über das Aussortieren derzeit großen Zulauf haben.\n\nBefürworter des Minimalismus betonen, dass wenige, aber bewusst gewählte Dinge den Alltag erleichtern. Wer nicht ständig nach etwas sucht, spart Zeit und Nerven. [[2]] Ein aufgeräumter Haushalt wirkt zudem auf viele Menschen beruhigend und hilft ihnen, sich besser zu konzentrieren.\n\nEin Beispiel aus der Praxis zeigt, wie stark diese Wirkung sein kann. Eine Familie, die ihre Wohnung entrümpelte, berichtet, dass Streitigkeiten über unordentliche Zimmer deutlich seltener geworden seien. [[3]] Entscheidend ist dabei, dass die Bewohner selbst bestimmen, was ihnen wichtig ist.\n\nKritiker warnen jedoch vor übertriebenen Erwartungen. Nicht jeder Mensch fühlt sich in einer leeren Umgebung wohl; manche brauchen Gegenstände, die Erinnerungen tragen. [[4]] Wer ungeduldig vorgeht, sortiert womöglich Dinge aus, die er später bereut.\n\nKleine Schritte sind meist erfolgreicher als radikale Aktionen. [[5]] Wer zunächst nur eine Schublade aussortiert, merkt schnell, wie befreiend dieser Schritt wirkt. Erst wenn diese Erfahrung positiv war, wagt er sich an größere Bereiche.\n\nWichtiger als die Menge der Dinge ist ohnehin die Frage, ob sie zum eigenen Leben passen. Manche Menschen brauchen viele Bücher und Instrumente, andere fühlen sich mit wenigem wohler. [[6]] Im Mittelpunkt steht daher nicht das Wegwerfen, sondern die bewusste Entscheidung.\n\nAm Ende bleibt festzuhalten, dass Minimalismus kein starres Gesetz ist, sondern eine persönliche Haltung. Wer weniger besitzt, muss nicht automatisch glücklicher sein, und wer viel besitzt, muss nicht unzufrieden werden. Entscheidend ist, dass die eigenen Dinge dem Leben dienen und nicht das Leben beherrschen. In diesem Sinne kann jeder für sich selbst herausfinden, wie viel Besitz ihm guttut.",
+      "optionen_saetze": [
+        {
+          "key": "a",
+          "text": "Zahlreiche Haushalte verspüren deshalb den Wunsch, sich von überflüssigem Ballast zu trennen."
+        },
+        {
+          "key": "b",
+          "text": "Zudem sinken die Ausgaben, wenn man seltener Neues anschafft."
+        },
+        {
+          "key": "c",
+          "text": "Zwar kann Ordnung bereichernd wirken, doch sie darf nicht zum Selbstzweck werden."
+        },
+        {
+          "key": "d",
+          "text": "Allerdings ist der Weg dorthin oft mühsamer, als es Ratgeber darstellen."
+        },
+        {
+          "key": "e",
+          "text": "Deshalb empfehlen die meisten Fachleute, mit einer kleinen Ecke statt mit dem größten Schrank zu beginnen."
+        },
+        {
+          "key": "f",
+          "text": "Folglich geht es weniger um Verzicht als um eine bewusste Auswahl."
+        },
+        {
+          "key": "g",
+          "text": "Aus diesem Grund verkaufen Möbelhäuser immer mehr Aufbewahrungsboxen aus Kunststoff."
+        },
+        {
+          "key": "h",
+          "text": "Deshalb sollten sich alle Menschen an genau dieselben Regeln halten."
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 1?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 1?",
+          "optionen": null,
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz knüpft an die Beobachtung an, dass vieles kaum benutzt wird, und führt zu den Menschen über, die das ändern wollen.",
+          "explain_id": "Kalimat ini menyambung pengamatan bahwa banyak barang hampir tak terpakai dan mengantar ke orang-orang yang ingin mengubahnya.",
+          "evidence": "Kleidung, Elektrogeräte, Geschenke und Erinnerungsstücke füllen Schränke und Regale, obwohl vieles davon nur selten gebraucht wird"
+        },
+        {
+          "nr": 2,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 2?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 2?",
+          "optionen": null,
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz ergänzt einen weiteren Vorteil und passt zu den bereits genannten Einsparungen im Alltag.",
+          "explain_id": "Kalimat ini menambah satu lagi keuntungan dan cocok dengan penghematan yang sudah disebutkan.",
+          "evidence": "Wer nicht ständig nach etwas sucht, spart Zeit und Nerven."
+        },
+        {
+          "nr": 3,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 3?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 3?",
+          "optionen": null,
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz relativiert das Beispiel und passt zum anschließenden Hinweis, dass die Bewohner selbst entscheiden.",
+          "explain_id": "Kalimat ini merelatifkan contoh tersebut dan cocok dengan penjelasan berikutnya bahwa penghuni sendiri yang memutuskan.",
+          "evidence": "Eine Familie, die ihre Wohnung entrümpelte, berichtet, dass Streitigkeiten über unordentliche Zimmer deutlich seltener geworden seien."
+        },
+        {
+          "nr": 4,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 4?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 4?",
+          "optionen": null,
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz schließt an die Kritik an und betont die Mühen, die viele unterschätzen.",
+          "explain_id": "Kalimat ini menyambung kritik dan menekankan kesulitan yang banyak diremehkan.",
+          "evidence": "Nicht jeder Mensch fühlt sich in einer leeren Umgebung wohl; manche brauchen Gegenstände, die Erinnerungen tragen."
+        },
+        {
+          "nr": 5,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 5?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 5?",
+          "optionen": null,
+          "loesung": [
+            "e"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz erklärt, wie man kleine Schritte konkret umsetzt, und passt zur Empfehlung im folgenden Satz.",
+          "explain_id": "Kalimat ini menjelaskan cara menerapkan langkah kecil secara konkret dan cocok dengan anjuran pada kalimat berikutnya.",
+          "evidence": "Kleine Schritte sind meist erfolgreicher als radikale Aktionen."
+        },
+        {
+          "nr": 6,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 6?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 6?",
+          "optionen": null,
+          "loesung": [
+            "f"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz fasst die vorherigen Beispiele zusammen und leitet zum Hinweis auf die bewusste Entscheidung über.",
+          "explain_id": "Kalimat ini merangkum contoh-contoh sebelumnya dan mengantar ke catatan tentang keputusan yang sadar.",
+          "evidence": "Manche Menschen brauchen viele Bücher und Instrumente, andere fühlen sich mit wenigem wohler."
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "Ballast",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "beban yang tidak perlu",
+          "bedeutung_de": "etwas Überflüssiges, das einen belastet",
+          "beispiel": "sich von überflüssigem Ballast zu trennen"
+        },
+        {
+          "wort": "Ausgabe",
+          "artikel": "die",
+          "plural": "die Ausgaben",
+          "wortart": "Nomen",
+          "bedeutung_id": "pengeluaran",
+          "bedeutung_de": "Geld, das man für etwas ausgibt",
+          "beispiel": "Zudem sinken die Ausgaben, wenn man seltener Neues anschafft."
+        },
+        {
+          "wort": "Haushalt",
+          "artikel": "der",
+          "plural": "die Haushalte",
+          "wortart": "Nomen",
+          "bedeutung_id": "rumah tangga",
+          "bedeutung_de": "die Wohnung und die Personen, die dort zusammenleben",
+          "beispiel": "Ein aufgeräumter Haushalt wirkt zudem auf viele Menschen beruhigend"
+        },
+        {
+          "wort": "Selbstzweck",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "tujuan pada dirinya sendiri",
+          "bedeutung_de": "etwas, das nur um seiner selbst willen geschieht",
+          "beispiel": "doch sie darf nicht zum Selbstzweck werden"
+        },
+        {
+          "wort": "bewusst",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "sadar atau sengaja",
+          "bedeutung_de": "mit klarer Absicht und Aufmerksamkeit",
+          "beispiel": "Im Mittelpunkt steht daher nicht das Wegwerfen, sondern die bewusste Entscheidung."
+        },
+        {
+          "wort": "Erinnerungsstück",
+          "artikel": "das",
+          "plural": "die Erinnerungsstücke",
+          "wortart": "Nomen",
+          "bedeutung_id": "benda kenang-kenangan",
+          "bedeutung_de": "Gegenstand, der an etwas Vergangenes erinnert",
+          "beispiel": "Kleidung, Elektrogeräte, Geschenke und Erinnerungsstücke füllen Schränke und Regale"
+        },
+        {
+          "wort": "Ratgeber",
+          "artikel": "der",
+          "plural": "die Ratgeber",
+          "wortart": "Nomen",
+          "bedeutung_id": "buku panduan",
+          "bedeutung_de": "Buch oder Person, die praktische Tipps gibt",
+          "beispiel": "Allerdings ist der Weg dorthin oft mühsamer, als es Ratgeber darstellen."
+        },
+        {
+          "wort": "Haltung",
+          "artikel": "die",
+          "plural": "die Haltungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "sikap",
+          "bedeutung_de": "die innere Einstellung zu einer Sache",
+          "beispiel": "dass Minimalismus kein starres Gesetz ist, sondern eine persönliche Haltung"
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-01-teil3",
+      "skill": "lesen",
+      "teil": 3,
+      "themenfeld": "Gesellschaft & Soziales",
+      "titel": "Minimalismus als Antwort auf den Konsum?",
+      "instruktion_de": "Lesen Sie den Text und wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+      "instruktion_id": "Bacalah teks berikut dan pilihlah jawaban yang benar a, b, atau c pada setiap soal.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Minimalismus",
+        "Konsum",
+        "Umwelt",
+        "Gesellschaft"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "t",
+          "titel": "Minimalismus als Antwort auf den Konsum?",
+          "inhalt": "Wer heute in einer Großstadt lebt, kennt das Gefühl: Die Wohnung ist voll, die Schränke sind überfüllt, und trotzdem wird weiter gekauft. Der Konsum verspricht Glück, doch nach kurzer Zeit stellt sich oft Ernüchterung ein. Die Idee des Minimalismus gewinnt daher seit einigen Jahren an Bedeutung. Ihre Anhänger behaupten, dass weniger Besitz zu mehr Zufriedenheit führt. Zwar klingt dieser Gedanke einleuchtend, aber er ist nicht ganz unumstritten.\n\nFür die Verfechter des Minimalismus sprechen mehrere Argumente. Wer weniger besitzt, muss weniger putzen, weniger ordnen und weniger verwalten; folglich gewinnt er Zeit und Aufmerksamkeit zurück. Darüber hinaus spart ein bewusster Lebensstil Geld, das statt in Gegenstände in Erlebnisse investiert werden kann. Auch hinsichtlich der Umwelt hat die Bewegung Vorteile, denn wer weniger konsumiert, verbraucht insgesamt weniger Rohstoffe. Nicht nur die eigene Wohnung, sondern auch die Natur profitiert demnach von einer zurückhaltenden Lebensweise.\n\nAllerdings gibt es auch Kritik. Einige Fachleute bezweifeln, dass Minimalismus für alle Menschen geeignet ist. Sie verweisen darauf, dass viele Familien ihre Dinge nicht aus Bequemlichkeit horten, sondern weil sie sie tatsächlich benötigen. Ein Beispiel aus der Sozialforschung zeigt, dass Haushalte mit niedrigem Einkommen häufig mehr Ersatzgegenstände aufbewahren, weil sie sich Neukäufe nicht leisten können. Wer ihnen eine leere Wohnung als Ideal präsentiert, verkennt ihre Lebensrealität. Zumal die Werbung für diesen Lebensstil selbst aus dem Konsum entsteht: Es werden teure Aufbewahrungsboxen, Designermöbel und Kurse verkauft.\n\nKritisch ist außerdem, dass radikaler Minimalismus selbst zu einem neuen Leistungsdruck werden kann. Einerseits verspricht er Freiheit, andererseits schafft er Regeln, an denen sich die Betroffenen messen. Wer nicht genug aussortiert, fühlt sich womöglich als Versager. Dennoch wäre es falsch, sie deshalb abzulehnen. Hinsichtlich der eigenen Zufriedenheit hilft es vielen, sich bewusst zu fragen, welche Dinge sie wirklich brauchen.\n\nAm Ende kommt es auf das Maß und auf die Haltung an. Minimalismus ist kein Wert an sich, sondern ein Werkzeug, das den Bedürfnissen des Einzelnen angepasst werden muss. Für den einen bedeutet ein gutes Leben viel Besitz, für den anderen fast nichts. Insofern lautet der vernünftige Rat, nicht dem Trend zu folgen, sondern ehrlich zu prüfen, was das eigene Leben wirklich bereichert. Wer diese Frage für sich beantwortet, braucht weder radikale Regeln noch teure Ratgeber."
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "mc3",
+          "stamm_de": "Was behaupten die Anhänger des Minimalismus?",
+          "stamm_id": "Apa yang diklaim para pengikut minimalisme?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Weniger Besitz führe zu mehr Zufriedenheit."
+            },
+            {
+              "key": "b",
+              "text": "Die Mieten in Großstädten seien zu hoch."
+            },
+            {
+              "key": "c",
+              "text": "Konsum sei grundsätzlich gesundheitsschädlich."
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text schreibt, dass die Anhänger behaupten, weniger Besitz führe zu mehr Zufriedenheit. Die Mieten werden nicht erwähnt, und ein grundsätzliches Gesundheitsrisiko nennt der Text nicht.",
+          "explain_id": "Teks menyatakan para pengikut mengklaim bahwa memiliki lebih sedikit barang mendatangkan kepuasan. Soal sewa tidak disebut, dan risiko kesehatan secara umum tidak dibahas.",
+          "evidence": "Ihre Anhänger behaupten, dass weniger Besitz zu mehr Zufriedenheit führt."
+        },
+        {
+          "nr": 2,
+          "typ": "mc3",
+          "stamm_de": "Welchen Vorteil nennt der Text für einen bewussten Lebensstil?",
+          "stamm_id": "Keuntungan apa yang disebut teks bagi gaya hidup yang sadar?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Man muss keine Miete mehr zahlen."
+            },
+            {
+              "key": "b",
+              "text": "Man gewinnt Zeit und Aufmerksamkeit zurück."
+            },
+            {
+              "key": "c",
+              "text": "Man wird von der Werbung ignoriert."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der zweite Absatz nennt ausdrücklich, dass man Zeit und Aufmerksamkeit zurückgewinnt. Eine Befreiung von der Miete oder von der Werbung behauptet der Text nicht.",
+          "explain_id": "Paragraf kedua secara jelas menyebut bahwa orang mendapatkan kembali waktu dan perhatian. Pembebasan dari sewa atau iklan tidak diklaim teks.",
+          "evidence": "folglich gewinnt er Zeit und Aufmerksamkeit zurück"
+        },
+        {
+          "nr": 3,
+          "typ": "mc3",
+          "stamm_de": "Was zeigen Haushalte mit niedrigem Einkommen laut dem Text?",
+          "stamm_id": "Apa yang ditunjukkan rumah tangga berpenghasilan rendah menurut teks?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sie horten Dinge aus Bequemlichkeit."
+            },
+            {
+              "key": "b",
+              "text": "Sie kaufen besonders viele Designermöbel."
+            },
+            {
+              "key": "c",
+              "text": "Sie bewahren Ersatzgegenstände auf, weil sie sich Neukäufe nicht leisten können."
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text erklärt, dass gerade Haushalte mit niedrigem Einkommen Ersatzgegenstände aufbewahren, weil Neukäufe teuer sind. Die Deutung als Bequemlichkeit wird im Text ausdrücklich verworfen.",
+          "explain_id": "Teks menjelaskan justru rumah tangga berpenghasilan rendah menyimpan barang cadangan karena pembelian baru mahal. Tafsiran sebagai kemalasan secara tegas ditolak dalam teks.",
+          "evidence": "Haushalte mit niedrigem Einkommen häufig mehr Ersatzgegenstände aufbewahren, weil sie sich Neukäufe nicht leisten können"
+        },
+        {
+          "nr": 4,
+          "typ": "mc3",
+          "stamm_de": "Welche Kritik am Minimalismus nennt der Text?",
+          "stamm_id": "Kritik apa terhadap minimalisme yang disebut teks?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Er könne selbst zu einem neuen Leistungsdruck werden."
+            },
+            {
+              "key": "b",
+              "text": "Er sei gesetzlich verboten."
+            },
+            {
+              "key": "c",
+              "text": "Er helfe nur älteren Menschen."
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Der vierte Absatz nennt den möglichen Leistungsdruck als Kritikpunkt. Ein gesetzliches Verbot oder eine Beschränkung auf ältere Menschen steht nicht im Text.",
+          "explain_id": "Paragraf keempat menyebut kemungkinan tekanan berprestasi sebagai kritik. Larangan hukum atau pembatasan pada orang tua tidak ada dalam teks.",
+          "evidence": "dass radikaler Minimalismus selbst zu einem neuen Leistungsdruck werden kann"
+        },
+        {
+          "nr": 5,
+          "typ": "mc3",
+          "stamm_de": "Wie beschreibt der Text den Minimalismus im Fazit?",
+          "stamm_id": "Bagaimana teks menggambarkan minimalisme pada kesimpulannya?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Als starres Gesetz, das alle befolgen sollten."
+            },
+            {
+              "key": "b",
+              "text": "Als Werkzeug, das man den eigenen Bedürfnissen anpassen muss."
+            },
+            {
+              "key": "c",
+              "text": "Als reine Modewerbung ohne Nutzen."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Im Fazit heißt es, Minimalismus sei ein Werkzeug, das den Bedürfnissen des Einzelnen angepasst werden muss. Ein starres Gesetz lehnt der Text gerade ab.",
+          "explain_id": "Pada kesimpulan dikatakan minimalisme adalah alat yang harus disesuaikan dengan kebutuhan masing-masing orang. Teks justru menolak anggapan sebagai aturan yang kaku.",
+          "evidence": "sondern ein Werkzeug, das den Bedürfnissen des Einzelnen angepasst werden muss"
+        },
+        {
+          "nr": 6,
+          "typ": "mc3",
+          "stamm_de": "Welchen Rat gibt der Text am Ende?",
+          "stamm_id": "Nasihat apa yang diberikan teks pada akhirnya?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Man sollte möglichst viele Ratgeber kaufen."
+            },
+            {
+              "key": "b",
+              "text": "Man sollte dem Trend so schnell wie möglich folgen."
+            },
+            {
+              "key": "c",
+              "text": "Man sollte ehrlich prüfen, was das eigene Leben wirklich bereichert."
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Schlusssatz rät, ehrlich zu prüfen, was das eigene Leben bereichert. Teure Ratgeber und das bloße Folgen des Trends werden ausdrücklich abgelehnt.",
+          "explain_id": "Kalimat penutup menyarankan untuk memeriksa dengan jujur apa yang benar-benar memperkaya hidup sendiri. Buku panduan mahal dan sekadar mengikuti tren secara tegas ditolak.",
+          "evidence": "sondern ehrlich zu prüfen, was das eigene Leben wirklich bereichert"
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "Konsum",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "konsumsi",
+          "bedeutung_de": "der Verbrauch von Waren und Dienstleistungen",
+          "beispiel": "Der Konsum verspricht Glück, doch nach kurzer Zeit stellt sich oft Ernüchterung ein."
+        },
+        {
+          "wort": "Zufriedenheit",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "kepuasan",
+          "bedeutung_de": "ein ruhiges Gefühl, mit der eigenen Lage einverstanden zu sein",
+          "beispiel": "Ihre Anhänger behaupten, dass weniger Besitz zu mehr Zufriedenheit führt."
+        },
+        {
+          "wort": "Anhänger",
+          "artikel": "der",
+          "plural": "die Anhänger",
+          "wortart": "Nomen",
+          "bedeutung_id": "pengikut atau penganut",
+          "bedeutung_de": "Person, die eine Idee unterstützt und verbreitet",
+          "beispiel": "Ihre Anhänger behaupten, dass weniger Besitz zu mehr Zufriedenheit führt."
+        },
+        {
+          "wort": "Rohstoff",
+          "artikel": "der",
+          "plural": "die Rohstoffe",
+          "wortart": "Nomen",
+          "bedeutung_id": "bahan baku",
+          "bedeutung_de": "Material, das in der Produktion verarbeitet wird",
+          "beispiel": "wer weniger konsumiert, verbraucht insgesamt weniger Rohstoffe"
+        },
+        {
+          "wort": "Lebensweise",
+          "artikel": "die",
+          "plural": "die Lebensweisen",
+          "wortart": "Nomen",
+          "bedeutung_id": "cara hidup",
+          "bedeutung_de": "die Art und Weise, wie jemand sein Leben gestaltet",
+          "beispiel": "sondern auch die Natur profitiert demnach von einer zurückhaltenden Lebensweise"
+        },
+        {
+          "wort": "Fachleute",
+          "artikel": "die",
+          "plural": "die Fachleute",
+          "wortart": "Nomen",
+          "bedeutung_id": "para ahli",
+          "bedeutung_de": "Personen mit besonderem Wissen auf einem Gebiet",
+          "beispiel": "Einige Fachleute bezweifeln, dass Minimalismus für alle Menschen geeignet ist."
+        },
+        {
+          "wort": "Ersatzgegenstand",
+          "artikel": "der",
+          "plural": "die Ersatzgegenstände",
+          "wortart": "Nomen",
+          "bedeutung_id": "barang cadangan atau pengganti",
+          "bedeutung_de": "Gegenstand, den man zusätzlich behält, um im Notfall einen anderen zu ersetzen",
+          "beispiel": "Haushalte mit niedrigem Einkommen häufig mehr Ersatzgegenstände aufbewahren"
+        },
+        {
+          "wort": "Leistungsdruck",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "tekanan berprestasi",
+          "bedeutung_de": "die Belastung, die entsteht, wenn man ständig etwas erreichen soll",
+          "beispiel": "dass radikaler Minimalismus selbst zu einem neuen Leistungsdruck werden kann"
+        },
+        {
+          "wort": "Werkzeug",
+          "artikel": "das",
+          "plural": "die Werkzeuge",
+          "wortart": "Nomen",
+          "bedeutung_id": "alat",
+          "bedeutung_de": "Mittel, mit dem man etwas erreicht",
+          "beispiel": "sondern ein Werkzeug, das den Bedürfnissen des Einzelnen angepasst werden muss"
+        },
+        {
+          "wort": "bereichern",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "memperkaya",
+          "bedeutung_de": "etwas wertvoller oder reicher machen",
+          "beispiel": "sondern ehrlich zu prüfen, was das eigene Leben wirklich bereichert"
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-01-teil4",
+      "skill": "lesen",
+      "teil": 4,
+      "themenfeld": "Gesellschaft & Soziales",
+      "titel": "Meinungen zum Minimalismus",
+      "instruktion_de": "Lesen Sie die vier Texte und die Aussagen 1–6. Welche Person äußert welche Meinung? Jeder Aussage passt genau eine Person; eine Person kann auch mehrfach gewählt werden.",
+      "instruktion_id": "Bacalah keempat teks dan pernyataan 1–6. Orang mana yang mengutarakan pendapat mana? Setiap pernyataan cocok dengan tepat satu orang; satu orang dapat dipilih lebih dari sekali.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Minimalismus",
+        "Familie",
+        "Nachhaltigkeit",
+        "Erfahrungen"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "a",
+          "titel": "Sofia",
+          "inhalt": "Ich habe vor zwei Jahren angefangen, mich mit Minimalismus zu beschäftigen, weil mich mein voller Kleiderschrank nur noch gestresst hat. Seitdem kaufe ich Kleidung fast ausschließlich gebraucht und achte darauf, dass ich jedes Stück wirklich trage. Für mich bedeutet das vor allem weniger Stress am Morgen, denn ich verliere keine Zeit mehr mit langem Suchen. Allerdings halte ich strenge Regeln für unnötig: Wer sich zwingt, eine bestimmte Zahl von Dingen zu besitzen, macht aus einer Entlastung schnell eine neue Pflicht. Bei mir soll Minimalismus deshalb ein Mittel bleiben und kein Wettkampf."
+        },
+        {
+          "key": "b",
+          "titel": "Daniel",
+          "inhalt": "Als Vater von drei Kindern kann ich über radikalen Minimalismus nur lachen. Bei uns liegen überall Spielsachen, Bücher und Bastelmaterial, und das ist völlig in Ordnung so. Wichtiger als die Menge der Dinge ist für mich, dass jeder weiß, wo seine Sachen hingehören. Wir räumen deshalb regelmäßig gemeinsam auf, statt einfach wegzuwerfen. Dabei lernen die Kinder ganz nebenbei, wie man Entscheidungen über den eigenen Besitz trifft. Meine Kinder sollen selbst entscheiden, was sie behalten möchten. Wenn ich ihnen vorschreiben würde, die Hälfte ihrer Sachen abzugeben, würde das nur Streit geben. Für eine Familie zählt Ordnung, nicht die Zahl der Gegenstände."
+        },
+        {
+          "key": "c",
+          "titel": "Nadia",
+          "inhalt": "Nach einem Umzug habe ich vor einem Jahr viele Möbel und Kleidungsstücke weggegeben, und ehrlich gesagt bereue ich einen Teil davon bis heute. Einige Dinge, die ich damals für überflüssig hielt, fehlen mir jetzt. Deshalb bin ich vorsichtiger geworden: Bevor ich etwas aussortiere, warte ich ein paar Wochen und frage mich, ob ich es vermisse. Was mich besonders ärgert, ist der Druck in den sozialen Medien, wo perfekt leere Wohnungen als Ideal gezeigt werden. Solche Bilder machen viele Menschen unzufrieden, anstatt ihnen zu helfen. Minimalismus sollte niemanden unter Druck setzen."
+        },
+        {
+          "key": "d",
+          "titel": "Henrik",
+          "inhalt": "Mein Zugang zum Minimalismus ist vor allem ökologisch. Ich besitze nicht besonders wenig, aber ich nutze meine Geräte möglichst lange und lasse sie reparieren, statt ständig neue zu kaufen. Ein Laptop, der fünf Jahre hält, ist für die Umwelt weit besser als drei Geräte in derselben Zeit. Dabei geht es mir nicht um Verzicht, sondern um einen bewussteren Umgang mit Ressourcen. Deshalb kaufe ich Neues erst, wenn das Alte nicht mehr zu retten ist. Ich finde es problematisch, wenn Minimalismus nur als schöner Lebensstil verkauft wird und der Gedanke an Nachhaltigkeit dabei verloren geht. Für mich gehören beide Themen untrennbar zusammen."
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person kauft Kleidung überwiegend gebraucht.",
+          "stamm_id": "Orang ini sebagian besar membeli pakaian bekas.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sofia"
+            },
+            {
+              "key": "b",
+              "text": "Daniel"
+            },
+            {
+              "key": "c",
+              "text": "Nadia"
+            },
+            {
+              "key": "d",
+              "text": "Henrik"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Sofia schreibt, dass sie Kleidung fast ausschließlich gebraucht kauft. Bei den anderen Personen kommt dieses Thema nicht vor.",
+          "explain_id": "Sofia menulis bahwa ia hampir selalu membeli pakaian bekas. Pada orang lain hal ini tidak disebut.",
+          "evidence": "kaufe ich Kleidung fast ausschließlich gebraucht"
+        },
+        {
+          "nr": 2,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person möchte, dass die Kinder selbst entscheiden, welche Dinge sie behalten.",
+          "stamm_id": "Orang ini ingin anak-anak memutuskan sendiri barang mana yang mereka simpan.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sofia"
+            },
+            {
+              "key": "b",
+              "text": "Daniel"
+            },
+            {
+              "key": "c",
+              "text": "Nadia"
+            },
+            {
+              "key": "d",
+              "text": "Henrik"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Daniel betont, dass seine Kinder selbst entscheiden sollen, was sie behalten möchten. Nur er spricht über Kinder und Erziehung.",
+          "explain_id": "Daniel menegaskan anak-anaknya harus memutuskan sendiri apa yang ingin mereka simpan. Hanya dia yang berbicara soal anak dan pengasuhan.",
+          "evidence": "Meine Kinder sollen selbst entscheiden, was sie behalten möchten."
+        },
+        {
+          "nr": 3,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person bedauert, sich von manchen Gegenständen getrennt zu haben.",
+          "stamm_id": "Orang ini menyesal telah menyingkirkan sebagian barang.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sofia"
+            },
+            {
+              "key": "b",
+              "text": "Daniel"
+            },
+            {
+              "key": "c",
+              "text": "Nadia"
+            },
+            {
+              "key": "d",
+              "text": "Henrik"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Nadia gibt zu, dass sie einen Teil der weggegebenen Dinge bis heute bereut. Sofia und Henrik äußern kein solches Bedauern.",
+          "explain_id": "Nadia mengaku masih menyesali sebagian barang yang ia berikan hingga kini. Sofia dan Henrik tidak menyatakan penyesalan seperti itu.",
+          "evidence": "ehrlich gesagt bereue ich einen Teil davon bis heute"
+        },
+        {
+          "nr": 4,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person lässt defekte Geräte lieber reparieren, als neue zu kaufen.",
+          "stamm_id": "Orang ini lebih suka memperbaiki perangkat yang rusak daripada membeli yang baru.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sofia"
+            },
+            {
+              "key": "b",
+              "text": "Daniel"
+            },
+            {
+              "key": "c",
+              "text": "Nadia"
+            },
+            {
+              "key": "d",
+              "text": "Henrik"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Henrik erklärt, dass er seine Geräte möglichst lange nutzt und reparieren lässt. Die anderen Personen erwähnen Reparaturen nicht.",
+          "explain_id": "Henrik menjelaskan bahwa ia memakai perangkatnya selama mungkin dan menyuruh memperbaikinya. Orang lain tidak menyebut perbaikan.",
+          "evidence": "lasse sie reparieren, statt ständig neue zu kaufen"
+        },
+        {
+          "nr": 5,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person kritisiert den Druck, der durch perfekt leere Wohnungen in sozialen Medien entsteht.",
+          "stamm_id": "Orang ini mengkritik tekanan yang muncul akibat hunian yang tampak sempurna kosong di media sosial.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sofia"
+            },
+            {
+              "key": "b",
+              "text": "Daniel"
+            },
+            {
+              "key": "c",
+              "text": "Nadia"
+            },
+            {
+              "key": "d",
+              "text": "Henrik"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Nadia ärgert sich über den Druck in den sozialen Medien, wo leere Wohnungen als Ideal gezeigt werden. Nur sie erwähnt soziale Medien.",
+          "explain_id": "Nadia kesal atas tekanan di media sosial, tempat hunian kosong ditampilkan sebagai ideal. Hanya dia yang menyebut media sosial.",
+          "evidence": "ist der Druck in den sozialen Medien, wo perfekt leere Wohnungen als Ideal gezeigt werden"
+        },
+        {
+          "nr": 6,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person findet Ordnung wichtiger als die Zahl der Gegenstände.",
+          "stamm_id": "Orang ini menganggap keteraturan lebih penting daripada jumlah barang.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sofia"
+            },
+            {
+              "key": "b",
+              "text": "Daniel"
+            },
+            {
+              "key": "c",
+              "text": "Nadia"
+            },
+            {
+              "key": "d",
+              "text": "Henrik"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Daniel sagt ausdrücklich, dass Ordnung wichtiger sei als die Menge der Dinge. Für ihn zählt die Ordnung, nicht die Zahl.",
+          "explain_id": "Daniel secara tegas berkata keteraturan lebih penting daripada jumlah barang. Baginya yang penting adalah keteraturan, bukan jumlahnya.",
+          "evidence": "Wichtiger als die Menge der Dinge ist für mich, dass jeder weiß, wo seine Sachen hingehören"
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "gebraucht",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "bekas atau sudah dipakai",
+          "bedeutung_de": "nicht neu, sondern schon einmal benutzt",
+          "beispiel": "Seitdem kaufe ich Kleidung fast ausschließlich gebraucht"
+        },
+        {
+          "wort": "Wettkampf",
+          "artikel": "der",
+          "plural": "die Wettkämpfe",
+          "wortart": "Nomen",
+          "bedeutung_id": "pertandingan atau kompetisi",
+          "bedeutung_de": "Situation, in der mehrere um denselben Erfolg kämpfen",
+          "beispiel": "Bei mir soll Minimalismus deshalb ein Mittel bleiben und kein Wettkampf."
+        },
+        {
+          "wort": "aufräumen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "membereskan",
+          "bedeutung_de": "Ordnung machen, indem man Dinge an ihren Platz legt",
+          "beispiel": "Wir räumen deshalb regelmäßig gemeinsam auf, statt einfach wegzuwerfen."
+        },
+        {
+          "wort": "bereuen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "menyesali",
+          "bedeutung_de": "eine frühere Entscheidung im Nachhinein bedauern",
+          "beispiel": "ehrlich gesagt bereue ich einen Teil davon bis heute"
+        },
+        {
+          "wort": "Druck",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "tekanan",
+          "bedeutung_de": "die Belastung, die von Erwartungen ausgeht",
+          "beispiel": "ist der Druck in den sozialen Medien, wo perfekt leere Wohnungen als Ideal gezeigt werden"
+        },
+        {
+          "wort": "Ressource",
+          "artikel": "die",
+          "plural": "die Ressourcen",
+          "wortart": "Nomen",
+          "bedeutung_id": "sumber daya",
+          "bedeutung_de": "Mittel oder Material, das man nutzen kann",
+          "beispiel": "sondern um einen bewussteren Umgang mit Ressourcen"
+        },
+        {
+          "wort": "reparieren",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "memperbaiki",
+          "bedeutung_de": "etwas Kaputtes wieder in Ordnung bringen",
+          "beispiel": "lasse sie reparieren, statt ständig neue zu kaufen"
+        },
+        {
+          "wort": "Nachhaltigkeit",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "keberlanjutan",
+          "bedeutung_de": "der Grundsatz, Ressourcen so zu nutzen, dass sie erhalten bleiben",
+          "beispiel": "und der Gedanke an Nachhaltigkeit dabei verloren geht"
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-01-teil5",
+      "skill": "lesen",
+      "teil": 5,
+      "themenfeld": "Gesellschaft & Soziales",
+      "titel": "Anleitung: Ein Wochenende zum Aussortieren",
+      "instruktion_de": "Lesen Sie die vier Absätze und die Überschriften a–h. Welche Überschrift passt zu welchem Absatz? Es gibt mehr Überschriften als Absätze.",
+      "instruktion_id": "Bacalah keempat paragraf dan judul a–h. Judul mana yang cocok dengan paragraf mana? Jumlah judul lebih banyak daripada paragraf.",
+      "zeit_minuten": 6,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Minimalismus",
+        "Anleitung",
+        "Ordnung",
+        "Alltag"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "1",
+          "titel": "Absatz 1",
+          "inhalt": "Bevor Sie mit dem Aussortieren beginnen, sollten Sie sich ein realistisches Ziel setzen. Nehmen Sie sich nicht vor, an einem Tag die ganze Wohnung zu erneuern; wählen Sie stattdessen einen einzigen Bereich, etwa eine Schublade oder ein Regal. Legen Sie gut sichtbar drei Kisten bereit: eine für Dinge, die Sie behalten möchten, eine für Spenden und eine für den Müll. So behalten Sie jederzeit den Überblick und treffen jede Entscheidung bewusst."
+        },
+        {
+          "key": "2",
+          "titel": "Absatz 2",
+          "inhalt": "Während des Aussortierens gilt eine einfache Regel: Fragen Sie bei jedem Gegenstand, wann Sie ihn zuletzt benutzt haben. Was Sie seit einem Jahr nicht gebraucht haben, brauchen Sie in den meisten Fällen auch künftig nicht. Achten Sie darauf, nicht zu viel auf einmal zu prüfen, sonst verlieren Sie die Konzentration. Machen Sie nach jeder halben Stunde eine kurze Pause. Wer zu hastig arbeitet, trifft am Ende mehr Fehlentscheidungen als jemand, der ruhig vorgeht."
+        },
+        {
+          "key": "3",
+          "titel": "Absatz 3",
+          "inhalt": "Besondere Vorsicht gilt bei Erinnerungsstücken. Fotos, Briefe und Geschenke von Menschen, die Ihnen wichtig sind, sollten Sie nicht vorschnell wegwerfen. Wenn Sie unsicher sind, legen Sie solche Dinge in eine Extrakiste und entscheiden Sie erst nach einigen Wochen. Wer emotional belastende Gegenstände sofort entsorgt, bereut diesen Schritt später oft. Fragen Sie im Zweifel eine vertraute Person um Rat. Eine kurze Bedenkzeit kostet nichts, erspart Ihnen aber später Ärger und unnötige Neuanschaffungen."
+        },
+        {
+          "key": "4",
+          "titel": "Absatz 4",
+          "inhalt": "Wenn ein Bereich fertig ist, sollten Sie das Ergebnis bewusst würdigen. Viele Menschen unterschätzen, wie viel Freude ein aufgeräumter Schrank bereitet. Damit die Ordnung bleibt, hilft es, neue Käufe künftig zu begrenzen: Kaufen Sie nur, was Sie wirklich benötigen, und zwar erst dann, wenn ein alter Gegenstand ersetzt werden muss. Wer diese einfache Grenze beachtet, verhindert, dass sich die Wohnung langsam wieder mit unnötigen Dingen füllt. So wird aus einem einmaligen Projekt eine dauerhafte Gewohnheit."
+        }
+      ],
+      "ueberschriften": [
+        {
+          "key": "a",
+          "text": "Ein realistischer Start"
+        },
+        {
+          "key": "b",
+          "text": "Die richtige Reihenfolge beim Aussortieren"
+        },
+        {
+          "key": "c",
+          "text": "Eine einfache Entscheidungsregel"
+        },
+        {
+          "key": "d",
+          "text": "Pausen richtig einplanen"
+        },
+        {
+          "key": "e",
+          "text": "Vorsicht bei Erinnerungsstücken"
+        },
+        {
+          "key": "f",
+          "text": "Ordnung dauerhaft halten"
+        },
+        {
+          "key": "g",
+          "text": "Kleine Fehler, große Folgen"
+        },
+        {
+          "key": "h",
+          "text": "Gemeinsam statt allein aussortieren"
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 1?",
+          "stamm_id": "Judul mana yang cocok dengan paragraf 1?",
+          "optionen": null,
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 1 beschreibt, wie man sich vorbereitet und ein realistisches Ziel wählt. Dazu passt die Überschrift über den realistischen Start.",
+          "explain_id": "Paragraf 1 menjelaskan cara bersiap dan memilih target yang realistis. Cocok dengan judul tentang awal yang realistis.",
+          "evidence": "Bevor Sie mit dem Aussortieren beginnen, sollten Sie sich ein realistisches Ziel setzen."
+        },
+        {
+          "nr": 2,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 3?",
+          "stamm_id": "Judul mana yang cocok dengan paragraf 3?",
+          "optionen": null,
+          "loesung": [
+            "e"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 3 warnt davor, Erinnerungsstücke vorschnell wegzuwerfen. Genau das drückt die Überschrift über Erinnerungsstücke aus.",
+          "explain_id": "Paragraf 3 memperingatkan agar tidak terburu-buru menyingkirkan kenang-kenangan. Persis itu yang dinyatakan judul tentang kenang-kenangan.",
+          "evidence": "Besondere Vorsicht gilt bei Erinnerungsstücken."
+        },
+        {
+          "nr": 3,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 4?",
+          "stamm_id": "Judul mana yang cocok dengan paragraf 4?",
+          "optionen": null,
+          "loesung": [
+            "f"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 4 erklärt, wie man die erreichte Ordnung langfristig behält. Dazu passt die Überschrift über das dauerhafte Halten der Ordnung.",
+          "explain_id": "Paragraf 4 menjelaskan cara mempertahankan keteraturan dalam jangka panjang. Cocok dengan judul tentang mempertahankan keteraturan secara berkelanjutan.",
+          "evidence": "Damit die Ordnung bleibt, hilft es, neue Käufe künftig zu begrenzen"
+        }
+      ],
+      "punkte_max": 3,
+      "glossar": [
+        {
+          "wort": "realistisch",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "realistis",
+          "bedeutung_de": "so, dass es tatsächlich zu schaffen ist",
+          "beispiel": "Bevor Sie mit dem Aussortieren beginnen, sollten Sie sich ein realistisches Ziel setzen."
+        },
+        {
+          "wort": "Schublade",
+          "artikel": "die",
+          "plural": "die Schubladen",
+          "wortart": "Nomen",
+          "bedeutung_id": "laci",
+          "bedeutung_de": "ein bewegliches Fach in einem Möbelstück",
+          "beispiel": "etwa eine Schublade oder ein Regal"
+        },
+        {
+          "wort": "Spende",
+          "artikel": "die",
+          "plural": "die Spenden",
+          "wortart": "Nomen",
+          "bedeutung_id": "sumbangan atau donasi",
+          "bedeutung_de": "etwas, das man anderen kostenlos gibt",
+          "beispiel": "eine für Spenden und eine für den Müll"
+        },
+        {
+          "wort": "Überblick",
+          "artikel": "der",
+          "plural": "die Überblicke",
+          "wortart": "Nomen",
+          "bedeutung_id": "gambaran umum",
+          "bedeutung_de": "die Fähigkeit, das Ganze zu erfassen",
+          "beispiel": "So behalten Sie den Überblick und treffen jede Entscheidung bewusst."
+        },
+        {
+          "wort": "Konzentration",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "konsentrasi",
+          "bedeutung_de": "die Aufmerksamkeit, die ganz auf eine Sache gerichtet ist",
+          "beispiel": "sonst verlieren Sie die Konzentration"
+        },
+        {
+          "wort": "Erinnerungsstück",
+          "artikel": "das",
+          "plural": "die Erinnerungsstücke",
+          "wortart": "Nomen",
+          "bedeutung_id": "benda kenang-kenangan",
+          "bedeutung_de": "Gegenstand, der an etwas Vergangenes erinnert",
+          "beispiel": "Besondere Vorsicht gilt bei Erinnerungsstücken."
+        },
+        {
+          "wort": "würdigen",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "menghargai",
+          "bedeutung_de": "etwas bewusst anerkennen und wertschätzen",
+          "beispiel": "Wenn ein Bereich fertig ist, sollten Sie das Ergebnis bewusst würdigen."
+        },
+        {
+          "wort": "Gewohnheit",
+          "artikel": "die",
+          "plural": "die Gewohnheiten",
+          "wortart": "Nomen",
+          "bedeutung_id": "kebiasaan",
+          "bedeutung_de": "eine Handlung, die man regelmäßig und fast automatisch ausführt",
+          "beispiel": "So wird aus einem einmaligen Projekt eine dauerhafte Gewohnheit."
+        }
+      ]
+    }
+  ]
+}

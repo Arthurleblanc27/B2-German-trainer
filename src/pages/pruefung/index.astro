@@ -1,0 +1,81 @@
+---
+import Base from '../../layouts/Base.astro';
+import { allePruefungen } from '../../lib/content';
+import { BESTEHENSGRENZE, TEIL_SPEC } from '../../data/schema';
+
+const pruefungen = allePruefungen;
+const zeitLesen = TEIL_SPEC.lesen.reduce((a, s) => a + s.minuten, 0);
+const zeitHoeren = TEIL_SPEC.hoeren.reduce((a, s) => a + s.minuten, 0);
+---
+
+<Base
+  titel="Prüfung — Modelltest-Simulator"
+  skill="pruefung"
+  beschreibung="Simulasi Modelltest B2 berwaktu: Lesen 65 menit, Hören ±40 menit, laporan skala 100 dengan ambang lulus 60."
+>
+  <div class="flex flex-col gap-4">
+    <section class="seitenkopf">
+      <p class="augenbraue">Simulasi · Aturan ujian asli</p>
+      <h1>Modelltest-Simulator</h1>
+      <p class="prosa m-0 mt-2">
+        Simulasi ujian penuh dengan aturan sebenarnya: <strong>Lesen</strong> 5 Teil / 30 Aufgaben / {zeitLesen} Minuten
+        (inkl. 5 Minuten Lesezeit) und <strong>Hören</strong> 4 Teil / 30 Aufgaben / ca. {zeitHoeren} Minuten.
+        Bestehensgrenze {BESTEHENSGRENZE} von 100 Punkten je Modul.
+      </p>
+      <ul class="prosa m-0 mt-3 list-none space-y-1.5 p-0 text-sm">
+        <li class="flex gap-2">
+          <span class="chip chip-akzent" aria-hidden="true">Timer</span>
+          <span>Timer pro Teil mit Warnungen bei 5 und 1 Minute; nach Zeitablauf wird der Teil automatisch gesperrt.</span>
+        </li>
+        <li class="flex gap-2">
+          <span class="chip chip-akzent" aria-hidden="true">Audio</span>
+          <span>Hören: Audio wird begrenzt abgespielt (Teil 1 einmal, Teil 2–4 zweimal), Transkript erst im Bericht.</span>
+        </li>
+        <li class="flex gap-2">
+          <span class="chip chip-akzent" aria-hidden="true">Bericht</span>
+          <span>Nach dem letzten Teil: Bericht mit Skala 100, Fehlerliste mit Belegzitat und Druckfunktion.</span>
+        </li>
+        <li class="flex gap-2">
+          <span class="chip chip-akzent" aria-hidden="true">Eigene Texte</span>
+          <span>Alle Aufgaben dieses Tests sind eigene Texte (kein kopiertes Material offizieller Anbieter).</span>
+        </li>
+      </ul>
+    </section>
+
+    {
+      pruefungen.length ? (
+        <ul class="grid list-none grid-cols-1 gap-3 p-0 lg:grid-cols-2">
+          {pruefungen.map((p) => (
+            <li class="karte karte-interaktiv flex flex-col gap-2">
+              <div class="flex flex-wrap items-center justify-between gap-2">
+                <h2 class="m-0 text-lg font-bold">{p.titel}</h2>
+                <span class="chip chip-akzent">Vollständig</span>
+              </div>
+              <p class="ruhig m-0 text-sm">{p.beschreibung_id}</p>
+              <ul class="m-0 flex flex-wrap list-none gap-1 p-0 text-xs">
+                <li class="tag">Lesen: {p.lesen.reduce((a, t) => a + t.fragen.length, 0)} Aufgaben</li>
+                <li class="tag">Hören: {p.hoeren.reduce((a, t) => a + t.fragen.length, 0)} Aufgaben</li>
+              </ul>
+              <a class="btn btn-primaer mt-1 self-start" href={`/pruefung/${p.id}/`}>
+                Prüfung starten →
+              </a>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="meldung meldung-warn">
+          Noch kein vollständiger Modelltest im Bank (<code>src/content/modelltest/</code>). Bis dahin kannst du jeden
+          Teil einzeln im Prüfungsmodus üben: <a href="/lesen/">Lesen</a> · <a href="/hoeren/">Hören</a>.
+        </p>
+      )
+    }
+
+    <section class="karte">
+      <h2 class="m-0 text-lg font-bold">Ehrliche Einordnung</h2>
+      <p class="prosa m-0 mt-1 text-sm">
+        Diese Simulation ist Übungsmaterial und kein Zertifikat. Sie ersetzt keine Bewertung durch
+        Prüfende (Schreiben und Sprechen fehlen bewusst in dieser Version).
+      </p>
+    </section>
+  </div>
+</Base>

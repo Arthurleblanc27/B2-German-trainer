@@ -1,0 +1,18 @@
+---
+import Base from '../../layouts/Base.astro';
+import FehlerheftApp from '../../components/FehlerheftApp';
+---
+
+<Base titel="Fehlerheft" beschreibung="Alle falsch beantworteten Aufgaben werden gesammelt und nach dem SM-2-Prinzip (1 → 3 → 7 → 21 Tage) wiederholt. Gezielt üben, archivieren, löschen.">
+  <div class="flex flex-col gap-4">
+    <section class="seitenkopf">
+      <p class="augenbraue">Wiederholung · SM-2-Prinzip</p>
+      <h1>Fehlerheft</h1>
+      <p class="ruhig m-0 mt-2 text-sm">
+        Falsch beantwortete Aufgaben aus Lesen &amp; Hören werden hier automatisch gesammelt und nach dem SM-2-Prinzip
+        wiederholt (1 → 3 → 7 → 21 Tage). Drei richtige Antworten in Folge archivieren einen Eintrag.
+      </p>
+    </section>
+    <FehlerheftApp client:load />
+  </div>
+</Base>

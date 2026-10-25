@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 2,
+  "format": "testdaf",
+  "id": "testdaf-mt01-lesen-a1",
+  "bereich": "lesen",
+  "aufgabe": 1,
+  "modelltest": 1,
+  "tdn": 3,
+  "level": "B2",
+  "themenfeld": "Studienalltag & Beratungsangebote",
+  "titel": "Angebote für Studierende an einer Universität",
+  "titel_id": "Penawaran layanan bagi mahasiswa di sebuah universitas",
+  "beschreibung_id": "Zuordnung im TestDaF-Format: acht Kurzbeschreibungen von Hochschulangeboten, Text I bedeutet „kein Angebot passt“. Zehn Items auf Niveau TDN 3.",
+  "instruktion_de": "Sie informieren sich über Angebote, die Ihre Universität Studierenden macht. Lesen Sie die Kurzbeschreibungen A–H. Zu jeder Situation 1–10 passt höchstens ein Angebot. Schreiben Sie den Buchstaben des passenden Angebots neben die Situation. Wenn kein Angebot passt, wählen Sie Text I („kein Angebot passt“). Jedes Angebot wird höchstens einmal gewählt.",
+  "instruktion_id": "Anda mencari informasi tentang layanan yang disediakan universitas untuk mahasiswa. Bacalah delapan uraian singkat A–H. Setiap situasi 1–10 hanya cocok untuk paling banyak satu penawaran. Tuliskan huruf penawaran yang sesuai di samping situasi tersebut. Jika tidak ada penawaran yang cocok, pilih Teks I („kein Angebot passt“). Setiap penawaran dipilih paling banyak satu kali.",
+  "zeit_minuten": 15,
+  "source_type": "ai",
+  "lizenz": "CC-BY-NC-SA-4.0",
+  "attribution": "Eigener Text (KI-generiert, manuell geprüft) — TestDaF-Modul, Modelltest 1, Leseverstehen Aufgabe 1. Nur das Format orientiert sich am TestDaF; alle Texte und Items sind neu verfasst.",
+  "tags": ["Studienalltag", "Beratungsangebote", "Zuordnung", "Universität"],
+  "material_typ": "kurztexte",
+  "texte": [
+    {
+      "key": "a",
+      "titel": "Schreibwerkstatt: Beratung für wissenschaftliche Texte",
+      "inhalt": "Die Schreibwerkstatt des Sprachenzentrums hilft bei allen Fragen des wissenschaftlichen Schreibens. Wer nicht weiß, wie eine Hausarbeit sinnvoll aufgebaut wird oder wie ein Argument sauber begründet wird, kann ein Einzelgespräch von 45 Minuten buchen. Zusätzlich arbeiten jeden Mittwochnachmittag offene Schreibgruppen, in denen man einfach eine Zeit lang mit anderen schreibt."
+    },
+    {
+      "key": "b",
+      "titel": "Sprachtandem-Börse",
+      "inhalt": "Beim Sprachtandem lernen zwei Studierende zusammen: eine Stunde in der einen, eine Stunde in der anderen Sprache. Auf der Online-Börse trägt man Muttersprache, Zielsprache und Zeitfenster ein; das System schlägt dann passende Partner vor. Die Teilnahme ist kostenlos und für alle Fächer offen. Wer unsicher ist, bekommt zu Beginn eine kurze Einführung in die Methode."
+    },
+    {
+      "key": "c",
+      "titel": "Career Center: Praktika und Bewerbungen",
+      "inhalt": "Das Career Center der Universität vermittelt Praktika in Unternehmen der Region und bereitet auf Bewerbungen vor. Betriebe melden freie Plätze direkt an das Büro; Studierende können dort ein Kurzgespräch vereinbaren. Zweimal im Semester gibt es außerdem einen Bewerbungsworkshop, in dem die eigenen Unterlagen geprüft werden."
+    },
+    {
+      "key": "d",
+      "titel": "Hochschulsport: Kurse im Semester",
+      "inhalt": "Der Hochschulsport bietet über achtzig Kurse an, von Rückenschule über Badminton bis Selbstverteidigung für Anfängerinnen. Die Anmeldung läuft online und ist für eingeschriebene Studierende kostenlos. Wer einen Platz bekommt, muss ihn innerhalb von drei Tagen bestätigen. Viele Kurse, besonders die am Abend, sind schnell ausgebucht."
+    },
+    {
+      "key": "e",
+      "titel": "Sozialberatung und Studienfinanzierung",
+      "inhalt": "Die Sozialberatung des Studierendenwerks informiert über BAföG, Kredite, Stipendien und Nebenjobs. Wer nicht weiß, wie das nächste Semester bezahlt werden soll, bekommt einen Termin bei einer Beraterin; dabei wird gemeinsam ein Haushaltsplan erstellt. Die Beratung ist unabhängig von der Universität und streng vertraulich."
+    },
+    {
+      "key": "f",
+      "titel": "Bibliothek: Schulungen zur Literaturverwaltung",
+      "inhalt": "Die Universitätsbibliothek führt jede Woche eine 60-minütige Schulung zur Literaturverwaltung mit Citavi und Zotero durch. Gezeigt wird, wie man Quellen sammelt, zitierfähige Angaben prüft und das Literaturverzeichnis automatisch erzeugt. Für Schreibende mit konkreten Fragen gibt es danach eine offene Sprechstunde am Servicetresen."
+    },
+    {
+      "key": "g",
+      "titel": "Zimmervermittlung des Studierendenwerks",
+      "inhalt": "Das Studierendenwerk vermittelt Zimmer in Wohnheimen und in privaten Wohngemeinschaften. Interessierte legen online ein Profil an und erhalten passende Angebote per E-Mail. Besonders zum Semesterbeginn ist die Nachfrage groß. Für dringende Fälle gibt es eine Notfallliste, in die man sich persönlich eintragen lassen kann."
+    },
+    {
+      "key": "h",
+      "titel": "Auslandsamt: Studium im Ausland",
+      "inhalt": "Das Auslandsamt berät zu einem Semester an einer Partneruniversität, zu Fristen, zur Anerkennung von Leistungen und zu den nötigen Sprachzeugnissen. Bewerbungen für das folgende Studienjahr müssen bis Ende Januar eingereicht werden. Wer ein Praktikum im Ausland sucht, findet auf der Webseite zusätzlich eine Vermittlungsplattform."
+    }
+  ],
+  "antwort_optionen": [
+    { "key": "a", "text": "Schreibwerkstatt: Beratung für wissenschaftliche Texte" },
+    { "key": "b", "text": "Sprachtandem-Börse" },
+    { "key": "c", "text": "Career Center: Praktika und Bewerbungen" },
+    { "key": "d", "text": "Hochschulsport: Kurse im Semester" },
+    { "key": "e", "text": "Sozialberatung und Studienfinanzierung" },
+    { "key": "f", "text": "Bibliothek: Schulungen zur Literaturverwaltung" },
+    { "key": "g", "text": "Zimmervermittlung des Studierendenwerks" },
+    { "key": "h", "text": "Auslandsamt: Studium im Ausland" },
+    { "key": "i", "text": "Kein Angebot passt (Text I)" }
+  ],
+  "audio": null,
+  "fragen": [
+    {
+      "nr": 1,
+      "typ": "zuordnung",
+      "stamm_de": "Ein Student sucht für die Semesterferien ein Praktikum bei einem Betrieb aus der Region.",
+      "stamm_id": "Seorang mahasiswa mencari tempat praktik di perusahaan daerah untuk masa libur semester.",
+      "optionen": null,
+      "loesung": ["c"],
+      "punkte": 1,
+      "explain_de": "Das Career Center vermittelt Praktika in regionalen Unternehmen; freie Plätze werden direkt an das Büro gemeldet.",
+      "explain_id": "Career Center menyalurkan tempat praktik di perusahaan daerah; lowongan dilaporkan langsung ke kantor itu.",
+      "evidence": "vermittelt Praktika in Unternehmen der Region"
+    },
+    {
+      "nr": 2,
+      "typ": "zuordnung",
+      "stamm_de": "Eine Studentin hat eine Hausarbeit fertig und möchte prüfen lassen, ob ihr Argumentationsaufbau überzeugt.",
+      "stamm_id": "Seorang mahasiswi telah menyelesaikan makalah dan ingin memeriksa apakah struktur argumentasinya meyakinkan.",
+      "optionen": null,
+      "loesung": ["a"],
+      "punkte": 1,
+      "explain_de": "Die Schreibwerkstatt berät genau zum Aufbau wissenschaftlicher Texte und zum Begründen von Argumenten — einzeln oder in der Schreibgruppe.",
+      "explain_id": "Schreibwerkstatt justru membimbing penyusunan teks ilmiah dan cara mendasari argumen — secara individual maupun dalam kelompok menulis.",
+      "evidence": "wie ein Argument sauber begründet wird"
+    },
+    {
+      "nr": 3,
+      "typ": "zuordnung",
+      "stamm_de": "Ein Student zieht zum nächsten Semester um und sucht ein Zimmer in einer Wohngemeinschaft.",
+      "stamm_id": "Seorang mahasiswa pindah pada semester berikutnya dan mencari kamar di sebuah Wohngemeinschaft.",
+      "optionen": null,
+      "loesung": ["g"],
+      "punkte": 1,
+      "explain_de": "Das Studierendenwerk vermittelt Zimmer in Wohnheimen und in privaten Wohngemeinschaften; ein Profil genügt für passende Angebote per E-Mail.",
+      "explain_id": "Studierendenwerk menyalurkan kamar di asrama maupun Wohngemeinschaft swasta; cukup membuat profil untuk mendapat tawaran lewat surel.",
+      "evidence": "vermittelt Zimmer in Wohnheimen und in privaten Wohngemeinschaften"
+    },
+    {
+      "nr": 4,
+      "typ": "zuordnung",
+      "stamm_de": "Eine Studentin möchte abends einen Deutschkurs auf dem Niveau C1 belegen.",
+      "stamm_id": "Seorang mahasiswi ingin mengikuti kursus bahasa Jerman tingkat C1 pada malam hari.",
+      "optionen": null,
+      "loesung": ["i"],
+      "punkte": 1,
+      "explain_de": "Text B ist eine Tandem-Börse für zwei Lernpartner, kein Sprachkurs mit Lehrkraft und Niveauangabe — ein Kursangebot fehlt in den Texten.",
+      "explain_id": "Teks B adalah bursa tandem untuk dua mitra belajar, bukan kursus dengan pengajar dan tingkat tertentu — penawaran kursus tidak ada di dalam teks.",
+      "evidence": "Beim Sprachtandem lernen zwei Studierende zusammen"
+    },
+    {
+      "nr": 5,
+      "typ": "zuordnung",
+      "stamm_de": "Ein Student überlegt, ob er neben dem Studium einen Kredit aufnehmen oder lieber arbeiten soll.",
+      "stamm_id": "Seorang mahasiswa mempertimbangkan mengambil kredit atau lebih baik bekerja sambil kuliah.",
+      "optionen": null,
+      "loesung": ["e"],
+      "punkte": 1,
+      "explain_de": "Die Sozialberatung informiert über BAföG, Kredite, Stipendien und Nebenjobs und erstellt gemeinsam einen Haushaltsplan.",
+      "explain_id": "Konsultasi sosial memberi informasi tentang BAföG, kredit, beasiswa, dan kerja sambilan serta menyusun rencana anggaran bersama.",
+      "evidence": "informiert über BAföG, Kredite, Stipendien und Nebenjobs"
+    },
+    {
+      "nr": 6,
+      "typ": "zuordnung",
+      "stamm_de": "Ein Student sitzt täglich viele Stunden am Schreibtisch und hat deshalb ständig Rückenschmerzen.",
+      "stamm_id": "Seorang mahasiswa duduk berjam-jam setiap hari di meja dan karena itu terus-menerus sakit punggung.",
+      "optionen": null,
+      "loesung": ["d"],
+      "punkte": 1,
+      "explain_de": "Der Hochschulsport bietet unter anderem Rückenschule an; die Anmeldung ist online und für Studierende kostenlos.",
+      "explain_id": "Hochschulsport menawarkan antara lain senam punggung; pendaftarannya daring dan gratis bagi mahasiswa.",
+      "evidence": "von Rückenschule über Badminton bis Selbstverteidigung"
+    },
+    {
+      "nr": 7,
+      "typ": "zuordnung",
+      "stamm_de": "Eine Studentin möchte ihre fertige Masterarbeit drucken und binden lassen.",
+      "stamm_id": "Seorang mahasiswi ingin mencetak dan menjilid tesis magisternya yang sudah selesai.",
+      "optionen": null,
+      "loesung": ["i"],
+      "punkte": 1,
+      "explain_de": "Die Bibliothek hilft bei der Literaturverwaltung und beim Zitieren, nicht beim Drucken oder Binden von Abschlussarbeiten — kein Angebot passt.",
+      "explain_id": "Perpustakaan membantu pengelolaan pustaka dan pengutipan, bukan pencetakan atau penjilidan tugas akhir — tidak ada penawaran yang cocok.",
+      "evidence": "Für Schreibende mit konkreten Fragen gibt es danach eine offene Sprechstunde am Servicetresen"
+    },
+    {
+      "nr": 8,
+      "typ": "zuordnung",
+      "stamm_de": "Ein Student hat zahlreiche Quellen gesammelt und will daraus automatisch ein Literaturverzeichnis erzeugen.",
+      "stamm_id": "Seorang mahasiswa telah mengumpulkan banyak sumber dan ingin membuat daftar pustaka secara otomatis.",
+      "optionen": null,
+      "loesung": ["f"],
+      "punkte": 1,
+      "explain_de": "In der Bibliotheksschulung wird mit Citavi und Zotero gezeigt, wie zitierfähige Angaben geprüft und das Literaturverzeichnis automatisch erzeugt werden.",
+      "explain_id": "Dalam pelatihan perpustakaan ditunjukkan cara memeriksa data kutipan dan membuat daftar pustaka otomatis dengan Citavi dan Zotero.",
+      "evidence": "das Literaturverzeichnis automatisch erzeugt"
+    },
+    {
+      "nr": 9,
+      "typ": "zuordnung",
+      "stamm_de": "Eine Studentin will ein Semester an einer Partneruniversität im Ausland studieren und fragt nach den Bewerbungsfristen.",
+      "stamm_id": "Seorang mahasiswi ingin menempuh satu semester di universitas mitra di luar negeri dan menanyakan batas waktu pendaftarannya.",
+      "optionen": null,
+      "loesung": ["h"],
+      "punkte": 1,
+      "explain_de": "Das Auslandsamt berät zu Partneruniversitäten, Fristen, Anerkennung und Sprachzeugnissen; Bewerbungen sind bis Ende Januar einzureichen.",
+      "explain_id": "Auslandsamt memberi konsultasi tentang universitas mitra, batas waktu, pengakuan kredit, dan sertifikat bahasa; pendaftaran paling lambat akhir Januari.",
+      "evidence": "Bewerbungen für das folgende Studienjahr müssen bis Ende Januar eingereicht werden"
+    },
+    {
+      "nr": 10,
+      "typ": "zuordnung",
+      "stamm_de": "Ein Student möchte seine Spanischkenntnisse regelmäßig mit einem Muttersprachler üben.",
+      "stamm_id": "Seorang mahasiswa ingin melatih kemampuan bahasa Spanyolnya secara rutin dengan penutur asli.",
+      "optionen": null,
+      "loesung": ["b"],
+      "punkte": 1,
+      "explain_de": "Die Sprachtandem-Börse vermittelt Lernpartner über Muttersprache und Zielsprache — genau für regelmäßiges Üben zu zweit.",
+      "explain_id": "Bursa tandem bahasa mempertemukan mitra belajar berdasarkan bahasa ibu dan bahasa sasaran — tepat untuk latihan rutin berdua.",
+      "evidence": "Auf der Online-Börse trägt man Muttersprache, Zielsprache und Zeitfenster ein"
+    }
+  ],
+  "punkte_max": 10,
+  "glossar": [
+    { "wort": "die Schreibwerkstatt", "artikel": "die", "bedeutung_id": "bengkel menulis; layanan bimbingan menulis", "bedeutung_de": null, "beispiel": "Einzelgespräch in der Schreibwerkstatt buchen" },
+    { "wort": "die Hausarbeit", "artikel": "die", "bedeutung_id": "makalah/tugas tulis", "bedeutung_de": null, "beispiel": null },
+    { "wort": "begründen", "artikel": "", "bedeutung_id": "mendasari; memberi alasan", "bedeutung_de": "eine Begründung für etwas geben", "beispiel": "ein Argument begründen" },
+    { "wort": "das Sprachtandem", "artikel": "das", "bedeutung_id": "tandem bahasa (dua orang saling belajar)", "bedeutung_de": null, "beispiel": null },
+    { "wort": "das Zeitfenster", "artikel": "das", "bedeutung_id": "slot waktu; rentang waktu", "bedeutung_de": null, "beispiel": null },
+    { "wort": "vermitteln", "artikel": "", "bedeutung_id": "menyalurkan; mempertemukan", "bedeutung_de": "jdn an jdn vermitteln", "beispiel": "ein Praktikum vermitteln" },
+    { "wort": "die Unterlagen", "artikel": "die", "bedeutung_id": "berkas/dokumen", "bedeutung_de": null, "beispiel": "Bewerbungsunterlagen prüfen" },
+    { "wort": "ausgebucht", "artikel": "", "bedeutung_id": "penuh (kuota habis)", "bedeutung_de": null, "beispiel": "Der Kurs ist ausgebucht." },
+    { "wort": "die Sozialberatung", "artikel": "die", "bedeutung_id": "konsultasi sosial", "bedeutung_de": null, "beispiel": null },
+    { "wort": "die Studienfinanzierung", "artikel": "die", "bedeutung_id": "pembiayaan studi", "bedeutung_de": null, "beispiel": null },
+    { "wort": "das Stipendium", "artikel": "das", "bedeutung_id": "beasiswa", "bedeutung_de": null, "beispiel": null },
+    { "wort": "die Literaturverwaltung", "artikel": "die", "bedeutung_id": "pengelolaan sumber pustaka", "bedeutung_de": null, "beispiel": "Citavi und Zotero" },
+    { "wort": "zitierfähig", "artikel": "", "bedeutung_id": "layak/bisa dikutip", "bedeutung_de": null, "beispiel": "zitierfähige Angaben" },
+    { "wort": "die Sprechstunde", "artikel": "die", "bedeutung_id": "jam konsultasi", "bedeutung_de": null, "beispiel": "offene Sprechstunde" },
+    { "wort": "die Frist", "artikel": "die", "bedeutung_id": "batas waktu", "bedeutung_de": null, "beispiel": "Frist bis Ende Januar" },
+    { "wort": "die Anerkennung", "artikel": "die", "bedeutung_id": "pengakuan (kredit/kelulusan)", "bedeutung_de": null, "beispiel": "Anerkennung von Leistungen" },
+    { "wort": "die Zulassung", "artikel": "die", "bedeutung_id": "penerimaan; izin masuk", "bedeutung_de": null, "beispiel": null }
+  ]
+}

@@ -1,0 +1,78 @@
+---
+import Base from '../../layouts/Base.astro';
+import { unitsVon } from '../../lib/content';
+
+const units = unitsVon('hoeren');
+const gesamt = units.reduce((a, u) => a + u.teile.reduce((b, t) => b + t.fragen.length, 0), 0);
+---
+
+<Base
+  titel="Hörenverstehen"
+  skill="hoeren"
+  beschreibung="Hörenverstehen B2 — 4 Teil pro Unit, 30 Aufgaben, Audio mit begrenzter Wiedergabe im Prüfungsmodus."
+>
+  <div class="flex flex-col gap-4">
+    <section class="seitenkopf">
+      <p class="augenbraue">Modul Hören · Goethe B2</p>
+      <h1>Hörenverstehen B2</h1>
+      <p class="prosa m-0 mt-2">
+        Struktur wie im Goethe-Zertifikat B2: Teil 1 fünf kurze Gespräche, je 2 Aufgaben, einmal hören (10) · Teil 2
+        Radiobeitrag/Interview, 6 Aufgaben · Teil 3 vier Sprecher, 6 Aufgaben · Teil 4 Vortrag, 8 Aufgaben — 30 Aufgaben,
+        insgesamt ca. 40 Minuten inklusive Vorbereitungs- und Antwortzeit. {gesamt} Aufgaben im Bank.
+      </p>
+      <div class="mt-4 flex flex-wrap gap-2">
+        <a class="btn btn-primaer" href={units.length ? `/hoeren/${units[0].unit}/` : '/pruefung/'}>
+          {units.length ? 'Mit Unit 1 starten' : 'Zum Prüfungsmodus'}
+        </a>
+        <a class="btn" href="/statistik/">Fortschritt ansehen</a>
+      </div>
+    </section>
+
+    <p class="meldung meldung-warn m-0 text-sm">
+      Hinweis: Die Audio-Dateien entstehen aus eigenen Skripten (TTS + Loudness-Normalisierung). Ist eine Datei noch
+      nicht produziert, steht das Transkript zum Lesen bereit und der Player weist darauf hin.
+    </p>
+
+    <ul class="grid list-none grid-cols-1 gap-3 p-0 lg:grid-cols-2">
+      {
+        units.map((u) => (
+          <li class="karte karte-interaktiv flex flex-col gap-2">
+            <div class="flex flex-wrap items-start justify-between gap-2">
+              <div class="flex items-start gap-2.5">
+                <span class="zeile-nr mt-0.5" aria-hidden="true">
+                  {u.unit}
+                </span>
+                <div>
+                  <h2 class="m-0 text-lg font-bold">{u.titel}</h2>
+                  <p class="ruhig m-0 text-sm">{u.titel_id}</p>
+                </div>
+              </div>
+              <span class="chip chip-akzent">{u.themenfeld}</span>
+            </div>
+            <p class="m-0 text-sm">{u.beschreibung_id}</p>
+            <ul class="m-0 flex flex-wrap list-none gap-1 p-0 text-xs">
+              {u.teile.map((t) => (
+                <li class="tag">
+                  Teil {t.teil}: {t.fragen.length} · {t.audio ? `${t.audio.play_limit_pruefung}× hören` : '–'}
+                </li>
+              ))}
+            </ul>
+            <a class="btn btn-primaer mt-1 self-start" href={`/hoeren/${u.unit}/`}>
+              Unit {u.unit} öffnen →
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+
+    {units.length === 0 ? <p class="meldung meldung-warn">Noch keine Hören-Unit vorhanden (src/content/hoeren/).</p> : null}
+
+    <section class="karte">
+      <h2 class="m-0 text-lg font-bold">Trainiere mit echten Stimmen</h2>
+      <p class="prosa m-0 mt-1 text-sm">
+        TTS-Audio ist gleichmäßig — für echtes Hörverstehen trainierst du zusätzlich mit Nachrichten und Podcasts
+        Muttersprachlern. Alle Links dazu stehen auf der <a href="/quellen/">Quellen-Seite</a>.
+      </p>
+    </section>
+  </div>
+</Base>

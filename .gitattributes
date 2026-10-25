@@ -1,0 +1,12 @@
+# Normalisasi baris: berkas teks memakai LF di repositori.
+* text=auto eol=lf
+
+# Aset biner — jangan di-diff atau dikonversi.
+*.mp3  binary
+*.png  binary
+*.jpg  binary
+*.ico  binary
+*.woff2 binary
+
+# Berkas kunci dependensi & hasil build agar tidak muncul di statistik bahasa.
+package-lock.json linguist-generated=true -diff

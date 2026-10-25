@@ -1,0 +1,15 @@
+---
+import Base from '../../layouts/Base.astro';
+import UnitRunner from '../../components/UnitRunner';
+import { unitsVon } from '../../lib/content';
+
+export function getStaticPaths() {
+  return unitsVon('lesen').map((unit) => ({ params: { unit: String(unit.unit) }, props: { unit } }));
+}
+
+const { unit } = Astro.props;
+---
+
+<Base titel={`Lesen ${unit.unit}: ${unit.titel}`} skill="lesen" beschreibung={`Leseverstehen B2 — Unit ${unit.unit}: ${unit.titel} (${unit.themenfeld}). 30 Aufgaben, Auswertung mit Belegzitat.`}>
+  <UnitRunner client:load unit={unit} />
+</Base>

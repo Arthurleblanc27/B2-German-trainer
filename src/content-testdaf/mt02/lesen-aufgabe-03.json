@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 2,
+  "format": "testdaf",
+  "id": "testdaf-mt02-lesen-a3",
+  "bereich": "lesen",
+  "aufgabe": 3,
+  "modelltest": 2,
+  "tdn": 5,
+  "level": "B2",
+  "themenfeld": "Wissenschaft & Gesundheit: Chronobiologie",
+  "titel": "Die innere Uhr des Menschen — Chronobiologie im Überblick",
+  "titel_id": "Jam tubuh manusia — gambaran kronobiologi",
+  "beschreibung_id": "Pemahaman bacaan Tugas 3 format TestDaF: untuk teks ilmiah tentang kronobiologi, nilai sepuluh pernyataan dengan Ja, Nein, atau „Text sagt dazu nichts“ pada tingkat TDN 5.",
+  "instruktion_de": "Lesen Sie den folgenden Text. Entscheiden Sie bei jeder Aufgabe, ob die Aussage im Text mit „Ja“ bestätigt wird, im Text mit „Nein“ verneint wird oder ob der Text dazu keine Aussage macht („Text sagt dazu nichts“). Kreuzen Sie die passende Antwort an.",
+  "instruktion_id": "Bacalah teks berikut. Untuk setiap butir, putuskan apakah pernyataan itu ditegaskan oleh teks (Ja), disangkal oleh teks (Nein), atau tidak dibahas dalam teks (Text sagt dazu nichts). Tandailah jawaban yang sesuai.",
+  "zeit_minuten": 15,
+  "source_type": "ai",
+  "lizenz": "CC-BY-NC-SA-4.0",
+  "attribution": "Eigener Text (KI-generiert, manuell geprüft) — TestDaF-Modul, Modelltest 2, Leseverstehen Aufgabe 3. Nur das Format orientiert sich am TestDaF; alle Texte und Items sind neu verfasst.",
+  "tags": [
+    "Chronobiologie",
+    "circadianer Rhythmus",
+    "Schichtarbeit",
+    "Gesundheit"
+  ],
+  "material_typ": "langtext",
+  "texte": [
+    {
+      "key": "l",
+      "titel": "Die innere Uhr des Menschen — Chronobiologie im Überblick",
+      "inhalt": "Die meisten Lebewesen richten ihre Aktivität nach dem Wechsel von Tag und Nacht. Beim Menschen wird dieser Zyklus von einer inneren Uhr gesteuert, die als circadianer Rhythmus bezeichnet wird; das lateinische circa diem bedeutet etwa ein Tag. Der Taktgeber sitzt nicht im Herzen, sondern im Gehirn: Im Nucleus suprachiasmaticus, einer kleinen Ansammlung von Nervenzellen im vorderen Teil des Hypothalamus, werden die inneren Zeitgeber erzeugt. Diese Zellen geben ihre Signale an zahlreiche andere Hirnregionen und über das vegetative Nervensystem auch an Organe wie Leber, Magen und Muskulatur weiter. So entsteht ein zeitliches Muster, das Körpertemperatur, Blutdruck, Hormonausschüttung und Verdauung beeinflusst. Der Rhythmus ist also kein bloßes Gefühl, sondern eine messbare biologische Größe.\n\nOhne äußere Signale würde die innere Uhr jedoch nicht exakt 24 Stunden messen. Bei Versuchspersonen, die über Wochen in abgeschirmten Räumen ohne Tageslicht lebten, verschob sich der Rhythmus allmählich; die meisten Menschen haben einen inneren Tag von etwa 24,2 Stunden. Damit die Uhr mit der Außenwelt übereinstimmt, muss sie täglich neu gestellt werden. Diesen Vorgang nennt man Synchronisation. Das wichtigste Signal dafür ist Licht: Fällt helles Licht auf die Netzhaut, geben spezielle Lichtsinneszellen Informationen an den Nucleus suprachiasmaticus weiter und korrigieren die Uhr. Besonders wirksam ist Licht am Morgen; es kann den Rhythmus vorverlegen. Abendliches Licht dagegen verzögert ihn, weil das Gehirn die Produktion des Schlafhormons Melatonin zurückhält. Aus diesem Grund empfehlen Schlafforscher, abends auf helle Bildschirme zu verzichten.\n\nNeben dem Licht wirken auch andere Faktoren auf die innere Uhr. Regelmäßige Mahlzeiten, körperliche Bewegung und soziale Kontakte geben dem Körper zusätzliche zeitliche Hinweise. Diese äußeren Zeitgeber können einen gestörten Rhythmus bis zu einem gewissen Grad stabilisieren. Fehlen sie, etwa bei Menschen, die allein und ohne festen Tagesablauf leben, gerät die Uhr leichter aus dem Takt. Wichtig ist, dass die inneren und die äußeren Signale zusammenwirken; erst im Zusammenspiel entsteht ein stabiler Schlaf-Wach-Rhythmus.\n\nDeutlich zu spüren ist das bei der Schichtarbeit. Wer nachts arbeitet und tagsüber schläft, lebt gegen seinen natürlichen Rhythmus. Nach Angaben der Arbeitsmedizin leiden Schichtarbeiter häufiger an Schlafstörungen, an Magen-Darm-Beschwerden und an einem erhöhten Risiko für Herz-Kreislauf-Erkrankungen. Ein Teil dieser Beschwerden lässt sich dadurch erklären, dass die innere Uhr sich nur langsam an einen neuen Takt gewöhnt; bei einem Wechsel der Schicht dauert es oft mehrere Tage, bis die Anpassung vollständig ist. Manche Betriebe versuchen deshalb, die Zahl der Nachtschichten zu begrenzen oder die Schichtfolge vorwärts zu drehen.\n\nAuch für die Leistungsfähigkeit hat die innere Uhr Folgen. Aufmerksamkeit und Reaktionsgeschwindigkeit schwanken im Tagesverlauf; in den frühen Morgenstunden sind sie bei den meisten Menschen am geringsten. Untersuchungen zu Verkehrsunfällen zeigen, dass Fehler und Sekundenschlaf am Steuer gehäuft in dieser Zeit auftreten. Für Prüfungen, sportliche Wettkämpfe und ärztliche Eingriffe kann der Zeitpunkt daher eine Rolle spielen. Ob sich Termine gezielt auf den individuellen Rhythmus abstimmen lassen, wird derzeit untersucht.\n\nTrotz jahrzehntelanger Forschung sind viele Fragen offen. Warum manche Menschen ausgeprägte Frühaufsteher und andere Nachtmenschen sind, ist nur teilweise geklärt; genetische Faktoren scheinen eine Rolle zu spielen, doch ihr genaues Zusammenspiel ist noch nicht verstanden. Auch die langfristigen Folgen von Nachtschichten sind umstritten: Zwar gilt ein Zusammenhang mit bestimmten Erkrankungen als wahrscheinlich, doch ob die Ursache allein in der Störung der inneren Uhr liegt, lässt sich nicht eindeutig belegen. Unklar bleibt zudem, ob eine dauerhafte Verschiebung des Schlaf-Wach-Rhythmus, wie sie bei Schichtarbeit vorkommt, durch Medikamente zuverlässig behoben werden kann. Klar ist bisher nur, dass die innere Uhr kein starres Programm ist, sondern sich an die Umwelt anpasst."
+    }
+  ],
+  "antwort_optionen": [],
+  "audio": null,
+  "fragen": [
+    {
+      "nr": 1,
+      "typ": "jn3",
+      "stamm_de": "Der zentrale Taktgeber der inneren Uhr liegt im Gehirn des Menschen.",
+      "stamm_id": "Pengatur irama utama jam tubuh terletak di otak manusia.",
+      "optionen": null,
+      "loesung": [
+        "ja"
+      ],
+      "punkte": 1,
+      "explain_de": "Der Text verortet den Taktgeber ausdrücklich im Gehirn: Im Nucleus suprachiasmaticus im Hypothalamus werden die inneren Zeitgeber erzeugt.",
+      "explain_id": "Teks menempatkan pengatur irama secara eksplisit di otak: di nukleus supakiasmatik pada hipotalamus dihasilkan penanda waktu internal.",
+      "evidence": "Im Nucleus suprachiasmaticus, einer kleinen Ansammlung von Nervenzellen im vorderen Teil des Hypothalamus, werden die inneren Zeitgeber erzeugt"
+    },
+    {
+      "nr": 2,
+      "typ": "jn3",
+      "stamm_de": "Der innere Tag eines Menschen misst genau 24 Stunden.",
+      "stamm_id": "Hari internal manusia berukuran tepat 24 jam.",
+      "optionen": null,
+      "loesung": [
+        "nein"
+      ],
+      "punkte": 1,
+      "explain_de": "Der Text betont, dass die innere Uhr ohne äußere Signale nicht exakt 24 Stunden misst; der innere Tag liegt bei etwa 24,2 Stunden.",
+      "explain_id": "Teks menegaskan bahwa tanpa rangsangan luar jam tubuh tidak mengukur tepat 24 jam; hari internalnya sekitar 24,2 jam.",
+      "evidence": "die meisten Menschen haben einen inneren Tag von etwa 24,2 Stunden"
+    },
+    {
+      "nr": 3,
+      "typ": "jn3",
+      "stamm_de": "Helles Licht am Morgen kann den inneren Rhythmus vorverlegen.",
+      "stamm_id": "Cahaya terang pada pagi hari dapat memajukan ritme internal.",
+      "optionen": null,
+      "loesung": [
+        "ja"
+      ],
+      "punkte": 1,
+      "explain_de": "Laut Text kann Licht am Morgen die innere Uhr vorverlegen.",
+      "explain_id": "Menurut teks cahaya pagi dapat memajukan jam tubuh.",
+      "evidence": "Besonders wirksam ist Licht am Morgen; es kann den Rhythmus vorverlegen"
+    },
+    {
+      "nr": 4,
+      "typ": "jn3",
+      "stamm_de": "In Deutschland sind Melatonin-Präparate nur mit ärztlichem Rezept erhältlich.",
+      "stamm_id": "Di Jerman sediaan melatonin hanya bisa diperoleh dengan resep dokter.",
+      "optionen": null,
+      "loesung": [
+        "nichts"
+      ],
+      "punkte": 1,
+      "explain_de": "Der Text erwähnt Melatonin nur als Schlafhormon, dessen Produktion bei abendlichem Licht zurückgehalten wird; über eine Rezeptpflicht von Präparaten wird nichts gesagt.",
+      "explain_id": "Teks hanya menyebut melatonin sebagai hormon tidur yang produksinya ditekan oleh cahaya malam; soal keharusan resep tidak dibahas.",
+      "evidence": "weil das Gehirn die Produktion des Schlafhormons Melatonin zurückhält"
+    },
+    {
+      "nr": 5,
+      "typ": "jn3",
+      "stamm_de": "Beschäftigte gewöhnen sich bereits nach einer einzigen Nachtschicht vollständig an den neuen Takt.",
+      "stamm_id": "Para pekerja sudah menyesuaikan diri sepenuhnya pada irama baru setelah satu kali shift malam saja.",
+      "optionen": null,
+      "loesung": [
+        "nein"
+      ],
+      "punkte": 1,
+      "explain_de": "Laut Text dauert die Anpassung nach einem Schichtwechsel oft mehrere Tage; von einer sofortigen Umstellung ist nicht die Rede.",
+      "explain_id": "Menurut teks penyesuaian setelah pergantian shift sering butuh beberapa hari; tidak disebutkan penyesuaian seketika.",
+      "evidence": "bei einem Wechsel der Schicht dauert es oft mehrere Tage, bis die Anpassung vollständig ist"
+    },
+    {
+      "nr": 6,
+      "typ": "jn3",
+      "stamm_de": "Regelmäßige Mahlzeiten und körperliche Bewegung können einen gestörten Rhythmus stabilisieren.",
+      "stamm_id": "Makan teratur dan aktivitas fisik dapat menstabilkan ritme yang terganggu.",
+      "optionen": null,
+      "loesung": [
+        "ja"
+      ],
+      "punkte": 1,
+      "explain_de": "Der Text nennt Mahlzeiten, Bewegung und soziale Kontakte als äußere Zeitgeber, die einen gestörten Rhythmus stabilisieren können.",
+      "explain_id": "Teks menyebut makan teratur, gerak badan, dan kontak sosial sebagai pemberi tanda waktu luar yang dapat menstabilkan ritme yang terganggu.",
+      "evidence": "können einen gestörten Rhythmus bis zu einem gewissen Grad stabilisieren"
+    },
+    {
+      "nr": 7,
+      "typ": "jn3",
+      "stamm_de": "Die Zahl der Beschäftigten in Deutschland, die regelmäßig nachts arbeiten, ist in den vergangenen Jahren deutlich zurückgegangen.",
+      "stamm_id": "Jumlah pekerja di Jerman yang secara rutin bekerja pada malam hari menurun jelas dalam beberapa tahun terakhir.",
+      "optionen": null,
+      "loesung": [
+        "nichts"
+      ],
+      "punkte": 1,
+      "explain_de": "Der Text beschreibt die Belastung durch Nachtarbeit, nennt aber keine Zahlen oder Entwicklungen zur Häufigkeit von Schichtarbeit.",
+      "explain_id": "Teks memaparkan beban kerja malam, tetapi tidak menyebut angka atau perkembangan jumlah kerja shift.",
+      "evidence": "Wer nachts arbeitet und tagsüber schläft, lebt gegen seinen natürlichen Rhythmus"
+    },
+    {
+      "nr": 8,
+      "typ": "jn3",
+      "stamm_de": "Die Leistungsfähigkeit des Menschen erreicht in den frühen Morgenstunden ihren Höchstwert.",
+      "stamm_id": "Kemampuan kerja manusia mencapai puncaknya pada dini hari.",
+      "optionen": null,
+      "loesung": [
+        "nein"
+      ],
+      "punkte": 1,
+      "explain_de": "Der Text stellt fest, dass Aufmerksamkeit und Reaktionsgeschwindigkeit in den frühen Morgenstunden am geringsten sind — nicht am höchsten.",
+      "explain_id": "Teks menyatakan bahwa perhatian dan kecepatan reaksi pada dini hari paling rendah — bukan paling tinggi.",
+      "evidence": "in den frühen Morgenstunden sind sie bei den meisten Menschen am geringsten"
+    },
+    {
+      "nr": 9,
+      "typ": "jn3",
+      "stamm_de": "Wer abends lange auf einen hellen Bildschirm blickt, kann damit seinen Rhythmus verzögern.",
+      "stamm_id": "Siapa yang lama menatap layar terang pada malam hari dapat menghambat ritmenya.",
+      "optionen": null,
+      "loesung": [
+        "ja"
+      ],
+      "punkte": 1,
+      "explain_de": "Der Text erklärt, dass abendliches Licht den Rhythmus verzögert, weil die Melatoninproduktion zurückgehalten wird; deshalb raten Schlafforscher, abends auf helle Bildschirme zu verzichten.",
+      "explain_id": "Teks menjelaskan bahwa cahaya malam menghambat ritme karena produksi melatonin ditekan; karena itu para peneliti tidur menyarankan menghindari layar terang pada malam hari.",
+      "evidence": "Abendliches Licht dagegen verzögert ihn"
+    },
+    {
+      "nr": 10,
+      "typ": "jn3",
+      "stamm_de": "Ärztliche Termine werden künftig grundsätzlich in den Nachmittag gelegt.",
+      "stamm_id": "Janji medis di masa depan pada dasarnya akan dijadwalkan pada sore hari.",
+      "optionen": null,
+      "loesung": [
+        "nichts"
+      ],
+      "punkte": 1,
+      "explain_de": "Der Text sagt nur, dass die Abstimmung von Terminen auf den individuellen Rhythmus derzeit untersucht wird; eine künftige Regelung wird nicht genannt.",
+      "explain_id": "Teks hanya menyatakan bahwa penyesuaian jadwal dengan ritme individu sedang diteliti; aturan di masa depan tidak disebutkan.",
+      "evidence": "Ob sich Termine gezielt auf den individuellen Rhythmus abstimmen lassen, wird derzeit untersucht"
+    }
+  ],
+  "punkte_max": 10,
+  "glossar": [
+    {
+      "wort": "die innere Uhr",
+      "artikel": "die",
+      "bedeutung_id": "jam tubuh; ritme internal",
+      "bedeutung_de": null,
+      "beispiel": "Die innere Uhr steuert den Schlaf."
+    },
+    {
+      "wort": "circadian",
+      "artikel": "",
+      "bedeutung_id": "berkaitan siklus sekitar 24 jam",
+      "bedeutung_de": "den Tagesrhythmus betreffend (circa diem = etwa ein Tag)",
+      "beispiel": "der circadiane Rhythmus"
+    },
+    {
+      "wort": "der Taktgeber",
+      "artikel": "der",
+      "bedeutung_id": "pengatur irama; pemicu denyut",
+      "bedeutung_de": null,
+      "beispiel": "Der Taktgeber sitzt im Gehirn."
+    },
+    {
+      "wort": "der Nucleus suprachiasmaticus",
+      "artikel": "der",
+      "bedeutung_id": "nukleus supakiasmatik (pusat jam biologis)",
+      "bedeutung_de": "kleine Nervenzellgruppe im Hypothalamus",
+      "beispiel": null
+    },
+    {
+      "wort": "der Hypothalamus",
+      "artikel": "der",
+      "bedeutung_id": "hipotalamus (bagian otak)",
+      "bedeutung_de": null,
+      "beispiel": null
+    },
+    {
+      "wort": "die Synchronisation",
+      "artikel": "die",
+      "bedeutung_id": "sinkronisasi; penyesuaian waktu",
+      "bedeutung_de": "das Angleichen der inneren Uhr an die Außenwelt",
+      "beispiel": "die Synchronisation der inneren Uhr"
+    },
+    {
+      "wort": "die Netzhaut",
+      "artikel": "die",
+      "bedeutung_id": "retina (lapisan mata)",
+      "bedeutung_de": null,
+      "beispiel": "Licht fällt auf die Netzhaut."
+    },
+    {
+      "wort": "das Melatonin",
+      "artikel": "das",
+      "bedeutung_id": "melatonin (hormon tidur)",
+      "bedeutung_de": null,
+      "beispiel": "Das Gehirn produziert Melatonin."
+    },
+    {
+      "wort": "der Zeitgeber",
+      "artikel": "der",
+      "bedeutung_id": "pemberi tanda waktu",
+      "bedeutung_de": "äußeres Signal, das die innere Uhr stellt",
+      "beispiel": "Licht ist der wichtigste Zeitgeber."
+    },
+    {
+      "wort": "die Schichtarbeit",
+      "artikel": "die",
+      "bedeutung_id": "kerja shift; kerja bergilir",
+      "bedeutung_de": null,
+      "beispiel": "Schichtarbeit belastet den Körper."
+    },
+    {
+      "wort": "die Anpassung",
+      "artikel": "die",
+      "bedeutung_id": "penyesuaian",
+      "bedeutung_de": null,
+      "beispiel": "die Anpassung an einen neuen Takt"
+    },
+    {
+      "wort": "die Leistungsfähigkeit",
+      "artikel": "die",
+      "bedeutung_id": "kemampuan kerja; kinerja",
+      "bedeutung_de": null,
+      "beispiel": "Die Leistungsfähigkeit schwankt im Tagesverlauf."
+    }
+  ]
+}

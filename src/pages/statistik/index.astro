@@ -1,0 +1,21 @@
+---
+import Base from '../../layouts/Base.astro';
+import StatistikApp from '../../components/StatistikApp';
+---
+
+<Base
+  titel="Statistik"
+  beschreibung="Auswertung deines Trainings: Trefferquote je Teil, Aufgabentyp und Themenfeld, 12-Wochen-Aktivität, 30-Tage-Trend und größte Baustellen — lokal im Browser (IndexedDB)."
+>
+  <div class="flex flex-col gap-4">
+    <section class="seitenkopf">
+      <p class="augenbraue">Auswertung · lokal im Browser</p>
+      <h1>Statistik</h1>
+      <p class="prosa ruhig m-0 mt-2 text-sm">
+        Alle Auswertungen entstehen lokal in deinem Browser aus den gespeicherten Sitzungen — es werden keine Daten
+        hochgeladen. Diagramme sind selbsterstellte SVG-Grafiken ohne externe Chart-Bibliothek.
+      </p>
+    </section>
+    <StatistikApp client:load />
+  </div>
+</Base>

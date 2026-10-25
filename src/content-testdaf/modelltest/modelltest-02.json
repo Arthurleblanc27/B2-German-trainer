@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "format": "testdaf",
+  "id": "testdaf-modelltest-02",
+  "modelltest": 2,
+  "titel": "TestDaF-Modelltest 2 — Gesellschaft, Gesundheit und Technik",
+  "titel_id": "Modelltest TestDaF 2 — Masyarakat, kesehatan, dan teknologi",
+  "beschreibung_id": "Modelltest lengkap dalam format TestDaF: tiga Aufgaben Leseverstehen (30 item) dan tiga Aufgaben Hörverstehen (25 item), dengan pembahasan per item dan penilaian TDN per bagian.",
+  "aufgaben": [
+    "testdaf-mt02-lesen-a1",
+    "testdaf-mt02-lesen-a2",
+    "testdaf-mt02-lesen-a3",
+    "testdaf-mt02-hoeren-a1",
+    "testdaf-mt02-hoeren-a2",
+    "testdaf-mt02-hoeren-a3"
+  ]
+}

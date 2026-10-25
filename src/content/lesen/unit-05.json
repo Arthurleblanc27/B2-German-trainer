@@ -1,0 +1,1434 @@
+{
+  "schemaVersion": 1,
+  "id": "lesen-unit-05",
+  "skill": "lesen",
+  "unit": 5,
+  "level": "B2",
+  "themenfeld": "Umwelt & Klima",
+  "titel": "Ernährung und Nachhaltigkeit",
+  "titel_id": "Gizi dan keberlanjutan",
+  "beschreibung_id": "Latihan membaca B2 bertema gizi dan keberlanjutan: lima bagian dengan tiga puluh soal dan penjelasan dwibahasa.",
+  "teile": [
+    {
+      "id": "lesen-unit-05-teil1",
+      "skill": "lesen",
+      "teil": 1,
+      "themenfeld": "Umwelt & Klima",
+      "titel": "Vier Menschen, vier Wege zur nachhaltigen Ernährung",
+      "instruktion_de": "Lesen Sie die Texte a–d. Ordnen Sie dann jede der Aussagen 1–9 der passenden Person zu. Eine Aussage passt nur zu einer Person.",
+      "instruktion_id": "Bacalah teks a–d. Kemudian cocokkan setiap pernyataan 1–9 dengan orang yang sesuai. Satu pernyataan hanya cocok untuk satu orang.",
+      "zeit_minuten": 18,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Ernährung",
+        "Nachhaltigkeit",
+        "Zuordnung",
+        "Personen",
+        "Klima"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "a",
+          "titel": "Lena, Studentin",
+          "inhalt": "Seit vier Jahren esse ich kein Fleisch, denn für mich gehören Tierhaltung und Klimaschutz untrennbar zusammen. Allerdings war die Umstellung am Anfang alles andere als einfach, zumal in meinem Wohnheim kaum jemand Verständnis dafür hatte. Heute koche ich fast täglich selbst und kaufe vor allem saisonales Gemüse, das ich bewusst nach der Erntezeit auswähle. Mein wichtigstes Argument ist die Bilanz: Eine pflanzliche Mahlzeit verursacht deutlich weniger Treibhausgase als ein Gericht mit Rindfleisch. Trotzdem bin ich nicht dogmatisch. Wenn meine Großmutter an Feiertagen ihren berühmten Braten auftischt, greife ich zwar nicht zum Fleisch, helfe aber beim Kochen und bringe eine vegetarische Beilage mit. Für mich zählt nicht Perfektion, sondern die tägliche Entscheidung. Kritik höre ich oft; insofern versuche ich, ruhig zu bleiben und einfach vorzuleben, dass ein fleischloses Leben genauso genussvoll sein kann."
+        },
+        {
+          "key": "b",
+          "titel": "Herr Brandt, Rentner",
+          "inhalt": "Seit meiner Rente verbringe ich jede freie Minute in meinem Garten am Stadtrand. Was hier wächst, landet direkt auf dem Teller: Tomaten, Bohnen, Salat und im Herbst viel Kürbis. Ich dünge ausschließlich mit eigenem Kompost, weil ich so nicht nur Abfall vermeide, sondern auch Kunstdünger spare. Der größte Gewinn ist für mich die Unabhängigkeit: Ich weiß genau, woher mein Essen kommt und wie es behandelt wurde. Zugegeben, ein ganzer Wintervorrat aus dem Garten wäre illusorisch; dennoch reicht die Ernte meistens von Mai bis Oktober. Meine Nachbarn fragen mich häufig um Rat, und ich erkläre ihnen gern, wie man mit wenig Platz viel ernten kann. Was mich allerdings ärgert, ist die Verpackung im Supermarkt. Deshalb kaufe ich die wenigen Dinge, die ich nicht selbst anbaue, möglichst unverpackt. Für mich ist Gärtnern keine Freizeitbeschäftigung, sondern eine kleine, tägliche Form von Klimaschutz."
+        },
+        {
+          "key": "c",
+          "titel": "Murat, Familienvater",
+          "inhalt": "Mit zwei kleinen Kindern und einem vollen Arbeitstag bleibt beim Einkaufen kaum Zeit zum Nachdenken. Trotzdem ist mir eines besonders wichtig geworden: Bei uns wird fast nichts weggeworfen. Jeden Sonntag setze ich mich mit meiner Frau hin und plane die Mahlzeiten für die ganze Woche; folglich landet nur im Einkaufswagen, was wirklich gebraucht wird. Gemüsereste wandern in eine Suppe, altes Brot wird zu Croutons, und angebrochene Milchprodukte friere ich ein. Zwar galt Kochen mit Resten früher als langweilig, aber meine Kinder finden unsere Reste-Pizza mittlerweile richtig spannend. Der Effekt auf unser Budget war überraschend groß: Wir geben heute deutlich weniger Geld für Lebensmittel aus als noch vor zwei Jahren. Ich finde, Foodwaste ist ein Problem, das jede Familie angehen kann, ohne auf etwas zu verzichten. Man muss nur ein wenig planen und ein bisschen kreativ sein."
+        },
+        {
+          "key": "d",
+          "titel": "Tom, Pendler",
+          "inhalt": "Unter der Woche bin ich fast nur unterwegs: morgens in den Zug, abends zurück, dazwischen Kantinenessen. Insofern bleibt mir kaum Zeit für ausgiebiges Kochen. Mein Ausgleich ist der Wochenmarkt samstags in meiner Kleinstadt. Dort kaufe ich Gemüse, Käse und Brot direkt bei den Erzeugern aus der Region. Ich weiß, dass regional allein nicht automatisch klimafreundlich bedeutet; ein Gewächshaus im Winter verbraucht ebenfalls viel Energie. Allerdings schätze ich die kurzen Wege und die Tatsache, dass ich niemandem beim Transport zusehen muss. Außerdem macht es mir Freude, die Menschen hinter dem Essen zu kennen und nicht nur den Barcode. Meine Wochenration ist begrenzt, aber ich achte darauf, sie wirklich zu verbrauchen. Für mich ist ein bewusster Einkauf am Wochenende ein realistischer Kompromiss zwischen Zeitmangel und Verantwortung, zumal ich so wenigstens einmal pro Woche eine bewusste Entscheidung treffe."
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person verzichtet bewusst auf Fleisch und begründet das mit dem Klimaschutz.",
+          "stamm_id": "Orang ini dengan sadar menghindari daging dan mengaitkannya dengan perlindungan iklim.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Herr Brandt, Rentner"
+            },
+            {
+              "key": "c",
+              "text": "Murat, Familienvater"
+            },
+            {
+              "key": "d",
+              "text": "Tom, Pendler"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur Text a nennt den bewussten Fleischverzicht und begründet ihn mit dem Klima. Die anderen Personen machen dazu keine Aussage.",
+          "explain_id": "Hanya teks a yang menyebut penghindaran daging secara sadar dan mengaitkannya dengan iklim. Orang lain tidak menyatakan hal itu.",
+          "evidence": "Seit vier Jahren esse ich kein Fleisch"
+        },
+        {
+          "nr": 2,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person produziert einen Teil ihrer Lebensmittel selbst im Garten.",
+          "stamm_id": "Orang ini menghasilkan sebagian makanannya sendiri di kebun.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Herr Brandt, Rentner"
+            },
+            {
+              "key": "c",
+              "text": "Murat, Familienvater"
+            },
+            {
+              "key": "d",
+              "text": "Tom, Pendler"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "In Text b ist vom eigenen Garten die Rede, in dem Gemüse wächst. Die übrigen Texte erwähnen keinen eigenen Anbau.",
+          "explain_id": "Dalam teks b disebut kebun sendiri tempat sayuran tumbuh. Teks lain tidak menyebut bercocok tanam sendiri.",
+          "evidence": "Was hier wächst, landet direkt auf dem Teller"
+        },
+        {
+          "nr": 3,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person plant die Mahlzeiten der ganzen Woche im Voraus.",
+          "stamm_id": "Orang ini merencanakan hidangan untuk sepekan sebelumnya.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Herr Brandt, Rentner"
+            },
+            {
+              "key": "c",
+              "text": "Murat, Familienvater"
+            },
+            {
+              "key": "d",
+              "text": "Tom, Pendler"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Text c beschreibt eine sonntägliche Planung der Mahlzeiten für die ganze Woche. Bei den anderen geht es nicht um Wochenplanung.",
+          "explain_id": "Teks c menggambarkan perencanaan hidangan sepekan setiap Minggu. Teks lain tidak membahas rencana mingguan.",
+          "evidence": "plane die Mahlzeiten für die ganze Woche"
+        },
+        {
+          "nr": 4,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person kauft einmal pro Woche auf einem Markt bei Erzeugern aus der Region.",
+          "stamm_id": "Orang ini berbelanja sekali sepekan di pasar dari produsen lokal.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Herr Brandt, Rentner"
+            },
+            {
+              "key": "c",
+              "text": "Murat, Familienvater"
+            },
+            {
+              "key": "d",
+              "text": "Tom, Pendler"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur Text d nennt einen Wochenmarkt und den Einkauf bei regionalen Erzeugern.",
+          "explain_id": "Hanya teks d yang menyebut pasar akhir pekan dan berbelanja dari produsen lokal.",
+          "evidence": "Mein Ausgleich ist der Wochenmarkt samstags in meiner Kleinstadt."
+        },
+        {
+          "nr": 5,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person düngt ihren Boden ausschließlich mit selbst hergestelltem Kompost.",
+          "stamm_id": "Orang ini memupuk tanahnya hanya dengan kompos buatan sendiri.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Herr Brandt, Rentner"
+            },
+            {
+              "key": "c",
+              "text": "Murat, Familienvater"
+            },
+            {
+              "key": "d",
+              "text": "Tom, Pendler"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur Text b spricht vom Düngen mit eigenem Kompost. Keine andere Person berichtet über Düngung.",
+          "explain_id": "Hanya teks b yang menyebut pemupukan dengan kompos sendiri. Orang lain tidak membahas pemupukan.",
+          "evidence": "Ich dünge ausschließlich mit eigenem Kompost"
+        },
+        {
+          "nr": 6,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person friert angebrochene Milchprodukte ein, statt sie wegzuwerfen.",
+          "stamm_id": "Orang ini membekukan produk susu yang sudah dibuka alih-alih membuangnya.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Herr Brandt, Rentner"
+            },
+            {
+              "key": "c",
+              "text": "Murat, Familienvater"
+            },
+            {
+              "key": "d",
+              "text": "Tom, Pendler"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Text c erwähnt das Einfrieren angebrochener Milchprodukte als Mittel gegen Verschwendung.",
+          "explain_id": "Teks c menyebut pembekuan produk susu yang sudah dibuka sebagai cara melawan pemborosan.",
+          "evidence": "angebrochene Milchprodukte friere ich ein"
+        },
+        {
+          "nr": 7,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person bringt zu einem Familienfest ein vegetarisches Gericht mit.",
+          "stamm_id": "Orang ini membawa hidangan vegetarian ke acara keluarga.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Herr Brandt, Rentner"
+            },
+            {
+              "key": "c",
+              "text": "Murat, Familienvater"
+            },
+            {
+              "key": "d",
+              "text": "Tom, Pendler"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "In Text a ist von einer vegetarischen Beilage an Feiertagen die Rede. Die anderen nennen kein solches Festessen.",
+          "explain_id": "Dalam teks a disebut lauk vegetarian saat hari raya. Yang lain tidak menyebut acara makan bersama seperti itu.",
+          "evidence": "bringe eine vegetarische Beilage mit"
+        },
+        {
+          "nr": 8,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person nennt die kurzen Transportwege als Grund für ihren Einkauf.",
+          "stamm_id": "Orang ini menyebut jarak angkut yang pendek sebagai alasan berbelanja.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Herr Brandt, Rentner"
+            },
+            {
+              "key": "c",
+              "text": "Murat, Familienvater"
+            },
+            {
+              "key": "d",
+              "text": "Tom, Pendler"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur Text d begründet den Einkauf mit kurzen Wegen. Andere Personen nennen andere Gründe.",
+          "explain_id": "Hanya teks d yang beralasan jarak pendek. Orang lain menyebut alasan berbeda.",
+          "evidence": "Allerdings schätze ich die kurzen Wege"
+        },
+        {
+          "nr": 9,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person ärgert sich über die viele Verpackung im Supermarkt.",
+          "stamm_id": "Orang ini kesal dengan banyaknya kemasan di supermarket.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Lena, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Herr Brandt, Rentner"
+            },
+            {
+              "key": "c",
+              "text": "Murat, Familienvater"
+            },
+            {
+              "key": "d",
+              "text": "Tom, Pendler"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Text b beklagt die Verpackung im Supermarkt und kauft deshalb möglichst unverpackt.",
+          "explain_id": "Teks b mengeluhkan kemasan di supermarket dan karena itu membeli tanpa kemasan bila bisa.",
+          "evidence": "Was mich allerdings ärgert, ist die Verpackung im Supermarkt."
+        }
+      ],
+      "punkte_max": 9,
+      "glossar": [
+        {
+          "wort": "die Tierhaltung",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "peternakan hewan",
+          "bedeutung_de": "Zucht und Haltung von Nutztieren",
+          "beispiel": "Für mich gehören Tierhaltung und Klimaschutz zusammen."
+        },
+        {
+          "wort": "die Erntezeit",
+          "artikel": "die",
+          "plural": "Erntezeiten",
+          "wortart": "Nomen",
+          "bedeutung_id": "musim panen",
+          "bedeutung_de": "Zeit, in der etwas geerntet wird",
+          "beispiel": "Ich wähle Gemüse nach der Erntezeit aus."
+        },
+        {
+          "wort": "die Bilanz",
+          "artikel": "die",
+          "plural": "Bilanzen",
+          "wortart": "Nomen",
+          "bedeutung_id": "neraca; perhitungan",
+          "bedeutung_de": "abschließende Gegenüberstellung",
+          "beispiel": "Mein wichtigstes Argument ist die Bilanz."
+        },
+        {
+          "wort": "das Treibhausgas",
+          "artikel": "das",
+          "plural": "Treibhausgase",
+          "wortart": "Nomen",
+          "bedeutung_id": "gas rumah kaca",
+          "bedeutung_de": "Gas, das den Treibhauseffekt verstärkt",
+          "beispiel": "Eine pflanzliche Mahlzeit verursacht weniger Treibhausgase."
+        },
+        {
+          "wort": "die Beilage",
+          "artikel": "die",
+          "plural": "Beilagen",
+          "wortart": "Nomen",
+          "bedeutung_id": "lauk pauk",
+          "bedeutung_de": "Speise, die zu einem Gericht serviert wird",
+          "beispiel": "Ich bringe eine vegetarische Beilage mit."
+        },
+        {
+          "wort": "der Kompost",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "kompos",
+          "bedeutung_de": "verrotteter organischer Dünger",
+          "beispiel": "Ich dünge mit eigenem Kompost."
+        },
+        {
+          "wort": "der Kunstdünger",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "pupuk buatan",
+          "bedeutung_de": "industriell hergestellter Dünger",
+          "beispiel": "So spare ich auch Kunstdünger."
+        },
+        {
+          "wort": "der Wintervorrat",
+          "artikel": "der",
+          "plural": "Wintervorräte",
+          "wortart": "Nomen",
+          "bedeutung_id": "persediaan musim dingin",
+          "bedeutung_de": "Vorrat für den Winter",
+          "beispiel": "Ein ganzer Wintervorrat wäre illusorisch."
+        },
+        {
+          "wort": "unverpackt",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "tanpa kemasan",
+          "bedeutung_de": "ohne Verpackung verkauft",
+          "beispiel": "Ich kaufe möglichst unverpackt."
+        },
+        {
+          "wort": "der Erzeuger",
+          "artikel": "der",
+          "plural": "Erzeuger",
+          "wortart": "Nomen",
+          "bedeutung_id": "produsen",
+          "bedeutung_de": "Person oder Betrieb, die etwas herstellt",
+          "beispiel": "Ich kaufe direkt bei den Erzeugern aus der Region."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-05-teil2",
+      "skill": "lesen",
+      "teil": 2,
+      "themenfeld": "Umwelt & Klima",
+      "titel": "Siegel, Wege und Wegwerfen — ein Artikel mit Lücken",
+      "instruktion_de": "Lesen Sie den Text. In den Text passen sechs Sätze, die herausgenommen wurden. Wählen Sie für jede Lücke 1–6 den passenden Satz aus den Optionen a–h. Zwei Optionen bleiben übrig.",
+      "instruktion_id": "Bacalah teks. Enam kalimat telah dihilangkan dari teks. Pilih untuk setiap celah 1–6 kalimat yang sesuai dari opsi a–h. Dua opsi tidak terpakai.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Ernährung",
+        "Lebensmittel",
+        "Satzlücke",
+        "Umwelt",
+        "Verbraucher"
+      ],
+      "audio": null,
+      "luecken_text": "Wer bewusst einkaufen möchte, kennt das Gefühl: Vor dem Regal im Supermarkt konkurrieren Dutzende von Siegeln um die Aufmerksamkeit. Bio, regional, fair, klimaneutral — die Begriffe klingen alle gut, doch kaum jemand weiß genau, was sie bedeuten. [[1]] Genau hier setzt die Kritik von Fachleuten an, die mehr Klarheit fordern.\n\nEin häufiges Missverständnis betrifft den Begriff regional. Kurze Transportwege klingen nach geringem Energieverbrauch, und tatsächlich verursacht der Transport von Lebensmitteln oft weniger Treibhausgase als allgemein angenommen. [[2]] Entscheidend ist vielmehr, wie ein Produkt erzeugt wurde: Ein im beheizten Gewächshaus gezogener Salat kann trotz kurzer Wege eine schlechtere Bilanz haben als eine per Schiff transportierte Tomate.\n\nBeim Klimaschutz spielt also die gesamte Kette eine Rolle — von der Düngung über die Verarbeitung bis zur Kühlung im Laden. [[3]] Deshalb raten Expertinnen und Experten, saisonale Produkte zu bevorzugen, denn sie benötigen in der Regel weder beheizte Gewächshäuser noch lange Kühltransporte.\n\nNeben der Herkunft gewinnt ein zweiter Aspekt an Bedeutung: die Frage, wie viel von dem Gekauften tatsächlich gegessen wird. In deutschen Haushalten landen jedes Jahr Millionen Tonnen Lebensmittel im Müll. [[4]] Ein großer Teil davon wäre noch genießbar gewesen, denn oft werden Produkte rein aus Gewohnheit entsorgt, bevor sie wirklich verdorben sind.\n\nGegen diese Verschwendung gibt es einfache Mittel. Wer wöchentlich einen Speiseplan erstellt und gezielt einkauft, wirft deutlich weniger weg. [[5]] Auch das richtige Lagern von Obst und Gemüse kann die Haltbarkeit spürbar verlängern.\n\nAllerdings wäre es unfair, die Verantwortung allein bei den Verbraucherinnen und Verbrauchern abzuladen. [[6]] So könnten kleinere Portionen im Handel oder klarere Haltbarkeitsangaben dazu beitragen, dass weniger weggeworfen wird.\n\nNachhaltige Ernährung bedeutet also nicht, dass man auf alles verzichten muss. Es geht vielmehr darum, bewusste Entscheidungen zu treffen — beim Einkauf, beim Kochen und beim Umgang mit Resten. Wer regionale, saisonale und möglichst unverpackte Produkte wählt und sorgsam mit ihnen umgeht, leistet bereits einen wirksamen Beitrag zum Klimaschutz.",
+      "optionen_saetze": [
+        {
+          "key": "a",
+          "text": "Wer nur auf die Entfernung schaut, übersieht diesen Zusammenhang leicht."
+        },
+        {
+          "key": "b",
+          "text": "Deshalb sind regionale Produkte grundsätzlich immer die klimafreundlichste Wahl."
+        },
+        {
+          "key": "c",
+          "text": "Diese Unklarheit führt dazu, dass viele Menschen am Ende doch wieder zum billigsten Produkt greifen."
+        },
+        {
+          "key": "d",
+          "text": "Auch der Handel und die Hersteller tragen einen großen Teil der Verantwortung."
+        },
+        {
+          "key": "e",
+          "text": "Zudem hilft es, Reste bewusst zu verwerten, statt sie sofort zu entsorgen."
+        },
+        {
+          "key": "f",
+          "text": "Auf Fleisch zu verzichten ist der einzige Weg, das Klima wirksam zu schützen."
+        },
+        {
+          "key": "g",
+          "text": "Forscher betonen jedoch, dass die Herstellung meist den größten Teil der Emissionen ausmacht."
+        },
+        {
+          "key": "h",
+          "text": "Das verschwendet Ressourcen, die für Anbau, Verarbeitung und Transport bereits aufgewendet wurden."
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 1?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 1?",
+          "optionen": null,
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Satz c erklärt die Verunsicherung der Verbraucher und leitet zur Kritik der Fachleute über. Die beiden übrigen Optionen widersprechen dem weiteren Textverlauf.",
+          "explain_id": "Kalimat c menjelaskan kebingungan konsumen dan mengantar pada kritik para ahli. Dua opsi lain bertentangan dengan alur teks berikutnya.",
+          "evidence": "Bio, regional, fair, klimaneutral — die Begriffe klingen alle gut, doch kaum jemand weiß genau, was sie bedeuten."
+        },
+        {
+          "nr": 2,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 2?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 2?",
+          "optionen": null,
+          "loesung": [
+            "g"
+          ],
+          "punkte": 1,
+          "explain_de": "Satz g betont die Herstellung als größte Emissionsquelle und passt zur folgenden Aussage über das Gewächshaus. Die übrigen Optionen sind hier zu absolut formuliert.",
+          "explain_id": "Kalimat g menekankan produksi sebagai sumber emisi terbesar dan cocok dengan pernyataan berikutnya tentang rumah kaca. Opsi lain terlalu mutlak di sini.",
+          "evidence": "Kurze Transportwege klingen nach geringem Energieverbrauch"
+        },
+        {
+          "nr": 3,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 3?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 3?",
+          "optionen": null,
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Satz a stellt die fehlende Betrachtung der Gesamtkette fest und verbindet die beiden Absätze logisch. Die übrigen Optionen passen an dieser Stelle nicht.",
+          "explain_id": "Kalimat a menyatakan kurangnya pertimbangan atas seluruh rantai dan menghubungkan kedua paragraf secara logis. Opsi lain tidak cocok di sini.",
+          "evidence": "Beim Klimaschutz spielt also die gesamte Kette eine Rolle"
+        },
+        {
+          "nr": 4,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 4?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 4?",
+          "optionen": null,
+          "loesung": [
+            "h"
+          ],
+          "punkte": 1,
+          "explain_de": "Satz h nennt die verschwendeten Ressourcen und passt zur Feststellung, dass vieles noch genießbar gewesen wäre. Die übrigen Optionen behandeln andere Aspekte.",
+          "explain_id": "Kalimat h menyebut sumber daya yang terbuang dan cocok dengan pernyataan bahwa banyak yang sebenarnya masih layak dimakan. Opsi lain membahas aspek berbeda.",
+          "evidence": "In deutschen Haushalten landen jedes Jahr Millionen Tonnen Lebensmittel im Müll."
+        },
+        {
+          "nr": 5,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 5?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 5?",
+          "optionen": null,
+          "loesung": [
+            "e"
+          ],
+          "punkte": 1,
+          "explain_de": "Satz e ergänzt einen weiteren praktischen Tipp zum Umgang mit Resten. Die übrigen Optionen behandeln andere Themen.",
+          "explain_id": "Kalimat e menambahkan saran praktis lain soal menangani sisa makanan. Opsi lain membahas tema berbeda.",
+          "evidence": "Wer wöchentlich einen Speiseplan erstellt und gezielt einkauft, wirft deutlich weniger weg."
+        },
+        {
+          "nr": 6,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 6?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 6?",
+          "optionen": null,
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Satz d nennt Handel und Hersteller als Mitverantwortliche und passt zum folgenden Beispiel mit kleineren Portionen. Die übrigen Optionen passen nicht zur Argumentation.",
+          "explain_id": "Kalimat d menyebut pedagang dan produsen sebagai pihak yang ikut bertanggung jawab dan cocok dengan contoh porsi lebih kecil berikutnya. Opsi lain tidak sesuai argumen.",
+          "evidence": "Allerdings wäre es unfair, die Verantwortung allein bei den Verbraucherinnen und Verbrauchern abzuladen."
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "das Siegel",
+          "artikel": "das",
+          "plural": "Siegel",
+          "wortart": "Nomen",
+          "bedeutung_id": "label; sertifikasi",
+          "bedeutung_de": "Zeichen für eine geprüfte Eigenschaft",
+          "beispiel": "Dutzende von Siegeln konkurrieren um die Aufmerksamkeit."
+        },
+        {
+          "wort": "der Energieverbrauch",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "konsumsi energi",
+          "bedeutung_de": "Verbrauch von Energie",
+          "beispiel": "Kurze Transportwege klingen nach geringem Energieverbrauch."
+        },
+        {
+          "wort": "die Düngung",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "pemupukan",
+          "bedeutung_de": "Zufuhr von Nährstoffen zum Boden",
+          "beispiel": "Die Kette reicht von der Düngung bis zur Kühlung."
+        },
+        {
+          "wort": "die Emission",
+          "artikel": "die",
+          "plural": "Emissionen",
+          "wortart": "Nomen",
+          "bedeutung_id": "emisi",
+          "bedeutung_de": "Ausstoß von Schadstoffen",
+          "beispiel": "Die Herstellung macht den größten Teil der Emissionen aus."
+        },
+        {
+          "wort": "der Speiseplan",
+          "artikel": "der",
+          "plural": "Speisepläne",
+          "wortart": "Nomen",
+          "bedeutung_id": "rencana menu",
+          "bedeutung_de": "Plan für die Mahlzeiten",
+          "beispiel": "Wer einen Speiseplan erstellt, wirft weniger weg."
+        },
+        {
+          "wort": "die Haltbarkeit",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "daya tahan; ketahanan",
+          "bedeutung_de": "Dauer, in der etwas haltbar bleibt",
+          "beispiel": "Richtiges Lagern verlängert die Haltbarkeit."
+        },
+        {
+          "wort": "der Verbraucher",
+          "artikel": "der",
+          "plural": "Verbraucher",
+          "wortart": "Nomen",
+          "bedeutung_id": "konsumen",
+          "bedeutung_de": "Person, die Waren kauft und nutzt",
+          "beispiel": "Die Verantwortung liegt nicht allein bei den Verbrauchern."
+        },
+        {
+          "wort": "die Ressource",
+          "artikel": "die",
+          "plural": "Ressourcen",
+          "wortart": "Nomen",
+          "bedeutung_id": "sumber daya",
+          "bedeutung_de": "nutzbarer Rohstoff oder nutzbares Mittel",
+          "beispiel": "Verschwendung verbraucht wertvolle Ressourcen."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-05-teil3",
+      "skill": "lesen",
+      "teil": 3,
+      "themenfeld": "Umwelt & Klima",
+      "titel": "Nachhaltige Ernährung — ein Luxus für Wohlhabende?",
+      "instruktion_de": "Lesen Sie den Text und beantworten Sie die Fragen 1–6. Wählen Sie jeweils die richtige Option a, b oder c.",
+      "instruktion_id": "Bacalah teks dan jawab pertanyaan 1–6. Pilih opsi yang benar a, b, atau c.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Ernährung",
+        "Nachhaltigkeit",
+        "Klima",
+        "Multiple-Choice",
+        "Preise"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "t",
+          "titel": "Nachhaltige Ernährung — ein Luxus für Wohlhabende?",
+          "inhalt": "Über nachhaltige Ernährung wird inzwischen viel gesprochen. Bio-Produkte, regionale Herkunft und weniger Fleisch gelten als Rezepte für einen klimafreundlichen Speiseplan. Allerdings ist die Diskussion oft von einem stillschweigenden Ideal geprägt: der gut informierten und kaufkräftigen Verbraucherin, die Zeit zum Kochen und Geld für teurere Produkte hat. Wer wenig verdient, hat oft weder die Zeit noch das Geld für solche Einkäufe.\n\nTatsächlich zeigen Studien, dass der Preis für viele Menschen die entscheidende Hürde darstellt. Wer ein knappes Budget verwalten muss, greift zumal im Supermarkt eher zu günstigen Grundnahrungsmitteln, die häufig stark verarbeitet und in Plastik verpackt sind. Folglich wird nachhaltiges Essen in manchen Haushalten zu einer Frage des Einkommens und nicht der guten Absicht. Der Preisunterschied zur Bio-Ware bleibt dabei oft unausgesprochen.\n\nDennoch wäre es falsch, den Wandel allein den Konsumenten zu überlassen. Ein Blick auf andere Länder zeigt, dass Politik und Handel viel bewegen können. In Frankreich etwa müssen Supermärkte unverkaufte, noch genießbare Lebensmittel an gemeinnützige Organisationen abgeben, statt sie zu entsorgen. Vergleichbare Regeln könnten auch hier dazu beitragen, dass weniger weggeworfen wird — und zwar unabhängig vom Geldbeutel.\n\nEin weiteres Argument betrifft die Zeit. Selbst wer sich gesund ernähren möchte, braucht Gelegenheit zum Planen, Einkaufen und Kochen. Vor allem Alleinerziehende und Schichtarbeitende kennen dieses Problem. Hinzu kommt, dass günstige Fertigprodukte oft bequemer sind, nicht nur weil sie billig, sondern auch weil sie schnell zubereitet sind. Wer hier allein auf Eigenverantwortung setzt, übersieht die realen Bedingungen vieler Menschen. Wer nach zwölf Stunden Arbeit nach Hause kommt, hat selten Lust auf frisches Gemüse.\n\nInsofern ist nachhaltige Ernährung weniger eine Frage der persönlichen Tugend als eine der Rahmenbedingungen. Hinsichtlich der Preise, der Verpackung und der Verfügbarkeit regionaler Produkte sind politische Entscheidungen gefragt: eine gerechte Besteuerung, klare Kennzeichnung und bezahlbare Alternativen. Zwar kann jeder Einzelne einen Beitrag leisten, aber ohne strukturelle Veränderungen bleibt nachhaltiges Essen ein Privileg. Gefragt sind deshalb verlässliche Angebote, die den Alltag erleichtern, statt ihn zu erschweren.\n\nAls Fazit lässt sich festhalten, dass ein klimafreundlicher Speiseplan für alle nur dann realistisch ist, wenn er auch für schmale Budgets funktioniert. Nachhaltigkeit sollte deshalb kein Luxus bleiben, sondern eine Selbstverständlichkeit."
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "mc3",
+          "stamm_de": "Was kritisiert der Text an der heutigen Diskussion über nachhaltige Ernährung?",
+          "stamm_id": "Apa yang dikritik teks tentang diskusi saat ini soal gizi berkelanjutan?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sie richte sich zu stark an Verbraucher mit Zeit und Geld."
+            },
+            {
+              "key": "b",
+              "text": "Sie blende den Klimaschutz völlig aus."
+            },
+            {
+              "key": "c",
+              "text": "Sie werde ausschließlich von der Politik geführt."
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text bemängelt das Ideal der kaufkräftigen Verbraucherin mit Zeit. Die anderen Optionen widersprechen den Aussagen des Textes.",
+          "explain_id": "Teks mengkritik idealnya konsumen berkantong tebal yang punya waktu. Opsi lain bertentangan dengan isi teks.",
+          "evidence": "der gut informierten und kaufkräftigen Verbraucherin, die Zeit zum Kochen und Geld für teurere Produkte hat"
+        },
+        {
+          "nr": 2,
+          "typ": "mc3",
+          "stamm_de": "Was zeigen Studien laut Text über den Preis?",
+          "stamm_id": "Apa yang ditunjukkan studi menurut teks tentang harga?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Der Preis ist für die meisten Menschen unwichtig."
+            },
+            {
+              "key": "b",
+              "text": "Für viele Menschen ist der Preis die entscheidende Hürde."
+            },
+            {
+              "key": "c",
+              "text": "Günstige Produkte sind meistens unverpackt."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text nennt den Preis als entscheidende Hürde für viele Menschen. Die anderen Optionen stimmen mit dem Text nicht überein.",
+          "explain_id": "Teks menyebut harga sebagai hambatan penentu bagi banyak orang. Opsi lain tidak sesuai dengan teks.",
+          "evidence": "dass der Preis für viele Menschen die entscheidende Hürde darstellt"
+        },
+        {
+          "nr": 3,
+          "typ": "mc3",
+          "stamm_de": "Welches politische Beispiel nennt der Text?",
+          "stamm_id": "Contoh kebijakan apa yang disebut teks?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "In Frankreich müssen Supermärkte genießbare Lebensmittel spenden."
+            },
+            {
+              "key": "b",
+              "text": "In Frankreich ist Bio-Gemüse billiger als herkömmliches."
+            },
+            {
+              "key": "c",
+              "text": "In Frankreich dürfen Supermärkte kein Obst mehr verkaufen."
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text beschreibt genau dieses französische Gesetz zum Spenden von Lebensmitteln. Die beiden anderen Aussagen kommen im Text nicht vor.",
+          "explain_id": "Teks menggambarkan persis undang-undang Prancis tentang donasi makanan itu. Dua pernyataan lain tidak ada dalam teks.",
+          "evidence": "In Frankreich etwa müssen Supermärkte unverkaufte, noch genießbare Lebensmittel an gemeinnützige Organisationen abgeben"
+        },
+        {
+          "nr": 4,
+          "typ": "mc3",
+          "stamm_de": "Welche Gruppen nennt der Text als besonders vom Zeitmangel betroffen?",
+          "stamm_id": "Kelompok mana yang disebut teks paling terdampak kekurangan waktu?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Selbstständige Landwirte"
+            },
+            {
+              "key": "b",
+              "text": "Alleinerziehende und Schichtarbeitende"
+            },
+            {
+              "key": "c",
+              "text": "Studierende im Ausland"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text nennt Alleinerziehende und Schichtarbeitende ausdrücklich. Die anderen Gruppen werden an dieser Stelle nicht erwähnt.",
+          "explain_id": "Teks secara tegas menyebut orang tua tunggal dan pekerja shift. Kelompok lain tidak disebut di bagian itu.",
+          "evidence": "Vor allem Alleinerziehende und Schichtarbeitende kennen dieses Problem."
+        },
+        {
+          "nr": 5,
+          "typ": "mc3",
+          "stamm_de": "Wie beurteilt der Text die Rolle der Eigenverantwortung?",
+          "stamm_id": "Bagaimana teks menilai peran tanggung jawab pribadi?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Eigenverantwortung allein reicht aus, um das Problem zu lösen."
+            },
+            {
+              "key": "b",
+              "text": "Eigenverantwortung ist wichtig, aber ohne strukturelle Veränderungen nicht ausreichend."
+            },
+            {
+              "key": "c",
+              "text": "Eigenverantwortung ist völlig ohne Wirkung."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text erkennt den Beitrag des Einzelnen an, sieht aber politische Rahmenbedingungen als nötig. Die Optionen a und c übertreiben in beide Richtungen.",
+          "explain_id": "Teks mengakui kontribusi individu, tetapi menilai kondisi struktural tetap diperlukan. Opsi a dan c berlebihan ke dua arah.",
+          "evidence": "ohne strukturelle Veränderungen bleibt nachhaltiges Essen ein Privileg"
+        },
+        {
+          "nr": 6,
+          "typ": "mc3",
+          "stamm_de": "Was fordert der Schluss des Textes?",
+          "stamm_id": "Apa yang dituntut bagian penutup teks?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Nachhaltigkeit sollte für alle bezahlbar sein."
+            },
+            {
+              "key": "b",
+              "text": "Nachhaltigkeit sollte nur Wohlhabenden offenstehen."
+            },
+            {
+              "key": "c",
+              "text": "Nachhaltigkeit sollte eine reine Privatsache ohne staatliche Hilfe bleiben."
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Das Fazit verlangt, dass ein klimafreundlicher Speiseplan auch für schmale Budgets funktioniert. Die anderen Optionen widersprechen dem Fazit.",
+          "explain_id": "Kesimpulan menuntut agar menu ramah iklim juga terjangkau bagi anggaran kecil. Opsi lain bertentangan dengan kesimpulan itu.",
+          "evidence": "wenn er auch für schmale Budgets funktioniert"
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "die Hürde",
+          "artikel": "die",
+          "plural": "Hürden",
+          "wortart": "Nomen",
+          "bedeutung_id": "hambatan; rintangan",
+          "bedeutung_de": "Schwierigkeit, die überwunden werden muss",
+          "beispiel": "Der Preis ist für viele die entscheidende Hürde."
+        },
+        {
+          "wort": "das Budget",
+          "artikel": "das",
+          "plural": "Budgets",
+          "wortart": "Nomen",
+          "bedeutung_id": "anggaran",
+          "bedeutung_de": "verfügbare Geldmenge",
+          "beispiel": "Wer ein knappes Budget verwaltet, greift zu günstigen Produkten."
+        },
+        {
+          "wort": "das Grundnahrungsmittel",
+          "artikel": "das",
+          "plural": "Grundnahrungsmittel",
+          "wortart": "Nomen",
+          "bedeutung_id": "bahan pangan pokok",
+          "bedeutung_de": "wichtiges, oft gegessenes Lebensmittel",
+          "beispiel": "Günstige Grundnahrungsmittel sind oft stark verarbeitet."
+        },
+        {
+          "wort": "die Eigenverantwortung",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "tanggung jawab pribadi",
+          "bedeutung_de": "Verantwortung, die jemand selbst trägt",
+          "beispiel": "Wer allein auf Eigenverantwortung setzt, übersieht die Realität."
+        },
+        {
+          "wort": "die Rahmenbedingung",
+          "artikel": "die",
+          "plural": "Rahmenbedingungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "kondisi kerangka; prasyarat struktural",
+          "bedeutung_de": "äußerer Umstand, der etwas bestimmt",
+          "beispiel": "Ernährung ist auch eine Frage der Rahmenbedingungen."
+        },
+        {
+          "wort": "die Kennzeichnung",
+          "artikel": "die",
+          "plural": "Kennzeichnungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "pelabelan",
+          "bedeutung_de": "Beschriftung eines Produkts",
+          "beispiel": "Klare Kennzeichnung hilft den Verbrauchern."
+        },
+        {
+          "wort": "das Privileg",
+          "artikel": "das",
+          "plural": "Privilegien",
+          "wortart": "Nomen",
+          "bedeutung_id": "hak istimewa",
+          "bedeutung_de": "besonderer Vorteil, den nicht alle haben",
+          "beispiel": "Ohne Strukturreformen bleibt nachhaltiges Essen ein Privileg."
+        },
+        {
+          "wort": "die Verfügbarkeit",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "ketersediaan",
+          "bedeutung_de": "Zustand, verfügbar zu sein",
+          "beispiel": "Auch die Verfügbarkeit regionaler Produkte ist wichtig."
+        },
+        {
+          "wort": "gemeinnützig",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "demi kepentingan umum; nirlaba",
+          "bedeutung_de": "zum Wohl der Allgemeinheit",
+          "beispiel": "Supermärkte geben Essen an gemeinnützige Organisationen."
+        },
+        {
+          "wort": "die Besteuerung",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "perpajakan",
+          "bedeutung_de": "Erhebung von Steuern",
+          "beispiel": "Der Text fordert eine gerechte Besteuerung."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-05-teil4",
+      "skill": "lesen",
+      "teil": 4,
+      "themenfeld": "Umwelt & Klima",
+      "titel": "Vier Stimmen zu Fleisch, Preis und Verantwortung",
+      "instruktion_de": "Sechs Aussagen beziehen sich auf die vier Personen a–d. Entscheiden Sie, welche Person die jeweilige Aussage vertritt.",
+      "instruktion_id": "Enam pernyataan mengacu pada empat orang a–d. Tentukan orang mana yang menyampaikan pernyataan tersebut.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Ernährung",
+        "Meinungen",
+        "Zuordnung",
+        "Fleischkonsum",
+        "Nachhaltigkeit"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "a",
+          "titel": "Sarah Neumann, Studentin",
+          "inhalt": "Für mich ist die Sache eigentlich klar: Wir essen zu viel Fleisch, und das belastet das Klima enorm. Ich lebe seit drei Jahren vegan, und ich finde, jede und jeder sollte seinen Konsum zumindest halbieren. Allerdings halte ich Verbote für den falschen Weg. Statt einer Fleischsteuer wäre es mir lieber, wenn pflanzliche Gerichte in Kantinen einfach günstiger wären; der Preis entscheidet am Ende. Was mich ärgert, ist das ständige Gerede vom Verzicht, obwohl pflanzliches Kochen längst vielfältig und lecker ist. Ich wünsche mir mehr Angebote und weniger Belehrung. Ich erwarte nicht, dass alle so leben wie ich, aber ein bewussterer Konsum wäre ein guter Anfang."
+        },
+        {
+          "key": "b",
+          "titel": "Peter Klein, Landwirt",
+          "inhalt": "Ich glaube, wir tun der Landwirtschaft unrecht, wenn wir immer nur von Emissionen reden. Wir bewirtschaften seit Generationen unsere Flächen und pflegen die Böden; auch das ist Klimaschutz. Natürlich muss sich etwas ändern, aber eine Steuer auf Fleisch würde vor allem kleinere Höfe treffen, die ohnehin kaum verdienen. Ich plädiere dafür, dass der Handel faire Preise zahlt und die Politik regionale Kreisläufe unterstützt. Verbote bringen wenig; Anreize und Beratung wirken besser. Am wichtigsten ist mir, dass Verbraucher wieder verstehen, wie Lebensmittel entstehen. Wenn wir die Höfe im Land halten wollen, brauchen sie verlässliche Abnehmer und ehrliche Preise."
+        },
+        {
+          "key": "c",
+          "titel": "Dr. Julia Weber, Ernährungswissenschaftlerin",
+          "inhalt": "Aus wissenschaftlicher Sicht ist die Datenlage eindeutig: Eine pflanzlich betonte Ernährung senkt die Treibhausgase deutlich. Dennoch warne ich vor einfachen Rezepten. Wer nur auf Fleisch verzichtet, aber stark verarbeitete Produkte isst, gewinnt wenig. Entscheidend sind die gesamte Ernährungsweise und die Herkunft der Lebensmittel. Ich halte deshalb Aufklärung für wichtiger als Verbote. Allerdings muss Aufklärung mit günstigen Angeboten einhergehen, sonst bleibt sie ein Appell an jene, die es sich ohnehin leisten können. Deshalb befürworte ich Maßnahmen, die pflanzliche Lebensmittel günstiger machen; ohne solche Anreize bleiben gute Ratschläge folgenlos. Entscheidend bleibt ohnehin eine ausgewogene Gesamternährung, nicht der Verzicht auf einzelne Produkte."
+        },
+        {
+          "key": "d",
+          "titel": "Jonas Reinhardt, Koch",
+          "inhalt": "Als Koch sehe ich jeden Tag, wie viel gutes Essen im Müll landet. Mich stört das mehr als jeder Preisunterschied. In meiner Küche verarbeiten wir Reste weiter, und die Gäste merken es kaum. Ich finde, Gastronomie und Handel haben eine riesige Verantwortung, die sie viel zu oft auf die Gäste abwälzen. Eine Fleischsteuer würde ich begrüßen, sofern das Geld wirklich in nachhaltige Landwirtschaft fließt. Ehrlich gesagt zeigt aber gerade ein gutes Restaurant, dass Nachhaltigkeit und Genuss kein Widerspruch sein müssen. Man muss nur wollen. Ich bin überzeugt, dass sich gutes Handwerk und Klimaschutz sehr gut verbinden lassen."
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer hält Verbote beim Essen für den falschen Weg und setzt auf günstigere pflanzliche Angebote?",
+          "stamm_id": "Siapa yang menganggap larangan soal makanan salah dan mengandalkan tawaran nabati yang lebih murah?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sarah Neumann, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Peter Klein, Landwirt"
+            },
+            {
+              "key": "c",
+              "text": "Dr. Julia Weber, Ernährungswissenschaftlerin"
+            },
+            {
+              "key": "d",
+              "text": "Jonas Reinhardt, Koch"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur Sarah Neumann lehnt Verbote ab und wünscht sich günstigere pflanzliche Gerichte. Die anderen Personen äußern sich anders.",
+          "explain_id": "Hanya Sarah Neumann yang menolak larangan dan menginginkan hidangan nabati lebih murah. Orang lain berpendapat berbeda.",
+          "evidence": "Statt einer Fleischsteuer wäre es mir lieber, wenn pflanzliche Gerichte in Kantinen einfach günstiger wären"
+        },
+        {
+          "nr": 2,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer fürchtet, dass eine Fleischsteuer vor allem kleinere Betriebe belastet?",
+          "stamm_id": "Siapa yang khawatir pajak daging justru membebani usaha kecil?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sarah Neumann, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Peter Klein, Landwirt"
+            },
+            {
+              "key": "c",
+              "text": "Dr. Julia Weber, Ernährungswissenschaftlerin"
+            },
+            {
+              "key": "d",
+              "text": "Jonas Reinhardt, Koch"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Peter Klein nennt diese Sorge als Landwirt ausdrücklich. Bei den anderen taucht dieses Argument nicht auf.",
+          "explain_id": "Peter Klein sebagai petani menyebut kekhawatiran itu secara tegas. Pada yang lain argumen ini tidak muncul.",
+          "evidence": "eine Steuer auf Fleisch würde vor allem kleinere Höfe treffen, die ohnehin kaum verdienen"
+        },
+        {
+          "nr": 3,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer warnt davor, dass ein Verzicht auf Fleisch allein wenig bringt?",
+          "stamm_id": "Siapa yang memperingatkan bahwa sekadar menghindari daging tidak banyak berdampak?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sarah Neumann, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Peter Klein, Landwirt"
+            },
+            {
+              "key": "c",
+              "text": "Dr. Julia Weber, Ernährungswissenschaftlerin"
+            },
+            {
+              "key": "d",
+              "text": "Jonas Reinhardt, Koch"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Dr. Julia Weber betont, dass auch die Art der übrigen Ernährung entscheidend ist. Die anderen Personen machen diese Einschränkung nicht.",
+          "explain_id": "Dr. Julia Weber menekankan pola makan lainnya juga menentukan. Orang lain tidak menyebut pembatasan itu.",
+          "evidence": "Wer nur auf Fleisch verzichtet, aber stark verarbeitete Produkte isst, gewinnt wenig."
+        },
+        {
+          "nr": 4,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer ärgert sich vor allem über weggeworfenes Essen in der Gastronomie?",
+          "stamm_id": "Siapa yang paling kesal dengan makanan terbuang di dunia gastronomi?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sarah Neumann, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Peter Klein, Landwirt"
+            },
+            {
+              "key": "c",
+              "text": "Dr. Julia Weber, Ernährungswissenschaftlerin"
+            },
+            {
+              "key": "d",
+              "text": "Jonas Reinhardt, Koch"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Jonas Reinhardt beklagt als Koch den vielen Abfall in seinem Beruf. Die anderen sprechen nicht von der Gastronomie.",
+          "explain_id": "Jonas Reinhardt sebagai koki mengeluhkan banyaknya sampah di profesinya. Yang lain tidak membahas gastronomi.",
+          "evidence": "Als Koch sehe ich jeden Tag, wie viel gutes Essen im Müll landet."
+        },
+        {
+          "nr": 5,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer findet, dass Aufklärung nur mit bezahlbaren Angeboten wirksam ist?",
+          "stamm_id": "Siapa yang menilai edukasi baru efektif bila disertai tawaran terjangkau?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sarah Neumann, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Peter Klein, Landwirt"
+            },
+            {
+              "key": "c",
+              "text": "Dr. Julia Weber, Ernährungswissenschaftlerin"
+            },
+            {
+              "key": "d",
+              "text": "Jonas Reinhardt, Koch"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Dr. Julia Weber fordert, dass Aufklärung mit günstigen Angeboten einhergeht. Diesen Punkt nennen die anderen nicht.",
+          "explain_id": "Dr. Julia Weber menuntut edukasi disertai tawaran murah. Poin ini tidak disebut yang lain.",
+          "evidence": "muss Aufklärung mit günstigen Angeboten einhergehen"
+        },
+        {
+          "nr": 6,
+          "typ": "aussagen-person",
+          "stamm_de": "Wer wünscht sich, dass Verbraucher wieder verstehen, wie Lebensmittel entstehen?",
+          "stamm_id": "Siapa yang ingin konsumen kembali memahami bagaimana pangan dihasilkan?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sarah Neumann, Studentin"
+            },
+            {
+              "key": "b",
+              "text": "Peter Klein, Landwirt"
+            },
+            {
+              "key": "c",
+              "text": "Dr. Julia Weber, Ernährungswissenschaftlerin"
+            },
+            {
+              "key": "d",
+              "text": "Jonas Reinhardt, Koch"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Peter Klein hält es für am wichtigsten, dass Verbraucher die Herstellung verstehen. Die anderen äußern diesen Wunsch nicht.",
+          "explain_id": "Peter Klein menganggap terpenting agar konsumen memahami proses produksi. Yang lain tidak menyampaikan harapan itu.",
+          "evidence": "Am wichtigsten ist mir, dass Verbraucher wieder verstehen, wie Lebensmittel entstehen."
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "der Konsum",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "konsumsi",
+          "bedeutung_de": "Verbrauch von Gütern",
+          "beispiel": "Jede und jeder sollte den Konsum halbieren."
+        },
+        {
+          "wort": "das Verbot",
+          "artikel": "das",
+          "plural": "Verbote",
+          "wortart": "Nomen",
+          "bedeutung_id": "larangan",
+          "bedeutung_de": "Anweisung, etwas nicht zu tun",
+          "beispiel": "Verbote halte ich für den falschen Weg."
+        },
+        {
+          "wort": "der Anreiz",
+          "artikel": "der",
+          "plural": "Anreize",
+          "wortart": "Nomen",
+          "bedeutung_id": "insentif; dorongan",
+          "bedeutung_de": "Umstand, der zu etwas motiviert",
+          "beispiel": "Anreize und Beratung wirken besser als Verbote."
+        },
+        {
+          "wort": "der Kreislauf",
+          "artikel": "der",
+          "plural": "Kreisläufe",
+          "wortart": "Nomen",
+          "bedeutung_id": "siklus",
+          "bedeutung_de": "Vorgang, der immer wieder abläuft",
+          "beispiel": "Die Politik soll regionale Kreisläufe unterstützen."
+        },
+        {
+          "wort": "die Datenlage",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "situasi data",
+          "bedeutung_de": "Gesamtheit der verfügbaren Daten",
+          "beispiel": "Aus wissenschaftlicher Sicht ist die Datenlage eindeutig."
+        },
+        {
+          "wort": "die Aufklärung",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "penyuluhan; edukasi",
+          "bedeutung_de": "Vermittlung von Wissen",
+          "beispiel": "Aufklärung ist wichtiger als Verbote."
+        },
+        {
+          "wort": "die Gastronomie",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "dunia gastronomi; usaha restoran",
+          "bedeutung_de": "Gesamtheit der Gastbetriebe",
+          "beispiel": "Gastronomie und Handel tragen große Verantwortung."
+        },
+        {
+          "wort": "der Widerspruch",
+          "artikel": "der",
+          "plural": "Widersprüche",
+          "wortart": "Nomen",
+          "bedeutung_id": "kontradiksi; pertentangan",
+          "bedeutung_de": "Gegensatz zwischen zwei Aussagen",
+          "beispiel": "Nachhaltigkeit und Genuss sind kein Widerspruch."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-05-teil5",
+      "skill": "lesen",
+      "teil": 5,
+      "themenfeld": "Umwelt & Klima",
+      "titel": "Hinweise für nachhaltiges Einkaufen und Kochen",
+      "instruktion_de": "Lesen Sie die vier Absätze 1–4. Wählen Sie für drei der Absätze die passende Überschrift aus den Optionen a–h. Fünf Überschriften bleiben übrig.",
+      "instruktion_id": "Bacalah empat paragraf 1–4. Pilih untuk tiga paragraf judul yang sesuai dari opsi a–h. Lima judul tidak terpakai.",
+      "zeit_minuten": 6,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Ernährung",
+        "Hinweise",
+        "Überschriften",
+        "Nachhaltigkeit",
+        "Alltag"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "1",
+          "titel": "Absatz 1",
+          "inhalt": "Bevor Sie losgehen, werfen Sie einen Blick in Ihre Küche: Was ist noch da, was fehlt wirklich? Notieren Sie erst danach, was Sie brauchen. Ein kurzer Einkaufszettel verhindert, dass Sie Dinge doppelt kaufen, die zu Hause bereits verstauben. Wer saisonale Ware wählt, bekommt oft frischere Produkte und spart dabei Geld. Kaufen Sie nach Möglichkeit unverpackt und nehmen Sie eigene Beutel mit. So vermeiden Sie Plastikmüll, ohne auf etwas zu verzichten."
+        },
+        {
+          "key": "2",
+          "titel": "Absatz 2",
+          "inhalt": "Viele Lebensmittel halten sich deutlich länger, wenn man sie am richtigen Ort aufbewahrt. Kartoffeln und Zwiebeln gehören dunkel und kühl, Tomaten dagegen nie in den Kühlschrank. Kräuter bleiben frisch, wenn Sie die Stiele abschneiden und das Bündel in ein Glas Wasser stellen. Bewahren Sie Reste in durchsichtigen Behältern auf, so sehen Sie sofort, was noch übrig ist. Ein beschriftetes Datum hilft, den Überblick zu behalten und alles rechtzeitig zu verbrauchen."
+        },
+        {
+          "key": "3",
+          "titel": "Absatz 3",
+          "inhalt": "Reste sind kein Abfall, sondern die halbe Mahlzeit. Aus gekochtem Gemüse wird mit Brühe eine schnelle Suppe, aus altem Brot ein knuspriger Auflauf. Braten Sie Reste kurz an, statt sie kalt zu essen; das verändert den Geschmack völlig. Wenn Sie regelmäßig zu viel kochen, passen Sie die Mengen einfach an die Zahl der Personen an. Probieren Sie einmal pro Woche einen Reste-Tag, an dem nichts Neues gekauft wird. So entlasten Sie nicht nur die Umwelt, sondern auch Ihr Portemonnaie."
+        },
+        {
+          "key": "4",
+          "titel": "Absatz 4",
+          "inhalt": "Was Sie nicht sofort verbrauchen, können Sie haltbar machen. Kochen Sie zu viel Gemüse, frieren Sie es in Portionen ein und versehen Sie die Behälter mit einem Datum. Obst lässt sich zu Marmelade verarbeiten, Kräuter trocknen Sie gebündelt an einem luftigen Ort. Auch Fermentieren ist eine einfache Methode, um Vorräte lange zu sichern. Beschriften Sie alles gut, damit Sie später wissen, was sich darin befindet. So haben Sie auch im Winter regionale Produkte aus dem eigenen Vorrat."
+        }
+      ],
+      "ueberschriften": [
+        {
+          "key": "a",
+          "text": "Kreativ kochen mit übrig gebliebenem Essen"
+        },
+        {
+          "key": "b",
+          "text": "Wie man unnötige Käufe vermeidet"
+        },
+        {
+          "key": "c",
+          "text": "So bleiben Lebensmittel länger frisch"
+        },
+        {
+          "key": "d",
+          "text": "Vorräte anlegen statt wegwerfen"
+        },
+        {
+          "key": "e",
+          "text": "Warum Bio-Essen teurer ist"
+        },
+        {
+          "key": "f",
+          "text": "Weniger Fleisch essen"
+        },
+        {
+          "key": "g",
+          "text": "Woher kommt mein Gemüse?"
+        },
+        {
+          "key": "h",
+          "text": "Feste Preise für alle"
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 1?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 1?",
+          "optionen": null,
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 1 dreht sich um die Planung des Einkaufs und das Vermeiden unnötiger Käufe. Die anderen Überschriften behandeln andere Themen.",
+          "explain_id": "Paragraf 1 membahas perencanaan belanja dan menghindari pembelian yang tak perlu. Judul lain membahas tema berbeda.",
+          "evidence": "werfen Sie einen Blick in Ihre Küche: Was ist noch da, was fehlt wirklich?"
+        },
+        {
+          "nr": 2,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 2?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 2?",
+          "optionen": null,
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 2 erklärt die richtige Lagerung, damit Lebensmittel länger frisch bleiben. Andere Überschriften passen nicht zu diesem Inhalt.",
+          "explain_id": "Paragraf 2 menjelaskan cara menyimpan yang benar agar pangan lebih lama segar. Judul lain tidak cocok dengan isi ini.",
+          "evidence": "Tomaten dagegen nie in den Kühlschrank"
+        },
+        {
+          "nr": 3,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 4?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 4?",
+          "optionen": null,
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Absatz 4 beschreibt Methoden, Lebensmittel haltbar zu machen und Vorräte anzulegen. Die übrigen Überschriften betreffen andere Absätze.",
+          "explain_id": "Paragraf 4 menggambarkan cara mengawetkan pangan dan menyusun persediaan. Judul lain berkaitan dengan paragraf berbeda.",
+          "evidence": "frieren Sie es in Portionen ein und versehen Sie die Behälter mit einem Datum"
+        }
+      ],
+      "punkte_max": 3,
+      "glossar": [
+        {
+          "wort": "der Einkaufszettel",
+          "artikel": "der",
+          "plural": "Einkaufszettel",
+          "wortart": "Nomen",
+          "bedeutung_id": "daftar belanja",
+          "bedeutung_de": "Notiz mit Dingen, die gekauft werden sollen",
+          "beispiel": "Ein kurzer Einkaufszettel verhindert doppelte Käufe."
+        },
+        {
+          "wort": "saisonal",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "musiman",
+          "bedeutung_de": "zur jeweiligen Jahreszeit passend",
+          "beispiel": "Wer saisonale Ware wählt, bekommt frischere Produkte."
+        },
+        {
+          "wort": "die Lagerung",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "penyimpanan",
+          "bedeutung_de": "das Aufbewahren von Lebensmitteln",
+          "beispiel": "Richtige Lagerung verlängert die Haltbarkeit."
+        },
+        {
+          "wort": "der Behälter",
+          "artikel": "der",
+          "plural": "Behälter",
+          "wortart": "Nomen",
+          "bedeutung_id": "wadah",
+          "bedeutung_de": "Gefäß zum Aufbewahren",
+          "beispiel": "Bewahren Sie Reste in durchsichtigen Behältern auf."
+        },
+        {
+          "wort": "die Brühe",
+          "artikel": "die",
+          "plural": "Brühen",
+          "wortart": "Nomen",
+          "bedeutung_id": "kaldu",
+          "bedeutung_de": "Flüssigkeit, in der etwas gekocht wurde",
+          "beispiel": "Aus Gemüse wird mit Brühe eine schnelle Suppe."
+        },
+        {
+          "wort": "das Portemonnaie",
+          "artikel": "das",
+          "plural": "Portemonnaies",
+          "wortart": "Nomen",
+          "bedeutung_id": "dompet",
+          "bedeutung_de": "Geldbeutel",
+          "beispiel": "So entlasten Sie auch Ihr Portemonnaie."
+        },
+        {
+          "wort": "fermentieren",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "memfermentasi",
+          "bedeutung_de": "Lebensmittel durch Gärung haltbar machen",
+          "beispiel": "Auch Fermentieren sichert Vorräte lange."
+        },
+        {
+          "wort": "der Vorrat",
+          "artikel": "der",
+          "plural": "Vorräte",
+          "wortart": "Nomen",
+          "bedeutung_id": "persediaan",
+          "bedeutung_de": "Menge an Vorräten für später",
+          "beispiel": "So haben Sie Produkte aus dem eigenen Vorrat."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1432 @@
+{
+  "schemaVersion": 1,
+  "id": "lesen-unit-02",
+  "skill": "lesen",
+  "unit": 2,
+  "level": "B2",
+  "themenfeld": "Reisen & Mobilität",
+  "titel": "Reisen früher und heute",
+  "titel_id": "Bepergian dahulu dan sekarang",
+  "beschreibung_id": "Latihan membaca B2 tentang perubahan cara bepergian dahulu dan sekarang, terdiri atas lima bagian dengan total tiga puluh soal.",
+  "teile": [
+    {
+      "id": "lesen-unit-02-teil1",
+      "skill": "lesen",
+      "teil": 1,
+      "themenfeld": "Reisen & Mobilität",
+      "titel": "Reisen früher und heute — Vier Personen, vier Stile",
+      "instruktion_de": "Ordnen Sie die Aussagen 1–9 den Personen a–d zu. Welche Aussage trifft auf welche Person zu? Eine Aussage passt nur zu einer Person.",
+      "instruktion_id": "Cocokkan pernyataan 1–9 dengan orang a–d. Pernyataan mana yang sesuai dengan orang mana? Satu pernyataan hanya cocok untuk satu orang.",
+      "zeit_minuten": 18,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Reisen",
+        "Vergleich früher-heute",
+        "Zuordnung",
+        "Verkehrsmittel",
+        "Personen"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "a",
+          "titel": "Marlene Hoffmann",
+          "inhalt": "Marlene Hoffmann schwärmt bis heute von den Reisen ihrer Kindheit, als die Familie jeden Sommer mit dem Zug an die Ostsee fuhr. Damals dauerte die Fahrt einen ganzen Tag, und genau das gefiel ihr: Man hatte Zeit, beobachtete die Landschaft und las ein Buch. „Wir hetzen heute viel zu sehr von einem Ort zum anderen“, sagt die pensionierte Bibliothekarin. Deshalb plant sie ihre Fahrten weiterhin im Reisebüro, mit gedruckten Fahrplänen und einem schweren Koffer. Zwar gönnt sie sich gelegentlich einen Kurzflug in den Süden, doch im Alltag nimmt sie lieber den langsameren Regionalzug. Ihrer Meinung nach ist die Anreise kein lästiger Zwang, sondern ein Teil des Urlaubs. Reisen bedeutet für sie vor allem, bewusst unterwegs zu sein. Für sie ist die Fahrt selbst das eigentliche Erlebnis und nicht nur ein Weg zum Ziel."
+        },
+        {
+          "key": "b",
+          "titel": "Tobias Krüger",
+          "inhalt": "Tobias Krüger arbeitet als Softwareentwickler und reist seit drei Jahren als digitaler Nomade durch Europa. Für ihn zählt vor allem Flexibilität: Er bucht seine Fernbusse und Hostels spontan über Apps, oft erst am Tag der Abfahrt. „Feste Pläne machen mich nervös“, erklärt der Neunundzwanzigjährige. Weil schnelles Internet für seine Arbeit entscheidend ist, wählt er Unterkünfte mit zuverlässigem WLAN. Zwar reist er gelegentlich auch mit dem Zug, doch der günstige Fernbus bleibt seine erste Wahl. Statt Souvenirs sammelt er Erinnerungen in einem digitalen Tagebuch. Nicht nur das Geld, sondern auch die Freiheit bestimmt seine Entscheidungen. Momentan plant er eine Route von Lissabon bis Tallinn, ganz ohne festen Rückflug. Für ihn ist Reisen kein Urlaub im klassischen Sinn, sondern ein Leben an wechselnden Orten, das er bewusst gewählt hat."
+        },
+        {
+          "key": "c",
+          "titel": "Aylin Demir",
+          "inhalt": "Aylin Demir lehnt weite Flugreisen grundsätzlich ab, weil sie das Klima belasten. Die Umweltpädagogin verbringt ihren Urlaub am liebsten mit dem Fahrrad und dem Zelt in der Region. „Warum in die Ferne schweifen, wenn das Schöne so nah liegt?“, fragt sie. Hinsichtlich der Anreise achtet sie genau auf den CO2-Ausstoß und bevorzugt Busse und Bahnen. Allerdings verzichtet sie deshalb nicht auf Komfort: Ein gutes Zelt und ein warmer Schlafsack gehören für sie dazu. Zumal sie mit Kindern unterwegs ist, plant sie jede Etappe sorgfältig und bleibt selten länger als zwei Tage an einem Ort. Ihr Ziel ist es, möglichst wenige Kilometer zurückzulegen und dennoch viel zu erleben. Folglich ist ihre Reisekasse kleiner, ihr ökologischer Fußabdruck aber ebenfalls. Nachhaltiges Reisen ist für sie keine kurze Mode, sondern eine logische Konsequenz aus der Klimakrise."
+        },
+        {
+          "key": "d",
+          "titel": "Bernd Lange",
+          "inhalt": "Bernd Lange sitzt beruflich mehr in Flugzeugen als in seinem Büro. Der Vertriebsleiter reist fast jede Woche zu Terminen in ganz Europa und schätzt vor allem Effizienz. „Zeit ist im Geschäft bares Geld“, betont er, deshalb bucht er Flüge mit möglichst kurzer Reisezeit. In der Lounge arbeitet er zwischen zwei Terminen weiter, und sein Handgepäck reicht für mehrere Tage. Zwar bemüht er sich neuerdings, kurze Strecken mit der Bahn zu fahren, doch wenn ein Kunde weit entfernt wartet, nimmt er den schnellsten Flug. Private Urlaube verbringt er selten, weil ihm dafür kaum Zeit bleibt. Nicht nur sein Arbeitgeber, sondern auch er selbst profitiert von den raschen Verbindungen. Für ihn ist Reisen kein Vergnügen, sondern ein Werkzeug, das er möglichst geschickt einsetzen will."
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "zuordnung",
+          "stamm_de": "Für diese Person ist die langsame Anreise mit dem Zug ein wichtiger Teil des Urlaubs.",
+          "stamm_id": "Bagi orang ini, perjalanan menuju tujuan yang lambat dengan kereta adalah bagian penting dari liburan.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene Hoffmann"
+            },
+            {
+              "key": "b",
+              "text": "Tobias Krüger"
+            },
+            {
+              "key": "c",
+              "text": "Aylin Demir"
+            },
+            {
+              "key": "d",
+              "text": "Bernd Lange"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur dieser Text nennt diese charakteristische Aussage eindeutig; die anderen Personen reisen anders.",
+          "explain_id": "Hanya teks orang ini yang menyebutkan pernyataan khas tersebut dengan jelas; orang lain bepergian dengan cara berbeda.",
+          "evidence": "Ihrer Meinung nach ist die Anreise kein lästiger Zwang, sondern ein Teil des Urlaubs."
+        },
+        {
+          "nr": 2,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person bucht ihre Fahrten spontan über Apps.",
+          "stamm_id": "Orang ini memesan perjalanannya secara spontan melalui aplikasi.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene Hoffmann"
+            },
+            {
+              "key": "b",
+              "text": "Tobias Krüger"
+            },
+            {
+              "key": "c",
+              "text": "Aylin Demir"
+            },
+            {
+              "key": "d",
+              "text": "Bernd Lange"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur dieser Text nennt diese charakteristische Aussage eindeutig; die anderen Personen reisen anders.",
+          "explain_id": "Hanya teks orang ini yang menyebutkan pernyataan khas tersebut dengan jelas; orang lain bepergian dengan cara berbeda.",
+          "evidence": "Er bucht seine Fernbusse und Hostels spontan über Apps, oft erst am Tag der Abfahrt."
+        },
+        {
+          "nr": 3,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person lehnt Flugreisen aus Klimagründen ab.",
+          "stamm_id": "Orang ini menolak perjalanan dengan pesawat karena alasan iklim.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene Hoffmann"
+            },
+            {
+              "key": "b",
+              "text": "Tobias Krüger"
+            },
+            {
+              "key": "c",
+              "text": "Aylin Demir"
+            },
+            {
+              "key": "d",
+              "text": "Bernd Lange"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur dieser Text nennt diese charakteristische Aussage eindeutig; die anderen Personen reisen anders.",
+          "explain_id": "Hanya teks orang ini yang menyebutkan pernyataan khas tersebut dengan jelas; orang lain bepergian dengan cara berbeda.",
+          "evidence": "Aylin Demir lehnt weite Flugreisen grundsätzlich ab, weil sie das Klima belasten."
+        },
+        {
+          "nr": 4,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person reist beruflich fast jede Woche und schätzt kurze Reisezeiten.",
+          "stamm_id": "Orang ini bepergian untuk pekerjaan hampir setiap minggu dan menghargai waktu perjalanan yang singkat.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene Hoffmann"
+            },
+            {
+              "key": "b",
+              "text": "Tobias Krüger"
+            },
+            {
+              "key": "c",
+              "text": "Aylin Demir"
+            },
+            {
+              "key": "d",
+              "text": "Bernd Lange"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur dieser Text nennt diese charakteristische Aussage eindeutig; die anderen Personen reisen anders.",
+          "explain_id": "Hanya teks orang ini yang menyebutkan pernyataan khas tersebut dengan jelas; orang lain bepergian dengan cara berbeda.",
+          "evidence": "Der Vertriebsleiter reist fast jede Woche zu Terminen in ganz Europa und schätzt vor allem Effizienz."
+        },
+        {
+          "nr": 5,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person plant ihre Reisen weiterhin im Reisebüro mit gedruckten Fahrplänen.",
+          "stamm_id": "Orang ini tetap merencanakan perjalanannya di biro perjalanan dengan jadwal tercetak.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene Hoffmann"
+            },
+            {
+              "key": "b",
+              "text": "Tobias Krüger"
+            },
+            {
+              "key": "c",
+              "text": "Aylin Demir"
+            },
+            {
+              "key": "d",
+              "text": "Bernd Lange"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur dieser Text nennt diese charakteristische Aussage eindeutig; die anderen Personen reisen anders.",
+          "explain_id": "Hanya teks orang ini yang menyebutkan pernyataan khas tersebut dengan jelas; orang lain bepergian dengan cara berbeda.",
+          "evidence": "Deshalb plant sie ihre Fahrten weiterhin im Reisebüro, mit gedruckten Fahrplänen und einem schweren Koffer."
+        },
+        {
+          "nr": 6,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person arbeitet unterwegs und wählt Unterkünfte mit gutem Internet.",
+          "stamm_id": "Orang ini bekerja saat dalam perjalanan dan memilih penginapan dengan internet yang baik.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene Hoffmann"
+            },
+            {
+              "key": "b",
+              "text": "Tobias Krüger"
+            },
+            {
+              "key": "c",
+              "text": "Aylin Demir"
+            },
+            {
+              "key": "d",
+              "text": "Bernd Lange"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur dieser Text nennt diese charakteristische Aussage eindeutig; die anderen Personen reisen anders.",
+          "explain_id": "Hanya teks orang ini yang menyebutkan pernyataan khas tersebut dengan jelas; orang lain bepergian dengan cara berbeda.",
+          "evidence": "wählt er Unterkünfte mit zuverlässigem WLAN"
+        },
+        {
+          "nr": 7,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person verbringt den Urlaub mit dem Fahrrad und dem Zelt in der Region.",
+          "stamm_id": "Orang ini menghabiskan liburan dengan sepeda dan tenda di kawasan sekitar.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene Hoffmann"
+            },
+            {
+              "key": "b",
+              "text": "Tobias Krüger"
+            },
+            {
+              "key": "c",
+              "text": "Aylin Demir"
+            },
+            {
+              "key": "d",
+              "text": "Bernd Lange"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur dieser Text nennt diese charakteristische Aussage eindeutig; die anderen Personen reisen anders.",
+          "explain_id": "Hanya teks orang ini yang menyebutkan pernyataan khas tersebut dengan jelas; orang lain bepergian dengan cara berbeda.",
+          "evidence": "Die Umweltpädagogin verbringt ihren Urlaub am liebsten mit dem Fahrrad und dem Zelt in der Region."
+        },
+        {
+          "nr": 8,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person arbeitet in der Lounge zwischen zwei Terminen weiter.",
+          "stamm_id": "Orang ini bekerja di lounge di antara dua jadwal.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene Hoffmann"
+            },
+            {
+              "key": "b",
+              "text": "Tobias Krüger"
+            },
+            {
+              "key": "c",
+              "text": "Aylin Demir"
+            },
+            {
+              "key": "d",
+              "text": "Bernd Lange"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur dieser Text nennt diese charakteristische Aussage eindeutig; die anderen Personen reisen anders.",
+          "explain_id": "Hanya teks orang ini yang menyebutkan pernyataan khas tersebut dengan jelas; orang lain bepergian dengan cara berbeda.",
+          "evidence": "In der Lounge arbeitet er zwischen zwei Terminen weiter"
+        },
+        {
+          "nr": 9,
+          "typ": "zuordnung",
+          "stamm_de": "Diese Person sammelt Erinnerungen in einem digitalen Tagebuch statt Souvenirs.",
+          "stamm_id": "Orang ini mengumpulkan kenangan dalam buku harian digital alih-alih suvenir.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Marlene Hoffmann"
+            },
+            {
+              "key": "b",
+              "text": "Tobias Krüger"
+            },
+            {
+              "key": "c",
+              "text": "Aylin Demir"
+            },
+            {
+              "key": "d",
+              "text": "Bernd Lange"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur dieser Text nennt diese charakteristische Aussage eindeutig; die anderen Personen reisen anders.",
+          "explain_id": "Hanya teks orang ini yang menyebutkan pernyataan khas tersebut dengan jelas; orang lain bepergian dengan cara berbeda.",
+          "evidence": "Statt Souvenirs sammelt er Erinnerungen in einem digitalen Tagebuch."
+        }
+      ],
+      "punkte_max": 9,
+      "glossar": [
+        {
+          "wort": "die Anreise",
+          "artikel": "die",
+          "plural": "Anreisen",
+          "wortart": "Nomen",
+          "bedeutung_id": "perjalanan menuju tempat tujuan",
+          "bedeutung_de": "das Hinfahren zum Ziel",
+          "beispiel": "Die Anreise mit dem Zug dauert einen ganzen Tag."
+        },
+        {
+          "wort": "der Fahrplan",
+          "artikel": "der",
+          "plural": "Fahrpläne",
+          "wortart": "Nomen",
+          "bedeutung_id": "jadwal perjalanan",
+          "bedeutung_de": "Zeitplan für Abfahrten",
+          "beispiel": "Im Reisebüro gibt es gedruckte Fahrpläne."
+        },
+        {
+          "wort": "der Fernbus",
+          "artikel": "der",
+          "plural": "Fernbusse",
+          "wortart": "Nomen",
+          "bedeutung_id": "bus jarak jauh",
+          "bedeutung_de": "Bus für lange Strecken",
+          "beispiel": "Der günstige Fernbus bleibt seine erste Wahl."
+        },
+        {
+          "wort": "die Unterkunft",
+          "artikel": "die",
+          "plural": "Unterkünfte",
+          "wortart": "Nomen",
+          "bedeutung_id": "penginapan",
+          "bedeutung_de": "Ort zum Übernachten",
+          "beispiel": "Er wählt Unterkünfte mit zuverlässigem WLAN."
+        },
+        {
+          "wort": "die Flexibilität",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "kelenturan, fleksibilitas",
+          "bedeutung_de": "Fähigkeit, sich leicht anzupassen",
+          "beispiel": "Für ihn zählt vor allem Flexibilität."
+        },
+        {
+          "wort": "der Klimaschutz",
+          "artikel": "der",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "perlindungan iklim",
+          "bedeutung_de": "Maßnahmen gegen den Klimawandel",
+          "beispiel": "Nachhaltiges Reisen dient dem Klimaschutz."
+        },
+        {
+          "wort": "der Koffer",
+          "artikel": "der",
+          "plural": "Koffer",
+          "wortart": "Nomen",
+          "bedeutung_id": "koper",
+          "bedeutung_de": "Gepäckstück zum Tragen",
+          "beispiel": "Sie nimmt einen schweren Koffer mit."
+        },
+        {
+          "wort": "die Effizienz",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "efisiensi",
+          "bedeutung_de": "Wirksamkeit mit geringem Aufwand",
+          "beispiel": "Er schätzt vor allem Effizienz."
+        },
+        {
+          "wort": "der Ausstoß",
+          "artikel": "der",
+          "plural": "Ausstöße",
+          "wortart": "Nomen",
+          "bedeutung_id": "emisi",
+          "bedeutung_de": "Menge freigesetzter Stoffe",
+          "beispiel": "Sie achtet auf den CO2-Ausstoß."
+        },
+        {
+          "wort": "der Fußabdruck",
+          "artikel": "der",
+          "plural": "Fußabdrücke",
+          "wortart": "Nomen",
+          "bedeutung_id": "jejak (kiasan)",
+          "bedeutung_de": "Sinnbild für den Verbrauch",
+          "beispiel": "Ihr ökologischer Fußabdruck ist klein."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-02-teil2",
+      "skill": "lesen",
+      "teil": 2,
+      "themenfeld": "Reisen & Mobilität",
+      "titel": "Wie sich das Reiseverhalten verändert",
+      "instruktion_de": "Lesen Sie den Text. In sechs Lücken (1–6) fehlt je ein Satz. Wählen Sie aus den Sätzen a–h den passenden Satz für jede Lücke. Zwei Sätze passen nicht.",
+      "instruktion_id": "Bacalah teks. Pada enam celah (1–6) masing-masing hilang satu kalimat. Pilih dari kalimat a–h yang cocok untuk tiap celah. Dua kalimat tidak cocok.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Reisen",
+        "Onlinereise",
+        "Satzlücken",
+        "Digitalisierung"
+      ],
+      "audio": null,
+      "luecken_text": "Früher war eine Urlaubsreise ein Ereignis, das lange im Voraus geplant wurde. Wer verreisen wollte, ging ins Reisebüro, ließ sich beraten und nahm gedruckte Prospekte mit nach Hause. [[1]] Allerdings hat sich dieses Verhalten in den letzten Jahren grundlegend verändert.\n\nHeute buchen die meisten Menschen ihre Reisen online, oft innerhalb weniger Minuten. Statt eines persönlichen Gesprächs vergleichen sie Bewertungen und Angebote auf dem Bildschirm. [[2]] Folglich entscheidet nicht mehr die Beratung, sondern die schnelle Verfügbarkeit über die Wahl.\n\nBesonders deutlich zeigt sich der Wandel bei der Anreise. Während früher die Bahn das wichtigste Verkehrsmittel war, greifen viele Reisende heute zum günstigen Flug. [[3]] Insofern ist das Reisen billiger geworden, gleichzeitig aber auch anonymer.\n\nKritiker warnen vor den Folgen dieses Wandels. Sie argumentieren, dass spontane Billigreisen die Umwelt stark belasten und lokale Kulturen unter Druck setzen. [[4]] Dennoch wächst der Wunsch vieler Menschen, bewusster zu reisen.\n\nZugleich entdecken immer mehr Urlauber die Langsamkeit neu. Sie fahren mit dem Fahrrad, wandern über Fernwege oder nehmen den Nachtzug in den Süden. [[5]] Zumal diese Form des Reisens oft günstiger ist, gewinnt sie besonders bei jüngeren Menschen an Bedeutung.\n\nAuch die Technik spielt eine zwiespältige Rolle. Einerseits erleichtern Apps die Orientierung in fremden Städten, andererseits verleiten sie dazu, den Blick ständig auf das Display zu richten. [[6]] Zwar bieten digitale Helfer große Vorteile, doch echte Reiseerlebnisse entstehen meist abseits des Bildschirms.\n\nAm Ende bleibt die Frage, wie wir in Zukunft unterwegs sein wollen. Klar ist, dass sich das Reisen weiter verändern wird. Wer offen bleibt und zugleich bewusst entscheidet, findet seinen eigenen Weg — ob schnell oder langsam.",
+      "optionen_saetze": [
+        {
+          "key": "a",
+          "text": "Ein einziger Klick genügt, um Flug und Hotel gleichzeitig zu buchen."
+        },
+        {
+          "key": "b",
+          "text": "Deshalb verzichten immer mehr Menschen ganz auf das Reisen."
+        },
+        {
+          "key": "c",
+          "text": "Die Entscheidung für ein Ziel fiel oft nach langem Überlegen."
+        },
+        {
+          "key": "d",
+          "text": "Auch wer sich verlaufen hat, findet mit dem Handy sofort den richtigen Weg."
+        },
+        {
+          "key": "e",
+          "text": "Ihre Kritik richtet sich vor allem gegen die kurzen Wochenendreisen per Flugzeug."
+        },
+        {
+          "key": "f",
+          "text": "Diese Entwicklung betrifft nur ältere Reisende."
+        },
+        {
+          "key": "g",
+          "text": "Damit sparen sie Zeit und Geld, verlieren jedoch den Kontakt zu Mitreisenden."
+        },
+        {
+          "key": "h",
+          "text": "Statt möglichst viele Orte anzusteuern, genießen sie eine einzige Region in Ruhe."
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 1?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 1?",
+          "optionen": null,
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz passt inhaltlich und logisch in den Absatz; die beiden übrigen Pengecoh widersprechen dem Textverlauf.",
+          "explain_id": "Kalimat itu cocok secara isi dan logika pada paragraf tersebut; dua pengecoh lain bertentangan dengan alur teks.",
+          "evidence": "Wer verreisen wollte, ging ins Reisebüro, ließ sich beraten und nahm gedruckte Prospekte mit nach Hause."
+        },
+        {
+          "nr": 2,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 2?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 2?",
+          "optionen": null,
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz passt inhaltlich und logisch in den Absatz; die beiden übrigen Pengecoh widersprechen dem Textverlauf.",
+          "explain_id": "Kalimat itu cocok secara isi dan logika pada paragraf tersebut; dua pengecoh lain bertentangan dengan alur teks.",
+          "evidence": "Heute buchen die meisten Menschen ihre Reisen online, oft innerhalb weniger Minuten."
+        },
+        {
+          "nr": 3,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 3?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 3?",
+          "optionen": null,
+          "loesung": [
+            "g"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz passt inhaltlich und logisch in den Absatz; die beiden übrigen Pengecoh widersprechen dem Textverlauf.",
+          "explain_id": "Kalimat itu cocok secara isi dan logika pada paragraf tersebut; dua pengecoh lain bertentangan dengan alur teks.",
+          "evidence": "Während früher die Bahn das wichtigste Verkehrsmittel war, greifen viele Reisende heute zum günstigen Flug."
+        },
+        {
+          "nr": 4,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 4?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 4?",
+          "optionen": null,
+          "loesung": [
+            "e"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz passt inhaltlich und logisch in den Absatz; die beiden übrigen Pengecoh widersprechen dem Textverlauf.",
+          "explain_id": "Kalimat itu cocok secara isi dan logika pada paragraf tersebut; dua pengecoh lain bertentangan dengan alur teks.",
+          "evidence": "Sie argumentieren, dass spontane Billigreisen die Umwelt stark belasten und lokale Kulturen unter Druck setzen."
+        },
+        {
+          "nr": 5,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 5?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 5?",
+          "optionen": null,
+          "loesung": [
+            "h"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz passt inhaltlich und logisch in den Absatz; die beiden übrigen Pengecoh widersprechen dem Textverlauf.",
+          "explain_id": "Kalimat itu cocok secara isi dan logika pada paragraf tersebut; dua pengecoh lain bertentangan dengan alur teks.",
+          "evidence": "Sie fahren mit dem Fahrrad, wandern über Fernwege oder nehmen den Nachtzug in den Süden."
+        },
+        {
+          "nr": 6,
+          "typ": "satz-luecke",
+          "stamm_de": "Welcher Satz passt in Lücke 6?",
+          "stamm_id": "Kalimat mana yang cocok untuk celah 6?",
+          "optionen": null,
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Satz passt inhaltlich und logisch in den Absatz; die beiden übrigen Pengecoh widersprechen dem Textverlauf.",
+          "explain_id": "Kalimat itu cocok secara isi dan logika pada paragraf tersebut; dua pengecoh lain bertentangan dengan alur teks.",
+          "evidence": "Einerseits erleichtern Apps die Orientierung in fremden Städten, andererseits verleiten sie dazu, den Blick ständig auf das Display zu richten."
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "die Billigreise",
+          "artikel": "die",
+          "plural": "Billigreisen",
+          "wortart": "Nomen",
+          "bedeutung_id": "perjalanan murah",
+          "bedeutung_de": "sehr günstige Reise",
+          "beispiel": "Spontane Billigreisen belasten die Umwelt."
+        },
+        {
+          "wort": "der Bildschirm",
+          "artikel": "der",
+          "plural": "Bildschirme",
+          "wortart": "Nomen",
+          "bedeutung_id": "layar",
+          "bedeutung_de": "Anzeigefläche eines Geräts",
+          "beispiel": "Sie vergleichen Angebote auf dem Bildschirm."
+        },
+        {
+          "wort": "die Orientierung",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "orientasi",
+          "bedeutung_de": "das Zurechtfinden",
+          "beispiel": "Apps erleichtern die Orientierung in fremden Städten."
+        },
+        {
+          "wort": "der Nachtzug",
+          "artikel": "der",
+          "plural": "Nachtzüge",
+          "wortart": "Nomen",
+          "bedeutung_id": "kereta malam",
+          "bedeutung_de": "Zug, der nachts fährt",
+          "beispiel": "Sie nehmen den Nachtzug in den Süden."
+        },
+        {
+          "wort": "der Klick",
+          "artikel": "der",
+          "plural": "Klicks",
+          "wortart": "Nomen",
+          "bedeutung_id": "klik",
+          "bedeutung_de": "Auslösen einer Aktion per Maus",
+          "beispiel": "Ein einziger Klick genügt."
+        },
+        {
+          "wort": "die Überlegung",
+          "artikel": "die",
+          "plural": "Überlegungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "pertimbangan",
+          "bedeutung_de": "das Nachdenken vor einer Entscheidung",
+          "beispiel": "Die Entscheidung fiel nach langem Überlegen."
+        },
+        {
+          "wort": "der Mitreisende",
+          "artikel": "der",
+          "plural": "Mitreisenden",
+          "wortart": "Nomen",
+          "bedeutung_id": "rekan seperjalanan",
+          "bedeutung_de": "Person, die mitreist",
+          "beispiel": "Sie verlieren den Kontakt zu Mitreisenden."
+        },
+        {
+          "wort": "die Wochenendreise",
+          "artikel": "die",
+          "plural": "Wochenendreisen",
+          "wortart": "Nomen",
+          "bedeutung_id": "perjalanan akhir pekan",
+          "bedeutung_de": "kurze Reise am Wochenende",
+          "beispiel": "Sie richtet sich gegen kurze Wochenendreisen."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-02-teil3",
+      "skill": "lesen",
+      "teil": 3,
+      "themenfeld": "Reisen & Mobilität",
+      "titel": "Langsames Reisen — ein neuer Trend?",
+      "instruktion_de": "Lesen Sie den Text und beantworten Sie die Fragen 1–6. Wählen Sie bei jeder Frage die richtige Lösung (a, b oder c).",
+      "instruktion_id": "Bacalah teks dan jawab pertanyaan 1–6. Pilih jawaban yang benar untuk setiap pertanyaan (a, b, atau c).",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Reisen",
+        "Nachhaltigkeit",
+        "Nachtzug",
+        "Meinungstext",
+        "MC3"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "t",
+          "titel": "Langsames Reisen — ein neuer Trend?",
+          "inhalt": "Lange Zeit galt die schnelle Reise als Fortschritt. Wer es sich leisten konnte, flog ans Meer, während die Bahn als altmodisch belächelt wurde. In den letzten Jahren jedoch zeichnet sich eine überraschende Entwicklung ab: Immer mehr Menschen suchen bewusst das langsame Unterwegssein. Sie buchen überfüllte Nachtzüge, radeln über Fernstraßen und planen Wanderungen statt Rundreisen.\n\nBefürworter des langsamen Reisens nennen vor allem ökologische Gründe. Ein Flug verursacht pro Person ein Vielfaches an Treibhausgasen im Vergleich zur Bahn. Wer auf das Flugzeug verzichtet, leistet demnach einen konkreten Beitrag zum Klimaschutz. Allerdings ist die Sache komplizierter, weil nicht jede Zugfahrt automatisch klimafreundlich ist: Alte Dieselloks und lange Umwege können die Bilanz verschlechtern.\n\nNeben dem Umweltaspekt spielt auch das Erleben eine Rolle. Hinsichtlich der Reisequalität berichten viele Reisende, dass sie bei langsamer Fortbewegung mehr von der Landschaft wahrnehmen. Wer mit dem Rad unterwegs ist, hält an kleinen Dörfern, spricht mit Einheimischen und entdeckt Orte, die im Reisebus verborgen bleiben. Folglich wird die Anreise selbst zum Erlebnis und nicht bloß zur lästigen Pflicht. Gerade für Städtereisende wird die Fahrt mit dem Zug so zu einem Teil des eigentlichen Urlaubs.\n\nDennoch hat die langsame Reise deutliche Grenzen. Zumal Familien mit kleinen Kindern oder Menschen mit Behinderung auf Zeit und Komfort angewiesen sind, ist sie nicht für jeden geeignet. Zwar lockt der langsame Weg mit Erlebnissen, aber Nachtzüge sind oft ausgebucht und teuer. Deshalb zieht der günstige Flug weiterhin viele Reisende an. Nicht nur der Geldbeutel, sondern auch der Zeitplan entscheidet letztlich über die Verkehrsmittelwahl. Für viele Berufstätige bleibt der schnelle Flug daher die einzige realistische Option.\n\nInsofern wäre es falsch, schnelles und langsames Reisen gegeneinander auszuspielen. Einerseits braucht eine moderne Gesellschaft effiziente Verbindungen für Beruf und Notfälle, andererseits tut es vielen gut, ab und zu langsamer zu werden. Zwar wird das Flugzeug die Welt weiterhin verkleinern, doch der Nachtzug zeigt, dass Fortschritt nicht immer schneller bedeuten muss. Beide Formen erfüllen unterschiedliche Bedürfnisse und verdienen ihren Platz. Am Ende entscheidet jeder für sich, welches Tempo zu seinem Leben passt. Reiseveranstalter berichten, dass geführte Rad- und Wandertouren heute schneller ausgebucht sind als klassische Flugreisen."
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "mc3",
+          "stamm_de": "Was zeigt der Artikel über die Entwicklung des Reisens?",
+          "stamm_id": "Apa yang ditunjukkan artikel tentang perkembangan bepergian?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Immer mehr Menschen wählen bewusst langsame Reiseformen."
+            },
+            {
+              "key": "b",
+              "text": "Die Bahn wird inzwischen von den meisten Reisenden gemieden."
+            },
+            {
+              "key": "c",
+              "text": "Nachtzüge werden kaum noch nachgefragt."
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text nennt wachsende Nachfrage nach langsamem Reisen; die anderen Optionen widersprechen dem Text.",
+          "explain_id": "Teks menyebut meningkatnya permintaan akan perjalanan lambat; opsi lain bertentangan dengan teks.",
+          "evidence": "Immer mehr Menschen suchen bewusst das langsame Unterwegssein."
+        },
+        {
+          "nr": 2,
+          "typ": "mc3",
+          "stamm_de": "Welche Einschränkung nennt der Text zum Klimaargument?",
+          "stamm_id": "Pembatasan apa yang disebut teks terkait argumen iklim?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Flüge sind heute klimafreundlicher als Zugfahrten."
+            },
+            {
+              "key": "b",
+              "text": "Nicht jede Zugfahrt ist automatisch klimafreundlich."
+            },
+            {
+              "key": "c",
+              "text": "Züge verursachen grundsätzlich mehr Treibhausgase als Flugzeuge."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text betont, dass auch Züge klimaschädlich sein können; a und c kehren die Aussage unzulässig um.",
+          "explain_id": "Teks menegaskan bahwa kereta pun bisa merusak iklim; a dan c membalik pernyataan secara tidak sah.",
+          "evidence": "weil nicht jede Zugfahrt automatisch klimafreundlich ist"
+        },
+        {
+          "nr": 3,
+          "typ": "mc3",
+          "stamm_de": "Welchen Vorteil langsamer Fortbewegung nennt der Text?",
+          "stamm_id": "Keuntungan apa dari perjalanan lambat yang disebut teks?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Man spart dabei immer sehr viel Geld."
+            },
+            {
+              "key": "b",
+              "text": "Man nimmt mehr von der Landschaft wahr."
+            },
+            {
+              "key": "c",
+              "text": "Man kommt deutlich schneller am Ziel an."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text nennt das bewusste Erleben der Landschaft; a verallgemeinert zu stark, c widerspricht dem Text.",
+          "explain_id": "Teks menyebut pengalaman menikmati lanskap secara sadar; a menggeneralisasi berlebihan, c bertentangan dengan teks.",
+          "evidence": "dass sie bei langsamer Fortbewegung mehr von der Landschaft wahrnehmen"
+        },
+        {
+          "nr": 4,
+          "typ": "mc3",
+          "stamm_de": "Welche Grenze der langsamen Reise wird genannt?",
+          "stamm_id": "Batas dari perjalanan lambat yang disebutkan adalah?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Sie ist für Familien und Menschen mit Behinderung nicht immer geeignet."
+            },
+            {
+              "key": "b",
+              "text": "Sie ist grundsätzlich teurer als das Fliegen."
+            },
+            {
+              "key": "c",
+              "text": "Sie interessiert junge Menschen überhaupt nicht."
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Text nennt Zeit- und Komfortbedarf als Hindernis; b überspitzt, c widerspricht ausdrücklich.",
+          "explain_id": "Teks menyebut kebutuhan waktu dan kenyamanan sebagai hambatan; b melebih-lebihkan, c bertentangan secara tegas.",
+          "evidence": "ist sie nicht für jeden geeignet"
+        },
+        {
+          "nr": 5,
+          "typ": "mc3",
+          "stamm_de": "Was schlägt der Autor im letzten Absatz vor?",
+          "stamm_id": "Apa yang disarankan penulis pada paragraf terakhir?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Schnelles und langsames Reisen sollte man nicht gegeneinander ausspielen."
+            },
+            {
+              "key": "b",
+              "text": "Alle sollten künftig nur noch mit dem Zug fahren."
+            },
+            {
+              "key": "c",
+              "text": "Flugreisen sollten vollständig verboten werden."
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Der Autor plädiert für ein Nebeneinander beider Formen; b und c sind extreme Zuspitzungen.",
+          "explain_id": "Penulis mendukung keberadaan kedua bentuk secara berdampingan; b dan c adalah pernyataan ekstrem.",
+          "evidence": "Insofern wäre es falsch, schnelles und langsames Reisen gegeneinander auszuspielen."
+        },
+        {
+          "nr": 6,
+          "typ": "mc3",
+          "stamm_de": "Wie schließt der Text?",
+          "stamm_id": "Bagaimana teks ini ditutup?",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Er fordert ein Verbot von Billigflügen."
+            },
+            {
+              "key": "b",
+              "text": "Er überlässt die Entscheidung dem Einzelnen."
+            },
+            {
+              "key": "c",
+              "text": "Er behauptet, dass das Reisen bald ganz aufhört."
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Das Fazit stellt die persönliche Wahl in den Mittelpunkt; a und c erfindet der Text nicht.",
+          "explain_id": "Kesimpulan menempatkan pilihan pribadi sebagai pusat; a dan c tidak ada dalam teks.",
+          "evidence": "Am Ende entscheidet jeder für sich, welches Tempo zu seinem Leben passt."
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "der Fortschritt",
+          "artikel": "der",
+          "plural": "Fortschritte",
+          "wortart": "Nomen",
+          "bedeutung_id": "kemajuan",
+          "bedeutung_de": "positive Entwicklung",
+          "beispiel": "Lange galt die schnelle Reise als Fortschritt."
+        },
+        {
+          "wort": "das Treibhausgas",
+          "artikel": "das",
+          "plural": "Treibhausgase",
+          "wortart": "Nomen",
+          "bedeutung_id": "gas rumah kaca",
+          "bedeutung_de": "Gas, das den Klimawandel antreibt",
+          "beispiel": "Ein Flug verursacht viele Treibhausgase."
+        },
+        {
+          "wort": "die Bilanz",
+          "artikel": "die",
+          "plural": "Bilanzen",
+          "wortart": "Nomen",
+          "bedeutung_id": "neraca, hasil akhir",
+          "bedeutung_de": "Gesamtbewertung von Vor- und Nachteilen",
+          "beispiel": "Alte Dieselloks können die Bilanz verschlechtern."
+        },
+        {
+          "wort": "die Diesellok",
+          "artikel": "die",
+          "plural": "Dieselloks",
+          "wortart": "Nomen",
+          "bedeutung_id": "lokomotif diesel",
+          "bedeutung_de": "Zug mit Dieselmotor",
+          "beispiel": "Alte Dieselloks sind klimaschädlich."
+        },
+        {
+          "wort": "der Umweg",
+          "artikel": "der",
+          "plural": "Umwege",
+          "wortart": "Nomen",
+          "bedeutung_id": "jalur memutar",
+          "bedeutung_de": "längerer Weg als nötig",
+          "beispiel": "Lange Umwege verschlechtern die Bilanz."
+        },
+        {
+          "wort": "der Einheimische",
+          "artikel": "der",
+          "plural": "Einheimischen",
+          "wortart": "Nomen",
+          "bedeutung_id": "penduduk lokal",
+          "bedeutung_de": "Person aus der Region",
+          "beispiel": "Wer radelt, spricht mit Einheimischen."
+        },
+        {
+          "wort": "ausgebucht",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "penuh terisi",
+          "bedeutung_de": "ohne freie Plätze",
+          "beispiel": "Nachtzüge sind oft ausgebucht und teuer."
+        },
+        {
+          "wort": "der Zeitplan",
+          "artikel": "der",
+          "plural": "Zeitpläne",
+          "wortart": "Nomen",
+          "bedeutung_id": "rencana waktu",
+          "bedeutung_de": "Einteilung der Zeit",
+          "beispiel": "Auch der Zeitplan entscheidet mit."
+        },
+        {
+          "wort": "das Verkehrsmittel",
+          "artikel": "das",
+          "plural": "Verkehrsmittel",
+          "wortart": "Nomen",
+          "bedeutung_id": "alat transportasi",
+          "bedeutung_de": "Fahrzeug zur Fortbewegung",
+          "beispiel": "Der Zeitplan entscheidet über die Verkehrsmittelwahl."
+        },
+        {
+          "wort": "verkleinern",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "memperkecil",
+          "bedeutung_de": "kleiner machen",
+          "beispiel": "Das Flugzeug verkleinert die Welt."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-02-teil4",
+      "skill": "lesen",
+      "teil": 4,
+      "themenfeld": "Reisen & Mobilität",
+      "titel": "Meinungen zum Reisen von heute",
+      "instruktion_de": "Lesen Sie die vier Texte. Welche Person sagt was? Ordnen Sie die Aussagen 1–6 den Personen a–d zu.",
+      "instruktion_id": "Bacalah keempat teks. Orang mana yang mengatakan apa? Cocokkan pernyataan 1–6 dengan orang a–d.",
+      "zeit_minuten": 12,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Reisen",
+        "Meinungen",
+        "Zuordnung",
+        "Umwelt",
+        "Digitalisierung"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "a",
+          "titel": "Nina Wagner",
+          "inhalt": "Nina Wagner ist Studentin und reist am liebsten spontan. Für sie ist das Smartphone das wichtigste Werkzeug: Sie vergleicht Flüge, bucht Hostels und liest Bewertungen, während sie im Zug sitzt. Diese Freiheit möchte sie nicht mehr missen. Zwar findet sie Reisebüros unnötig, doch sie gibt zu, dass die Beratung früher manche Fehler verhindert hätte. Ihrer Meinung nach war der größte Fortschritt, dass Reisen für junge Leute bezahlbar wurde. Allerdings wünscht sie sich, dass mehr ihrer Freunde mit der Bahn statt mit dem Flugzeug fahren würden. Nur beim Preis wünscht sie sich manchmal etwas mehr Klarheit."
+        },
+        {
+          "key": "b",
+          "titel": "Klaus Bergmann",
+          "inhalt": "Klaus Bergmann ist Rentner und schwärmt von den Reisen seiner Jugend. Damals ging man ins Reisebüro, ließ sich stundenlang beraten und bekam alles in die Hand. Diese persönliche Betreuung fehlt ihm heute völlig, denn hinter einer App stehe niemand, den man fragen könne. Zwar nutzt er das Internet für Fahrpläne, doch buchen lässt er weiterhin seine Tochter. Seiner Ansicht nach nehmen sich Reisende heute zu wenig Zeit für die Vorbereitung. Am liebsten wäre ihm, wenn mehr Menschen wieder langsam und mit der Bahn unterwegs wären. Denn für ihn war die Beratung immer der Beginn jeder Reise."
+        },
+        {
+          "key": "c",
+          "titel": "Sofia Rossi",
+          "inhalt": "Sofia Rossi arbeitet als Lehrerin und achtet bei jeder Reise auf die Umwelt. Sie fährt grundsätzlich mit der Bahn oder dem Bus und vermeidet kurze Flüge. Diese Entscheidung bedeutet für sie manchmal längere Fahrten, doch das nimmt sie bewusst in Kauf. Zwar erkennt sie an, dass das Fliegen bequem und schnell ist, doch der Klimaschutz wiegt für sie schwerer. Allerdings findet sie, dass Bahnfahren in Europa noch immer zu teuer und zu kompliziert ist. Ihr größter Wunsch wäre ein einfaches, günstiges Ticket für den ganzen Kontinent. Umweltschutz ist ihr wichtiger als ein paar gesparte Stunden."
+        },
+        {
+          "key": "d",
+          "titel": "Jonas Feld",
+          "inhalt": "Jonas Feld ist Ingenieur und reist beruflich viel. Auf Geschäftsreisen zählt für ihn vor allem die Zeit, deshalb wählt er oft den schnellsten Flug. Dabei hat er gelernt, dass gutes Planen viel Stress erspart. Zwar schätzt er moderne Buchungssysteme, doch privat reist er ganz anders. Am Wochenende nimmt er bewusst den Zug und genießt die Ruhe, weil er im Alltag ständig unterwegs ist. Allerdings kritisiert er, dass digitale Karten ihn manchmal mehr ablenken als führen. Seiner Meinung nach sollte man öfter ohne Handy durch eine fremde Stadt laufen. Privat jedoch genießt er gerade die Entschleunigung."
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person vermisst die persönliche Beratung im Reisebüro.",
+          "stamm_id": "Orang ini merindukan konsultasi pribadi di biro perjalanan.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Nina Wagner"
+            },
+            {
+              "key": "b",
+              "text": "Klaus Bergmann"
+            },
+            {
+              "key": "c",
+              "text": "Sofia Rossi"
+            },
+            {
+              "key": "d",
+              "text": "Jonas Feld"
+            }
+          ],
+          "loesung": [
+            "b"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur die genannte Person vertritt diese Meinung; die anderen äußern sich anders.",
+          "explain_id": "Hanya orang yang disebut yang berpendapat demikian; yang lain menyampaikan hal berbeda.",
+          "evidence": "Diese persönliche Betreuung fehlt ihm heute völlig"
+        },
+        {
+          "nr": 2,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person hält Reisen für junge Leute heute für bezahlbar.",
+          "stamm_id": "Orang ini menganggap bepergian kini terjangkau bagi kaum muda.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Nina Wagner"
+            },
+            {
+              "key": "b",
+              "text": "Klaus Bergmann"
+            },
+            {
+              "key": "c",
+              "text": "Sofia Rossi"
+            },
+            {
+              "key": "d",
+              "text": "Jonas Feld"
+            }
+          ],
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur die genannte Person vertritt diese Meinung; die anderen äußern sich anders.",
+          "explain_id": "Hanya orang yang disebut yang berpendapat demikian; yang lain menyampaikan hal berbeda.",
+          "evidence": "dass Reisen für junge Leute bezahlbar wurde"
+        },
+        {
+          "nr": 3,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person nimmt längere Fahrten aus Klimagründen in Kauf.",
+          "stamm_id": "Orang ini menerima perjalanan lebih lama demi alasan iklim.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Nina Wagner"
+            },
+            {
+              "key": "b",
+              "text": "Klaus Bergmann"
+            },
+            {
+              "key": "c",
+              "text": "Sofia Rossi"
+            },
+            {
+              "key": "d",
+              "text": "Jonas Feld"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur die genannte Person vertritt diese Meinung; die anderen äußern sich anders.",
+          "explain_id": "Hanya orang yang disebut yang berpendapat demikian; yang lain menyampaikan hal berbeda.",
+          "evidence": "bedeutet für sie manchmal längere Fahrten, doch das nimmt sie bewusst in Kauf"
+        },
+        {
+          "nr": 4,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person wählt auf Dienstreisen den schnellsten Flug.",
+          "stamm_id": "Orang ini memilih penerbangan tercepat untuk perjalanan dinas.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Nina Wagner"
+            },
+            {
+              "key": "b",
+              "text": "Klaus Bergmann"
+            },
+            {
+              "key": "c",
+              "text": "Sofia Rossi"
+            },
+            {
+              "key": "d",
+              "text": "Jonas Feld"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur die genannte Person vertritt diese Meinung; die anderen äußern sich anders.",
+          "explain_id": "Hanya orang yang disebut yang berpendapat demikian; yang lain menyampaikan hal berbeda.",
+          "evidence": "deshalb wählt er oft den schnellsten Flug"
+        },
+        {
+          "nr": 5,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person kritisiert, dass Bahnfahren in Europa zu kompliziert ist.",
+          "stamm_id": "Orang ini mengkritik bahwa naik kereta di Eropa terlalu rumit.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Nina Wagner"
+            },
+            {
+              "key": "b",
+              "text": "Klaus Bergmann"
+            },
+            {
+              "key": "c",
+              "text": "Sofia Rossi"
+            },
+            {
+              "key": "d",
+              "text": "Jonas Feld"
+            }
+          ],
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur die genannte Person vertritt diese Meinung; die anderen äußern sich anders.",
+          "explain_id": "Hanya orang yang disebut yang berpendapat demikian; yang lain menyampaikan hal berbeda.",
+          "evidence": "dass Bahnfahren in Europa noch immer zu teuer und zu kompliziert ist"
+        },
+        {
+          "nr": 6,
+          "typ": "aussagen-person",
+          "stamm_de": "Diese Person meint, dass digitale Karten manchmal mehr ablenken als helfen.",
+          "stamm_id": "Orang ini berpendapat bahwa peta digital kadang lebih mengganggu daripada membantu.",
+          "optionen": [
+            {
+              "key": "a",
+              "text": "Nina Wagner"
+            },
+            {
+              "key": "b",
+              "text": "Klaus Bergmann"
+            },
+            {
+              "key": "c",
+              "text": "Sofia Rossi"
+            },
+            {
+              "key": "d",
+              "text": "Jonas Feld"
+            }
+          ],
+          "loesung": [
+            "d"
+          ],
+          "punkte": 1,
+          "explain_de": "Nur die genannte Person vertritt diese Meinung; die anderen äußern sich anders.",
+          "explain_id": "Hanya orang yang disebut yang berpendapat demikian; yang lain menyampaikan hal berbeda.",
+          "evidence": "dass digitale Karten ihn manchmal mehr ablenken als führen"
+        }
+      ],
+      "punkte_max": 6,
+      "glossar": [
+        {
+          "wort": "spontan",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adverb",
+          "bedeutung_id": "spontan, seketika",
+          "bedeutung_de": "ohne lange Planung",
+          "beispiel": "Nina Wagner reist am liebsten spontan."
+        },
+        {
+          "wort": "die Freiheit",
+          "artikel": "die",
+          "plural": "Freiheiten",
+          "wortart": "Nomen",
+          "bedeutung_id": "kebebasan",
+          "bedeutung_de": "Unabhängigkeit",
+          "beispiel": "Diese Freiheit möchte sie nicht missen."
+        },
+        {
+          "wort": "die Betreuung",
+          "artikel": "die",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "pelayanan, pendampingan",
+          "bedeutung_de": "Fürsorge durch eine Person",
+          "beispiel": "Diese persönliche Betreuung fehlt ihm völlig."
+        },
+        {
+          "wort": "die Vorbereitung",
+          "artikel": "die",
+          "plural": "Vorbereitungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "persiapan",
+          "bedeutung_de": "Vorarbeit vor einer Reise",
+          "beispiel": "Reisende nehmen sich zu wenig Zeit für die Vorbereitung."
+        },
+        {
+          "wort": "das Buchungssystem",
+          "artikel": "das",
+          "plural": "Buchungssysteme",
+          "wortart": "Nomen",
+          "bedeutung_id": "sistem pemesanan",
+          "bedeutung_de": "Programm zum Buchen",
+          "beispiel": "Er schätzt moderne Buchungssysteme."
+        },
+        {
+          "wort": "ablenken",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Verb",
+          "bedeutung_id": "mengalihkan perhatian",
+          "bedeutung_de": "die Aufmerksamkeit stören",
+          "beispiel": "Digitale Karten lenken ihn manchmal ab."
+        },
+        {
+          "wort": "der Kontinent",
+          "artikel": "der",
+          "plural": "Kontinente",
+          "wortart": "Nomen",
+          "bedeutung_id": "benua",
+          "bedeutung_de": "große Landmasse",
+          "beispiel": "Sie wünscht ein Ticket für den ganzen Kontinent."
+        },
+        {
+          "wort": "der Ingenieur",
+          "artikel": "der",
+          "plural": "Ingenieure",
+          "wortart": "Nomen",
+          "bedeutung_id": "insinyur",
+          "bedeutung_de": "technischer Beruf",
+          "beispiel": "Jonas Feld ist Ingenieur."
+        }
+      ]
+    },
+    {
+      "id": "lesen-unit-02-teil5",
+      "skill": "lesen",
+      "teil": 5,
+      "themenfeld": "Reisen & Mobilität",
+      "titel": "Tipps für bewusstes Reisen",
+      "instruktion_de": "Lesen Sie die vier Absätze. Welche Überschrift (a–h) passt zu welchem Absatz? Wählen Sie für die Absätze 1–3 die passende Überschrift.",
+      "instruktion_id": "Bacalah keempat paragraf. Judul mana (a–h) yang cocok untuk paragraf mana? Pilih judul yang cocok untuk paragraf 1–3.",
+      "zeit_minuten": 6,
+      "source_type": "ai",
+      "lizenz": "CC-BY-NC-SA-4.0",
+      "attribution": "Eigener Text (KI-generiert, manuell geprüft) B2-Trainer 2026",
+      "tags": [
+        "Reisen",
+        "Tipps",
+        "Überschriften",
+        "Instruktionen"
+      ],
+      "audio": null,
+      "texte": [
+        {
+          "key": "1",
+          "titel": "Absatz 1",
+          "inhalt": "Packen Sie möglichst wenig ein, denn jedes zusätzliche Kilo wird unterwegs zur Last. Beschränken Sie sich auf eine kleine Tasche, die Sie selbst tragen können. Prüfen Sie vorher das Wetter am Zielort und wählen Sie Kleidung, die sich gut kombinieren lässt. Vergessen Sie nicht, Medikamente und wichtige Dokumente griffbereit zu verstauen. Wer leicht reist, ist beweglicher und ärgert sich seltener über verlorenes Gepäck. So behalten Sie während der ganzen Reise den Überblick über Ihr Gepäck."
+        },
+        {
+          "key": "2",
+          "titel": "Absatz 2",
+          "inhalt": "Für kurze Strecken lohnt sich fast immer die Bahn. Buchen Sie Ihr Ticket früh, damit Sie von günstigen Preisen profitieren. Vermeiden Sie kurze Flüge, denn die Anreise zum Flughafen kostet zusätzlich Zeit. Vergleichen Sie außerdem verschiedene Abfahrtszeiten, weil die Züge am frühen Morgen oft leerer sind. Planen Sie einen Puffer ein, falls ein Anschluss verspätet ist — so geraten Sie nicht in Eile. So kommen Sie entspannt und ohne zusätzlichen Stress am Ziel an."
+        },
+        {
+          "key": "3",
+          "titel": "Absatz 3",
+          "inhalt": "Verhalten Sie sich am Zielort respektvoll gegenüber den Menschen, die dort leben. Begrüßen Sie Ihr Gegenüber in der Landessprache, auch wenn Sie nur wenige Wörter kennen. Fotografieren Sie Personen nicht ohne deren Erlaubnis und meiden Sie überfüllte Altstädte zur Hauptsaison. Kaufen Sie möglichst bei lokalen Anbietern, denn so bleibt ein Teil Ihres Geldes in der Region. Wer sich rücksichtsvoll verhält, wird selbst freundlicher aufgenommen. Denken Sie daran, dass gutes Benehmen überall geschätzt wird."
+        },
+        {
+          "key": "4",
+          "titel": "Absatz 4",
+          "inhalt": "Kümmern Sie sich rechtzeitig um Ihre Versicherung und kopieren Sie alle wichtigen Papiere. Legen Sie eine digitale und eine gedruckte Kopie an und bewahren Sie sie getrennt voneinander auf. Notieren Sie die Nummern Ihrer Karten und die Kontaktdaten Ihrer Bank. Im Notfall sparen solche Vorbereitungen viel Zeit. Denken Sie außerdem daran, jemanden zu Hause über Ihre Route zu informieren. So sind Sie auf unangenehme Überraschungen im Urlaub deutlich besser vorbereitet."
+        }
+      ],
+      "ueberschriften": [
+        {
+          "key": "a",
+          "text": "Leicht und beweglich packen"
+        },
+        {
+          "key": "b",
+          "text": "Günstige Unterkünfte rechtzeitig sichern"
+        },
+        {
+          "key": "c",
+          "text": "Früh buchen und kurze Flüge meiden"
+        },
+        {
+          "key": "d",
+          "text": "Die eigene Reise fotografisch festhalten"
+        },
+        {
+          "key": "e",
+          "text": "Respektvoll gegenüber Einheimischen"
+        },
+        {
+          "key": "f",
+          "text": "Beschwerden höflich formulieren"
+        },
+        {
+          "key": "g",
+          "text": "Wichtige Papiere mehrfach kopieren"
+        },
+        {
+          "key": "h",
+          "text": "Am Zielort Geld sparen"
+        }
+      ],
+      "fragen": [
+        {
+          "nr": 1,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 1?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 1?",
+          "optionen": null,
+          "loesung": [
+            "a"
+          ],
+          "punkte": 1,
+          "explain_de": "Die Überschrift fasst das Hauptthema des Absatzes zusammen; die übrigen Überschriften betreffen andere Absätze.",
+          "explain_id": "Judul tersebut merangkum tema utama paragraf; judul lain membahas paragraf berbeda.",
+          "evidence": "Beschränken Sie sich auf eine kleine Tasche, die Sie selbst tragen können."
+        },
+        {
+          "nr": 2,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 2?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 2?",
+          "optionen": null,
+          "loesung": [
+            "c"
+          ],
+          "punkte": 1,
+          "explain_de": "Die Überschrift fasst das Hauptthema des Absatzes zusammen; die übrigen Überschriften betreffen andere Absätze.",
+          "explain_id": "Judul tersebut merangkum tema utama paragraf; judul lain membahas paragraf berbeda.",
+          "evidence": "Für kurze Strecken lohnt sich fast immer die Bahn."
+        },
+        {
+          "nr": 3,
+          "typ": "ueberschrift",
+          "stamm_de": "Welche Überschrift passt zu Absatz 3?",
+          "stamm_id": "Judul mana yang cocok untuk paragraf 3?",
+          "optionen": null,
+          "loesung": [
+            "e"
+          ],
+          "punkte": 1,
+          "explain_de": "Die Überschrift fasst das Hauptthema des Absatzes zusammen; die übrigen Überschriften betreffen andere Absätze.",
+          "explain_id": "Judul tersebut merangkum tema utama paragraf; judul lain membahas paragraf berbeda.",
+          "evidence": "Verhalten Sie sich am Zielort respektvoll gegenüber den Menschen, die dort leben."
+        }
+      ],
+      "punkte_max": 3,
+      "glossar": [
+        {
+          "wort": "das Gepäck",
+          "artikel": "das",
+          "plural": null,
+          "wortart": "Nomen",
+          "bedeutung_id": "bagasi",
+          "bedeutung_de": "mitgeführtes Reisegepäck",
+          "beispiel": "Man ärgert sich über verlorenes Gepäck."
+        },
+        {
+          "wort": "der Puffer",
+          "artikel": "der",
+          "plural": "Puffer",
+          "wortart": "Nomen",
+          "bedeutung_id": "waktu cadangan",
+          "bedeutung_de": "zusätzliche Reserve",
+          "beispiel": "Planen Sie einen Puffer ein."
+        },
+        {
+          "wort": "der Anschluss",
+          "artikel": "der",
+          "plural": "Anschlüsse",
+          "wortart": "Nomen",
+          "bedeutung_id": "koneksi lanjutan",
+          "bedeutung_de": "Verbindung zum nächsten Verkehrsmittel",
+          "beispiel": "Falls ein Anschluss verspätet ist."
+        },
+        {
+          "wort": "die Hauptsaison",
+          "artikel": "die",
+          "plural": "Hauptsaisons",
+          "wortart": "Nomen",
+          "bedeutung_id": "musim puncak",
+          "bedeutung_de": "Zeitraum mit den meisten Gästen",
+          "beispiel": "Meiden Sie Altstädte zur Hauptsaison."
+        },
+        {
+          "wort": "die Versicherung",
+          "artikel": "die",
+          "plural": "Versicherungen",
+          "wortart": "Nomen",
+          "bedeutung_id": "asuransi",
+          "bedeutung_de": "Vertrag gegen Schäden",
+          "beispiel": "Kümmern Sie sich um Ihre Versicherung."
+        },
+        {
+          "wort": "das Dokument",
+          "artikel": "das",
+          "plural": "Dokumente",
+          "wortart": "Nomen",
+          "bedeutung_id": "dokumen",
+          "bedeutung_de": "wichtige Unterlage",
+          "beispiel": "Bewahren Sie die Dokumente getrennt auf."
+        },
+        {
+          "wort": "rücksichtsvoll",
+          "artikel": "",
+          "plural": null,
+          "wortart": "Adjektiv",
+          "bedeutung_id": "penuh tenggang rasa",
+          "bedeutung_de": "Rücksicht nehmend",
+          "beispiel": "Wer sich rücksichtsvoll verhält, wird freundlich aufgenommen."
+        },
+        {
+          "wort": "die Region",
+          "artikel": "die",
+          "plural": "Regionen",
+          "wortart": "Nomen",
+          "bedeutung_id": "kawasan, daerah",
+          "bedeutung_de": "größeres Gebiet",
+          "beispiel": "Ein Teil des Geldes bleibt in der Region."
+        }
+      ]
+    }
+  ]
+}

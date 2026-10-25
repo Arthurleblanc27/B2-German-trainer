@@ -1,0 +1,18 @@
+---
+import Base from '../../layouts/Base.astro';
+import ErgebnisView from '../../components/ErgebnisView';
+---
+
+<Base titel="Ergebnis" beschreibung="Auswertung der letzten Sitzung: Punkte, Skala 100, getrennt ausgewiesene falsche und unbeantwortete Aufgaben mit Belegzitat.">
+  <div class="flex flex-col gap-4">
+    <section class="seitenkopf">
+      <p class="augenbraue">Auswertung · Sitzung</p>
+      <h1>Ergebnis der Sitzung</h1>
+      <p class="ruhig m-0 mt-2 text-sm">
+        Ohne Parameter zeigt diese Seite die zuletzt gespeicherte Sitzung. Mit <code>?sesi=ID</code> eine bestimmte
+        Sitzung (die ID steht in der Statistik).
+      </p>
+    </section>
+    <ErgebnisView client:load />
+  </div>
+</Base>

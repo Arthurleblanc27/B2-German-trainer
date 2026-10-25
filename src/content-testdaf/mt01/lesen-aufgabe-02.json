@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "format": "testdaf",
+  "id": "testdaf-mt01-lesen-a2",
+  "bereich": "lesen",
+  "aufgabe": 2,
+  "modelltest": 1,
+  "tdn": 4,
+  "level": "B2",
+  "themenfeld": "Studium und Familie",
+  "titel": "Studieren mit Kind: Wie Hochschulen Familien unterstützen",
+  "titel_id": "Kuliah sambil mengasuh anak: bagaimana perguruan tinggi mendukung keluarga",
+  "beschreibung_id": "Multiple Choice A/B/C im TestDaF-Format: ein journalistischer Text darüber, wie Hochschulen Studierende mit Kind unterstützen, mit zehn Fragen auf Niveau TDN 4.",
+  "instruktion_de": "Sie lesen einen journalistischen Text über Studierende mit Kind an deutschen Hochschulen. Zu jeder Frage 1–10 gibt es genau eine richtige Antwort (A, B oder C). Wählen Sie die richtige Lösung.",
+  "instruktion_id": "Anda membaca sebuah teks jurnalistik tentang mahasiswa yang memiliki anak di perguruan tinggi Jerman. Pada setiap pertanyaan 1–10 hanya ada satu jawaban yang benar (A, B, atau C). Pilihlah jawaban yang benar.",
+  "zeit_minuten": 20,
+  "source_type": "ai",
+  "lizenz": "CC-BY-NC-SA-4.0",
+  "attribution": "Eigener Text (KI-generiert, manuell geprüft) — TestDaF-Modul, Modelltest 1, Leseverstehen Aufgabe 2. Nur das Format orientiert sich am TestDaF; alle Texte und Items sind neu verfasst.",
+  "tags": ["Studium und Familie", "Vereinbarkeit", "Multiple Choice", "Hochschule"],
+  "material_typ": "langtext",
+  "texte": [
+    {
+      "key": "l",
+      "titel": "Studieren mit Kind: Wie Hochschulen Familien unterstützen",
+      "inhalt": "Wer ein Kind hat und gleichzeitig studiert, muss jeden Tag neu planen. Anders als in vielen anderen Ländern gibt es in Deutschland an den Hochschulen jedoch inzwischen ein breites Netz von Hilfen. Eine Umfrage unter mehreren Universitäten zeigt, dass die meisten Studierenden mit Kind vor allem drei Probleme nennen: fehlende Betreuungsplätze, wenig Zeit für das Lernen und die ständige Sorge um das Geld. Besonders schwierig wird ein Studium, wenn die Betreuung kurzfristig ausfällt, etwa bei Krankheit des Kindes oder in den Semesterferien, in denen viele Angebote geschlossen sind.\n\nAm wichtigsten ist vielen die Kinderbetreuung. An immer mehr Standorten betreiben die Studierendenwerke eigene Kitas, deren Öffnungszeiten auf den Studienbetrieb zugeschnitten sind. Weil solche Plätze aber knapp sind, konnten nicht alle Wünsche erfüllt werden; an der befragten Universität warteten im vergangenen Semester mehr als hundert Eltern auf einen Platz. Einige Hochschulen reagieren darauf mit flexiblen Lösungen. Sie richten kurzfristige Notbetreuungen ein oder vermitteln Tagesmütter, wenn eine Vorlesung oder eine Prüfung sonst nicht wahrgenommen werden könnte.\n\nEin zweites Thema ist die Organisation des Studiums selbst. Für Eltern ist ein Studium in Vollzeit oft kaum zu schaffen, weil sie nicht jeden Tag mehrere Stunden am Campus verbringen können. Deshalb bieten Fachbereiche sogenannte Teilzeitstudiengänge an, bei denen man die Regelstudienzeit verlängern darf. Statt sechs Semestern brauchen die Studierenden dann acht oder zehn. Das bedeutet zwar ein langsameres Tempo, entlastet aber den Alltag erheblich, weil die Zahl der Prüfungen pro Semester sinkt. Auch bei Praktika und Hausarbeiten gibt es inzwischen Ausnahmen: Wer ein Kind betreut, kann Fristen verschieben lassen.\n\nNicht zuletzt geht es ums Geld. Wer ein Kind versorgt, hat höhere Ausgaben für Wohnung, Kleidung und Betreuung. Die staatliche Studienförderung wird für Eltern deshalb aufgestockt, und es gibt zusätzliche Zuschüsse, die nicht zurückgezahlt werden müssen. Daneben werben die Hochschulen mit Stipendien, die sich ausdrücklich an studierende Eltern richten. Trotzdem reicht das Geld in vielen Fällen nicht aus, und ein großer Teil der Betroffenen arbeitet nebenbei. Ein Teil der Eltern nimmt dafür zusätzlich Kredite auf oder bittet die Familie um Unterstützung.\n\nWie erleben die Studierenden diese Angebote? In Gesprächen berichten viele, dass die Beratung hilft, sobald man sie kennt. Häufig fehle es aber an Information: Neue Studierende wüssten gar nicht, welche Unterstützung ihnen zusteht. Eine Beraterin erklärt, am Anfang sei fast niemandem klar, dass ein Teilzeitstudium möglich ist. Wer sich früh meldet, sagt sie, verliert weniger Zeit und muss seltener das Studium unterbrechen.\n\nDie Hochschulen sehen noch offene Aufgaben. Vor allem die Betreuungsplätze sollen ausgebaut werden, doch dafür fehlen Personal und Räume. Einige Universitäten setzen deshalb auf Kooperationen mit umliegenden Kindergärten oder auf Räume, in denen Eltern mit kleinen Kindern lernen können. Ob solche Modelle flächendeckend funktionieren, wird sich in den nächsten Jahren zeigen. Klar ist, dass Studium und Familie kein Widerspruch sein müssen — vorausgesetzt, die Rahmenbedingungen stimmen."
+    }
+  ],
+  "antwort_optionen": [],
+  "audio": null,
+  "fragen": [
+    {
+      "nr": 1,
+      "typ": "mc3",
+      "stamm_de": "Welche Probleme nennen die meisten Studierenden mit Kind laut der Umfrage?",
+      "stamm_id": "Masalah apa yang disebutkan oleh sebagian besar mahasiswa yang memiliki anak menurut survei tersebut?",
+      "optionen": [
+        { "key": "a", "text": "hohe Mieten und lange Wege zum Campus" },
+        { "key": "b", "text": "fehlende Betreuungsplätze, wenig Lernzeit und Geldsorgen" },
+        { "key": "c", "text": "schlechte Noten und fehlende Sprachkenntnisse" }
+      ],
+      "loesung": ["b"],
+      "punkte": 1,
+      "explain_de": "Der Text nennt genau diese drei Probleme: fehlende Betreuungsplätze, wenig Zeit für das Lernen und die ständige Sorge um das Geld; Mieten, Noten oder Sprachkenntnisse kommen nicht vor.",
+      "explain_id": "Teks menyebut tepat tiga masalah ini: kurang tempat penitipan, sedikit waktu belajar, dan kekhawatiran terus-menerus soal uang; soal sewa, nilai, atau kemampuan bahasa tidak dibahas.",
+      "evidence": "drei Probleme nennen: fehlende Betreuungsplätze, wenig Zeit für das Lernen und die ständige Sorge um das Geld"
+    },
+    {
+      "nr": 2,
+      "typ": "mc3",
+      "stamm_de": "Wer betreibt an vielen Standorten eigene Kitas für Studierende mit Kind?",
+      "stamm_id": "Siapa yang mengelola tempat penitipan anak sendiri bagi mahasiswa dengan anak di banyak lokasi?",
+      "optionen": [
+        { "key": "a", "text": "die Studierendenwerke" },
+        { "key": "b", "text": "die einzelnen Fachbereiche" },
+        { "key": "c", "text": "private Kindergärten" }
+      ],
+      "loesung": ["a"],
+      "punkte": 1,
+      "explain_de": "Der Text sagt ausdrücklich, dass die Studierendenwerke eigene Kitas betreiben; Fachbereiche und private Kindergärten werden in diesem Zusammenhang nicht genannt.",
+      "explain_id": "Teks menegaskan bahwa Studierendenwerke mengelola tempat penitipan sendiri; fakultas dan taman kanak-kanak swasta tidak disebutkan dalam konteks ini.",
+      "evidence": "betreiben die Studierendenwerke eigene Kitas"
+    },
+    {
+      "nr": 3,
+      "typ": "mc3",
+      "stamm_de": "Warum konnten an der befragten Universität nicht alle Eltern einen Platz bekommen?",
+      "stamm_id": "Mengapa di universitas yang disurvei tidak semua orang tua bisa mendapat tempat?",
+      "optionen": [
+        { "key": "a", "text": "weil die Öffnungszeiten nicht zum Studium passen" },
+        { "key": "b", "text": "weil die Kitas nur im Sommersemester öffnen" },
+        { "key": "c", "text": "weil die Plätze knapp sind und viele Eltern warten müssen" }
+      ],
+      "loesung": ["c"],
+      "punkte": 1,
+      "explain_de": "Die Plätze sind knapp; im vergangenen Semester warteten mehr als hundert Eltern auf einen Platz. Öffnungszeiten und Semesterrhythmus sind nicht der genannte Grund.",
+      "explain_id": "Tempatnya terbatas; pada semester lalu lebih dari seratus orang tua menunggu satu tempat. Jam buka dan irama semester bukan alasan yang disebutkan.",
+      "evidence": "an der befragten Universität warteten im vergangenen Semester mehr als hundert Eltern auf einen Platz"
+    },
+    {
+      "nr": 4,
+      "typ": "mc3",
+      "stamm_de": "Wie reagieren einige Hochschulen auf Engpässe bei der Betreuung?",
+      "stamm_id": "Bagaimana sebagian perguruan tinggi menanggapi kekurangan tempat penitipan?",
+      "optionen": [
+        { "key": "a", "text": "Sie richten Notbetreuungen ein und vermitteln Tagesmütter." },
+        { "key": "b", "text": "Sie verlegen alle Prüfungen in die Abendstunden." },
+        { "key": "c", "text": "Sie verlangen von Eltern höhere Studiengebühren." }
+      ],
+      "loesung": ["a"],
+      "punkte": 1,
+      "explain_de": "Laut Text richten einige Hochschulen kurzfristige Notbetreuungen ein oder vermitteln Tagesmütter. Prüfungszeiten und Gebühren werden als Lösung nicht erwähnt.",
+      "explain_id": "Menurut teks, sebagian perguruan tinggi menyediakan penitipan darurat jangka pendek atau menyalurkan ibu pengasuh (Tagesmutter). Soal jadwal ujian dan biaya kuliah tidak disebut sebagai solusi.",
+      "evidence": "richten kurzfristige Notbetreuungen ein oder vermitteln Tagesmütter"
+    },
+    {
+      "nr": 5,
+      "typ": "mc3",
+      "stamm_de": "Was ist das Besondere an einem Teilzeitstudiengang?",
+      "stamm_id": "Apa yang istimewa dari program studi paruh waktu?",
+      "optionen": [
+        { "key": "a", "text": "Man besucht keine Vorlesungen mehr." },
+        { "key": "b", "text": "Man darf die Regelstudienzeit verlängern." },
+        { "key": "c", "text": "Man bekommt doppelt so viele Prüfungen pro Semester." }
+      ],
+      "loesung": ["b"],
+      "punkte": 1,
+      "explain_de": "In einem Teilzeitstudiengang darf man die Regelstudienzeit verlängern und braucht statt sechs Semestern acht oder zehn. Weniger statt mehr Prüfungen pro Semester sind die Folge.",
+      "explain_id": "Dalam program studi paruh waktu, masa studi standar boleh diperpanjang dan bukannya enam semester menjadi delapan atau sepuluh. Akibatnya justru lebih sedikit, bukan lebih banyak, ujian per semester.",
+      "evidence": "bei denen man die Regelstudienzeit verlängern darf"
+    },
+    {
+      "nr": 6,
+      "typ": "mc3",
+      "stamm_de": "Welchen Vorteil nennt der Text für das Teilzeitstudium?",
+      "stamm_id": "Keuntungan apa yang disebutkan teks bagi studi paruh waktu?",
+      "optionen": [
+        { "key": "a", "text": "Man erhält automatisch ein höheres Stipendium." },
+        { "key": "b", "text": "Man muss keine Hausarbeiten mehr schreiben." },
+        { "key": "c", "text": "Der Alltag wird entlastet, weil weniger Prüfungen pro Semester anfallen." }
+      ],
+      "loesung": ["c"],
+      "punkte": 1,
+      "explain_de": "Das langsamere Tempo entlastet den Alltag, weil die Zahl der Prüfungen pro Semester sinkt. Ein höheres Stipendium oder der Verzicht auf Hausarbeiten ist damit nicht verbunden.",
+      "explain_id": "Tempo yang lebih lambat meringankan kehidupan sehari-hari karena jumlah ujian per semester berkurang. Ini tidak berarti beasiswa lebih tinggi atau bebas dari tugas tulis.",
+      "evidence": "entlastet aber den Alltag erheblich, weil die Zahl der Prüfungen pro Semester sinkt"
+    },
+    {
+      "nr": 7,
+      "typ": "mc3",
+      "stamm_de": "Was geschieht laut Text mit der staatlichen Studienförderung für Eltern?",
+      "stamm_id": "Menurut teks, apa yang terjadi dengan bantuan dana studi negara bagi orang tua?",
+      "optionen": [
+        { "key": "a", "text": "Sie wird gestrichen, sobald ein Kind da ist." },
+        { "key": "b", "text": "Sie wird aufgestockt und durch zusätzliche Zuschüsse ergänzt." },
+        { "key": "c", "text": "Sie bleibt für Eltern unverändert." }
+      ],
+      "loesung": ["b"],
+      "punkte": 1,
+      "explain_de": "Die staatliche Studienförderung wird für Eltern aufgestockt, und es gibt zusätzliche Zuschüsse, die nicht zurückgezahlt werden müssen.",
+      "explain_id": "Bantuan dana studi negara ditambah untuk orang tua, dan ada tunjangan tambahan yang tidak perlu dikembalikan.",
+      "evidence": "Die staatliche Studienförderung wird für Eltern deshalb aufgestockt"
+    },
+    {
+      "nr": 8,
+      "typ": "mc3",
+      "stamm_de": "Was berichten die Studierenden in den Gesprächen kritisch?",
+      "stamm_id": "Apa yang dilaporkan mahasiswa secara kritis dalam wawancara tersebut?",
+      "optionen": [
+        { "key": "a", "text": "Viele wüssten gar nicht, welche Unterstützung ihnen zusteht." },
+        { "key": "b", "text": "Die Beratung sei grundsätzlich überflüssig." },
+        { "key": "c", "text": "Die Stipendien seien zu hoch." }
+      ],
+      "loesung": ["a"],
+      "punkte": 1,
+      "explain_de": "Viele klagen über fehlende Information: Neue Studierende wüssten gar nicht, welche Unterstützung ihnen zusteht. Dass die Beratung überflüssig oder ein Stipendium zu hoch sei, steht nicht im Text.",
+      "explain_id": "Banyak yang mengeluh soal kurangnya informasi: mahasiswa baru tidak tahu dukungan apa yang menjadi hak mereka. Bahwa konsultasi tidak perlu atau beasiswa terlalu tinggi tidak tertulis di teks.",
+      "evidence": "Neue Studierende wüssten gar nicht, welche Unterstützung ihnen zusteht"
+    },
+    {
+      "nr": 9,
+      "typ": "mc3",
+      "stamm_de": "Was empfiehlt die Beraterin den Studierenden?",
+      "stamm_id": "Apa yang disarankan konsultan kepada mahasiswa?",
+      "optionen": [
+        { "key": "a", "text": "das Studium sofort zu unterbrechen" },
+        { "key": "b", "text": "auf ein Stipendium zu verzichten" },
+        { "key": "c", "text": "sich früh zu melden" }
+      ],
+      "loesung": ["c"],
+      "punkte": 1,
+      "explain_de": "Die Beraterin sagt, wer sich früh meldet, verliert weniger Zeit und muss seltener das Studium unterbrechen — das Unterbrechen ist gerade das, was vermieden werden soll.",
+      "explain_id": "Konsultan berkata, siapa yang melapor lebih awal akan kehilangan lebih sedikit waktu dan lebih jarang harus menghentikan studi — justru penghentian itulah yang ingin dihindari.",
+      "evidence": "Wer sich früh meldet, sagt sie, verliert weniger Zeit"
+    },
+    {
+      "nr": 10,
+      "typ": "mc3",
+      "stamm_de": "Welche Aufgabe sehen die Hochschulen laut Text als besonders dringend?",
+      "stamm_id": "Tugas apa yang menurut teks dianggap paling mendesak oleh perguruan tinggi?",
+      "optionen": [
+        { "key": "a", "text": "die Abschaffung von Teilzeitstudiengängen" },
+        { "key": "b", "text": "den Ausbau der Betreuungsplätze" },
+        { "key": "c", "text": "die Erhöhung der Zahl der Prüfungen" }
+      ],
+      "loesung": ["b"],
+      "punkte": 1,
+      "explain_de": "Vor allem die Betreuungsplätze sollen ausgebaut werden, doch dafür fehlen Personal und Räume. Von der Abschaffung von Teilzeitstudiengängen oder mehr Prüfungen ist nicht die Rede.",
+      "explain_id": "Terutama tempat penitipan yang ingin diperbanyak, tetapi tenaga dan ruang masih kurang. Tidak ada pembahasan tentang menghapus studi paruh waktu atau menambah ujian.",
+      "evidence": "Vor allem die Betreuungsplätze sollen ausgebaut werden"
+    }
+  ],
+  "punkte_max": 10,
+  "glossar": [
+    { "wort": "die Kinderbetreuung", "artikel": "die", "bedeutung_id": "penitipan/pengasuhan anak", "bedeutung_de": null, "beispiel": null },
+    { "wort": "das Studierendenwerk", "artikel": "das", "bedeutung_id": "lembaga kesejahteraan mahasiswa", "bedeutung_de": "Einrichtung, die soziale Dienste für Studierende anbietet", "beispiel": "eigene Kitas betreiben" },
+    { "wort": "die Kita", "artikel": "die", "bedeutung_id": "tempat penitipan anak (Kindertagesstätte)", "bedeutung_de": null, "beispiel": null },
+    { "wort": "die Notbetreuung", "artikel": "die", "bedeutung_id": "pengasuhan darurat", "bedeutung_de": null, "beispiel": null },
+    { "wort": "vermitteln", "artikel": "", "bedeutung_id": "menyalurkan; mempertemukan", "bedeutung_de": "jdm etwas zukommen lassen", "beispiel": "Tagesmütter vermitteln" },
+    { "wort": "die Regelstudienzeit", "artikel": "die", "bedeutung_id": "masa studi normal/standar", "bedeutung_de": null, "beispiel": "die Regelstudienzeit verlängern" },
+    { "wort": "der Teilzeitstudiengang", "artikel": "der", "bedeutung_id": "program studi paruh waktu", "bedeutung_de": null, "beispiel": null },
+    { "wort": "die Frist", "artikel": "die", "bedeutung_id": "batas waktu", "bedeutung_de": null, "beispiel": "Fristen verschieben lassen" },
+    { "wort": "aufstocken", "artikel": "", "bedeutung_id": "menambah; meningkatkan (dana)", "bedeutung_de": "etwas erhöhen", "beispiel": "die Förderung aufstocken" },
+    { "wort": "der Zuschuss", "artikel": "der", "bedeutung_id": "tunjangan; subsidi", "bedeutung_de": null, "beispiel": null },
+    { "wort": "das Stipendium", "artikel": "das", "bedeutung_id": "beasiswa", "bedeutung_de": null, "beispiel": null },
+    { "wort": "flächendeckend", "artikel": "", "bedeutung_id": "menyeluruh; merata", "bedeutung_de": null, "beispiel": null }
+  ]
+}

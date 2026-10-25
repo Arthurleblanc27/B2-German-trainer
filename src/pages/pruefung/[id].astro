@@ -1,0 +1,15 @@
+---
+import Base from '../../layouts/Base.astro';
+import ExamRunner from '../../components/ExamRunner';
+import { allePruefungen } from '../../lib/content';
+
+export function getStaticPaths() {
+  return allePruefungen.map((pruefung) => ({ params: { id: pruefung.id }, props: { pruefung } }));
+}
+
+const { pruefung } = Astro.props;
+---
+
+<Base titel={`Modelltest: ${pruefung.titel}`} skill="pruefung" beschreibung={`Modelltest B2 ${pruefung.titel} — Lesen und Hören unter echten Zeitbedingungen mit Abschlussbericht.`}>
+  <ExamRunner client:load pruefung={pruefung} />
+</Base>

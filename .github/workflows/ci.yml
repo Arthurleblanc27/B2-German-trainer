@@ -1,0 +1,99 @@
+# B2-Trainer — Continuous Integration & (optionaler) Deploy
+# -----------------------------------------------------------------------------
+# Ablauf bei jedem Push / Pull Request auf `main`:
+#   npm ci → validate → typecheck → test → build → dist als Artefakt hochladen
+# Der Deploy-Job läuft NUR auf `main` und braucht Cloudflare-Secrets (siehe unten).
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+# Nur Lesezugriff auf das Repository nötig.
+permissions:
+  contents: read
+
+# Alte Läufe desselben Branches abbrechen, wenn ein neuer startet.
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Validieren · Typecheck · Test · Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Node.js 22 einrichten (mit npm-Cache)
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Abhängigkeiten installieren
+        run: npm ci
+
+      - name: Bank soal validieren
+        run: npm run validate
+
+      - name: Typecheck (astro check)
+        run: npm run typecheck
+
+      - name: Unit-Tests (Vitest)
+        run: npm test
+
+      - name: Build (Astro static)
+        run: npm run build
+
+      - name: dist als Build-Artefakt hochladen
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist
+          if-no-files-found: error
+          retention-days: 14
+
+  # ---------------------------------------------------------------------------
+  # Optionaler Deploy nach Cloudflare Pages.
+  #
+  # Voraussetzungen (einmalig im GitHub-Repo unter Settings → Secrets and
+  # variables → Actions anlegen — NIEMALS hier im Workflow hartkodieren):
+  #   • CLOUDFLARE_API_TOKEN   : API-Token mit Berechtigung "Cloudflare Pages: Edit"
+  #   • CLOUDFLARE_ACCOUNT_ID  : die Account-ID aus dem Cloudflare-Dashboard
+  #
+  # Der Job ist zusätzlich über `if` geschützt und läuft ausschließlich bei
+  # einem echten Push auf `main` (nicht bei Pull Requests).
+  # ---------------------------------------------------------------------------
+  deploy:
+    name: Deploy zu Cloudflare Pages (nur main)
+    needs: build
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Node.js 22 einrichten (mit npm-Cache)
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Build-Artefakt aus dem build-Job herunterladen
+        uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist
+
+      - name: Deploy zu Cloudflare Pages
+        # Nutzt den bereits gebauten dist-Ordner aus dem Artefakt.
+        run: npx wrangler pages deploy dist --project-name=b2-trainer
+        env:
+          # Werte kommen aus den GitHub-Secrets (siehe Kommentar oben).
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

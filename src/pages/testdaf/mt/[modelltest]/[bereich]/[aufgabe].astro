@@ -1,0 +1,64 @@
+---
+import Base from '../../../../../layouts/Base.astro';
+import TestdafAufgabeApp from '../../../../../components/TestdafAufgabeApp';
+import {
+  alleTestdafAufgaben,
+  findeTestdafAufgabe,
+  findeTestdafPruefungNachNummer,
+  testdafAufgabenVon
+} from '../../../../../lib/testdaf-content';
+import { TESTDAF_SPEC } from '../../../../../data/testdaf';
+
+export function getStaticPaths() {
+  return alleTestdafAufgaben.map((aufgabe) => {
+    const reihe = testdafAufgabenVon(aufgabe.bereich)
+      .filter((a) => Number(a.modelltest) === Number(aufgabe.modelltest))
+      .sort((a, b) => a.aufgabe - b.aufgabe);
+    const idx = reihe.findIndex((a) => a.id === aufgabe.id);
+    return {
+      params: {
+        modelltest: String(aufgabe.modelltest),
+        bereich: aufgabe.bereich,
+        aufgabe: String(aufgabe.aufgabe)
+      },
+      props: {
+        aufgabe,
+        vorgaenger: idx > 0 ? reihe[idx - 1] : null,
+        nachfolger: idx >= 0 && idx + 1 < reihe.length ? reihe[idx + 1] : null,
+        hatPruefung: !!findeTestdafPruefungNachNummer(aufgabe.modelltest)
+      }
+    };
+  });
+}
+
+const { modelltest, bereich, aufgabe: aufgabeNr } = Astro.params;
+const { aufgabe, vorgaenger, nachfolger, hatPruefung } = Astro.props;
+const geprueft = findeTestdafAufgabe(Number(modelltest), bereich as 'lesen' | 'hoeren', Number(aufgabeNr)) ?? aufgabe;
+const spec = TESTDAF_SPEC[geprueft.bereich].find((s) => s.aufgabe === geprueft.aufgabe);
+
+const beschreibung = `${geprueft.bereich === 'lesen' ? 'Leseverstehen' : 'Hörverstehen'} TestDaF Aufgabe ${geprueft.aufgabe}: ${geprueft.titel} — ${geprueft.fragen.length} Items, ${geprueft.zeit_minuten} Minuten, Niveau TDN ${geprueft.tdn}. Eigener Text (KI-generiert, manuell geprüft).`;
+---
+
+<Base
+  titel={`${geprueft.bereich === 'lesen' ? 'Lesen' : 'Hören'} ${geprueft.aufgabe} (Modelltest ${geprueft.modelltest}): ${geprueft.titel}`}
+  beschreibung={beschreibung}
+>
+  <div class="flex flex-col gap-3">
+    <nav class="flex flex-wrap items-center gap-2 text-sm" aria-label="Brotkrumen">
+      <a class="btn px-2 py-1 text-xs" href="/testdaf/">TestDaF-Modul</a>
+      <span class="chip">Modelltest {geprueft.modelltest}</span>
+      <span class="chip">
+        {geprueft.bereich === 'lesen' ? 'Leseverstehen' : 'Hörverstehen'} Aufgabe {geprueft.aufgabe}
+      </span>
+      {spec ? <span class="chip">{spec.kurz}</span> : null}
+    </nav>
+
+    <TestdafAufgabeApp
+      client:load
+      aufgabe={geprueft}
+      vorgaenger={vorgaenger}
+      nachfolger={nachfolger}
+      pruefungId={hatPruefung ? `testdaf-modelltest-${String(geprueft.modelltest).padStart(2, '0')}` : null}
+    />
+  </div>
+</Base>

@@ -1,0 +1,220 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  titel: string;
+  beschreibung?: string;
+  skill?: 'lesen' | 'hoeren' | 'pruefung' | 'testdaf' | '';
+}
+
+const {
+  titel,
+  beschreibung = 'B2-Trainer — latihan mandiri Leseverstehen dan Hörenverstehen level B2 (Goethe-Zertifikat B2 dan telc Deutsch B2).',
+  skill = ''
+} = Astro.props;
+
+const nav = [
+  { href: '/', label: 'Dashboard' },
+  { href: '/lesen/', label: 'Lesen' },
+  { href: '/hoeren/', label: 'Hören' },
+  { href: '/testdaf/', label: 'TestDaF' },
+  { href: '/pruefung/', label: 'Prüfung' },
+  { href: '/fehlerheft/', label: 'Fehlerheft' },
+  { href: '/wortschatz/', label: 'Wortschatz' },
+  { href: '/statistik/', label: 'Statistik' },
+  { href: '/quellen/', label: 'Quellen' }
+];
+const pfad = Astro.url.pathname;
+const istAktiv = (href: string) => (href === '/' ? pfad === '/' : pfad.startsWith(href.replace(/\/$/, '')));
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{titel} · B2-Trainer</title>
+    <meta name="description" content={beschreibung} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/icons/icon-192.png" />
+    <meta name="theme-color" content="#1f6feb" />
+    <meta property="og:title" content={`${titel} · B2-Trainer`} />
+    <meta property="og:description" content={beschreibung} />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/og-image.svg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script is:inline>
+      // Theme + Schriftgröße VOR dem Paint setzen → kein Flackern.
+      (function () {
+        try {
+          var t = localStorage.getItem('b2-theme');
+          if (!t) t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+          if (t === 'dark') document.documentElement.classList.add('dark');
+          var f = localStorage.getItem('b2-font') || 'normal';
+          document.documentElement.classList.add('fs-' + f);
+        } catch (e) {
+          document.documentElement.classList.add('fs-normal');
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <a
+      href="#inhalt"
+      class="sr-only focus:not-sr-only focus:absolute focus:left-2 focus:top-2 focus:z-50 focus:rounded focus:bg-[var(--card)] focus:px-3 focus:py-2 focus:text-[var(--ink)]"
+      >Zum Inhalt springen</a
+    >
+
+    <header class="kopfzeile">
+      <div class="mx-auto flex max-w-6xl flex-wrap items-center gap-x-4 gap-y-2 px-4 py-2.5">
+        <a href="/" class="marke" aria-label="B2-Trainer — Startseite">
+          <span class="marke-zeichen" aria-hidden="true">B2</span>
+          <span class="marke-text">B2-Trainer<small>Lesen &amp; Hören · Niveau B2</small></span>
+        </a>
+        <nav aria-label="Hauptnavigation" class="order-3 w-full md:order-2 md:w-auto md:flex-1">
+          <ul class="navliste">
+            {
+              nav.map((n) => (
+                <li>
+                  <a href={n.href} aria-current={istAktiv(n.href) ? 'page' : undefined} class="navlink">
+                    {n.label}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </nav>
+        <div class="order-2 ml-auto flex items-center gap-1.5 md:order-3">
+          <button id="fs-kleiner" class="ikonknopf" title="Schrift kleiner" aria-label="Schrift verkleinern">
+            <span class="glyph-klein" aria-hidden="true">A</span><span class="glyph-sign" aria-hidden="true">−</span>
+          </button>
+          <button id="fs-groesser" class="ikonknopf" title="Schrift größer" aria-label="Schrift vergrößern">
+            <span class="glyph-gross" aria-hidden="true">A</span><span class="glyph-sign" aria-hidden="true">+</span>
+          </button>
+          <button
+            id="theme-schalter"
+            class="ikonknopf"
+            title="Hell/Dunkel umschalten"
+            aria-label="Farbschema umschalten"
+            aria-pressed="false"
+          >
+            <svg
+              class="iko-sonne"
+              aria-hidden="true"
+              width="17"
+              height="17"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"><circle cx="12" cy="12" r="4.2"></circle><path
+                d="M12 2.6v2.1M12 19.3v2.1M2.6 12h2.1M19.3 12h2.1M5 5l1.5 1.5M17.5 17.5 19 19M19 5l-1.5 1.5M6.5 17.5 5 19"></path></svg
+            >
+            <svg
+              class="iko-mond"
+              aria-hidden="true"
+              width="17"
+              height="17"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"><path d="M20.4 14.2A8.6 8.6 0 0 1 9.8 3.6a8.6 8.6 0 1 0 10.6 10.6Z"></path></svg
+            >
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main id="inhalt" class="mx-auto w-full max-w-6xl px-4 py-7" data-skill={skill}>
+      <slot />
+    </main>
+
+    <footer class="fusszeile kein-druck">
+      <div class="mx-auto grid max-w-6xl gap-x-10 gap-y-7 px-4 py-9 md:grid-cols-[1.4fr_0.8fr_1.1fr]">
+        <div>
+          <a href="/" class="marke" aria-label="B2-Trainer — Startseite">
+            <span class="marke-zeichen" aria-hidden="true">B2</span>
+            <span class="marke-text">B2-Trainer<small>Deutsch B2 · Lesen &amp; Hören</small></span>
+          </a>
+          <p class="m-0 mt-3 max-w-[48ch] text-[0.86rem]">
+            Latihan mandiri level B2 (GER). Semua teks dan audio latihan adalah <strong>karangan sendiri</strong>
+            (source_type <code>own</code>/<code>ai</code>/<code>public-domain</code>) dan dilisensikan CC BY-NC-SA 4.0
+            kecuali dinyatakan lain. Skor bersifat latihan — bukan sertifikat.
+          </p>
+        </div>
+        <nav aria-label="Fußnavigation">
+          <p class="fuss-titel">Latihan</p>
+          <ul class="fuss-liste">
+            <li><a href="/lesen/">Leseverstehen</a></li>
+            <li><a href="/hoeren/">Hörenverstehen</a></li>
+            <li><a href="/testdaf/">TestDaF</a></li>
+            <li><a href="/pruefung/">Modelltest-Simulator</a></li>
+            <li><a href="/statistik/">Statistik</a></li>
+            <li><a href="/quellen/">Sumber &amp; atribusi</a></li>
+          </ul>
+        </nav>
+        <div>
+          <p class="fuss-titel">Transparansi materi</p>
+          <p class="m-0 text-[0.86rem]">
+            Materi pihak ketiga (Goethe-Institut · telc · DW · Schubert-Verlag · deutsch-to-go · sprachportal.at dan
+            lainnya) <strong>hanya ditautkan</strong>, tidak pernah disalin ulang. <a href="/quellen/">Daftar sumber →</a>
+          </p>
+          <p class="m-0 mt-2 text-xs">
+            Format soal mengikuti struktur Goethe-Zertifikat B2 (Lesen 5 Teil / 30 Aufgaben · Hören 4 Teil / 30 Aufgaben
+            · Bestehensgrenze 60 von 100 Punkten). Diese Seite ist keine offizielle Seite des Goethe-Instituts oder von
+            telc.
+          </p>
+        </div>
+      </div>
+      <div class="border-t border-[var(--border)] py-4 text-center text-xs">
+        <span>B2-Trainer · dibuat untuk latihan mandiri · dijalankan sepenuhnya di perangkat Anda</span>
+      </div>
+    </footer>
+
+    <script is:inline>
+      (function () {
+        var root = document.documentElement;
+        var btn = document.getElementById('theme-schalter');
+        if (btn) {
+          btn.setAttribute('aria-pressed', root.classList.contains('dark') ? 'true' : 'false');
+          btn.addEventListener('click', function () {
+            var dark = root.classList.toggle('dark');
+            try {
+              localStorage.setItem('b2-theme', dark ? 'dark' : 'light');
+            } catch (e) {}
+            btn.setAttribute('aria-pressed', dark ? 'true' : 'false');
+          });
+        }
+        var stufen = ['klein', 'normal', 'gross'];
+        function setzeFont(stufe) {
+          stufen.forEach(function (s) {
+            root.classList.remove('fs-' + s);
+          });
+          root.classList.add('fs-' + stufe);
+          try {
+            localStorage.setItem('b2-font', stufe);
+          } catch (e) {}
+        }
+        function aktuell() {
+          return stufen.find(function (s) {
+            return root.classList.contains('fs-' + s);
+          }) || 'normal';
+        }
+        var k = document.getElementById('fs-kleiner');
+        var g = document.getElementById('fs-groesser');
+        if (k)
+          k.addEventListener('click', function () {
+            var i = Math.max(0, stufen.indexOf(aktuell()) - 1);
+            setzeFont(stufen[i]);
+          });
+        if (g)
+          g.addEventListener('click', function () {
+            var i = Math.min(stufen.length - 1, stufen.indexOf(aktuell()) + 1);
+            setzeFont(stufen[i]);
+          });
+      })();
+    </script>
+  </body>
+</html>
