@@ -81,7 +81,11 @@ Cara ini berfungsi tetapi lambat untuk 142 berkas. Opsi A atau B lebih disaranka
 ## 3. Setelah ter-upload
 
 - Tab **Actions** → workflow `CI` berjalan otomatis pada `main`: `npm ci → validate → typecheck → test → build`. Tunggu sampai hijau.
-- Deploy ke Cloudflare Pages bersifat opsional. Bila dipakai → **Settings → Secrets and variables → Actions** → tambah `CLOUDFLARE_API_TOKEN` dan `CLOUDFLARE_ACCOUNT_ID`. Jangan menaruh nilainya di dalam berkas workflow.
+- Deploy ke Cloudflare Pages bersifat opsional dan **mati secara bawaan**. Untuk menyalakannya → **Settings → Secrets and variables → Actions** lalu:
+  1. tab **Variables** → tambah `CLOUDFLARE_DEPLOY` = `true`
+  2. tab **Secrets** → tambah `CLOUDFLARE_API_TOKEN` dan `CLOUDFLARE_ACCOUNT_ID`
+
+  Selama variabel itu belum ada job deploy hanya **dilewati** (skip) sehingga CI tetap hijau. Nilai rahasia tidak pernah ditulis di dalam berkas workflow.
 - Alamat situs dipakai di `astro.config.mjs` (`site`). Bila domain berubah → set variabel `SITE_URL` atau ubah nilai bawaannya.
 
 ## 4. Menjalankan secara lokal

@@ -71,7 +71,13 @@ jobs:
   deploy:
     name: Deploy zu Cloudflare Pages (nur main)
     needs: build
-    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    # Der Deploy ist OPTIONAL und standardmäßig AUS:
+    # erst wenn die Repo-Variable CLOUDFLARE_DEPLOY=true gesetzt ist, läuft er.
+    # Grund: `secrets` ist in einer Job-`if`-Bedingung nicht erlaubt (`vars` schon),
+    # ohne diese Sperre würde jeder frische Klon bei jedem Push rot.
+    if: >-
+      github.ref == 'refs/heads/main' && github.event_name == 'push' &&
+      vars.CLOUDFLARE_DEPLOY == 'true'
     runs-on: ubuntu-latest
     environment: production
     steps:
